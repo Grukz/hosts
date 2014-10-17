@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 43230 ad serving and malware domains.
+# Currently blocking 43229 ad serving and malware domains.
 #
-# Date Generated: Oct 16 2014
+# Date Generated: Oct 17 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1664,7 +1664,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 acasatv.2cnt.net
 127.0.0.1 acbacb9c.ipt.aol.com
 127.0.0.1 accelerator-media.com
-127.0.0.1 access-designs.com
 127.0.0.1 access.amberathome.com
 127.0.0.1 access.njherald.com
 127.0.0.1 acckalaharinet.112.2o7.net
@@ -22064,7 +22063,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 jobs.leadbolt.com
 127.0.0.1 jobs.revmob.com
 127.0.0.1 jobs.zedo.com
-127.0.0.1 jobthread.com
 127.0.0.1 jobzdk.nuggad.net
 127.0.0.1 jocelyn-pyatt.us
 127.0.0.1 jodi-abrams.us
@@ -33115,6 +33113,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 syndication.exoclick.com
 127.0.0.1 syndication.exoclickz.com
 127.0.0.1 syndication.globaltraffico.com
+127.0.0.1 syndication.jobthread.com
 127.0.0.1 syndication.jsadapi.com
 127.0.0.1 syndication.streamads.yahoo.com
 127.0.0.1 syndication.traffichaus.com
@@ -33174,6 +33173,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 t.hypers.com.cn
 127.0.0.1 t.invitemedia.com
 127.0.0.1 t.ivwbox.de
+127.0.0.1 t.jobthread.com
 127.0.0.1 t.leadlander.com
 127.0.0.1 t.locpub.com
 127.0.0.1 t.medialytics.com
@@ -39979,7 +39979,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.jmplink.com
 127.0.0.1 www.joan-moronta.us
 127.0.0.1 www.joanna-ruckman.us
-127.0.0.1 www.jobthread.com
 127.0.0.1 www.joinfree.ro
 127.0.0.1 www.joinourwebsite.com
 127.0.0.1 www.jon-feely.us
