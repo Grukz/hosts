@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 43614 ad serving and malware domains.
+# Currently blocking 43616 ad serving and malware domains.
 #
-# Date Generated: Oct 19 2014
+# Date Generated: Oct 20 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -13193,6 +13193,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cloud.video.unrulymedia.com
 127.0.0.1 cloudfront-labs.amazonaws.com
 127.0.0.1 cloudhot.net
+127.0.0.1 cloudixconnection.com
 127.0.0.1 cloveads.go2cloud.org
 127.0.0.1 clownsong.com
 127.0.0.1 cls.assoc-amazon.de
@@ -38835,6 +38836,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.clkrev.com
 127.0.0.1 www.closeoutproductsreview.com
 127.0.0.1 www.cloudhot.net
+127.0.0.1 www.cloudixconnection.com
 127.0.0.1 www.clownsong.com
 127.0.0.1 www.clubstat.com
 127.0.0.1 www.clustrmaps.com
