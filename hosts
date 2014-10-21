@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 43616 ad serving and malware domains.
+# Currently blocking 43618 ad serving and malware domains.
 #
-# Date Generated: Oct 20 2014
+# Date Generated: Oct 21 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -12504,7 +12504,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdna.runadtag.com
 127.0.0.1 cdna.tremormedia.com
 127.0.0.1 cdnads.cam4.com
-127.0.0.1 cdnapi.kaltura.com
 127.0.0.1 cdncache2-a.akamaihd.net
 127.0.0.1 cdneu.alcoholsoftcdn.com
 127.0.0.1 cdneu.filefactscdn.com
@@ -13777,7 +13776,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 coriolis.accuweather.com
 127.0.0.1 corm.hit.gemius.pl
 127.0.0.1 cornflakes.pathfinder.com
-127.0.0.1 corp.kaltura.com
 127.0.0.1 corporate.crakmedia.com
 127.0.0.1 corrie-deloney.us
 127.0.0.1 corrie-mchale.us
@@ -20056,6 +20054,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 h1.ripway.com
 127.0.0.1 h1317070.stratoserver.net
 127.0.0.1 h1666015.stratoserver.net
+127.0.0.1 hab3n.trackvoluum.com
 127.0.0.1 hackedgadgets.us.intellitxt.com
 127.0.0.1 hackerz.ir
 127.0.0.1 hai2u.com
@@ -34628,6 +34627,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 track.td3x.com
 127.0.0.1 track.tesiteca.it
 127.0.0.1 track.the-members-section.com
+127.0.0.1 track.trademail.fr
 127.0.0.1 track.trafiz.net
 127.0.0.1 track.untd.com
 127.0.0.1 track.v2.secdls.com
@@ -39844,6 +39844,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.gulsproductions.com
 127.0.0.1 www.guptamedianetwork.com
 127.0.0.1 www.gxplugin.com
+127.0.0.1 www.hab3n.trackvoluum.com
 127.0.0.1 www.hai2u.com
 127.0.0.1 www.hakerzy.net
 127.0.0.1 www.haley-seeber.us
@@ -42263,6 +42264,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.tracklead.net
 127.0.0.1 www.tracknewsletter.com
 127.0.0.1 www.trackoffclick.com
+127.0.0.1 www.trackvoluum.com
 127.0.0.1 www.trackyourstats.com
 127.0.0.1 www.trackzapper.com
 127.0.0.1 www.tracy-hatley.us
