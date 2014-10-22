@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 43618 ad serving and malware domains.
+# Currently blocking 43637 ad serving and malware domains.
 #
-# Date Generated: Oct 21 2014
+# Date Generated: Oct 22 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -36610,28 +36610,47 @@ ff02::2 ip6-allrouters
 127.0.0.1 w10.localadbuy.com
 127.0.0.1 w100.am15.net
 127.0.0.1 w100.hitbox.com
+127.0.0.1 w101.am15.net
 127.0.0.1 w101.hitbox.com
+127.0.0.1 w102.am15.net
 127.0.0.1 w102.hitbox.com
+127.0.0.1 w103.am15.net
 127.0.0.1 w103.hitbox.com
+127.0.0.1 w104.am15.net
 127.0.0.1 w104.hitbox.com
+127.0.0.1 w105.am15.net
 127.0.0.1 w105.hitbox.com
+127.0.0.1 w106.am15.net
 127.0.0.1 w106.hitbox.com
+127.0.0.1 w107.am15.net
 127.0.0.1 w107.hitbox.com
+127.0.0.1 w108.am15.net
 127.0.0.1 w108.hitbox.com
+127.0.0.1 w109.am15.net
 127.0.0.1 w109.hitbox.com
 127.0.0.1 w11.am15.net
 127.0.0.1 w11.centralmediaserver.com
 127.0.0.1 w11.hitbox.com
 127.0.0.1 w11.localadbuy.com
+127.0.0.1 w110.am15.net
 127.0.0.1 w110.hitbox.com
+127.0.0.1 w111.am15.net
 127.0.0.1 w111.hitbox.com
+127.0.0.1 w112.am15.net
 127.0.0.1 w112.hitbox.com
+127.0.0.1 w113.am15.net
 127.0.0.1 w113.hitbox.com
+127.0.0.1 w114.am15.net
 127.0.0.1 w114.hitbox.com
+127.0.0.1 w115.am15.net
 127.0.0.1 w115.hitbox.com
+127.0.0.1 w116.am15.net
 127.0.0.1 w116.hitbox.com
+127.0.0.1 w117.am15.net
 127.0.0.1 w117.hitbox.com
+127.0.0.1 w118.am15.net
 127.0.0.1 w118.hitbox.com
+127.0.0.1 w119.am15.net
 127.0.0.1 w119.hitbox.com
 127.0.0.1 w12.am15.net
 127.0.0.1 w12.hitbox.com
