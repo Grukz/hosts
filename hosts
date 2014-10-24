@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 43637 ad serving and malware domains.
+# Currently blocking 43641 ad serving and malware domains.
 #
-# Date Generated: Oct 23 2014
+# Date Generated: Oct 24 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -3725,6 +3725,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 admized.com
 127.0.0.1 admngronline.com
 127.0.0.1 admob.com
+127.0.0.1 admobtube.com
 127.0.0.1 admon1.count.brat-online.ro
 127.0.0.1 admonitor.com
 127.0.0.1 admonkey.dapper.net
@@ -21856,6 +21857,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 itrckr.com
 127.0.0.1 itreviews.uk.intellitxt.com
 127.0.0.1 its-that-easy.com
+127.0.0.1 itsallaboutrice.com
 127.0.0.1 itsfree123.com
 127.0.0.1 itshandmade.in
 127.0.0.1 itsptp.com
@@ -25240,6 +25242,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mftp.linksynergy.com
 127.0.0.1 mg.dt00.net
 127.0.0.1 mg.dt07.net
+127.0.0.1 mg.mgid.com
 127.0.0.1 mgcash.com
 127.0.0.1 mgcashgate.com
 127.0.0.1 mgdothaneagle.112.2o7.net
@@ -36311,6 +36314,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 victoria-jamerson.us
 127.0.0.1 victoriaadvocate.112.2o7.net
 127.0.0.1 victornicolle.com
+127.0.0.1 vid-ham.com
 127.0.0.1 vid.atdmt.com
 127.0.0.1 vid.pardot.com
 127.0.0.1 video-game-rewards-central.com
