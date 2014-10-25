@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 43641 ad serving and malware domains.
+# Currently blocking 43642 ad serving and malware domains.
 #
-# Date Generated: Oct 24 2014
+# Date Generated: Oct 25 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2012,7 +2012,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad.garantiarkadas.com
 127.0.0.1 ad.gate24.ch
 127.0.0.1 ad.gazeta.pl
-127.0.0.1 ad.gdmexchange.com
 127.0.0.1 ad.gen.tbn.ru
 127.0.0.1 ad.globalinteractive.com
 127.0.0.1 ad.globalismedia.com
@@ -22491,6 +22490,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jvzoo.com
 127.0.0.1 jwebbsense.cjt1.net
 127.0.0.1 jwkitchendesign.co.uk
+127.0.0.1 jwpsrv.com
 127.0.0.1 jxliu.com
 127.0.0.1 k.collective-media.net
 127.0.0.1 k.h.a.d.free.fr
@@ -23828,7 +23828,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 luxup.ru
 127.0.0.1 luycos.com
 127.0.0.1 lv.adocean.pl
-127.0.0.1 lv.boost-my-pr.com
 127.0.0.1 lv.hit.gemius.pl
 127.0.0.1 lvs.truehits.in.th
 127.0.0.1 lw.lnkworld.com
@@ -34361,7 +34360,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 topbarh.box.sk
 127.0.0.1 topbinaryaffiliates.ck-cdn.com
 127.0.0.1 topblogarea.se
-127.0.0.1 topbloglists.com
 127.0.0.1 topbrandrewards.com
 127.0.0.1 topbucks.com
 127.0.0.1 topcasino10.com
@@ -36443,6 +36441,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 visit.webhosting.yahoo.com
 127.0.0.1 visitbox.de
 127.0.0.1 visitor.benchmarkemail.com
+127.0.0.1 visitorbarscript.com
 127.0.0.1 visitorpath.com
 127.0.0.1 visitorprofiler.com
 127.0.0.1 visitors.dooyoo.co.uk
@@ -40410,6 +40409,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.jvz8.com
 127.0.0.1 www.jvz9.com
 127.0.0.1 www.jvzoo.com
+127.0.0.1 www.jwpsrv.com
 127.0.0.1 www.jxliu.com
 127.0.0.1 www.kaaza-legal.de
 127.0.0.1 www.kacey-sheilds.us
@@ -42494,6 +42494,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.visit-tracker.com
 127.0.0.1 www.visitdetails.com
 127.0.0.1 www.visitor-track.com
+127.0.0.1 www.visitorbarscript.com
 127.0.0.1 www.visitorpath.com
 127.0.0.1 www.visitorprofiler.com
 127.0.0.1 www.visitortracklog.com
