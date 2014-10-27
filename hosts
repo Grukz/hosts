@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 43642 ad serving and malware domains.
+# Currently blocking 43646 ad serving and malware domains.
 #
-# Date Generated: Oct 25 2014
+# Date Generated: Oct 27 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1376,7 +1376,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.environmentaldefense.org
 127.0.0.1 a.eporner.com
 127.0.0.1 a.evo.co.uk
-127.0.0.1 a.facdn.net
 127.0.0.1 a.fandango.com
 127.0.0.1 a.farlex.com
 127.0.0.1 a.flurry.com
@@ -12267,6 +12266,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.buysellads.com
 127.0.0.1 cdn.callrail.com
 127.0.0.1 cdn.cdnco.us
+127.0.0.1 cdn.cdncomputer.com
 127.0.0.1 cdn.celtra.com
 127.0.0.1 cdn.chitika.net
 127.0.0.1 cdn.chuknu.sokrati.com
@@ -20247,11 +20247,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 hig.com
 127.0.0.1 high-hollin.org
 127.0.0.1 highbeam.122.2o7.net
+127.0.0.1 highcpms.com
 127.0.0.1 highflyingfood.com
 127.0.0.1 highpro1.com
 127.0.0.1 highspeed.duckcrypt.info
 127.0.0.1 hightrafficads.com
-127.0.0.1 hihihih565.com
 127.0.0.1 hilary-conn.us
 127.0.0.1 hilary-lafortune.us
 127.0.0.1 hilary-yarber.us
@@ -20772,6 +20772,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 i1.createsend4.com
 127.0.0.1 i1.createsend5.com
 127.0.0.1 i1.likes-media.com
+127.0.0.1 i1.putags.com
 127.0.0.1 i1.teaser-goods.ru
 127.0.0.1 i18n.adition.com
 127.0.0.1 i1img.com
@@ -20785,6 +20786,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 i2.current.com
 127.0.0.1 i2.gatewayinterface.com
 127.0.0.1 i2.likes-media.com
+127.0.0.1 i2.putags.com
 127.0.0.1 i3.cmail1.com
 127.0.0.1 i3.cmail2.com
 127.0.0.1 i3.cmail5.com
@@ -20795,6 +20797,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 i3.putags.com
 127.0.0.1 i4.cmail1.com
 127.0.0.1 i4.createsend4.com
+127.0.0.1 i4.putags.com
 127.0.0.1 i4u.us.intellitxt.com
 127.0.0.1 i5.cmail2.com
 127.0.0.1 i5.cmail5.com
@@ -39918,6 +39921,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.hey.lt
 127.0.0.1 www.hide.io
 127.0.0.1 www.highcharts.com
+127.0.0.1 www.highcpms.com
 127.0.0.1 www.hightrafficads.com
 127.0.0.1 www.hilary-caddell.us
 127.0.0.1 www.hillary-daughtery.us
