@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 43738 ad serving and malware domains.
+# Currently blocking 43739 ad serving and malware domains.
 #
-# Date Generated: Oct 31 2014
+# Date Generated: Nov 01 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -3805,7 +3805,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adonnetwork.com
 127.0.0.1 adonspot.com
 127.0.0.1 adonweb.ru
-127.0.0.1 adoperator.com
 127.0.0.1 adopt.euroclick.com
 127.0.0.1 adopt.precisead.com
 127.0.0.1 adopt.specificclick.net
@@ -16262,6 +16261,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 digiwebtracking.go2cloud.org
 127.0.0.1 digiworl.ivwbox.de
 127.0.0.1 dihitt.com
+127.0.0.1 dihpaetatposten.mandalayresources.com
 127.0.0.1 dimenal.com.br
 127.0.0.1 dimensionnail.ro
 127.0.0.1 dimeprice.com
@@ -20253,6 +20253,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 helpint.mywebsearch.com
 127.0.0.1 helpmedownload.com
 127.0.0.1 helpsfind.com
+127.0.0.1 helpum.se
 127.0.0.1 henry-mcelroy.us
 127.0.0.1 henry-tussey.us
 127.0.0.1 hentaicounter.com
@@ -20337,6 +20338,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hit-counter.udub.com
 127.0.0.1 hit-now.com
 127.0.0.1 hit-parade.com
+127.0.0.1 hit-ranking.de
 127.0.0.1 hit.bg
 127.0.0.1 hit.clickaider.com
 127.0.0.1 hit.copesa.cl
@@ -21573,6 +21575,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 incentivegateway.com
 127.0.0.1 incentiverewardcenter.com
 127.0.0.1 inceptionads.go2cloud.org
+127.0.0.1 inceptusque.wilberchocolate.com
 127.0.0.1 incestland.com
 127.0.0.1 incisivemedia.112.2o7.net
 127.0.0.1 include.reinvigorate.net
@@ -24968,7 +24971,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 meetupcom.112.2o7.net
 127.0.0.1 meetupdev.122.2o7.net
 127.0.0.1 mega-traf.net
-127.0.0.1 megacash.de
 127.0.0.1 megacash.warpnet.com.br
 127.0.0.1 megacounter.de
 127.0.0.1 megafriends.com
@@ -28143,12 +28145,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 paxito.sitetracker.com
 127.0.0.1 pay-ads.com
 127.0.0.1 pay-day-loans.beesearch.info
-127.0.0.1 pay-to-promote.com
 127.0.0.1 payback-de.baynote.net
 127.0.0.1 paycount.com
 127.0.0.1 paycounter.com
 127.0.0.1 payday-loans.now-cash.com
-127.0.0.1 paydayasap.com
 127.0.0.1 payload.yieldbuild.com
 127.0.0.1 paymonsters.biz
 127.0.0.1 paymonsters.com
@@ -29578,6 +29578,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 randall-mccabe.us
 127.0.0.1 randyandjeri.com
 127.0.0.1 rank-master.com
+127.0.0.1 rank-master.de
 127.0.0.1 rank8.de
 127.0.0.1 rankchamp.de
 127.0.0.1 ranker.springboardplatform.com
@@ -29590,7 +29591,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ranking.ynet.com
 127.0.0.1 rankingchart.de
 127.0.0.1 rankingscout.com
-127.0.0.1 rankingscout.org
 127.0.0.1 rankmytattoos.us.intellitxt.com
 127.0.0.1 ranks.boardtracker.com
 127.0.0.1 ranks.com
@@ -31735,6 +31735,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 signup.advance.net
 127.0.0.1 siliconaction.com
 127.0.0.1 siliconera.us.intellitxt.com
+127.0.0.1 silkcom.net
 127.0.0.1 silkmore.staffs.sch.uk
 127.0.0.1 silurian.cn
 127.0.0.1 silveragesoftware.com
