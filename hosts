@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 43740 ad serving and malware domains.
+# Currently blocking 43764 ad serving and malware domains.
 #
-# Date Generated: Nov 06 2014
+# Date Generated: Nov 07 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -314,6 +314,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 122.2o7.net
 127.0.0.1 122.6.87.194.dynamic.dol.ru
 127.0.0.1 1221.bitterstrawberry.com
+127.0.0.1 1223.xg4ken.com
 127.0.0.1 122807155757.c.mystat-in.net
 127.0.0.1 122907224924.c.mystat-in.net
 127.0.0.1 123-tracker.com
@@ -3387,6 +3388,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adforce.adtech.us
 127.0.0.1 adforce.com
 127.0.0.1 adforce.imgis.com
+127.0.0.1 adforce.ru
 127.0.0.1 adforgames.com
 127.0.0.1 adform.com
 127.0.0.1 adfpaces.ero-advertising.com
@@ -7825,6 +7827,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 afs.googleusercontent.com
 127.0.0.1 afterdawn.us.intellitxt.com
 127.0.0.1 afterdownload.com
+127.0.0.1 afterview.ru
 127.0.0.1 aftp.linksynergy.com
 127.0.0.1 aftrk.com
 127.0.0.1 afunnygames.com
@@ -8017,6 +8020,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 allrefer.us.intellitxt.com
 127.0.0.1 allsolutionsnetwork.com
 127.0.0.1 allstarclick.com
+127.0.0.1 alltereg0.ru
 127.0.0.1 alltraff.ru
 127.0.0.1 allwomenstalk.us.intellitxt.com
 127.0.0.1 allxscan.tk
@@ -11556,6 +11560,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.cl.msn.com
 127.0.0.1 c.cnstats.ru
 127.0.0.1 c.cnzz.com
+127.0.0.1 c.commtimize.com
 127.0.0.1 c.compete.com
 127.0.0.1 c.computerbild.de
 127.0.0.1 c.cpa6.ru
@@ -15541,6 +15546,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 d.shareaholic.com
 127.0.0.1 d.skimresources.com
 127.0.0.1 d.tailtarget.com
+127.0.0.1 d.tds.adlabs.ru
 127.0.0.1 d.thanksearch.com
 127.0.0.1 d.thelocal.com
 127.0.0.1 d.turn.com
@@ -24255,6 +24261,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 madison-cabot.us
 127.0.0.1 madisonavenue.com
 127.0.0.1 madisonlogic.com
+127.0.0.1 madmax53.stellar.cpa.clicksure.com
 127.0.0.1 madmimi.com
 127.0.0.1 madpenguin.us.intellitxt.com
 127.0.0.1 mads.aol.com
@@ -28501,6 +28508,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pixel.adbuyer.com
 127.0.0.1 pixel.admedia.com
 127.0.0.1 pixel.adsafeprotected.com
+127.0.0.1 pixel.adsniper.ru
 127.0.0.1 pixel.alexametrics.com
 127.0.0.1 pixel.bild.de
 127.0.0.1 pixel.blog.hu
@@ -30040,6 +30048,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 retail-affiliates.com
 127.0.0.1 retaildirect.realmedia.com
 127.0.0.1 retarcl.net
+127.0.0.1 retarget.ssl-services.com
 127.0.0.1 retargeter.com
 127.0.0.1 retargetpro.net
 127.0.0.1 retin-a.1.p2l.info
@@ -32755,7 +32764,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.kleinezeitung.at
 127.0.0.1 static.l3.cdn.adbucks.com
 127.0.0.1 static.l3.cdn.adsucks.com
-127.0.0.1 static.linkbucks.com
 127.0.0.1 static.livejasmin.com
 127.0.0.1 static.luminate.com
 127.0.0.1 static.mailchimp.com
@@ -33511,6 +33519,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sync.mathtag.com
 127.0.0.1 sync.richmetrics.com
 127.0.0.1 sync.search.spotxchange.com
+127.0.0.1 sync.smarttds.ru
 127.0.0.1 syncaccess.net
 127.0.0.1 synchrobox.adswizz.com
 127.0.0.1 syndicate.payloadz.com
@@ -33623,6 +33632,15 @@ ff02::2 ip6-allrouters
 127.0.0.1 t0.formalyzer.com
 127.0.0.1 t0.leadlander.com
 127.0.0.1 t0.trackalyzer.com
+127.0.0.1 t01.rbnt.org
+127.0.0.1 t02.rbnt.org
+127.0.0.1 t03.rbnt.org
+127.0.0.1 t04.rbnt.org
+127.0.0.1 t05.rbnt.org
+127.0.0.1 t06.rbnt.org
+127.0.0.1 t07.rbnt.org
+127.0.0.1 t08.rbnt.org
+127.0.0.1 t09.rbnt.org
 127.0.0.1 t1.adserver.com
 127.0.0.1 t1.extreme-dm.com
 127.0.0.1 t1.formalyzer.com
@@ -33631,6 +33649,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 t1.stormiq.com
 127.0.0.1 t1.trackalyzer.com
 127.0.0.1 t1.visualrevenue.com
+127.0.0.1 t10.rbnt.org
 127.0.0.1 t13.intelliad.de
 127.0.0.1 t1395671984.yupiromo.ru
 127.0.0.1 t2.formalyzer.com
@@ -38009,6 +38028,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.adfirmative.com
 127.0.0.1 www.adfluence.net
 127.0.0.1 www.adfoc.us
+127.0.0.1 www.adforce.ru
 127.0.0.1 www.adforgames.com
 127.0.0.1 www.adfunkyserver.com
 127.0.0.1 www.adfusion.com
@@ -38314,6 +38334,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.afftrackr.com
 127.0.0.1 www.afiliati.ro
 127.0.0.1 www.afterdownload.com
+127.0.0.1 www.afterview.ru
 127.0.0.1 www.agata-lillard.us
 127.0.0.1 www.agata-wadlington.us
 127.0.0.1 www.agkn.com
@@ -38352,6 +38373,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.allosponsor.com
 127.0.0.1 www.alloydigital.com
 127.0.0.1 www.allsolutionsnetwork.com
+127.0.0.1 www.alltereg0.ru
 127.0.0.1 www.alltraff.ru
 127.0.0.1 www.allyson-stratton.us
 127.0.0.1 www.almightytraffic.com
@@ -40681,6 +40703,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.link4link.com
 127.0.0.1 www.linkads.de
 127.0.0.1 www.linkbucks.com
+127.0.0.1 www.linkbucksmedia.com
 127.0.0.1 www.linkbuddies.com
 127.0.0.1 www.linkconnector.com
 127.0.0.1 www.linkcounter.com
@@ -40818,6 +40841,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.macombdisplayads.com
 127.0.0.1 www.madblast.com
 127.0.0.1 www.madisonlogic.com
+127.0.0.1 www.madmax53.stellar.cpa.clicksure.com
 127.0.0.1 www.madmimi.com
 127.0.0.1 www.maegan-abad.us
 127.0.0.1 www.magentanews.com
