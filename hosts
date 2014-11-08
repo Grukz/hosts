@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 43764 ad serving and malware domains.
+# Currently blocking 43763 ad serving and malware domains.
 #
-# Date Generated: Nov 07 2014
+# Date Generated: Nov 08 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -3807,6 +3807,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adonnetwork.com
 127.0.0.1 adonspot.com
 127.0.0.1 adonweb.ru
+127.0.0.1 adoperator.com
 127.0.0.1 adopt.euroclick.com
 127.0.0.1 adopt.precisead.com
 127.0.0.1 adopt.specificclick.net
@@ -12638,7 +12639,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cerebral.typn.com
 127.0.0.1 certified-email.com
 127.0.0.1 certify.alexametrics.com
-127.0.0.1 cesari-lab.com
 127.0.0.1 ceskarepublika.net
 127.0.0.1 ceskydomov.alias.ngs.modry.cz
 127.0.0.1 cetrk.com
@@ -36536,7 +36536,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 virtual-person.com
 127.0.0.1 virtualbartendertrack.beer.com
 127.0.0.1 virtualnet.co.uk
-127.0.0.1 virustotal.com.br
 127.0.0.1 vis.sexlist.com
 127.0.0.1 vis5.sexlist.com
 127.0.0.1 visa-advice.fr
