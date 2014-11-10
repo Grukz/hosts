@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 43763 ad serving and malware domains.
+# Currently blocking 43762 ad serving and malware domains.
 #
-# Date Generated: Nov 09 2014
+# Date Generated: Nov 10 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -866,7 +866,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 245.bitterstrawberry.com
 127.0.0.1 24725.hittail.com
 127.0.0.1 247590.r.axf8.net
-127.0.0.1 247del.com
 127.0.0.1 247media.com
 127.0.0.1 247media.net
 127.0.0.1 247realmedia.com
@@ -7512,7 +7511,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 advzilla.com
 127.0.0.1 adw.ero-advertising.com
 127.0.0.1 adw.sapo.pt
-127.0.0.1 adware-2009.com
 127.0.0.1 adware.kogaryu.com
 127.0.0.1 adwarealert.com
 127.0.0.1 adwareremovergold.com
@@ -8663,7 +8661,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 appliedsemantics.com
 127.0.0.1 applifier.com
 127.0.0.1 applift.com
-127.0.0.1 appline.ieguide.co.kr
 127.0.0.1 appllicatiionew.com
 127.0.0.1 appnexus.com
 127.0.0.1 apprep.smartscreen.microsoft.com
@@ -18959,7 +18956,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 freewebcounter.com
 127.0.0.1 freewha.com
 127.0.0.1 freewrinklecream.com
-127.0.0.1 freewslink.adalert.hop.clickbank.net
 127.0.0.1 freexxxpages.net
 127.0.0.1 freexxxvideoclip.aebn.net
 127.0.0.1 freipres.ivwbox.de
@@ -19807,7 +19803,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gofreegifts.com
 127.0.0.1 gogetgorgeous.com
 127.0.0.1 goggle.com
-127.0.0.1 gogofree.adalert.hop.clickbank.net
 127.0.0.1 gogousenet.com
 127.0.0.1 goingplatinum.com
 127.0.0.1 goku.brightcove.com
@@ -28900,6 +28895,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 prime.nuggad.net
 127.0.0.1 primediabusiness.122.2o7.net
 127.0.0.1 primemensfitness.112.2o7.net
+127.0.0.1 primeraboeken.nl
 127.0.0.1 primestarmagazine.112.2o7.net
 127.0.0.1 primetime.ad.primetime.net
 127.0.0.1 primetime.net
@@ -35200,6 +35196,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tramadol2006.3xforum.ro
 127.0.0.1 tramitex.co
 127.0.0.1 trane-ir-corp-ingersollrand.112.2o7.net
+127.0.0.1 tranga.put-in-bayrealesate.com
 127.0.0.1 trans20120430.getjar.com
 127.0.0.1 transfer.ivwbox.de
 127.0.0.1 transition.adtrgt.com
@@ -37512,6 +37509,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wincert.us.intellitxt.com
 127.0.0.1 window.nixnet.cz
 127.0.0.1 window1.com
+127.0.0.1 windows-defender.con.sh
 127.0.0.1 windows7news.uk.intellitxt.com
 127.0.0.1 windowsbbs.us.intellitxt.com
 127.0.0.1 windowsitpro.us.intellitxt.com
@@ -41378,6 +41376,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.paypopup.com
 127.0.0.1 www.pc-test.net
 127.0.0.1 www.pcbutts1.com
+127.0.0.1 www.pcdefender.co.vu
 127.0.0.1 www.pcmightymax.net
 127.0.0.1 www.pconpoint.com
 127.0.0.1 www.pdf-platinum.info
