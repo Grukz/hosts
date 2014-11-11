@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 43762 ad serving and malware domains.
+# Currently blocking 43768 ad serving and malware domains.
 #
-# Date Generated: Nov 10 2014
+# Date Generated: Nov 11 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -8612,6 +8612,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 app.cocolog-nifty.com
 127.0.0.1 app.comparemetrics.com
 127.0.0.1 app.compete.com
+127.0.0.1 app.cookieassistant.com
 127.0.0.1 app.cooleremail.com
 127.0.0.1 app.crittercism.com
 127.0.0.1 app.crowdscience.com
@@ -10823,6 +10824,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 betty-cendejas.us
 127.0.0.1 bextra-store.shengen.ru
 127.0.0.1 bextra.ourtablets.com
+127.0.0.1 beylikduzudovme.com
 127.0.0.1 beyond.go2cloud.org
 127.0.0.1 beyondhollywood.us.intellitxt.com
 127.0.0.1 beyourownaffiliate.com
@@ -22376,6 +22378,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jp.admob.com
 127.0.0.1 jp1.sb01.com
 127.0.0.1 jpdk.nuggad.net
+127.0.0.1 jpgewe.org
 127.0.0.1 jpirate.cjt1.net
 127.0.0.1 jpmedia.go2cloud.org
 127.0.0.1 jppol.nuggad.net
@@ -28740,6 +28743,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 popsci.com.122.2o7.net
 127.0.0.1 popspace.virgilio.us
 127.0.0.1 popstats.com.br
+127.0.0.1 popstrap.com
 127.0.0.1 popub.com
 127.0.0.1 popularmechanics.us.intellitxt.com
 127.0.0.1 popunder-mladnet.medialand.ru
@@ -33744,6 +33748,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tailsweep.co.uk
 127.0.0.1 tailsweep.com
 127.0.0.1 tailsweep.se
+127.0.0.1 takamul.tv
 127.0.0.1 take5.real.com
 127.0.0.1 takru.com
 127.0.0.1 talesoftheslayer.bravejournal.com
@@ -41457,6 +41462,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.popadvert.com
 127.0.0.1 www.popboxads.com
 127.0.0.1 www.poponclick.com
+127.0.0.1 www.popstrap.com
 127.0.0.1 www.popunder.com
 127.0.0.1 www.popunder.net
 127.0.0.1 www.popunder.ru
