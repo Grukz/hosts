@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 43825 ad serving and malware domains.
+# Currently blocking 43827 ad serving and malware domains.
 #
-# Date Generated: Nov 13 2014
+# Date Generated: Nov 14 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -32615,6 +32615,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 startpunt.nu.site-id.nl
 127.0.0.1 starz.122.2o7.net
 127.0.0.1 stast2.gq.com
+127.0.0.1 stasz.imprimite.com.ar
 127.0.0.1 stat-22.medialand.ru
 127.0.0.1 stat-counter.tass-online.ru
 127.0.0.1 stat-tracker.net
@@ -43828,6 +43829,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 zviframe.biz
 127.0.0.1 zwierzu.zxy.me
 127.0.0.1 zww.ero-advertising.com
+127.0.0.1 zxc.hearttoherart.us
 127.0.0.1 zxypenguin.people-group.su
 127.0.0.1 zyban-store.shengen.ru
 127.0.0.1 zyban.1.p2l.info
