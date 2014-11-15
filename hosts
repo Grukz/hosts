@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 43827 ad serving and malware domains.
 #
-# Date Generated: Nov 14 2014
+# Date Generated: Nov 15 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -12006,7 +12006,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 canadaalltax.com
 127.0.0.1 canadafreepress.us.intellitxt.com
 127.0.0.1 canadapost.112.2o7.net
-127.0.0.1 canadatop.com
 127.0.0.1 cancalgary.112.2o7.net
 127.0.0.1 candi-bowker.us
 127.0.0.1 candi-nolen.us
@@ -28184,6 +28183,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 paxito.sitetracker.com
 127.0.0.1 pay-ads.com
 127.0.0.1 pay-day-loans.beesearch.info
+127.0.0.1 pay-to-promote.com
 127.0.0.1 payback-de.baynote.net
 127.0.0.1 paycount.com
 127.0.0.1 paycounter.com
