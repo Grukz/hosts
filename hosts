@@ -1,5 +1,5 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 50983 ad serving and malware domains.
+# Currently blocking 50985 ad serving and malware domains.
 #
 # Date Generated: Nov 17 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
@@ -27691,6 +27691,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 job-compuse.tk
 127.0.0.1 job-online.petrovka.info
 127.0.0.1 jobclicks.net
+127.0.0.1 jobentdal.com
 127.0.0.1 jobkeys.ngadcenter.net
 127.0.0.1 joblo.us.intellitxt.com
 127.0.0.1 jobs-online.petrovka.info
@@ -43077,6 +43078,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vtrtl.de
 127.0.0.1 vu.adschoom.com
 127.0.0.1 vu.veoxa.com
+127.0.0.1 vueprivee.com
 127.0.0.1 vug.in
 127.0.0.1 vulcan.doublepimp.com
 127.0.0.1 vural-electronic.com
