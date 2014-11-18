@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 50985 ad serving and malware domains.
+# Currently blocking 50990 ad serving and malware domains.
 #
-# Date Generated: Nov 17 2014
+# Date Generated: Nov 18 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -20459,6 +20459,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 danielle-guo.us
 127.0.0.1 danielle-hartin.us
 127.0.0.1 danieltan.evplayer.com
+127.0.0.1 danislenefc.info
 127.0.0.1 daniweb.us.intellitxt.com
 127.0.0.1 daoblocks.com
 127.0.0.1 daoxml.com
@@ -21301,6 +21302,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 domdex.com
 127.0.0.1 domicom.me.uk
 127.0.0.1 dominika-cosey.us
+127.0.0.1 dominion20144.com
 127.0.0.1 dominionenterprises.112.2o7.net
 127.0.0.1 dominoziele.pw
 127.0.0.1 dompark.dadapro.com
@@ -21880,6 +21882,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 econda.web.de
 127.0.0.1 economica.2cnt.net
 127.0.0.1 economisttestcollect.insightfirst.com
+127.0.0.1 economyweb.com.br
 127.0.0.1 ecoupons.com
 127.0.0.1 ecoverage.go2cloud.org
 127.0.0.1 ecpm.com
@@ -25316,7 +25319,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 habitatunoradio.com
 127.0.0.1 hackedgadgets.us.intellitxt.com
 127.0.0.1 hackerz.ir
-127.0.0.1 haelshinton.com
 127.0.0.1 hai2u.com
 127.0.0.1 hair-dos.resourcesarchive.com
 127.0.0.1 hairboutique.us.intellitxt.com
@@ -28069,6 +28071,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kendra-nason.us
 127.0.0.1 kenneth-pontius.us
 127.0.0.1 kentsucks.youcanoptout.com
+127.0.0.1 kenyawebonline.co.ke
 127.0.0.1 kepler.cometsystems.com
 127.0.0.1 keri-arneson.us
 127.0.0.1 keri-maye.us
@@ -34237,7 +34240,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pinkcount.com
 127.0.0.1 pinkisthenewblog.us.intellitxt.com
 127.0.0.1 pinoy-topsites.com
-127.0.0.1 piradramanina9381singular.com
 127.0.0.1 piranho.com
 127.0.0.1 piranho.de
 127.0.0.1 pirdyn.com
@@ -38260,7 +38262,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 somt.honda.com
 127.0.0.1 sonar.sociomantic.com
 127.0.0.1 sonata.1.p2l.info
-127.0.0.1 sonbachtuyet.net
 127.0.0.1 sondra-nowell.us
 127.0.0.1 sonia-brough.us
 127.0.0.1 sonia-hemmer.us
@@ -38277,6 +38278,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sonycorporate.122.2o7.net
 127.0.0.1 sonyglobal.112.2o7.net
 127.0.0.1 sonyscei.112.2o7.net
+127.0.0.1 sonysugar.co.ke
 127.0.0.1 soongu.info
 127.0.0.1 sop3sa7nop.com
 127.0.0.1 sophia-bevis.us
@@ -44856,6 +44858,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.afftrackinglinks.com
 127.0.0.1 www.afftrackr.com
 127.0.0.1 www.afiliati.ro
+127.0.0.1 www.africartisanat.com
 127.0.0.1 www.afterdownload.com
 127.0.0.1 www.afterview.ru
 127.0.0.1 www.agata-lillard.us
@@ -44986,6 +44989,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.april-wilcoxon.us
 127.0.0.1 www.aptrafficnetwork.com
 127.0.0.1 www.apture.com
+127.0.0.1 www.arabiaholding.com
 127.0.0.1 www.arasana.info
 127.0.0.1 www.arbeitssuche-web.de
 127.0.0.1 www.arcadebanners.com
@@ -45976,7 +45980,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.domainsponsor.com
 127.0.0.1 www.domamil.cz
 127.0.0.1 www.domdex.com
-127.0.0.1 www.dondadaski138.com
 127.0.0.1 www.donkeymails.com
 127.0.0.1 www.donotwatch.org
 127.0.0.1 www.dontwatch.us
@@ -48155,6 +48158,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ojolink.com
 127.0.0.1 www.ojrq.net
 127.0.0.1 www.oksrv.com
+127.0.0.1 www.oldscool.co.za
 127.0.0.1 www.olivia-dibenedetto.us
 127.0.0.1 www.olizyr.com
 127.0.0.1 www.omarsys.com
@@ -50675,6 +50679,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 yada.com
 127.0.0.1 yadro.ru
 127.0.0.1 yads.zedo.com
+127.0.0.1 yahoo-action.com
 127.0.0.1 yahoo-s.nuggad.net
 127.0.0.1 yahoo.ivwbox.de
 127.0.0.1 yahoo.nuggad.net
