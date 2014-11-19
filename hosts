@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 50990 ad serving and malware domains.
+# Currently blocking 50991 ad serving and malware domains.
 #
-# Date Generated: Nov 18 2014
+# Date Generated: Nov 19 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -11443,6 +11443,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aircanad.com
 127.0.0.1 aircanadaca.com
 127.0.0.1 aircananda.com
+127.0.0.1 airfilter.com.br
 127.0.0.1 airjamacia.com
 127.0.0.1 airlanes.com
 127.0.0.1 airline-ticket.gloses.net
@@ -14696,7 +14697,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 baselinemag.us.intellitxt.com
 127.0.0.1 basepayment.com
 127.0.0.1 baskadesign.com
-127.0.0.1 baskets.cz.cc
 127.0.0.1 bastardly.us.intellitxt.com
 127.0.0.1 basterr.popunder.ru
 127.0.0.1 bat.adforum.com
@@ -26809,6 +26809,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 impressionmedia.cz
 127.0.0.1 impressionperformance.biz
 127.0.0.1 impressionz.co.uk
+127.0.0.1 imprimamais.com
 127.0.0.1 impru.tradedoubler.com
 127.0.0.1 imprusmp.admailtiser.com
 127.0.0.1 impse.tradedoubler.com
@@ -29280,6 +29281,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 louise-poulsen.us
 127.0.0.1 louisvil.app.ur.gcion.com
 127.0.0.1 louisvil.ur.gcion.com
+127.0.0.1 lourencovilaca.com
 127.0.0.1 lovecam.com.br
 127.0.0.1 loved-by.s3.amazonaws.com
 127.0.0.1 lovefreegames.aavalue.com
@@ -33791,7 +33793,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 park.beenetworks.net
 127.0.0.1 park.parkingpanel.com
 127.0.0.1 parkcloud.dynadot.com
-127.0.0.1 parketline.uni.me
 127.0.0.1 parking.dmtracker.com
 127.0.0.1 parking.reg.ru
 127.0.0.1 parkingcrew.net
@@ -33993,6 +33994,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 peakcounter.dk
 127.0.0.1 pebble-adhese.gva.be
 127.0.0.1 pebble.bnex.com
+127.0.0.1 pedecamisa.com.br
 127.0.0.1 peel.spacash.com
 127.0.0.1 peel.webmasterprofitcenter.com
 127.0.0.1 peelads.hustler.com
@@ -36035,7 +36037,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ricardo-grier.us
 127.0.0.1 ricasad.sx
 127.0.0.1 rich-agent.s3.amazonaws.com
-127.0.0.1 richardplay.com
 127.0.0.1 richcomms.co.za
 127.0.0.1 richelle-crandell.us
 127.0.0.1 richfind.com
@@ -40247,7 +40248,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tenzero.com
 127.0.0.1 tenzing.fmpub.net
 127.0.0.1 terapatrick.sexybabesx.com
-127.0.0.1 terbily.com
 127.0.0.1 teresa-noriega.us
 127.0.0.1 teresa-taveras.us
 127.0.0.1 terihatcher.sexybabesx.com
@@ -45070,7 +45070,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.avsads.com
 127.0.0.1 www.avwbox.de
 127.0.0.1 www.awarenessbaby.com
-127.0.0.1 www.awasedojo.com.br
 127.0.0.1 www.aweber.com
 127.0.0.1 www.awesomevipoffers.com
 127.0.0.1 www.awin1.com
@@ -47455,6 +47454,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.laptoprewardsgroup.com
 127.0.0.1 www.laptoprewardszone.com
 127.0.0.1 www.larivieracasino.com
+127.0.0.1 www.lasdeliciasdelmaiz.com
 127.0.0.1 www.lasthr.info
 127.0.0.1 www.laugh-mail.com
 127.0.0.1 www.laugh-mail.net
@@ -48656,6 +48656,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.rightmedia.com
 127.0.0.1 www.rightmedia.net
 127.0.0.1 www.rightstats.com
+127.0.0.1 www.rimmugygur.is
 127.0.0.1 www.ringtone.com
 127.0.0.1 www.ringtonepartner.com
 127.0.0.1 www.riskymail4free.com
