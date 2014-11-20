@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 50991 ad serving and malware domains.
 #
-# Date Generated: Nov 19 2014
+# Date Generated: Nov 20 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -14833,7 +14833,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 beauty.finaltips.com
 127.0.0.1 beautyden.us.intellitxt.com
 127.0.0.1 beautysafari.com
-127.0.0.1 bebeto-1.com
 127.0.0.1 bebo.crwdcntrl.net
 127.0.0.1 becausebabes.go2cloud.org
 127.0.0.1 becl23.b2.gns.co.il
@@ -25541,6 +25540,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hilary-yarber.us
 127.0.0.1 hilaryduff.sexybabesx.com
 127.0.0.1 hilaryswank.sexybabesx.com
+127.0.0.1 hillalala.com
 127.0.0.1 hillary-buhr.us
 127.0.0.1 hillary-fries.us
 127.0.0.1 hillary-lisi.us
@@ -26343,7 +26343,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ihcgpro.go2cloud.org
 127.0.0.1 ihechi123.ddns.net
 127.0.0.1 ihm01.ct2.comclick.com
-127.0.0.1 ihrsdkk.com
 127.0.0.1 ii0.us
 127.0.0.1 iicdn.com
 127.0.0.1 iivwbox.de
@@ -26746,6 +26745,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 imgg.dt00.net
 127.0.0.1 imgg.dt07.net
 127.0.0.1 imgg.marketgid.com
+127.0.0.1 imgg.mgid.com
 127.0.0.1 imglinks.industrybrains.com
 127.0.0.1 imgn.dt00.net
 127.0.0.1 imgn.dt07.com
@@ -28120,7 +28120,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 kids-fashion.dk
 127.0.0.1 kids-in-sandbox.com
 127.0.0.1 kidsinsandbox.info
-127.0.0.1 kihsmalta.com
 127.0.0.1 kiks.yandex.ru
 127.0.0.1 kikuzip.com
 127.0.0.1 kiley-beeman.us
@@ -28268,6 +28267,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kuhdi.com
 127.0.0.1 kunal3291.ibprofits.cpa.clicksure.com
 127.0.0.1 kundenserver.de
+127.0.0.1 kusikmusfdsfdsikfjh298131.com
 127.0.0.1 kustusch.com
 127.0.0.1 kvm001.bob.local.vmsn.de
 127.0.0.1 kvm001.con.local.vmsn.de
@@ -30033,6 +30033,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 matchcraft.com
 127.0.0.1 matcher.idtargeting.com
 127.0.0.1 matchnet.st.sageanalyst.net
+127.0.0.1 matehost.zapto.org
 127.0.0.1 mathenea.com
 127.0.0.1 mathtag.com
 127.0.0.1 matomy.adk2.co
@@ -30573,6 +30574,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 metacount.com
 127.0.0.1 metaffiliation.com
 127.0.0.1 metagaua.hit.gemius.pl
+127.0.0.1 metamorfoze.be
 127.0.0.1 metanetwork.com
 127.0.0.1 metartmoney.met-art.com
 127.0.0.1 meter-svc.nytimes.com
@@ -42300,7 +42302,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 unrulymedia.com
 127.0.0.1 unstat.baidu.com
 127.0.0.1 untd.com
-127.0.0.1 untel-kr.com
 127.0.0.1 uole.ad.uol.com.br
 127.0.0.1 uolfreeservers.112.2o7.net
 127.0.0.1 uoljunocom2.112.2o7.net
@@ -44866,7 +44867,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.agkn.com
 127.0.0.1 www.agmtrk.com
 127.0.0.1 www.agnstaging.com
-127.0.0.1 www.agricbizzness.com
 127.0.0.1 www.aim4media.com
 127.0.0.1 www.airpush.com
 127.0.0.1 www.aivwbox.de
