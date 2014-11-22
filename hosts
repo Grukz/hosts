@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 51011 ad serving and malware domains.
+# Currently blocking 51012 ad serving and malware domains.
 #
-# Date Generated: Nov 21 2014
+# Date Generated: Nov 22 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -7997,7 +7997,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.videosz.com
 127.0.0.1 ads.vidsense.com
 127.0.0.1 ads.viewlondon.co.uk
-127.0.0.1 ads.viewx.co.uk
 127.0.0.1 ads.vimg.net
 127.0.0.1 ads.vipcams.com
 127.0.0.1 ads.virginislandsdailynews.com
@@ -14701,6 +14700,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bastardly.us.intellitxt.com
 127.0.0.1 basterr.popunder.ru
 127.0.0.1 bat.adforum.com
+127.0.0.1 bataielo.com.br
 127.0.0.1 batcoroadlinescorporation.com
 127.0.0.1 battleon.directtrack.com
 127.0.0.1 bavners2.ero-advertising.com
@@ -24111,7 +24111,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 fttcj.com
 127.0.0.1 ftvcash.com
 127.0.0.1 fu.golikeus.net
-127.0.0.1 fuchsiasourcing.com
 127.0.0.1 fuck.org
 127.0.0.1 fucktubenetwork.com
 127.0.0.1 fuelbuck.com
@@ -27959,6 +27958,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 k.zeroredirect2.com
 127.0.0.1 k1s.nl
 127.0.0.1 k2med.com
+127.0.0.1 k3travels.com
 127.0.0.1 k5ads.osdn.com
 127.0.0.1 ka.bar.need2find.com
 127.0.0.1 kaartenhuis.nl.site-id.nl
@@ -33077,7 +33077,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 oimg.nbcuni.com
 127.0.0.1 oin.valuead.com
 127.0.0.1 oinadserve.com
-127.0.0.1 oinadserver.com
 127.0.0.1 oitsolutions.ca
 127.0.0.1 oivwbox.de
 127.0.0.1 oix-stage.net
@@ -34056,6 +34055,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 perfectgirls.net
 127.0.0.1 perfectnav.com
 127.0.0.1 perfiliate.com
+127.0.0.1 performajant.com
 127.0.0.1 performance.affiliaxe.com
 127.0.0.1 performancerevenues.com
 127.0.0.1 performances.bestofmedia.com
@@ -36027,7 +36027,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 rewardsflow.com
 127.0.0.1 rewardster.com
 127.0.0.1 rewqs.com
-127.0.0.1 rex-jazzy.biz
 127.0.0.1 rextk.com
 127.0.0.1 rextopia.com
 127.0.0.1 rextrk.com
@@ -36811,7 +36810,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sagan.cometsystems.com
 127.0.0.1 sageanalyst.net
 127.0.0.1 sagedigital.checkm8.com
-127.0.0.1 sainttrade.biz
 127.0.0.1 saksfifthavenue.122.2o7.net
 127.0.0.1 sales.liveperson.net
 127.0.0.1 salescast.real.com
@@ -47591,6 +47589,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.liveperson.com
 127.0.0.1 www.livesearchnow.com
 127.0.0.1 www.livestat.com
+127.0.0.1 www.livesupportva.com
 127.0.0.1 www.livewebstats.dk
 127.0.0.1 www.livewell.net
 127.0.0.1 www.livwbox.de
@@ -50530,6 +50529,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 x6.xclicks.net
 127.0.0.1 x6.yakiuchi.com
 127.0.0.1 x6.yamanoha.com
+127.0.0.1 x65cr13.com
 127.0.0.1 x6x.a.la
 127.0.0.1 x7.ifdef.jp
 127.0.0.1 x7.yamanoha.com
@@ -50933,6 +50933,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 zdnet.ivwbox.de
 127.0.0.1 zeads.com
 127.0.0.1 zebutal.1.p2l.info
+127.0.0.1 zedlabs.co.uk
 127.0.0.1 zedo.com
 127.0.0.1 zedoadnetwork.com
 127.0.0.1 zedoadservices.com
