@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 51012 ad serving and malware domains.
+# Currently blocking 51020 ad serving and malware domains.
 #
-# Date Generated: Nov 23 2014
+# Date Generated: Nov 24 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -47,6 +47,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 039b1ee.netsolhost.com
 127.0.0.1 03a6b7a.netsolhost.com
 127.0.0.1 03a6f57.netsolhost.com
+127.0.0.1 03bbec4.netsolhost.com
 127.0.0.1 04.justcounter.com
 127.0.0.1 0427d7.se
 127.0.0.1 05.justcounter.com
@@ -325,6 +326,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 103.6.87.194.dynamic.dol.ru
 127.0.0.1 1033.bitterstrawberry.com
 127.0.0.1 103532.hittail.com
+127.0.0.1 10391039.ru
 127.0.0.1 10394-127.ampxchange.com
 127.0.0.1 10394-2468.ampxchange.com
 127.0.0.1 10394-4254.ampxchange.com
@@ -1979,6 +1981,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a1944.g.akamai.net
 127.0.0.1 a1964.g.akamai.net
 127.0.0.1 a1964.g.akamaitech.net
+127.0.0.1 a1b2c3d4.ru
 127.0.0.1 a1finder.com
 127.0.0.1 a1health.com
 127.0.0.1 a2.cdnpark.com
@@ -11429,6 +11432,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aim4.adsoftware.com
 127.0.0.1 aim4media.com
 127.0.0.1 aim5.adsoftware.com
+127.0.0.1 aimbissonline.uni.me
 127.0.0.1 aimdolls.com
 127.0.0.1 aimes.com
 127.0.0.1 aimfar.solution.weborama.fr
@@ -19773,6 +19777,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 covusaffiliates.go2cloud.org
 127.0.0.1 cowboy.contextuads.com
 127.0.0.1 cowcotland.fr.intellitxt.com
+127.0.0.1 coworkcompanys.com
 127.0.0.1 coxds.com
 127.0.0.1 coxhsi.112.2o7.net
 127.0.0.1 coxnet.112.2o7.net
@@ -20066,10 +20071,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 ct81.dsr.livefyre.com
 127.0.0.1 ctbdev.net
 127.0.0.1 ctc.japaneseanime.com
+127.0.0.1 ctgnovaquerencia.com.br
 127.0.0.1 cti.w55c.net
 127.0.0.1 ctix8.cheaptickets.com
 127.0.0.1 ctn.go2cloud.org
 127.0.0.1 ctnetwork.hu
+127.0.0.1 ctnsnet.com
 127.0.0.1 ctologger01.analytics.go.com
 127.0.0.1 ctr-iwb.nmg.de
 127.0.0.1 ctr-opc.nmg.de
@@ -25268,6 +25275,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gulli.de.intellitxt.com
 127.0.0.1 gulsproductions.com
 127.0.0.1 gumball-tracker.co.uk
+127.0.0.1 guncelserverayarlari.com
 127.0.0.1 guptamedianetwork.com
 127.0.0.1 gurgle.zdbb.net
 127.0.0.1 guru.sitescout.netdna-cdn.com
@@ -27949,7 +27957,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 jvzoo.com
 127.0.0.1 jwebbsense.cjt1.net
 127.0.0.1 jwkitchendesign.co.uk
-127.0.0.1 jwpsrv.com
 127.0.0.1 jxliu.com
 127.0.0.1 k.collective-media.net
 127.0.0.1 k.h.a.d.free.fr
@@ -28963,6 +28970,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 load.passionfruitads.com
 127.0.0.1 load.s3.amazonaws.com
 127.0.0.1 load.scanscout.com
+127.0.0.1 load.sumome.com
 127.0.0.1 loader.engage.gsfn.us
 127.0.0.1 loader.topadvert.ru
 127.0.0.1 loadeu.exelator.com
@@ -33373,6 +33381,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 openx.vizzia.bg
 127.0.0.1 openx.vsekiden.com
 127.0.0.1 openx.watchmygf.net
+127.0.0.1 openx.xenium.pl
 127.0.0.1 openx2.fotoflexer.com
 127.0.0.1 openx4.emag.ro
 127.0.0.1 openxmedia.com
@@ -39565,6 +39574,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 suggest.infospace.com
 127.0.0.1 sugoicounter.com
 127.0.0.1 summitbusinessmedia.112.2o7.net
+127.0.0.1 sumome.com
 127.0.0.1 suncom.112.2o7.net
 127.0.0.1 suncountryair.com
 127.0.0.1 sunglobal.112.2o7.net
@@ -47338,7 +47348,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.jvz8.com
 127.0.0.1 www.jvz9.com
 127.0.0.1 www.jvzoo.com
-127.0.0.1 www.jwpsrv.com
 127.0.0.1 www.jx368.com
 127.0.0.1 www.jxliu.com
 127.0.0.1 www.k265.com
@@ -49682,7 +49691,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.values7.com
 127.0.0.1 www.valuesponsor.com
 127.0.0.1 www.vanessa-cohn.us
-127.0.0.1 www.vaterfall.com
 127.0.0.1 www.vayavicio.com
 127.0.0.1 www.vectormarketing.com
 127.0.0.1 www.veely.com
