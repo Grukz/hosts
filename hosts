@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 51032 ad serving and malware domains.
+# Currently blocking 51055 ad serving and malware domains.
 #
-# Date Generated: Nov 25 2014
+# Date Generated: Nov 26 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1907,6 +1907,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a1061.g.akamai.net
 127.0.0.1 a1066.g.akamai.net
 127.0.0.1 a108.g.akamai.net
+127.0.0.1 a10shd.realshieldlinked.com
 127.0.0.1 a11.g.akamai.net
 127.0.0.1 a1100.g.akamai.net
 127.0.0.1 a111.g.akamai.net
@@ -1916,6 +1917,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a1172.g.akamaitech.net
 127.0.0.1 a1180.g.akamai.net
 127.0.0.1 a1196.g.akamai.net
+127.0.0.1 a11shd.realshieldlinked.com
 127.0.0.1 a12.g.akamaitech.net
 127.0.0.1 a12.x-traceur.com
 127.0.0.1 a1204.g.akamai.net
@@ -1986,6 +1988,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a1b2c3d4.ru
 127.0.0.1 a1finder.com
 127.0.0.1 a1health.com
+127.0.0.1 a1shd.realshieldlinked.com
 127.0.0.1 a2.cdnpark.com
 127.0.0.1 a2.g.akamai.net
 127.0.0.1 a2.g.akamaitech.net
@@ -2014,6 +2017,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a297.g.a.yimg.com
 127.0.0.1 a2a.lockerz.com
 127.0.0.1 a2pub.com
+127.0.0.1 a2shd.realshieldlinked.com
 127.0.0.1 a2zlinks.com
 127.0.0.1 a3.adzs.nl
 127.0.0.1 a3.cdnpark.com
@@ -2055,6 +2059,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a388.g.akamaitech.net
 127.0.0.1 a39.ac-images.myspacecdn.com
 127.0.0.1 a39.g.akamai.net
+127.0.0.1 a3shd.realshieldlinked.com
 127.0.0.1 a4.adzs.nl
 127.0.0.1 a4.g.akamaitech.net
 127.0.0.1 a4.mediagra.com
@@ -2080,6 +2085,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a4dtracker.com
 127.0.0.1 a4dtrk.com
 127.0.0.1 a4p.net
+127.0.0.1 a4shd.realshieldlinked.com
 127.0.0.1 a5.g.akamai.net
 127.0.0.1 a5.g.akamaitech.net
 127.0.0.1 a5.mediagra.com
@@ -2134,6 +2140,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a680.g.akamaitech.net
 127.0.0.1 a69.g.akamai.net
 127.0.0.1 a6ba.com
+127.0.0.1 a6shd.realshieldlinked.com
 127.0.0.1 a7.g.akamai.net
 127.0.0.1 a7.suntimes.com
 127.0.0.1 a70.g.akamai.net
@@ -2158,6 +2165,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a799.g.akamai.net
 127.0.0.1 a799.ms.akamai.net
 127.0.0.1 a7search.com
+127.0.0.1 a7shd.realshieldlinked.com
 127.0.0.1 a8.g.akamai.net
 127.0.0.1 a8.g.akamaitech.net
 127.0.0.1 a80.g.akamai.net
@@ -2178,6 +2186,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a88.g.akamai.net
 127.0.0.1 a885.ac-images.myspacecdn.com
 127.0.0.1 a89.g.akamai.net
+127.0.0.1 a8shd.realshieldlinked.com
 127.0.0.1 a9.com
 127.0.0.1 a9.g.akamai.net
 127.0.0.1 a9.sc.freepornvs.com
@@ -2200,6 +2209,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a98.g.akamai.net
 127.0.0.1 a99.g.akamai.net
 127.0.0.1 a9rhiwa.cn
+127.0.0.1 a9shd.realshieldlinked.com
 127.0.0.1 aa-gb.marketgid.com
 127.0.0.1 aa-gb.mgid.com
 127.0.0.1 aa-nb.marketgid.com
@@ -4546,6 +4556,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad2flash.com
 127.0.0.1 ad2games.com
 127.0.0.1 ad2m.adk2.co
+127.0.0.1 ad2up.com
 127.0.0.1 ad2win.com
 127.0.0.1 ad3.adcept.net
 127.0.0.1 ad3.adfarm1.adition.com
@@ -5727,6 +5738,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adiq.coupons.com
 127.0.0.1 adiqglobal.com
 127.0.0.1 adireland.com
+127.0.0.1 adiscusion.com
 127.0.0.1 adisfy.com
 127.0.0.1 adisn.com
 127.0.0.1 adistas.go2cloud.org
@@ -11771,6 +11783,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 amanti.org
 127.0.0.1 amare.softwaregarden.com
 127.0.0.1 amaritrade.com
+127.0.0.1 amartemexico.com
 127.0.0.1 amateur-mature-sex.adaltabaza.net
 127.0.0.1 amateur-porn-links.com
 127.0.0.1 amateur.amarotic.com
@@ -17153,6 +17166,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 chimmy.serveminecraft.net
 127.0.0.1 china.inmobi.com
 127.0.0.1 chinaads.net
+127.0.0.1 chinacarservice.com
 127.0.0.1 chip.de.intellitxt.com
 127.0.0.1 chip.ivwbox.de
 127.0.0.1 chip.met.vgwort.de
@@ -21085,6 +21099,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dinoadserver2.roka.net
 127.0.0.1 dinsalgsvagt.adservinginternational.com
 127.0.0.1 dio-kr.com
+127.0.0.1 diocesedemarilia.org.br
 127.0.0.1 diosdelared.com.mx
 127.0.0.1 dir.opank.com
 127.0.0.1 dirbg.hit.gemius.pl
@@ -23022,6 +23037,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fe3-uk.imrworldwide.com
 127.0.0.1 fe4-uk.imrworldwide.com
 127.0.0.1 feaecebook.com
+127.0.0.1 feapsandalucia.org
 127.0.0.1 featuredlocalfind.com
 127.0.0.1 fee-hydrocodone.bebto.com
 127.0.0.1 feed-rt.baronsoffers.com
@@ -23314,6 +23330,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fms2.eyewonder.speedera.net
 127.0.0.1 fms2.pointroll.speedera.net
 127.0.0.1 fmsads.com
+127.0.0.1 fn.hgin.com
 127.0.0.1 fnacmagasin.solution.weborama.fr
 127.0.0.1 fnatfee.ero-advertising.com
 127.0.0.1 fo4n.com
@@ -24878,6 +24895,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 go-stats.dlinkddns.com
 127.0.0.1 go.accmgr.com
 127.0.0.1 go.aceadsys.net
+127.0.0.1 go.ad2up.com
 127.0.0.1 go.adee.bbelements.com
 127.0.0.1 go.adevolution.bbelements.com
 127.0.0.1 go.adify.com
@@ -26838,7 +26856,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 impulseleads.com
 127.0.0.1 imreportcard.us.intellitxt.com
 127.0.0.1 imrworldwide.com
-127.0.0.1 ims-intl.com.sa
 127.0.0.1 ims.cz
 127.0.0.1 ims.nl
 127.0.0.1 imserv001.adtech.de
@@ -27517,6 +27534,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jangasm.org
 127.0.0.1 janie-drew.us
 127.0.0.1 janna-ransome.us
+127.0.0.1 janvermeulenmontage.nl
 127.0.0.1 japan.inmobi.com
 127.0.0.1 japanese-girl-xxx.com
 127.0.0.1 japanesevehicles.us
@@ -27991,6 +28009,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kadirzerey.com
 127.0.0.1 kadman.net
 127.0.0.1 kads.k-network.com
+127.0.0.1 kaguluhanmusicfestival.com
 127.0.0.1 kaila-corker.us
 127.0.0.1 kailyn-hacker.us
 127.0.0.1 kailyn-wooton.us
@@ -32151,6 +32170,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ngads.smartage.com
 127.0.0.1 ngbn.net
 127.0.0.1 ngd.thesun.co.uk
+127.0.0.1 ngm-natuurklik.nl
 127.0.0.1 ngohq.us.intellitxt.com
 127.0.0.1 ngs.impress.co.jp
 127.0.0.1 nh.5.p2l.info
@@ -45189,6 +45209,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.bargainbeautybuys.com
 127.0.0.1 www.barilliance.net
 127.0.0.1 www.barin.co
+127.0.0.1 www.bauka.kz
 127.0.0.1 www.baypops.com
 127.0.0.1 www.bazingandroid.com
 127.0.0.1 www.bbelements.com
@@ -50073,6 +50094,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.yykf.net
 127.0.0.1 www.z-adsense.com
 127.0.0.1 www.z5x.net
+127.0.0.1 www.zakonodatelstvo.kz
 127.0.0.1 www.zangocash.com
 127.0.0.1 www.zangogames.com
 127.0.0.1 www.zanox-affiliate.de
@@ -50912,6 +50934,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 zaebiz.eu
 127.0.0.1 zafiti01.webtrekk-us.net
 127.0.0.1 zag.112.2o7.net
+127.0.0.1 zakonodatelstvo.kz
 127.0.0.1 zalorasea.go2cloud.org
 127.0.0.1 zametki-gurmana.ru
 127.0.0.1 zampolit1990.popunder.ru
