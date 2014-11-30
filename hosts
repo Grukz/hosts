@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 51088 ad serving and malware domains.
+# Currently blocking 51090 ad serving and malware domains.
 #
-# Date Generated: Nov 29 2014
+# Date Generated: Nov 30 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1469,6 +1469,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 66.6.87.194.dynamic.dol.ru
 127.0.0.1 662bd114b7c9.onceedge.ru
 127.0.0.1 666.lyzh.com
+127.0.0.1 6667788899ii.com
 127.0.0.1 67.6.87.194.dynamic.dol.ru
 127.0.0.1 671.stats.misstrends.com
 127.0.0.1 68.6.87.194.dynamic.dol.ru
@@ -12710,6 +12711,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 arnoldlaneservice.co.uk
 127.0.0.1 ars.couphole.com
 127.0.0.1 arsconsole.global-intermedia.com
+127.0.0.1 arsglassdivision.com
 127.0.0.1 arspromise.com
 127.0.0.1 art-music-rewardpath.com
 127.0.0.1 art-offer.com
@@ -13839,7 +13841,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 banken.ivwbox.de
 127.0.0.1 banki.onet.pl
 127.0.0.1 bankiru.go2cloud.org
-127.0.0.1 banknotice.in
 127.0.0.1 bankofamerica.tt.omtrdc.net
 127.0.0.1 bankrate.112.2o7.net
 127.0.0.1 bankwest.112.2o7.net
@@ -24798,6 +24799,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gifttracker.com
 127.0.0.1 gifttree.track4.com
 127.0.0.1 giga.ivwbox.de
+127.0.0.1 gighippo.com
 127.0.0.1 gigwise.us.intellitxt.com
 127.0.0.1 gil-caple.us
 127.0.0.1 gil-duell.us
@@ -25193,6 +25195,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 grace-hansley.us
 127.0.0.1 grade.market.yandex.ru
 127.0.0.1 graffix.adition.com
+127.0.0.1 graficaexpresion.cl
 127.0.0.1 grafix.xxxcounter.com
 127.0.0.1 grafstat.ro
 127.0.0.1 grammarly.go2cloud.org
@@ -28588,7 +28591,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 lehtimedia.spring-tns.net
 127.0.0.1 leisure-offer.com
 127.0.0.1 leksotanilss.com
-127.0.0.1 lemonde.sarietol.pw
 127.0.0.1 lemonparty.biz
 127.0.0.1 lemonparty.org
 127.0.0.1 lenny.ixn.local.vmsn.de
@@ -37435,7 +37437,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 segments.adap.tv
 127.0.0.1 segs.btrll.com
 127.0.0.1 seguralawfirm.com
-127.0.0.1 seiestennfet.com
 127.0.0.1 seitentipp.com
 127.0.0.1 sekel.ch
 127.0.0.1 sekindo.co.il
@@ -41860,6 +41861,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tumri.net
 127.0.0.1 tunmedia.tns-cs.net
 127.0.0.1 turdgasm.com
+127.0.0.1 turevmak.com.tr
 127.0.0.1 turluiplik.com
 127.0.0.1 turn.com
 127.0.0.1 turn.nexac.com
@@ -45188,7 +45190,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.bango.com
 127.0.0.1 www.bango.net
 127.0.0.1 www.bangtuoc.vn
-127.0.0.1 www.banknotice.in
 127.0.0.1 www.bankofamerica.com.ok.am
 127.0.0.1 www.banner-count.com
 127.0.0.1 www.banner-exchange.nl
@@ -45355,6 +45356,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.bnnr.nl
 127.0.0.1 www.boards2go.com
 127.0.0.1 www.bob.vmsn.de
+127.0.0.1 www.bobotat.tk
 127.0.0.1 www.boldcenter.com
 127.0.0.1 www.boldchat.com
 127.0.0.1 www.bonabanners.co.uk
