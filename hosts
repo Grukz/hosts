@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 51090 ad serving and malware domains.
 #
-# Date Generated: Nov 30 2014
+# Date Generated: Dec 01 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1014,7 +1014,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 2336.bitterstrawberry.com
 127.0.0.1 234.6.87.194.dynamic.dol.ru
 127.0.0.1 234.media.lbn.ru
-127.0.0.1 23445778889.com
 127.0.0.1 2349.com
 127.0.0.1 234x120.adv.vz.ru
 127.0.0.1 235.6.87.194.dynamic.dol.ru
@@ -1469,7 +1468,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 66.6.87.194.dynamic.dol.ru
 127.0.0.1 662bd114b7c9.onceedge.ru
 127.0.0.1 666.lyzh.com
-127.0.0.1 6667788899ii.com
 127.0.0.1 67.6.87.194.dynamic.dol.ru
 127.0.0.1 671.stats.misstrends.com
 127.0.0.1 68.6.87.194.dynamic.dol.ru
@@ -43015,6 +43013,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 virtualtour.com.br
 127.0.0.1 virtumondo.com
 127.0.0.1 virtumundo.com
+127.0.0.1 virtusinmobiliaria.com
 127.0.0.1 virusbye.net
 127.0.0.1 vis.sexlist.com
 127.0.0.1 vis5.sexlist.com
@@ -47006,6 +47005,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ibwbox.de
 127.0.0.1 www.iccee.com
 127.0.0.1 www.icecars.com
+127.0.0.1 www.icekempresa.com
 127.0.0.1 www.icentric.net
 127.0.0.1 www.icityfind.com
 127.0.0.1 www.icontact.com
