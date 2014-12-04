@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53765 ad serving and malware domains.
+# Currently blocking 53761 ad serving and malware domains.
 #
-# Date Generated: Dec 03 2014
+# Date Generated: Dec 04 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1124,6 +1124,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 276bf6.r.axf8.net
 127.0.0.1 27891.hittail.com
 127.0.0.1 2793343.fls.doubleclick.net
+127.0.0.1 27coupon.in
 127.0.0.1 27meg.com
 127.0.0.1 27x.com
 127.0.0.1 28.6.87.194.dynamic.dol.ru
@@ -11919,7 +11920,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 agosar.com
 127.0.0.1 agp-one.net
 127.0.0.1 agpaffiliates.go2cloud.org
-127.0.0.1 agromat.fr
 127.0.0.1 ags.beta.advertising.com
 127.0.0.1 aguardsoftware.com
 127.0.0.1 aguileranude.1stOK.com
@@ -13635,7 +13635,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 audreytautou.sexybabesx.com
 127.0.0.1 augsallg.ivwbox.de
 127.0.0.1 augustads.com
-127.0.0.1 augustolauar.com
 127.0.0.1 aujourdhui.refr.adgtw.orangeads.fr
 127.0.0.1 aumo123usedcarscom.112.2o7.net
 127.0.0.1 aumoautomobilemagcom.112.2o7.net
@@ -15635,7 +15634,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bellglovemediapublishing.122.2o7.net
 127.0.0.1 bellserviceeng.112.2o7.net
 127.0.0.1 belointeractive.122.2o7.net
-127.0.0.1 belover.fr
 127.0.0.1 beloysoff.ru
 127.0.0.1 belstat.be
 127.0.0.1 belstat.com
@@ -16144,7 +16142,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 boobsfly.com
 127.0.0.1 book-mark.net
 127.0.0.1 bookclub-offer.com
-127.0.0.1 bookingcoms.com
 127.0.0.1 bookofkisl.com
 127.0.0.1 bookproplus.com
 127.0.0.1 books-media-edu-premiumblvd.com
@@ -18075,6 +18072,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 choicesurveypanel.com
 127.0.0.1 choicetitle.net
 127.0.0.1 chokertraffic.com
+127.0.0.1 chooseyourhost.ru
 127.0.0.1 chriselliottfund.org
 127.0.0.1 christianbusinessadvertising.com
 127.0.0.1 christie-hanlon.us
@@ -24387,6 +24385,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ferdy.org
 127.0.0.1 ferrago.uk.intellitxt.com
 127.0.0.1 fertyu.allgreatvideo.com
+127.0.0.1 festival42.com.br
 127.0.0.1 fetishfitnessbabes.com
 127.0.0.1 fetishlocator.com
 127.0.0.1 fevertube.com
@@ -24564,7 +24563,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 fistart.ivwbox.de
 127.0.0.1 fistbrandusa.com
 127.0.0.1 fitforfu.ivwbox.de
-127.0.0.1 fiu-eu.org
 127.0.0.1 fivwbox.de
 127.0.0.1 fixbonus.com
 127.0.0.1 fixya.us.intellitxt.com
@@ -26034,6 +26032,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 geoup.com
 127.0.0.1 geovisite.com
 127.0.0.1 geovisites.com
+127.0.0.1 gepeci.usach.cl
 127.0.0.1 geraldine-arpin.us
 127.0.0.1 gerant.cv.ua
 127.0.0.1 german-linkindex.de
@@ -27156,7 +27155,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 hnbutton.appspot.com
 127.0.0.1 hngn.com.us.intellitxt.com
 127.0.0.1 hnskorea.co.kr
-127.0.0.1 hntraining.com
 127.0.0.1 ho-openx.ha.rs
 127.0.0.1 hobbat.fvds.ru
 127.0.0.1 hobbytotaalservice.nl
@@ -28384,7 +28382,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 incoming.cloud-trax.com
 127.0.0.1 indeego.com.tw
 127.0.0.1 indepth-registration.net
-127.0.0.1 index01.com
 127.0.0.1 indexhu.adocean.pl
 127.0.0.1 indexstats.com
 127.0.0.1 india-forums.us.intellitxt.com
@@ -29831,6 +29828,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 krone.oewabox.at
 127.0.0.1 kropka.onet.pl
 127.0.0.1 krs.ymxpb.com
+127.0.0.1 krubom.com
 127.0.0.1 kryptobanners.com
 127.0.0.1 krysta-plante.us
 127.0.0.1 krysta-quinlan.us
@@ -33421,6 +33419,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mysavings.directtrack.com
 127.0.0.1 myscoop-tracking.googlecode.com
 127.0.0.1 myscreen.com
+127.0.0.1 mysda24.com
 127.0.0.1 mysearch-engine.com
 127.0.0.1 mysearchhome.com
 127.0.0.1 myseostats.com
@@ -35331,7 +35330,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 orbitscripts.com
 127.0.0.1 orbitz.tt.omtrdc.net
 127.0.0.1 orbowlada.strefa.pl
-127.0.0.1 orcolan.com
 127.0.0.1 order-hydrocodone.polybuild.ru
 127.0.0.1 order-phentermine.polybuild.ru
 127.0.0.1 order-valium.polybuild.ru
@@ -38384,6 +38382,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rss.buysellads.com
 127.0.0.1 rss.dtiserv.com
 127.0.0.1 rss.medsav.net
+127.0.0.1 rsslessons.su
 127.0.0.1 rt.globalmailer.com
 127.0.0.1 rt.globo.com
 127.0.0.1 rt.legolas-media.com
@@ -39214,6 +39213,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sd.play.com
 127.0.0.1 sd.sharethis.com
 127.0.0.1 sda.groupspaces.com
+127.0.0.1 sdaexpress24.net
 127.0.0.1 sdc.acc.org
 127.0.0.1 sdc.brightcove.com
 127.0.0.1 sdc.ca.com
@@ -40323,7 +40323,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 smartdevicemedia.com
 127.0.0.1 smartdirect.com
 127.0.0.1 smarterrorpage.com
-127.0.0.1 smarthous.com.ua
 127.0.0.1 smarticon.geotrust.com
 127.0.0.1 smartify.org
 127.0.0.1 smartinit.webads.nl
@@ -46289,7 +46288,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 webeffective.keynote.com
 127.0.0.1 webffreestuff.com
 127.0.0.1 webforensics.co.uk
-127.0.0.1 webfotoz.com
 127.0.0.1 webgains.com
 127.0.0.1 webglobaltraffic.info
 127.0.0.1 webgozar.com
@@ -47580,7 +47578,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.aivwbox.de
 127.0.0.1 www.ajyadgroup.net
 127.0.0.1 www.akoneplatit.sk
-127.0.0.1 www.al-kheer.com
 127.0.0.1 www.alaina-englert.us
 127.0.0.1 www.alana-caesar.us
 127.0.0.1 www.alana-chao.us
@@ -48391,7 +48388,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.cool-premiums-now.com
 127.0.0.1 www.cool-premiums.com
 127.0.0.1 www.coolconcepts.nl
-127.0.0.1 www.coolfox.pp.ua
 127.0.0.1 www.coolfreehost.com
 127.0.0.1 www.coolpremiumsnow.com
 127.0.0.1 www.coolsavings.com
@@ -48857,6 +48853,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.eroadvertising.com
 127.0.0.1 www.eroadvertising.info
 127.0.0.1 www.eroadvertising.nl
+127.0.0.1 www.eroconlia.ru
 127.0.0.1 www.erodynamics.nl
 127.0.0.1 www.erostars.de
 127.0.0.1 www.erostracker.com
@@ -49466,6 +49463,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.hbs-media.com
 127.0.0.1 www.hbytracker.com
 127.0.0.1 www.hdplugindownload.com
+127.0.0.1 www.headcrowntradlng.com
 127.0.0.1 www.health-beauty-rewardpath.com
 127.0.0.1 www.health-beauty-savingblvd.com
 127.0.0.1 www.healthbeautyncs.com
@@ -50971,7 +50969,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.panazan.ro
 127.0.0.1 www.pantanalvip.com.br
 127.0.0.1 www.paperg.com
-127.0.0.1 www.paramin.ac.th
 127.0.0.1 www.parfumer.by
 127.0.0.1 www.parisvoyeur.com
 127.0.0.1 www.parkingcrew.net
@@ -53424,7 +53421,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 yakezienetwork.go2cloud.org
 127.0.0.1 yam.ivwbox.de
 127.0.0.1 yamaha.122.2o7.net
-127.0.0.1 yamalandgeorge.com
 127.0.0.1 yambotan.ru
 127.0.0.1 yamleg.fu8.com
 127.0.0.1 yanasushi.eu
