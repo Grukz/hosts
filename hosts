@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53761 ad serving and malware domains.
+# Currently blocking 53767 ad serving and malware domains.
 #
-# Date Generated: Dec 04 2014
+# Date Generated: Dec 05 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -5712,6 +5712,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 addictivetechnologies.com
 127.0.0.1 addictivetechnologies.net
 127.0.0.1 addie.verticalnetwork.de
+127.0.0.1 addingmusclemass.com
 127.0.0.1 addiply.com
 127.0.0.1 addirector.vindicosuite.com
 127.0.0.1 addjump.com
@@ -13998,6 +13999,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ban4ers.ero-advertising.com
 127.0.0.1 bananacashback.com
 127.0.0.1 bandai.hs.llnwd.net
+127.0.0.1 bandashcb.com
 127.0.0.1 bandoc.d-group.co.il
 127.0.0.1 bandpage.go2cloud.org
 127.0.0.1 baner.energy-torrent.com
@@ -30167,6 +30169,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 level3com.d2.sc.omtrdc.net
 127.0.0.1 levelrate.de
 127.0.0.1 leveragemarketing.112.2o7.net
+127.0.0.1 levicasa.com
 127.0.0.1 levintrading.com
 127.0.0.1 levitra.1.p2l.info
 127.0.0.1 levitra.3.p2l.info
@@ -35169,6 +35172,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 openads.zeads.com
 127.0.0.1 openadserving.com
 127.0.0.1 openadstream-eu1.247realmedia.com
+127.0.0.1 openbyte-training.co.za
 127.0.0.1 opencandy.com
 127.0.0.1 openclick.com
 127.0.0.1 opencms.adscale.de
@@ -39001,6 +39005,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 saturn2.appads.com
 127.0.0.1 saturn3.appads.com
 127.0.0.1 saturnleague.com
+127.0.0.1 sauti.com.ua
 127.0.0.1 save-plan.com
 127.0.0.1 savemanny.us.intellitxt.com
 127.0.0.1 saveology.go2cloud.org
@@ -53722,6 +53727,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 zippeemedia.com
 127.0.0.1 zipzap.go2cloud.org
 127.0.0.1 zirve100.com
+127.0.0.1 zitoskillslimited.com
 127.0.0.1 zivwbox.de
 127.0.0.1 zj.dcys.ksmobile.com
 127.0.0.1 zjjlf.croukwexdbyerr.net
