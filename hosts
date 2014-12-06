@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53767 ad serving and malware domains.
+# Currently blocking 53752 ad serving and malware domains.
 #
-# Date Generated: Dec 05 2014
+# Date Generated: Dec 06 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2355,7 +2355,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 aakro.nl
 127.0.0.1 aalbc.advertserve.com
 127.0.0.1 aaltavista.com
-127.0.0.1 aaltech.com.au
 127.0.0.1 aamhi.com
 127.0.0.1 aams1.aim4media.com
 127.0.0.1 aan.amazon.com
@@ -13191,6 +13190,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 apprep.smartscreen.microsoft.com
 127.0.0.1 approbelgium.be
 127.0.0.1 approstar.com
+127.0.0.1 approvi.com.br
 127.0.0.1 apps.admission.net
 127.0.0.1 apps.advertlets.com
 127.0.0.1 apps.bittorrent.com
@@ -13667,6 +13667,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 auth20120430.getjar.com
 127.0.0.1 authorizedsearchagents.com
 127.0.0.1 auto-bannertausch.de
+127.0.0.1 auto-fx.fr
 127.0.0.1 auto-ping.com
 127.0.0.1 auto.allewagen.de
 127.0.0.1 auto.daily-weather.com
@@ -13806,7 +13807,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 azads.net
 127.0.0.1 azcentra.app.ur.gcion.com
 127.0.0.1 azfront.com
-127.0.0.1 azizjaafar.com
 127.0.0.1 azkempire.com
 127.0.0.1 aznmedia.go2cloud.org
 127.0.0.1 azoogleads.com
@@ -19444,6 +19444,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cossette.com
 127.0.0.1 cossmar-goiano.asia
 127.0.0.1 costargroup.112.2o7.net
+127.0.0.1 costumersconsulting.org
 127.0.0.1 cotidianul.2cnt.net
 127.0.0.1 cotidianul.count.brat-online.ro
 127.0.0.1 cougarliaisons.com.au
@@ -21614,7 +21615,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dashboard.gumgum.com
 127.0.0.1 dashboard.qubitproducts.com
 127.0.0.1 dashboard.trafficforce.com
-127.0.0.1 dashboard.zopim.com
 127.0.0.1 dasoertl.ivwbox.de
 127.0.0.1 dasretokfin.com
 127.0.0.1 dastelef.ivwbox.de
@@ -25566,7 +25566,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 g.zeroredirect.com
 127.0.0.1 g.zeroredirect1.com
 127.0.0.1 g.zeroredirect2.com
-127.0.0.1 g000gz.com
 127.0.0.1 g1.idg.pl
 127.0.0.1 g2.gumgum.com
 127.0.0.1 g2.us.intellitxt.com
@@ -26361,7 +26360,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gogousenet.com
 127.0.0.1 goi.com
 127.0.0.1 goingplatinum.com
-127.0.0.1 goktashafriyat.com
 127.0.0.1 goku.brightcove.com
 127.0.0.1 gold.monetarystar.net
 127.0.0.1 gold.perfurtorkerhortar.com
@@ -26573,6 +26571,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 graffix.adition.com
 127.0.0.1 graficaexpresion.cl
 127.0.0.1 graficasseryal.com
+127.0.0.1 grafikciden.com
 127.0.0.1 grafix.xxxcounter.com
 127.0.0.1 grafstat.ro
 127.0.0.1 grammarly.go2cloud.org
@@ -26681,6 +26680,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gulf-industrial.com
 127.0.0.1 gulfstream.vo.llnwd.net
 127.0.0.1 gulli.de.intellitxt.com
+127.0.0.1 gullio212y.ddns.net
 127.0.0.1 gulsproductions.com
 127.0.0.1 gumball-tracker.co.uk
 127.0.0.1 guppymedia.com
@@ -29607,7 +29607,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 kczambians.com
 127.0.0.1 kddi.122.2o7.net
 127.0.0.1 kds.ero-advertising.com
-127.0.0.1 keback-se.com
 127.0.0.1 keepaneyeadmk.hit.gemius.pl
 127.0.0.1 keepaneyemk.adocean.pl
 127.0.0.1 keertan.org
@@ -30192,7 +30191,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 lib1.libstat.com
 127.0.0.1 lib4.libstat.com
 127.0.0.1 lib6.libstat.com
-127.0.0.1 libbybrownies.com
 127.0.0.1 libereco.net
 127.0.0.1 liberty.gedads.com
 127.0.0.1 libmedia.net
@@ -35364,7 +35362,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 os.filefactscdn.com
 127.0.0.1 os.scmpacdn.com
 127.0.0.1 os2.alcoholsoftcdn.com
-127.0.0.1 osbelectric.com
 127.0.0.1 osc.optimize.webtrends.com
 127.0.0.1 osc.venetian.com
 127.0.0.1 osc.webroot.com
@@ -36679,7 +36676,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 powellsbooks.122.2o7.net
 127.0.0.1 power-affliate.blogspot.com
 127.0.0.1 poweradvertising.co.uk
-127.0.0.1 powercase.es
 127.0.0.1 powercount.jswelt.de
 127.0.0.1 powered-by.180searchassistant.com
 127.0.0.1 powered-by.seekmo.com
@@ -36861,7 +36857,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 prof.beta.estat.com
 127.0.0.1 prof.estat.com
 127.0.0.1 profero.com
-127.0.0.1 professionaljewelrymerchandising.com
 127.0.0.1 professorbanner.com
 127.0.0.1 proffigurufast.com
 127.0.0.1 profile.bharatmatrimony.com
@@ -39832,6 +39827,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sett.i12.de
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 settingsbucket.s3.amazonaws.com
+127.0.0.1 settlemee.com
 127.0.0.1 setup.adwarealert.com
 127.0.0.1 setup.antispyware.com
 127.0.0.1 setup.malwareremovalbot.com
@@ -40013,7 +40009,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 si.wemfbox.ch
 127.0.0.1 si1.default-homepage-network.com
 127.0.0.1 siads.sv.publicus.com
-127.0.0.1 siamjaguar.com
 127.0.0.1 sic-akamai.33across.com
 127.0.0.1 siccash.com
 127.0.0.1 sichheit.ivwbox.de
@@ -40078,7 +40073,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 singletraining56.247realmedia.com
 127.0.0.1 sinoa.com
 127.0.0.1 sinuatemedia.com
-127.0.0.1 sip1distribution.com
 127.0.0.1 sired.com
 127.0.0.1 sisco.hit.stat.pl
 127.0.0.1 site-checksite.tk
@@ -41864,7 +41858,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sue-headley.us
 127.0.0.1 sue-reale.us
 127.0.0.1 sueddeut.ivwbox.de
-127.0.0.1 sufilokiralama.com
 127.0.0.1 sugar.gameforge.com
 127.0.0.1 suggest.infospace.com
 127.0.0.1 sugoicounter.com
@@ -45550,7 +45543,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 virszigetszallasok.hu
 127.0.0.1 virt0.travel-net.com
 127.0.0.1 virtk01.dus.local.vmsn.de
-127.0.0.1 virtual-equipment.com
 127.0.0.1 virtual-person.com
 127.0.0.1 virtualbartendertrack.beer.com
 127.0.0.1 virtualnet.co.uk
@@ -45565,7 +45557,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 visacom.net
 127.0.0.1 visadd.com
 127.0.0.1 visademo.admaximize.com
-127.0.0.1 visiontuitiongoldcoast.com.au
 127.0.0.1 visistat.com
 127.0.0.1 visit-link.com
 127.0.0.1 visit.dealspwn.com
@@ -47798,7 +47789,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.b1d.org
 127.0.0.1 www.b23.ru
 127.0.0.1 www.b3d.com
-127.0.0.1 www.bab-akustikbau.de
 127.0.0.1 www.baciotti.com
 127.0.0.1 www.backsim.ru
 127.0.0.1 www.backtype.com
@@ -48734,6 +48724,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.dsnrmg.com
 127.0.0.1 www.dsply.com
 127.0.0.1 www.duba.net
+127.0.0.1 www.dubankoolzi.biz
 127.0.0.1 www.duenow.com
 127.0.0.1 www.dummywebsitedatabase.com
 127.0.0.1 www.dustat.com
@@ -49425,7 +49416,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.greatest-store.com
 127.0.0.1 www.greatvalid.com
 127.0.0.1 www.green-tracker.com
-127.0.0.1 www.greenexpress.ge
 127.0.0.1 www.greenfield1.pw
 127.0.0.1 www.gretchen-domino.us
 127.0.0.1 www.gripfile.net
@@ -49463,6 +49453,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.hastrk2.com
 127.0.0.1 www.hastrk3.com
 127.0.0.1 www.hastrk4.com
+127.0.0.1 www.hateks.org
 127.0.0.1 www.hausnet.ru
 127.0.0.1 www.hayley-mund.us
 127.0.0.1 www.hbs-media.com
@@ -50130,7 +50121,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.kliktrek.com
 127.0.0.1 www.klikvip.com
 127.0.0.1 www.klixmedia.com
-127.0.0.1 www.klongwan.go.th
 127.0.0.1 www.km-nyc.com
 127.0.0.1 www.km69.de
 127.0.0.1 www.kmdl101.com
@@ -51592,7 +51582,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.selina-krouse.us
 127.0.0.1 www.sellfy.com
 127.0.0.1 www.sellmeyourtraffic.com
-127.0.0.1 www.semnas.unidar.ac.id
 127.0.0.1 www.semrush.com
 127.0.0.1 www.send-safe.com
 127.0.0.1 www.send4fun.com
@@ -51663,7 +51652,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.shirley-cuadrado.us
 127.0.0.1 www.shirley-rivet.us
 127.0.0.1 www.shockcounter.com
-127.0.0.1 www.shodesh-chemicals.com
 127.0.0.1 www.shonda-nowicki.us
 127.0.0.1 www.shooshtimeinc.com
 127.0.0.1 www.shopathome.com
@@ -51689,7 +51677,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.silveragesoftware.com
 127.0.0.1 www.silvercash.com
 127.0.0.1 www.silvia-maffei.us
-127.0.0.1 www.silwel.or.kr
 127.0.0.1 www.simona-stanford.us
 127.0.0.1 www.simone-longoria.us
 127.0.0.1 www.simonsearch.com
@@ -52639,7 +52626,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.wwwhometime.com
 127.0.0.1 www.wwwivwbox.de
 127.0.0.1 www.wwwthesharperimage.com
-127.0.0.1 www.wydawnictwoasp.pl
 127.0.0.1 www.wyroki.eu
 127.0.0.1 www.wysistat.com
 127.0.0.1 www.x-park.net
@@ -53393,7 +53379,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 xyz.freeweblogger.com
 127.0.0.1 xz.duba.net
 127.0.0.1 xz6h6zj3.com
-127.0.0.1 xzaradesign.nl
 127.0.0.1 xzoomy.com
 127.0.0.1 y.analytics.yahoo.com
 127.0.0.1 y.cdn.adblade.com
