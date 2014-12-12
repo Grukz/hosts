@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53742 ad serving and malware domains.
+# Currently blocking 53741 ad serving and malware domains.
 #
-# Date Generated: Dec 10 2014
+# Date Generated: Dec 12 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -16130,6 +16130,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bomek.com
 127.0.0.1 bonass.net
 127.0.0.1 bongacash.com
+127.0.0.1 bongoszik.com
 127.0.0.1 bonintnewsktarcom.112.2o7.net
 127.0.0.1 bonneville.112.2o7.net
 127.0.0.1 bonnie-schrecengost.us
@@ -16445,6 +16446,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bunte.de.intellitxt.com
 127.0.0.1 buongiorno.go2cloud.org
 127.0.0.1 bupropion-hcl.1.p2l.info
+127.0.0.1 burgerspendingbusiness.kz
 127.0.0.1 burnads.com
 127.0.0.1 burns.adtech.de
 127.0.0.1 burns.adtech.fr
@@ -21989,7 +21991,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dellinc.tt.omtrdc.net
 127.0.0.1 deloo.de
 127.0.0.1 delshikandco.com
-127.0.0.1 delta-chemical.net
 127.0.0.1 delta.rspcdn.com
 127.0.0.1 delta223.homestead.com
 127.0.0.1 deltaairlines.tt.omtrdc.net
@@ -26111,6 +26112,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gfx.infomine.com
 127.0.0.1 gfx.webmasterprofitcenter.com
 127.0.0.1 gfxa.sheetmusicplus.com
+127.0.0.1 gfxtrucks.com
 127.0.0.1 gg.adocean.pl
 127.0.0.1 gg.google.com
 127.0.0.1 gg.hit.gemius.pl
@@ -26685,7 +26687,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 guru.sitescout.netdna-cdn.com
 127.0.0.1 guru3d.us.intellitxt.com
 127.0.0.1 guruads.de
-127.0.0.1 gushante.net
 127.0.0.1 gutefrag.ivwbox.de
 127.0.0.1 gutefrage.de.intellitxt.com
 127.0.0.1 guterrat.ivwbox.de
@@ -28378,7 +28379,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 incoctel.cl
 127.0.0.1 incoming.admaximize.com
 127.0.0.1 incoming.cloud-trax.com
-127.0.0.1 indalusia.com
 127.0.0.1 indepth-registration.net
 127.0.0.1 indexhu.adocean.pl
 127.0.0.1 indexstats.com
@@ -36244,7 +36244,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pitneybowes-www.baynote.net
 127.0.0.1 pittlive.247realmedia.com
 127.0.0.1 pittsburghpostgazette.112.2o7.net
-127.0.0.1 pivetamaqfer.com.br
 127.0.0.1 pivotal.github.com
 127.0.0.1 pivotnetworks.com
 127.0.0.1 pivwbox.de
@@ -39601,6 +39600,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 separtnership.com
 127.0.0.1 serasaexperian.biz
 127.0.0.1 serasaexperian.info
+127.0.0.1 serenachat.ir
 127.0.0.1 serenawilliams.sexybabesx.com
 127.0.0.1 serenescreen-marine-aquarium.en.softonic.com
 127.0.0.1 sergarius.popunder.ru
@@ -39870,7 +39870,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sg-cdn.effectivemeasure.net
 127.0.0.1 sg-ssl.effectivemeasure.net
 127.0.0.1 sg.adserver.yahoo.com
-127.0.0.1 sg.esp.stumblemail.com
 127.0.0.1 sg.winmobi.me
 127.0.0.1 sg.yimg.com
 127.0.0.1 sgb-sy.com
