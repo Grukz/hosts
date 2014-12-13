@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53741 ad serving and malware domains.
+# Currently blocking 53746 ad serving and malware domains.
 #
-# Date Generated: Dec 12 2014
+# Date Generated: Dec 13 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -13977,6 +13977,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bafn.bursttraffic.net
 127.0.0.1 bafn.trafficrevmaster.com
 127.0.0.1 bagslap.com
+127.0.0.1 bakimmarketi.com
 127.0.0.1 bakler.net
 127.0.0.1 bal.ad.dotandad.com
 127.0.0.1 balab.portx.net
@@ -19332,6 +19333,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 context4.kanoodle.com
 127.0.0.1 context5.kanoodle.com
 127.0.0.1 context6.kanoodle.com
+127.0.0.1 contextad.pl
 127.0.0.1 contextlinks.netseer.com
 127.0.0.1 contextuads.com
 127.0.0.1 contextual.media.net
@@ -24209,6 +24211,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fanpop.tags.crwdcntrl.net
 127.0.0.1 fansclub.servehttp.com
 127.0.0.1 fansign.streamray.com
+127.0.0.1 fantasy-radio.net
 127.0.0.1 fanzero.ivwbox.de
 127.0.0.1 fapet.ipb.ac.id
 127.0.0.1 faq-candrive.tk
@@ -24296,6 +24299,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fatfreekitchen.us.intellitxt.com
 127.0.0.1 faz.ivwbox.de
 127.0.0.1 faz.met.vgwort.de
+127.0.0.1 fazemosdireito.com
 127.0.0.1 fb-nym.adnxs.com
 127.0.0.1 fb.cashtraffic.com
 127.0.0.1 fbcdb01.jag.vmsn.de
@@ -51049,6 +51053,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.plasmatvreward.com
 127.0.0.1 www.platinumbucks.com
 127.0.0.1 www.playertraffic.com
+127.0.0.1 www.plazaciudadjardin.mx
 127.0.0.1 www.plug-media.com
 127.0.0.1 www.plus500.com
 127.0.0.1 www.pmediatrack.com
