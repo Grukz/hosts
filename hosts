@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53405 ad serving and malware domains.
+# Currently blocking 53402 ad serving and malware domains.
 #
-# Date Generated: Dec 15 2014
+# Date Generated: Dec 17 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1773,7 +1773,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 BonusCashh.com
 127.0.0.1 Iframecash.biz
 127.0.0.1 TWE876-SITE0011.MaxEsp.net
-127.0.0.1 Table
 127.0.0.1 TheBizMeet.com
 127.0.0.1 ___id___.c.mystat-in.net
 127.0.0.1 _thums.ero-advertising.com
@@ -1874,7 +1873,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.insidepokermag.co.uk
 127.0.0.1 a.intentmedia.net
 127.0.0.1 a.intgr.net
-127.0.0.1 a.intsig.net
 127.0.0.1 a.iogous.com
 127.0.0.1 a.itpro.co.uk
 127.0.0.1 a.jumptap.com
@@ -13056,7 +13054,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.innomdc.com
 127.0.0.1 api.instantdollarz.com
 127.0.0.1 api.intensifier.de
-127.0.0.1 api.intsig.net
 127.0.0.1 api.ipinfodb.com
 127.0.0.1 api.keen.io
 127.0.0.1 api.kiip.me
@@ -16782,7 +16779,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.sexcounter.com
 127.0.0.1 c.sg.msn.com
 127.0.0.1 c.smartclick.net
-127.0.0.1 c.speedtest.net
 127.0.0.1 c.spiegel.de
 127.0.0.1 c.statcounter.com
 127.0.0.1 c.supert.ag
@@ -22588,7 +22584,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 download.grandcloud.cn
 127.0.0.1 download.happytofind.com
 127.0.0.1 download.hitbox.com
-127.0.0.1 download.intsig.net
 127.0.0.1 download.kazaa.com
 127.0.0.1 download.live-player.com
 127.0.0.1 download.macrovirus.com
@@ -25403,6 +25398,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 froggytest.fr.intellitxt.com
 127.0.0.1 frogsthemes.go2cloud.org
 127.0.0.1 froling.bee.pl
+127.0.0.1 from.rovion.com
 127.0.0.1 fromru.su
 127.0.0.1 front.adproved.net
 127.0.0.1 front.facetz.net
@@ -39081,6 +39077,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 search-revealed.com
 127.0.0.1 search-reveals.com
 127.0.0.1 search-safe.com
+127.0.0.1 search-tracker.com
 127.0.0.1 search.addthis.com
 127.0.0.1 search.brainfox.com
 127.0.0.1 search.clicksor.com
@@ -41012,7 +41009,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.salesresourcepartners.com
 127.0.0.1 static.scanscout.com
 127.0.0.1 static.sex-explorer.com
-127.0.0.1 static.shorte.st
 127.0.0.1 static.skimlinks.com
 127.0.0.1 static.slfpu.com
 127.0.0.1 static.smni.com
@@ -41365,7 +41361,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 stats.surf-town.net
 127.0.0.1 stats.surfaid.ihost.com
 127.0.0.1 stats.svpply.com
-127.0.0.1 stats.t-online.de
 127.0.0.1 stats.technopia.it
 127.0.0.1 stats.teledyski.info
 127.0.0.1 stats.telegraph.co.uk
@@ -49476,6 +49471,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.isearch.com
 127.0.0.1 www.islamic-banners.com
 127.0.0.1 www.isoftmarketing.com
+127.0.0.1 www.isolectra.com.sg
 127.0.0.1 www.ispeakvideo.com
 127.0.0.1 www.ist-track.com
 127.0.0.1 www.istats.nl
@@ -51138,6 +51134,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.search-revealed.com
 127.0.0.1 www.search-reveals.com
 127.0.0.1 www.search-safe.com
+127.0.0.1 www.search-tracker.com
 127.0.0.1 www.search.us.com
 127.0.0.1 www.search123.com
 127.0.0.1 www.searchacross.com
