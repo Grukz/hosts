@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53402 ad serving and malware domains.
+# Currently blocking 53407 ad serving and malware domains.
 #
-# Date Generated: Dec 17 2014
+# Date Generated: Dec 18 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -12701,6 +12701,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 andr.com
 127.0.0.1 andr.net
 127.0.0.1 andre-larimore.us
+127.0.0.1 andreyzakharov.com
 127.0.0.1 andria-beebe.us
 127.0.0.1 android-hilfe.de.adadapter.netzathleten-media.de
 127.0.0.1 android-hilfe.de.intellitxt.com
@@ -13711,6 +13712,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 auslieferung.commindo-media-ressourcen.de
 127.0.0.1 auspice.augur.io
 127.0.0.1 austin2011.appstores.com
+127.0.0.1 austr-post.net
 127.0.0.1 australia-citizenshiptest.com
 127.0.0.1 australiapost.122.2o7.net
 127.0.0.1 austria-car-rental.findworm.net
@@ -33155,6 +33157,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 my-etracker.com
 127.0.0.1 my-reward-channel.com
 127.0.0.1 my-rewardsvault.com
+127.0.0.1 my-screenshot.net
 127.0.0.1 my-street.fr
 127.0.0.1 my-tds.net
 127.0.0.1 my-web1.tk
@@ -46245,6 +46248,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 whistleout.s3.amazonaws.com
 127.0.0.1 white.sexer.com
 127.0.0.1 whitecastle.122.2o7.net
+127.0.0.1 whitehorsetechnologies.net
 127.0.0.1 whitney-swindell.us
 127.0.0.1 whitney-whittenburg.us
 127.0.0.1 who.knows.com
@@ -50132,6 +50136,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.masterspace.biz
 127.0.0.1 www.mastertracks.be
 127.0.0.1 www.matchbin.com
+127.0.0.1 www.matecocinas.com
 127.0.0.1 www.mathtag.com
 127.0.0.1 www.matomy.com
 127.0.0.1 www.matomybranches.com
