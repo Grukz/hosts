@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53986 ad serving and malware domains.
+# Currently blocking 53973 ad serving and malware domains.
 #
-# Date Generated: Dec 21 2014
+# Date Generated: Dec 22 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2530,7 +2530,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ac9d98.r.axf8.net
 127.0.0.1 aca.ninemsn.com
 127.0.0.1 acac7.home4u.china.com
-127.0.0.1 acambaroradio.com
 127.0.0.1 acasatv.2cnt.net
 127.0.0.1 acbacb9c.ipt.aol.com
 127.0.0.1 acbnews.com
@@ -12069,7 +12068,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 aircanad.com
 127.0.0.1 aircanadaca.com
 127.0.0.1 aircananda.com
-127.0.0.1 airfilter.com.br
 127.0.0.1 airjamacia.com
 127.0.0.1 airlanes.com
 127.0.0.1 airline-ticket.gloses.net
@@ -12156,6 +12154,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 albertarodeo.com
 127.0.0.1 albinoblacksheep.us.intellitxt.com
 127.0.0.1 albionmedical.com
+127.0.0.1 albrecht-pie.net
 127.0.0.1 albullansa.com
 127.0.0.1 albumgirl.com
 127.0.0.1 alclick.com
@@ -14644,6 +14643,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bankiru.go2cloud.org
 127.0.0.1 bankofamerica.tt.omtrdc.net
 127.0.0.1 bankrate.112.2o7.net
+127.0.0.1 bankstaff.com
 127.0.0.1 bankwest.112.2o7.net
 127.0.0.1 banman.cz
 127.0.0.1 banman.isoftmarketing.com
@@ -15562,7 +15562,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bardiscover.com
 127.0.0.1 bardownload.com
 127.0.0.1 bardzomedia.com
-127.0.0.1 barekpaint.com
 127.0.0.1 bargainbeautybuys.com
 127.0.0.1 bargainpda.us.intellitxt.com
 127.0.0.1 bargainracks.co.uk
@@ -15917,6 +15916,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 biba05.ru
 127.0.0.1 bibamovs.com
 127.0.0.1 bibleanswers4u.com
+127.0.0.1 biblioteca.unac.edu.co
 127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 bid.openx.net
 127.0.0.1 bid.socdm.com
@@ -22144,7 +22144,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 demimoore.sexybabesx.com
 127.0.0.1 demimoorenude.1stOK.com
 127.0.0.1 demisoft.altervista.org
-127.0.0.1 demlogz2014.co.in
 127.0.0.1 demo.adsender.us
 127.0.0.1 demo.advertising.com
 127.0.0.1 demo.exapps.com
@@ -23236,7 +23235,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 econda.web.de
 127.0.0.1 economica.2cnt.net
 127.0.0.1 economisttestcollect.insightfirst.com
-127.0.0.1 economyweb.com.br
 127.0.0.1 ecoupons.com
 127.0.0.1 ecoverage.go2cloud.org
 127.0.0.1 ecpm.adbooth.com
@@ -26345,6 +26343,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 global.reporo.net
 127.0.0.1 global.ymtrack.com
 127.0.0.1 globalismedia.com
+127.0.0.1 globalplus1.in
 127.0.0.1 globaltakeoff.net
 127.0.0.1 globaltargets.go2cloud.org
 127.0.0.1 globaltrack.com
@@ -27405,7 +27404,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 horoscope.us.intellitxt.com
 127.0.0.1 horse-racing-affiliate-program.co.uk
 127.0.0.1 hos1.cnzz.com
-127.0.0.1 hosebass.myhostpoint.ch
 127.0.0.1 host-tracker.com
 127.0.0.1 host.leadbolt.com
 127.0.0.1 host003.jag.vmsn.de
@@ -28456,7 +28454,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 impressionmedia.cz
 127.0.0.1 impressionperformance.biz
 127.0.0.1 impressionz.co.uk
-127.0.0.1 imprimamais.com
 127.0.0.1 impru.tradedoubler.com
 127.0.0.1 imprusmp.admailtiser.com
 127.0.0.1 impse.tradedoubler.com
@@ -29392,7 +29389,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 job-compuse.tk
 127.0.0.1 job-online.petrovka.info
 127.0.0.1 jobclicks.net
-127.0.0.1 jobentdal.com
 127.0.0.1 jobfeeds.coroflot.com
 127.0.0.1 jobkeys.ngadcenter.net
 127.0.0.1 joblo.us.intellitxt.com
@@ -29787,7 +29783,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 kendra-nason.us
 127.0.0.1 kenneth-pontius.us
 127.0.0.1 kentsucks.youcanoptout.com
-127.0.0.1 kenyawebonline.co.ke
 127.0.0.1 kepler.cometsystems.com
 127.0.0.1 keri-arneson.us
 127.0.0.1 keri-maye.us
@@ -31106,7 +31101,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 louise-poulsen.us
 127.0.0.1 louisvil.app.ur.gcion.com
 127.0.0.1 louisvil.ur.gcion.com
-127.0.0.1 lourencovilaca.com
 127.0.0.1 lovecam.com.br
 127.0.0.1 loved-by.s3.amazonaws.com
 127.0.0.1 lovefreegames.aavalue.com
@@ -36150,7 +36144,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pebble-adhese.gva.be
 127.0.0.1 pebble-adhese.hbvl.be
 127.0.0.1 pebble.bnex.com
-127.0.0.1 pedecamisa.com.br
 127.0.0.1 peel.spacash.com
 127.0.0.1 peel.webmasterprofitcenter.com
 127.0.0.1 peelads.hustler.com
@@ -45912,7 +45905,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 vtrtl.de
 127.0.0.1 vu.adschoom.com
 127.0.0.1 vu.veoxa.com
-127.0.0.1 vueprivee.com
 127.0.0.1 vug.in
 127.0.0.1 vulcan.doublepimp.com
 127.0.0.1 vungle.com
@@ -46222,7 +46214,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 wahyufian.zoomshare.com
 127.0.0.1 waipdns.ru
 127.0.0.1 waiwidgets-1246822334.eu-west-1.elb.amazonaws.com
-127.0.0.1 wakesho.co.ke
 127.0.0.1 waldenfarms.com
 127.0.0.1 walgrns.112.2o7.net
 127.0.0.1 walkthedinosaur.com
@@ -47770,7 +47761,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.afftrackinglinks.com
 127.0.0.1 www.afftrackr.com
 127.0.0.1 www.afiliati.ro
-127.0.0.1 www.africartisanat.com
 127.0.0.1 www.afterdownload.com
 127.0.0.1 www.afterview.ru
 127.0.0.1 www.agata-lillard.us
@@ -47899,7 +47889,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.april-wilcoxon.us
 127.0.0.1 www.aptrafficnetwork.com
 127.0.0.1 www.apture.com
-127.0.0.1 www.arabiaholding.com
 127.0.0.1 www.arasana.info
 127.0.0.1 www.arbeitssuche-web.de
 127.0.0.1 www.arcadebanners.com
@@ -51084,7 +51073,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ojolink.com
 127.0.0.1 www.ojrq.net
 127.0.0.1 www.oksrv.com
-127.0.0.1 www.oldscool.co.za
 127.0.0.1 www.olivia-dibenedetto.us
 127.0.0.1 www.olizyr.com
 127.0.0.1 www.omarsys.com
@@ -53730,7 +53718,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 yoggrt.com
 127.0.0.1 yorick.adjuggler.net
 127.0.0.1 yosba.com
-127.0.0.1 yothin.ac.th
 127.0.0.1 you2mail.com
 127.0.0.1 youaresogay.com
 127.0.0.1 youcanoptout.com
