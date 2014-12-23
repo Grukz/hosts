@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53973 ad serving and malware domains.
+# Currently blocking 53978 ad serving and malware domains.
 #
-# Date Generated: Dec 22 2014
+# Date Generated: Dec 23 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18176,7 +18176,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 chgwyndham.112.2o7.net
 127.0.0.1 chicagosuntimes.122.2o7.net
 127.0.0.1 chiemgau.ivwbox.de
-127.0.0.1 chikitnna.net
 127.0.0.1 childhe.com
 127.0.0.1 children.quintessentiallivingmagazine.com
 127.0.0.1 chillout.real.com
@@ -26343,7 +26342,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 global.reporo.net
 127.0.0.1 global.ymtrack.com
 127.0.0.1 globalismedia.com
-127.0.0.1 globalplus1.in
 127.0.0.1 globaltakeoff.net
 127.0.0.1 globaltargets.go2cloud.org
 127.0.0.1 globaltrack.com
@@ -28404,6 +28402,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 immanalytics.com
 127.0.0.1 immassets.s3.amazonaws.com
 127.0.0.1 immediateresponseforcomputer.com
+127.0.0.1 immigrationvisaexpert.com
 127.0.0.1 immosct.wemfbox.ch
 127.0.0.1 imnotobsessed.us.intellitxt.com
 127.0.0.1 imonitor.dhgate.com
@@ -33111,6 +33110,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mochiads.com
 127.0.0.1 mochibot.com
 127.0.0.1 mockups.cometsystems.com
+127.0.0.1 modeladoresdoronmg.com.br
 127.0.0.1 modelatos.com
 127.0.0.1 modemspeedbooster.com
 127.0.0.1 moderninstalls.go2cloud.org
@@ -39690,6 +39690,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 securepaths.com
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 securerunner.com
+127.0.0.1 securestudies.com
 127.0.0.1 securetabs.com
 127.0.0.1 securetalk.cwsurf.de
 127.0.0.1 securetracking.traffikcntr.com
@@ -46808,6 +46809,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 widgets.vinsight.de
 127.0.0.1 widgetssec.cam-content.com
 127.0.0.1 widgettool.net
+127.0.0.1 wieistmeineip.de
 127.0.0.1 wigetmedia.com
 127.0.0.1 wiggum.int.vmsn.de
 127.0.0.1 wiggum.ixn.local.vmsn.de
@@ -49632,6 +49634,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.guesstheview.com
 127.0.0.1 www.guestbook.superstats.com
 127.0.0.1 www.guid.org
+127.0.0.1 www.gulflinecargointernational.com
 127.0.0.1 www.gulsproductions.com
 127.0.0.1 www.guptamedianetwork.com
 127.0.0.1 www.gxplugin.com
@@ -51753,6 +51756,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.securecontactinfo.com
 127.0.0.1 www.securepaths.com
 127.0.0.1 www.securerunner.com
+127.0.0.1 www.securestudies.com
 127.0.0.1 www.securetabs.com
 127.0.0.1 www.securetracking2.com
 127.0.0.1 www.securetraklink.com
@@ -52774,6 +52778,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.widgetcontent.net
 127.0.0.1 www.widgetdigital.info
 127.0.0.1 www.widgettool.net
+127.0.0.1 www.wieistmeineip.de
 127.0.0.1 www.wigetmedia.com
 127.0.0.1 www.wigglewoo.com
 127.0.0.1 www.wildarcade.com
