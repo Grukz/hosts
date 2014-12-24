@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53978 ad serving and malware domains.
+# Currently blocking 53994 ad serving and malware domains.
 #
-# Date Generated: Dec 23 2014
+# Date Generated: Dec 24 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -17634,6 +17634,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.brsrvr.com
 127.0.0.1 cdn.buysellads.com
 127.0.0.1 cdn.callrail.com
+127.0.0.1 cdn.castplatform.com
 127.0.0.1 cdn.cdnco.us
 127.0.0.1 cdn.cdncomputer.com
 127.0.0.1 cdn.celtra.com
@@ -18342,6 +18343,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 classifiedscanada.112.2o7.net
 127.0.0.1 classmates.com
 127.0.0.1 classmatescom.112.2o7.net
+127.0.0.1 claudiomauricio.com
 127.0.0.1 claxonmedia.com
 127.0.0.1 clck.webteaser.ru
 127.0.0.1 clck.yandex.by
@@ -20978,6 +20980,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cpainfinity.com
 127.0.0.1 cpajizz.go2cloud.org
 127.0.0.1 cpalead.com
+127.0.0.1 cpaprohits.com
 127.0.0.1 cparevenue.go2cloud.org
 127.0.0.1 cparussia.go2cloud.org
 127.0.0.1 cpasaw.go2cloud.org
@@ -24339,6 +24342,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 familyupport1.com
 127.0.0.1 famososvideo.com
 127.0.0.1 famous-pics.com
+127.0.0.1 famouspoint.com.hk
 127.0.0.1 famut.com
 127.0.0.1 famvir.1.p2l.info
 127.0.0.1 fan.twitch.tv
@@ -28835,6 +28839,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 iph.go2cloud.org
 127.0.0.1 iphone.mobpartner.mobi
 127.0.0.1 iphone.superfish.com
+127.0.0.1 iphrenkos.com
 127.0.0.1 ipigz.com
 127.0.0.1 ipinvite.iperceptions.com
 127.0.0.1 ipinyou.com.cn
@@ -29577,6 +29582,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 juana-bloodworth.us
 127.0.0.1 juana-gribble.us
 127.0.0.1 juanadearco.com.uy
+127.0.0.1 juanoylosinternos.cl
 127.0.0.1 jubdk.nuggad.net
 127.0.0.1 judicated.com
 127.0.0.1 judith-whitbeck.us
@@ -37896,6 +37902,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 reco.hardsextube.com
 127.0.0.1 recommendation.24.com
 127.0.0.1 recommendations.shareaholic.com
+127.0.0.1 recommendedpreview.com
 127.0.0.1 recon.bleacherreport.com
 127.0.0.1 record.affiliatelounge.com
 127.0.0.1 record.commissionking.com
@@ -39668,6 +39675,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 secure.signup-processor.com
 127.0.0.1 secure.signup-way.com
 127.0.0.1 secure.statcounter.com
+127.0.0.1 secure.testoxl.com
 127.0.0.1 secure.trafficmp.com
 127.0.0.1 secure.uac.advertising.com
 127.0.0.1 secure.vxsbill.com
@@ -42793,6 +42801,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 teensparty.net
 127.0.0.1 teeny.dyndns.info
 127.0.0.1 teeser.ru
+127.0.0.1 teethbow.in
 127.0.0.1 tei.fivemillionfriends.com
 127.0.0.1 teknosurf.com
 127.0.0.1 teknosurf2.com
@@ -45314,6 +45323,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 uv.terra.com.br
 127.0.0.1 uvwbox.de
 127.0.0.1 uwsnurse.com
+127.0.0.1 v-speedautoimport.com
 127.0.0.1 v.bsvideos.com
 127.0.0.1 v.chartboost.com
 127.0.0.1 v.crtcdn.net
@@ -48096,6 +48106,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.bibamovs.com
 127.0.0.1 www.bidclix.com
 127.0.0.1 www.bidclix.net
+127.0.0.1 www.bidronvillemarket.com
 127.0.0.1 www.bidtraffic.com
 127.0.0.1 www.bidvertiser.com
 127.0.0.1 www.bigad.com.au
@@ -48662,6 +48673,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.cpainfinity.com
 127.0.0.1 www.cpalead.com
 127.0.0.1 www.cpalist.com
+127.0.0.1 www.cpaprohits.com
 127.0.0.1 www.cpatrac.com
 127.0.0.1 www.cpatrackr.com
 127.0.0.1 www.cpays.com
@@ -49181,6 +49193,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.fastonlinefinder.com
 127.0.0.1 www.fastusersonline.com
 127.0.0.1 www.fatcatrewards.com
+127.0.0.1 www.fatherokokoinc.com
 127.0.0.1 www.fatpenguinmedia.com
 127.0.0.1 www.favicon.com
 127.0.0.1 www.favourlinks.net
@@ -51495,6 +51508,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.realtracker.com
 127.0.0.1 www.rebeccacella.com
 127.0.0.1 www.rebrandsoftware.com
+127.0.0.1 www.recommendedpreview.com
 127.0.0.1 www.recorded-email.com
 127.0.0.1 www.recreation-leisure-rewardpath.com
 127.0.0.1 www.recreativ.ru
@@ -52287,6 +52301,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.tlvmedia.com
 127.0.0.1 www.tmpjmp.com
 127.0.0.1 www.tns-counter.ru
+127.0.0.1 www.todobingo.info
 127.0.0.1 www.tojoh.info
 127.0.0.1 www.tons-to-see.com
 127.0.0.1 www.tonya-chabot.us
@@ -52508,6 +52523,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.tutop.com
 127.0.0.1 www.tuttosessogratis.org
 127.0.0.1 www.tv69.com
+127.0.0.1 www.tvergeneration.ru
 127.0.0.1 www.tvnews.or.kr
 127.0.0.1 www.tvshowslist.com
 127.0.0.1 www.tvsquad.com
