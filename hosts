@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53994 ad serving and malware domains.
+# Currently blocking 53986 ad serving and malware domains.
 #
-# Date Generated: Dec 24 2014
+# Date Generated: Dec 26 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2530,6 +2530,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ac9d98.r.axf8.net
 127.0.0.1 aca.ninemsn.com
 127.0.0.1 acac7.home4u.china.com
+127.0.0.1 acambaroradio.com
 127.0.0.1 acasatv.2cnt.net
 127.0.0.1 acbacb9c.ipt.aol.com
 127.0.0.1 acbnews.com
@@ -19585,7 +19586,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 costumersconsulting.org
 127.0.0.1 cotidianul.2cnt.net
 127.0.0.1 cotidianul.count.brat-online.ro
-127.0.0.1 cougarliaisons.com.au
 127.0.0.1 couhome.112.2o7.net
 127.0.0.1 coull.com
 127.0.0.1 coull.go2cloud.org
@@ -22484,7 +22484,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 djeps.popunder.ru
 127.0.0.1 djibeacon.djns.com
 127.0.0.1 djlf5xdlz7m8m.cloudfront.net
-127.0.0.1 djonken.se
 127.0.0.1 djoy-dev.91.com
 127.0.0.1 djugoogs.com
 127.0.0.1 dk.adserver.yahoo.com
@@ -26555,7 +26554,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleads2.g.doubleclick.net
 127.0.0.1 googleadservices.com
-127.0.0.1 googlecardboardapp.com
 127.0.0.1 googlemaps4.com
 127.0.0.1 googlenews.xorg.pl
 127.0.0.1 googlepetkavanis4.pw
@@ -26597,7 +26595,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gotphaze.com
 127.0.0.1 gotta-find.com
 127.0.0.1 gottabemobile.us.intellitxt.com
-127.0.0.1 gourmetfood.se
 127.0.0.1 gourmetgiftbaskets.112.2o7.net
 127.0.0.1 gourmetpuma.com
 127.0.0.1 goviral.com
@@ -28839,7 +28836,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 iph.go2cloud.org
 127.0.0.1 iphone.mobpartner.mobi
 127.0.0.1 iphone.superfish.com
-127.0.0.1 iphrenkos.com
 127.0.0.1 ipigz.com
 127.0.0.1 ipinvite.iperceptions.com
 127.0.0.1 ipinyou.com.cn
@@ -29996,7 +29992,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 kt4.kliptracker.com
 127.0.0.1 ktu.sv2.biz
 127.0.0.1 ktva.112.2o7.net
-127.0.0.1 ktvarzi.com
 127.0.0.1 kuad.kusogi.com
 127.0.0.1 kudika.2cnt.net
 127.0.0.1 kuhdi.com
@@ -30149,6 +30144,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 laurie-emberton.us
 127.0.0.1 laurie-slocumb.us
 127.0.0.1 laut.ivwbox.de
+127.0.0.1 lavljesrce.com
 127.0.0.1 law-enforcement-ocr.bahosss.ru
 127.0.0.1 lax04s08-in-f1.1e100.net
 127.0.0.1 lax04s08-in-f10.1e100.net
@@ -30354,6 +30350,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 libs.de.coremetrics.com
 127.0.0.1 libstat.com
 127.0.0.1 license20121011.getjar.com
+127.0.0.1 liceodepartamental.edu.co
 127.0.0.1 lickscloombsfills.us
 127.0.0.1 liczniki.org
 127.0.0.1 liderbombasinjetoras.com
@@ -31944,7 +31941,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mayki.studentlar.ru
 127.0.0.1 mayra-demps.us
 127.0.0.1 mazdaworld.us.intellitxt.com
-127.0.0.1 mazosin.com
 127.0.0.1 mb.5.p2l.info
 127.0.0.1 mb.datingadzone.com
 127.0.0.1 mb.hockeybuzz.com
@@ -32440,7 +32436,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 metacount.com
 127.0.0.1 metaffiliation.com
 127.0.0.1 metagaua.hit.gemius.pl
-127.0.0.1 metamorfoze.be
 127.0.0.1 metanetwork.com
 127.0.0.1 metartmoney.met-art.com
 127.0.0.1 meter-svc.nytimes.com
@@ -33130,6 +33125,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mojoworks.snv.mediaplex.com
 127.0.0.1 mokono.com
 127.0.0.1 mola77.mobilenobo.com
+127.0.0.1 molchtoohookeiieree.com
 127.0.0.1 mollie-nickell.us
 127.0.0.1 mollie-patino.us
 127.0.0.1 mollie-swearengin.us
@@ -36187,7 +36183,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 perfectionautorepairs.com
 127.0.0.1 perfectnav.com
 127.0.0.1 perfiliate.com
-127.0.0.1 performajant.com
 127.0.0.1 performance.affiliaxe.com
 127.0.0.1 performancerevenues.com
 127.0.0.1 performances.bestofmedia.com
@@ -39101,7 +39096,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sact.atdmt.com
 127.0.0.1 sad.sharethis.com
 127.0.0.1 sad1.adriver.ru
-127.0.0.1 sadabaharfoods.com
 127.0.0.1 sadie-dimick.us
 127.0.0.1 sadie-gwaltney.us
 127.0.0.1 sadiqtv.com
@@ -39145,6 +39139,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sana.newsinc.com.s3.amazonaws.com
 127.0.0.1 sand-01.adnxs.com
 127.0.0.1 sandbox-elb.beintoo.com
+127.0.0.1 sandokan66.no-ip.info
 127.0.0.1 sandra-tester.us
 127.0.0.1 sandra.sexybabesx.com
 127.0.0.1 saniamirza.sexybabesx.com
@@ -42801,7 +42796,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 teensparty.net
 127.0.0.1 teeny.dyndns.info
 127.0.0.1 teeser.ru
-127.0.0.1 teethbow.in
 127.0.0.1 tei.fivemillionfriends.com
 127.0.0.1 teknosurf.com
 127.0.0.1 teknosurf2.com
@@ -45051,6 +45045,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 um.simpli.fi
 127.0.0.1 umathurman.sexybabesx.com
 127.0.0.1 umbs.ero-advertising.com
+127.0.0.1 umitseramik.com
 127.0.0.1 ums.adtechus.com
 127.0.0.1 unadvertising.info
 127.0.0.1 unalbilgisayar.com
@@ -48055,7 +48050,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.bardzomedia.com
 127.0.0.1 www.bargainbeautybuys.com
 127.0.0.1 www.barilliance.net
-127.0.0.1 www.barin.co
 127.0.0.1 www.basecinco.com.ar
 127.0.0.1 www.bauka.kz
 127.0.0.1 www.baypops.com
@@ -50382,7 +50376,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.laptoprewardsgroup.com
 127.0.0.1 www.laptoprewardszone.com
 127.0.0.1 www.larivieracasino.com
-127.0.0.1 www.lasdeliciasdelmaiz.com
 127.0.0.1 www.lasthr.info
 127.0.0.1 www.laugh-mail.com
 127.0.0.1 www.laugh-mail.net
@@ -53464,7 +53457,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 x6.xclicks.net
 127.0.0.1 x6.yakiuchi.com
 127.0.0.1 x6.yamanoha.com
-127.0.0.1 x65cr13.com
 127.0.0.1 x6x.a.la
 127.0.0.1 x7.hebiichigo.com
 127.0.0.1 x7.ifdef.jp
@@ -53600,6 +53592,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 xtra.co.nz
 127.0.0.1 xtransfer.net
 127.0.0.1 xtremetop100.com
+127.0.0.1 xtremetrax.com.au
 127.0.0.1 xvrxyzba253.hotmail.ru
 127.0.0.1 xwne.wcdn.co.il
 127.0.0.1 xxx-mom.com
@@ -53904,7 +53897,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 zdnet.ivwbox.de
 127.0.0.1 zeads.com
 127.0.0.1 zebutal.1.p2l.info
-127.0.0.1 zedlabs.co.uk
 127.0.0.1 zedo.com
 127.0.0.1 zedoadnetwork.com
 127.0.0.1 zedoadservices.com
