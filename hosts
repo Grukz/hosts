@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53986 ad serving and malware domains.
+# Currently blocking 53993 ad serving and malware domains.
 #
-# Date Generated: Dec 26 2014
+# Date Generated: Dec 27 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -13668,6 +13668,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 athena-dirksen.us
 127.0.0.1 atinternet.com
 127.0.0.1 ativan.ourtablets.com
+127.0.0.1 ativussport.com
 127.0.0.1 atkins.vo.llnwd.net
 127.0.0.1 atl.mv.bidsystem.com
 127.0.0.1 atl.whitepages.com
@@ -20664,7 +20665,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 counter.aport.ru
 127.0.0.1 counter.asexhound.com
 127.0.0.1 counter.avp2000.com
-127.0.0.1 counter.avtoindex.com
 127.0.0.1 counter.awempire.com
 127.0.0.1 counter.bigli.ru
 127.0.0.1 counter.bizland.com
@@ -23929,6 +23929,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 espritshopchssl.webtrekk.net
 127.0.0.1 esquare.go2cloud.org
 127.0.0.1 essen-und-trinken.de.intellitxt.com
+127.0.0.1 estaciondiaynoche.com
 127.0.0.1 estadisticas.lanacion.com.ar
 127.0.0.1 estadonline.publiguias.cl
 127.0.0.1 estat.chez.com
@@ -26344,6 +26345,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 global.msads.net
 127.0.0.1 global.reporo.net
 127.0.0.1 global.ymtrack.com
+127.0.0.1 globalgroomers.com
 127.0.0.1 globalismedia.com
 127.0.0.1 globaltakeoff.net
 127.0.0.1 globaltargets.go2cloud.org
@@ -26840,6 +26842,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gutefrag.ivwbox.de
 127.0.0.1 gutefrage.de.intellitxt.com
 127.0.0.1 guterrat.ivwbox.de
+127.0.0.1 guvencelikimalat.com
 127.0.0.1 guyism.us.intellitxt.com
 127.0.0.1 guys.cometsystems.com
 127.0.0.1 guyscards.com
@@ -32357,6 +32360,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 meetupdev.122.2o7.net
 127.0.0.1 mega-e.org
 127.0.0.1 mega-traf.net
+127.0.0.1 megacash.de
 127.0.0.1 megacash.warpnet.com.br
 127.0.0.1 megacounter.de
 127.0.0.1 megafriends.com
@@ -33125,6 +33129,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mojoworks.snv.mediaplex.com
 127.0.0.1 mokono.com
 127.0.0.1 mola77.mobilenobo.com
+127.0.0.1 molchtkanuretesere.com
 127.0.0.1 molchtoohookeiieree.com
 127.0.0.1 mollie-nickell.us
 127.0.0.1 mollie-patino.us
@@ -39099,7 +39104,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sadie-dimick.us
 127.0.0.1 sadie-gwaltney.us
 127.0.0.1 sadiqtv.com
-127.0.0.1 sadmin.brightcove.com
 127.0.0.1 sadv.dadapro.com
 127.0.0.1 saemark.is
 127.0.0.1 safaribooks.112.2o7.net
@@ -39635,7 +39639,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 secure.avangate.com
 127.0.0.1 secure.bidvertiser.com
 127.0.0.1 secure.bidvertiserr.com
-127.0.0.1 secure.brightcove.com
 127.0.0.1 secure.cardtransaction.com
 127.0.0.1 secure.carpediem.fr
 127.0.0.1 secure.chronopay.com
@@ -42622,6 +42625,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tatsumi-sys.jp
 127.0.0.1 tattoobest.com
 127.0.0.1 tattooshaha.info
+127.0.0.1 tavrossamsunotel.com
 127.0.0.1 tavuks.com
 127.0.0.1 tawny-joiner.us
 127.0.0.1 taz.ivwbox.de
@@ -48113,6 +48117,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.bigpenisguide.com
 127.0.0.1 www.bigsister-puff.cxa.de
 127.0.0.1 www.bigsister.cxa.de
+127.0.0.1 www.bilbobaggins.comxa.com
 127.0.0.1 www.bilder-upload.eu
 127.0.0.1 www.bill-info.com
 127.0.0.1 www.bimm.in
@@ -51874,6 +51879,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.shockcounter.com
 127.0.0.1 www.shonda-nowicki.us
 127.0.0.1 www.shooshtimeinc.com
+127.0.0.1 www.shop-ink.it
 127.0.0.1 www.shopathome.com
 127.0.0.1 www.shopexplorer.com
 127.0.0.1 www.shopnav.com
@@ -52373,6 +52379,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.tpt.edu.in
 127.0.0.1 www.tqlkg.com
 127.0.0.1 www.tr100.net
+127.0.0.1 www.tr100.org.gridhosted.co.uk
 127.0.0.1 www.tracemyip.org
 127.0.0.1 www.traceworks.com
 127.0.0.1 www.traci-sirianni.us
