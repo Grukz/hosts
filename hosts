@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53965 ad serving and malware domains.
+# Currently blocking 53972 ad serving and malware domains.
 #
-# Date Generated: Dec 28 2014
+# Date Generated: Dec 30 2014
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1619,6 +1619,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 75tz.com
 127.0.0.1 76.6.87.194.dynamic.dol.ru
 127.0.0.1 76.a.boom.ro
+127.0.0.1 76tguy6hh6tgftrt7tg.su
 127.0.0.1 77.6.87.194.dynamic.dol.ru
 127.0.0.1 77266.hittail.com
 127.0.0.1 777-best-online-casinos.com
@@ -12099,6 +12100,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ak.imgfarm.com
 127.0.0.1 ak.linkstorm.net
 127.0.0.1 ak.maxserving.com
+127.0.0.1 ak.meelk.com.ua
 127.0.0.1 ak.p.openx.net
 127.0.0.1 ak.pipoffers.apnpartners.com
 127.0.0.1 ak.quantcast.com
@@ -17716,7 +17718,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.intermarkets.net
 127.0.0.1 cdn.investingchannel.com
 127.0.0.1 cdn.ip.inpwrd.com
-127.0.0.1 cdn.jsdelivr.net
 127.0.0.1 cdn.justonecookbook.com
 127.0.0.1 cdn.kikuzip.com
 127.0.0.1 cdn.kixer.com
@@ -23754,6 +23755,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 enirodk.adtlgc.com
 127.0.0.1 enjoyspringtime.com
 127.0.0.1 enjoytraffic.com
+127.0.0.1 enkantusnoivas.com.br
 127.0.0.1 enlightenment.secureshoppingbasket.com
 127.0.0.1 enlistingseparated.com
 127.0.0.1 enliven.org
@@ -33116,7 +33118,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mojoworks.snv.mediaplex.com
 127.0.0.1 mokono.com
 127.0.0.1 mola77.mobilenobo.com
-127.0.0.1 molchtkanuretesere.com
 127.0.0.1 molchtoohookeiieree.com
 127.0.0.1 mollie-nickell.us
 127.0.0.1 mollie-patino.us
@@ -37389,6 +37390,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pussygreen.com
 127.0.0.1 putbid.net
 127.0.0.1 putoppose.net
+127.0.0.1 puush.in
 127.0.0.1 pv.sogou.com
 127.0.0.1 pv.wantsfly.com
 127.0.0.1 pvpub.paruvendu.fr
@@ -45303,6 +45305,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 uv.terra.com.br
 127.0.0.1 uvwbox.de
 127.0.0.1 uwsnurse.com
+127.0.0.1 uzchsrsc.ac.zw
 127.0.0.1 v-speedautoimport.com
 127.0.0.1 v.bsvideos.com
 127.0.0.1 v.chartboost.com
@@ -47362,6 +47365,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ad4mat.at
 127.0.0.1 www.ad4mat.ch
 127.0.0.1 www.ad4mat.de
+127.0.0.1 www.ad6media.fr
 127.0.0.1 www.adadvisor.net
 127.0.0.1 www.adaos-ads.net
 127.0.0.1 www.adap.tv
@@ -49689,6 +49693,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.highcpms.com
 127.0.0.1 www.hightrafficads.com
 127.0.0.1 www.hilary-caddell.us
+127.0.0.1 www.hillalala.com
 127.0.0.1 www.hillary-daughtery.us
 127.0.0.1 www.hillary-paugh.us
 127.0.0.1 www.hiperstat.com
@@ -51401,6 +51406,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.pussybabes.net
 127.0.0.1 www.pussyharem.com
 127.0.0.1 www.putoppose.net
+127.0.0.1 www.puush.in
 127.0.0.1 www.pythonpays.com
 127.0.0.1 www.qa.cometsystems.com
 127.0.0.1 www.qadabra.com
@@ -53606,6 +53612,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 y3.analytics.yahoo.com
 127.0.0.1 y3.ifengimg.com
 127.0.0.1 y6aoj.akovikisk.net
+127.0.0.1 ya-aaaa123123.myjino.ru
 127.0.0.1 yab-adimages.s3.amazonaws.com
 127.0.0.1 yabuka.com
 127.0.0.1 yad1.yad2.co.il
