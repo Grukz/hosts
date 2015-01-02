@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53972 ad serving and malware domains.
+# Currently blocking 53977 ad serving and malware domains.
 #
-# Date Generated: Dec 30 2014
+# Date Generated: Jan 02 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26993,6 +26993,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 healthgrades.112.2o7.net
 127.0.0.1 healthicloud.com
 127.0.0.1 healthination.122.2o7.net
+127.0.0.1 healthoks.cf
 127.0.0.1 heapanalytics.com
 127.0.0.1 hearme.com
 127.0.0.1 hearstcorp.checkm8.com
@@ -31700,6 +31701,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 malika.nu
 127.0.0.1 malinda-covin.us
 127.0.0.1 malinda-spillman.us
+127.0.0.1 malpices.com
 127.0.0.1 malware-live-pro-scanv1.com
 127.0.0.1 malware-scan.com
 127.0.0.1 malwareremovalbot.com
@@ -32872,6 +32874,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 milakunis.sexybabesx.com
 127.0.0.1 milbglobal.112.2o7.net
 127.0.0.1 mildred-patrick.us
+127.0.0.1 miley-music.cf
 127.0.0.1 milinewo.be
 127.0.0.1 milioner.popunder.ru
 127.0.0.1 military.us.intellitxt.com
@@ -36953,7 +36956,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 privacy.virtumundo.com
 127.0.0.1 privacycontrol.com
 127.0.0.1 privatamateure.com
-127.0.0.1 privatbank.ua
 127.0.0.1 private.hotelcesenaticobooking.info
 127.0.0.1 privatecash.com
 127.0.0.1 privatevideoplayer.com
@@ -42342,6 +42344,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 t.searchhelper.com
 127.0.0.1 t.senaldos.com
 127.0.0.1 t.senaluno.com
+127.0.0.1 t.signaletre.com
 127.0.0.1 t.signauxdeux.com
 127.0.0.1 t.skimresources.com
 127.0.0.1 t.snowball.com
@@ -43083,6 +43086,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 thoughtsmedia.us.intellitxt.com
 127.0.0.1 threadwatch.us.intellitxt.com
 127.0.0.1 thruport.com
+127.0.0.1 thu.edu.ge
 127.0.0.1 thumb.ero-advertising.com
 127.0.0.1 thumbads.ero-advertising.com
 127.0.0.1 thumbplay.aavalue.com
@@ -43106,6 +43110,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tiana-carlin.us
 127.0.0.1 tibiakeylogger.com
 127.0.0.1 ticket.adition.com
+127.0.0.1 ticket.cdp1.net
 127.0.0.1 ticket20.tripod.com
 127.0.0.1 ticks2.bugsense.com
 127.0.0.1 tidbit.co.in
@@ -46798,7 +46803,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 widgets.vinsight.de
 127.0.0.1 widgetssec.cam-content.com
 127.0.0.1 widgettool.net
-127.0.0.1 wieistmeineip.de
 127.0.0.1 wigetmedia.com
 127.0.0.1 wiggum.int.vmsn.de
 127.0.0.1 wiggum.ixn.local.vmsn.de
@@ -51034,6 +51038,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.nutten-verzeichnis.cxa.de
 127.0.0.1 www.nvtrak.com
 127.0.0.1 www.nwhomecare.co.uk
+127.0.0.1 www.nxsrv1.com
 127.0.0.1 www.nysubwayoffer.com
 127.0.0.1 www.o2onbusiness.de
 127.0.0.1 www.oainternet.com
@@ -51357,7 +51362,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.prishla.info
 127.0.0.1 www.privacycontrol.com
 127.0.0.1 www.privatamateure.com
-127.0.0.1 www.privatbank.ua
 127.0.0.1 www.privathosting.eu
 127.0.0.1 www.prizes.co.uk
 127.0.0.1 www.pro.webstat.pl
@@ -52771,7 +52775,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.widgetcontent.net
 127.0.0.1 www.widgetdigital.info
 127.0.0.1 www.widgettool.net
-127.0.0.1 www.wieistmeineip.de
 127.0.0.1 www.wigetmedia.com
 127.0.0.1 www.wigglewoo.com
 127.0.0.1 www.wildarcade.com
@@ -53479,6 +53482,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 xclicks.net
 127.0.0.1 xcnn.com
 127.0.0.1 xcr-286.com
+127.0.0.1 xdedling.com
 127.0.0.1 xeanon.com
 127.0.0.1 xenec.stol.it
 127.0.0.1 xenical.1.p2l.info
@@ -53633,6 +53637,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 yambotan.ru
 127.0.0.1 yamleg.fu8.com
 127.0.0.1 yanasushi.eu
+127.0.0.1 yanazzness.com
 127.0.0.1 yandex.ru.sgtfnregsnet.ru
 127.0.0.1 yandex2012.ru
 127.0.0.1 yandexadexchange.net
