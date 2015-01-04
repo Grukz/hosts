@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53976 ad serving and malware domains.
+# Currently blocking 53996 ad serving and malware domains.
 #
-# Date Generated: Jan 03 2015
+# Date Generated: Jan 04 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18973,7 +18973,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cmap.rm.ace.advertising.com
 127.0.0.1 cmap.rub.ace.advertising.com
 127.0.0.1 cmap.uac.ace.advertising.com
-127.0.0.1 cmbonline.in
 127.0.0.1 cmd.customink.com
 127.0.0.1 cmdts.ksmobile.com
 127.0.0.1 cmfads.com
@@ -21663,6 +21662,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 daditraff.cn
 127.0.0.1 dadparty.com
 127.0.0.1 dads.new.digg.com
+127.0.0.1 dadubule1.co.in
 127.0.0.1 daea.ero-advertising.com
 127.0.0.1 daggr.adsxgm.com
 127.0.0.1 daia.ero-advertising.com
@@ -23311,6 +23311,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 eforu.com
 127.0.0.1 efront.com
 127.0.0.1 egeosoftware.com
+127.0.0.1 egilkuyumculuk.com
 127.0.0.1 egoldzone.hopfeed.com
 127.0.0.1 egotastic.us.intellitxt.com
 127.0.0.1 egypt-shop.cn
@@ -27619,6 +27620,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hzs8.cnzz.com
 127.0.0.1 i-cdn.servedbyopenx.com
 127.0.0.1 i-clicks.net
+127.0.0.1 i-do.org.au
 127.0.0.1 i-growth.com
 127.0.0.1 i-hacked.us.intellitxt.com
 127.0.0.1 i-lookup.com
@@ -29623,6 +29625,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 justina-dominique.us
 127.0.0.1 justine-norden.us
 127.0.0.1 justine-vigil.us
+127.0.0.1 justinherald.com
 127.0.0.1 justjared.crwdcntrl.net
 127.0.0.1 justjared.us.intellitxt.com
 127.0.0.1 justmovietrailers.us.intellitxt.com
@@ -29914,6 +29917,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 koelnrsc.ivwbox.de
 127.0.0.1 kohls.tt.omtrdc.net
 127.0.0.1 kompasads.com
+127.0.0.1 komvet.eu
 127.0.0.1 kon.hit.gemius.pl
 127.0.0.1 kona.kontera.com
 127.0.0.1 kona2.kontera.com
@@ -32039,6 +32043,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 media-adrunner.mycomputer.com
 127.0.0.1 media-b.vpptechnologies.com
 127.0.0.1 media-c.vpptechnologies.com
+127.0.0.1 media-clic.com
 127.0.0.1 media-click.ru
 127.0.0.1 media-code.info
 127.0.0.1 media-d.vpptechnologies.com
@@ -35916,6 +35921,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 paranoidf.com
 127.0.0.1 paraskov.com
 127.0.0.1 pardokkate.com
+127.0.0.1 paribartan.org.np
 127.0.0.1 paris.typepad.com
 127.0.0.1 parishilton.sexybabesx.com
 127.0.0.1 pariswallpapers.powered-by.seekmo.com
@@ -37384,6 +37390,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 purethc.com
 127.0.0.1 purgecolon.net
 127.0.0.1 purgrobi.com
+127.0.0.1 purplehaze.be
 127.0.0.1 purryowl.com
 127.0.0.1 push.appsgeyser.com
 127.0.0.1 push.senddroid.com
@@ -37695,6 +37702,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rakuten.112.2o7.net
 127.0.0.1 rallye-de-fourmies.com
 127.0.0.1 rallyeair.com
+127.0.0.1 ralphlauren.cf
 127.0.0.1 rampidads.com
 127.0.0.1 randall-mccabe.us
 127.0.0.1 randyandjeri.com
@@ -43759,6 +43767,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracker.bestshopping.com
 127.0.0.1 tracker.bonnint.net
 127.0.0.1 tracker.brainsins.com
+127.0.0.1 tracker.brokeragecapital.com
 127.0.0.1 tracker.bt.uol.com.br
 127.0.0.1 tracker.btarena.org
 127.0.0.1 tracker.buscape.com.br
@@ -45487,6 +45496,15 @@ ff02::2 ip6-allrouters
 127.0.0.1 verypowertracker.com
 127.0.0.1 veslouhoyboy.ru
 127.0.0.1 vette-porno.nl
+127.0.0.1 vf1.soundsecuredredir.com
+127.0.0.1 vf2.soundsecuredredir.com
+127.0.0.1 vf3.soundsecuredredir.com
+127.0.0.1 vf4.soundsecuredredir.com
+127.0.0.1 vf5.soundsecuredredir.com
+127.0.0.1 vf6.soundsecuredredir.com
+127.0.0.1 vf7.soundsecuredredir.com
+127.0.0.1 vf8.soundsecuredredir.com
+127.0.0.1 vf9.soundsecuredredir.com
 127.0.0.1 vfd2dyn.vodafone.de
 127.0.0.1 vfdeprod.amobee.com
 127.0.0.1 vg-no.c.richmetrics.com
@@ -50689,6 +50707,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.meagan-scully.us
 127.0.0.1 www.meatspin.biz
 127.0.0.1 www.meatspin.com
+127.0.0.1 www.media-clic.com
 127.0.0.1 www.media-code.info
 127.0.0.1 www.media-motor.com
 127.0.0.1 www.media-vertex.com
@@ -50760,6 +50779,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.mildescargas.com
 127.0.0.1 www.milesdebanners.com
 127.0.0.1 www.milkfountain.com
+127.0.0.1 www.milkhouse-studios.com
 127.0.0.1 www.mim.io
 127.0.0.1 www.mindy-sawyer.us
 127.0.0.1 www.minka.co.uk
