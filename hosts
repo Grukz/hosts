@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53996 ad serving and malware domains.
+# Currently blocking 53999 ad serving and malware domains.
 #
-# Date Generated: Jan 04 2015
+# Date Generated: Jan 05 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -16800,6 +16800,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.dk.msn.com
 127.0.0.1 c.domob.cn
 127.0.0.1 c.dr.cyberwing.co.jp
+127.0.0.1 c.eblastengine.com
 127.0.0.1 c.effectivemeasure.net
 127.0.0.1 c.enhance.com
 127.0.0.1 c.es.msn.com
@@ -21369,6 +21370,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cydoor.com
 127.0.0.1 cyhners.ero-advertising.com
 127.0.0.1 cynthia-tomas.us
+127.0.0.1 cynthialemos1225.ddns.net
 127.0.0.1 cyonix.to
 127.0.0.1 cyprusads.info
 127.0.0.1 cyseal.cyveillance.com
@@ -28774,6 +28776,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 inuvi.com
 127.0.0.1 inventory.de.overture.com
 127.0.0.1 inventory.overture.com
+127.0.0.1 investigacion.unac.edu.co
 127.0.0.1 investingchannel.us.intellitxt.com
 127.0.0.1 investopedia.us.intellitxt.com
 127.0.0.1 investoradbg.hit.gemius.pl
