@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 54234 ad serving and malware domains.
+# Currently blocking 54247 ad serving and malware domains.
 #
-# Date Generated: Jan 06 2015
+# Date Generated: Jan 08 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -11997,6 +11997,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 afin.doublepimp.com
 127.0.0.1 aflashcounter.com
 127.0.0.1 aflcub.t.muxa.cc
+127.0.0.1 aflesministal.info
 127.0.0.1 aflrm.com
 127.0.0.1 afraidtoask.us.intellitxt.com
 127.0.0.1 afree1.com
@@ -13572,6 +13573,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 asanixcorp.com
 127.0.0.1 asasas.eu
 127.0.0.1 asb.tynt.com
+127.0.0.1 ascottconsultants.com.ph
 127.0.0.1 asd.pairoftongsairforce.us
 127.0.0.1 asd.tynt.com
 127.0.0.1 asd.vicentelopez.us
@@ -27515,6 +27517,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hop.clickbank.net
 127.0.0.1 hope-found-now.net
 127.0.0.1 hope-weidner.us
+127.0.0.1 hoptopboy.com
 127.0.0.1 hopurl.org
 127.0.0.1 horizon.mashable.com
 127.0.0.1 horizont.ivwbox.de
@@ -30692,6 +30695,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 links-ranking.de
 127.0.0.1 links.crackportal.com
 127.0.0.1 links.freeones.com
+127.0.0.1 links.heliohost.org
 127.0.0.1 links.industrybrains.com
 127.0.0.1 links.outster.com
 127.0.0.1 links.services.disqus.com
@@ -35587,6 +35591,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 opt.cdxnopt.com
 127.0.0.1 opt.hit.gemius.pl
 127.0.0.1 opt.leadbolt.com
+127.0.0.1 opticafullvision.net
 127.0.0.1 opticalnetworks.com
 127.0.0.1 optify.net
 127.0.0.1 optiker-michelmann.de
@@ -39916,6 +39921,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 seeq.com
 127.0.0.1 seervicee.info
 127.0.0.1 seet10.jino.ru
+127.0.0.1 seethisinaction.com
 127.0.0.1 seevolution.com
 127.0.0.1 seg.sharethis.com
 127.0.0.1 sega.go2cloud.org
@@ -41569,6 +41575,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.gtop.ro
 127.0.0.1 static.hatid.com
 127.0.0.1 static.hitfarm.com
+127.0.0.1 static.hoptopboy.com
 127.0.0.1 static.hqdrugs.com
 127.0.0.1 static.httpool.com.mk
 127.0.0.1 static.hubspot.com
@@ -43168,6 +43175,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 th.2.cqcounter.com
 127.0.0.1 th0h.blejythecounyful.net
 127.0.0.1 thagodz.com
+127.0.0.1 thaitp47.com
 127.0.0.1 thaliaat02.webtrekk.net
 127.0.0.1 thaliach02.webtrekk.net
 127.0.0.1 thaliade02.webtrekk.net
@@ -50017,6 +50025,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.hooqy.com
 127.0.0.1 www.hope-weidner.us
 127.0.0.1 www.hopster.com
+127.0.0.1 www.hoptopboy.com
 127.0.0.1 www.hopurl.org
 127.0.0.1 www.hornytraffic.com
 127.0.0.1 www.hospedar.xpg.com.br
@@ -51329,6 +51338,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.omtrdc.net
 127.0.0.1 www.on.nimp.org
 127.0.0.1 www.on2url.com
+127.0.0.1 www.onapbienap.net
 127.0.0.1 www.onclickads.net
 127.0.0.1 www.one-door.com
 127.0.0.1 www.oneandonlynetwork.com
@@ -51522,6 +51532,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.plug-media.com
 127.0.0.1 www.plus500.com
 127.0.0.1 www.pmediatrack.com
+127.0.0.1 www.pneubucher.ch
 127.0.0.1 www.pneumatica.com.ua
 127.0.0.1 www.po.st
 127.0.0.1 www.poesiadelsud.it
@@ -52026,6 +52037,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.seekqueryresults.com
 127.0.0.1 www.seekresultsreturned.com
 127.0.0.1 www.seekways.com
+127.0.0.1 www.seethisinaction.com
 127.0.0.1 www.seevolution.com
 127.0.0.1 www.sekel.ch
 127.0.0.1 www.sekindo.co.il
@@ -52219,6 +52231,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.sondra-donalson.us
 127.0.0.1 www.sonia-brough.us
 127.0.0.1 www.sonia-pantoja.us
+127.0.0.1 www.sonienovartiscote.com
 127.0.0.1 www.sonja-rascon.us
 127.0.0.1 www.sonnoli.com
 127.0.0.1 www.sonya-howland.us
