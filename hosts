@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 54248 ad serving and malware domains.
+# Currently blocking 54242 ad serving and malware domains.
 #
-# Date Generated: Jan 09 2015
+# Date Generated: Jan 10 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -8068,6 +8068,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.primeinteractive.net
 127.0.0.1 ads.primissima.it
 127.0.0.1 ads.prisacom.com
+127.0.0.1 ads.prntscr.com
 127.0.0.1 ads.pro-market.net
 127.0.0.1 ads.pro-market.net.edgesuite.net
 127.0.0.1 ads.proboards.com
@@ -13348,7 +13349,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 appredeem.com
 127.0.0.1 apprep.smartscreen.microsoft.com
 127.0.0.1 approstar.com
-127.0.0.1 approvi.com.br
 127.0.0.1 apps.admission.net
 127.0.0.1 apps.advertlets.com
 127.0.0.1 apps.bittorrent.com
@@ -15782,6 +15782,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 beauty.finaltips.com
 127.0.0.1 beautyden.us.intellitxt.com
 127.0.0.1 beautysafari.com
+127.0.0.1 beauzimmerman.nl
 127.0.0.1 bebo.crwdcntrl.net
 127.0.0.1 becausebabes.go2cloud.org
 127.0.0.1 becl23.b2.gns.co.il
@@ -15819,7 +15820,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 benchmarkconsultant.com
 127.0.0.1 benedictemaindiaux.com
 127.0.0.1 benhancement.gohip.com
-127.0.0.1 bentleyoil.su
 127.0.0.1 berater.adition.com
 127.0.0.1 beregs.info
 127.0.0.1 bergenstidende.112.2o7.net
@@ -16316,7 +16316,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bomek.com
 127.0.0.1 bonass.net
 127.0.0.1 bongacash.com
-127.0.0.1 bongoszik.com
 127.0.0.1 bonintnewsktarcom.112.2o7.net
 127.0.0.1 bonneville.112.2o7.net
 127.0.0.1 bonnie-schrecengost.us
@@ -16490,7 +16489,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 brightshare.com
 127.0.0.1 brigitte-burtch.us
 127.0.0.1 brigitte.ivwbox.de
-127.0.0.1 briglines.com
 127.0.0.1 brilliantdigital.com
 127.0.0.1 britany-timothy.us
 127.0.0.1 british-banners.com
@@ -20740,6 +20738,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 counter.aport.ru
 127.0.0.1 counter.asexhound.com
 127.0.0.1 counter.avp2000.com
+127.0.0.1 counter.avtoindex.com
 127.0.0.1 counter.awempire.com
 127.0.0.1 counter.bigli.ru
 127.0.0.1 counter.bizland.com
@@ -24279,6 +24278,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 extensive-research.com
 127.0.0.1 extensive-search.com
 127.0.0.1 external.dmtracker.com
+127.0.0.1 externaldb.switchadhub.com
 127.0.0.1 extntechnologies.us.intellitxt.com
 127.0.0.1 extra.wavecdn.net
 127.0.0.1 extra33.com
@@ -24458,7 +24458,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 fanpop.ivwbox.de
 127.0.0.1 fanpop.tags.crwdcntrl.net
 127.0.0.1 fansign.streamray.com
-127.0.0.1 fantasy-radio.net
 127.0.0.1 fanzero.ivwbox.de
 127.0.0.1 fapet.ipb.ac.id
 127.0.0.1 faq-candrive.tk
@@ -24523,7 +24522,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 fastclick.net
 127.0.0.1 fastclickfind.com
 127.0.0.1 fastclicknow.com
-127.0.0.1 fastcon.at
 127.0.0.1 fastcounter.bcentral.com
 127.0.0.1 fastcounter.com
 127.0.0.1 fastcounter.linkexchange.com
@@ -24547,7 +24545,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 fatfreekitchen.us.intellitxt.com
 127.0.0.1 faz.ivwbox.de
 127.0.0.1 faz.met.vgwort.de
-127.0.0.1 fazemosdireito.com
 127.0.0.1 fazilonur.com
 127.0.0.1 fb-nym.adnxs.com
 127.0.0.1 fb.cashtraffic.com
@@ -24821,6 +24818,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fizzix.com
 127.0.0.1 fkhfgfg.tk
 127.0.0.1 fkm.go2cloud.org
+127.0.0.1 fkns.com.mk
 127.0.0.1 fl.5.p2l.info
 127.0.0.1 fl.milesplit.com
 127.0.0.1 fl01.ct2.comclick.com
@@ -24970,6 +24968,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 formalyzer.com
 127.0.0.1 formel1.ivwbox.de
 127.0.0.1 formessengers.com
+127.0.0.1 forrestersurveys.com
 127.0.0.1 forsale.dnparking.com
 127.0.0.1 forskning.tns-cs.net
 127.0.0.1 fortunecity.us.intellitxt.com
@@ -25928,7 +25927,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gap.112.2o7.net
 127.0.0.1 gapl.hit.gemius.pl
 127.0.0.1 garbo.2cnt.net
-127.0.0.1 garbo.us
 127.0.0.1 garden.ngadcenter.net
 127.0.0.1 gardenweb.us.intellitxt.com
 127.0.0.1 garo.hit.gemius.pl
@@ -27446,6 +27444,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hollywoodstreetking.us.intellitxt.com
 127.0.0.1 hollywoodtuna.us.intellitxt.com
 127.0.0.1 holobumo.info
+127.0.0.1 holydoome.co.uk
 127.0.0.1 homad-global-configs.schneevonmorgen.com
 127.0.0.1 home-garden-premiumblvd.com
 127.0.0.1 home-garden-rewardempire.com
@@ -28097,7 +28096,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ilbanner.com
 127.0.0.1 ilead.itrack.it
 127.0.0.1 ilife.com
-127.0.0.1 iliillliO00OO0.321.cn
 127.0.0.1 iliky.com
 127.0.0.1 ilinks.industrybrains.com
 127.0.0.1 illinoisnets.net
@@ -29497,6 +29495,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jk.chapm.com
 127.0.0.1 jk.revolvermaps.com
 127.0.0.1 jkazaa.cjt1.net
+127.0.0.1 jkcadeiras.com.br
 127.0.0.1 jkearns.freestats.com
 127.0.0.1 jkontherun.us.intellitxt.com
 127.0.0.1 jl29jd25sm24mc29.com
@@ -30355,6 +30354,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lc17.prod.livefyre.com
 127.0.0.1 lc41.dsr.livefyre.com
 127.0.0.1 lcbcad.co.uk
+127.0.0.1 lcrincorporadora.com.br
 127.0.0.1 lcs.livedoor.net
 127.0.0.1 lcs.naver.com
 127.0.0.1 lct.salesforce.com
@@ -31346,6 +31346,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 luxbetaffiliates.com.au
 127.0.0.1 luxcart.ro
 127.0.0.1 luxemil.com
+127.0.0.1 luxgl.com.ua
 127.0.0.1 luxup.ru
 127.0.0.1 luycos.com
 127.0.0.1 lv.adocean.pl
@@ -33563,7 +33564,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mtvnetworks.tt.omtrdc.net
 127.0.0.1 mtvu.112.2o7.net
 127.0.0.1 mu-in-f167.1e100.net
-127.0.0.1 muaythai-king.com
 127.0.0.1 muazymaur.tk
 127.0.0.1 muchmarketing.go2cloud.org
 127.0.0.1 mudfall.com
@@ -39853,6 +39853,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 secure.leadback.advertising.com
 127.0.0.1 secure.leadforensics.com
 127.0.0.1 secure.livejasmin.com
+127.0.0.1 secure.lynxbowlingservices.com
 127.0.0.1 secure.mainentrypoint.com
 127.0.0.1 secure.marketengines.com
 127.0.0.1 secure.media6degrees.com
@@ -39965,7 +39966,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sellpic.in
 127.0.0.1 sem.shopexplorer.com
 127.0.0.1 semengineers.com
-127.0.0.1 semikem.ba
 127.0.0.1 semrush.com
 127.0.0.1 send.microad.jp
 127.0.0.1 send4fun.com
@@ -39986,7 +39986,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 separtnership.com
 127.0.0.1 serasaexperian.biz
 127.0.0.1 serasaexperian.info
-127.0.0.1 serenachat.ir
 127.0.0.1 serenawilliams.sexybabesx.com
 127.0.0.1 serenescreen-marine-aquarium.en.softonic.com
 127.0.0.1 sergarius.popunder.ru
@@ -44693,7 +44692,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ttzmedia.com
 127.0.0.1 tu.connect.wunderloop.net
 127.0.0.1 tu.demdex.net
-127.0.0.1 tube.paperstreetcash.com
 127.0.0.1 tube8vidsbbr.dnset.com
 127.0.0.1 tube8vidsbhy.dnset.com
 127.0.0.1 tube8vidsbzx.dnset.com
@@ -50383,7 +50381,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ivwvbox.de
 127.0.0.1 www.ivwvox.de
 127.0.0.1 www.ivwwbox.de
-127.0.0.1 www.ivyrichfarmltd.com
 127.0.0.1 www.iwantmy-freelaptop.com
 127.0.0.1 www.iwantmyfree-laptop.com
 127.0.0.1 www.iwantmyfreecash.com
@@ -50751,7 +50748,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.lnkgt.com
 127.0.0.1 www.lnktrack.us
 127.0.0.1 www.lnx.lu
-127.0.0.1 www.loacity.it
 127.0.0.1 www.loading-delivery1.com
 127.0.0.1 www.local-hub.com
 127.0.0.1 www.local-search-pages.com
@@ -51375,7 +51371,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.opt-media.com
 127.0.0.1 www.optiad.net
 127.0.0.1 www.optify.net
-127.0.0.1 www.optimizaresite.ro
 127.0.0.1 www.optimum-hits.com
 127.0.0.1 www.optmd.com
 127.0.0.1 www.oralse.ca
@@ -52943,7 +52938,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.watch24.com
 127.0.0.1 www.watching-video.com
 127.0.0.1 www.wave4you.de
-127.0.0.1 www.wavesailing.it
 127.0.0.1 www.wdm29.com
 127.0.0.1 www.weatherstudio.com
 127.0.0.1 www.web-chart.de
