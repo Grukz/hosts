@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 54362 ad serving and malware domains.
+# Currently blocking 54364 ad serving and malware domains.
 #
-# Date Generated: Jan 11 2015
+# Date Generated: Jan 12 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -22523,6 +22523,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 didrex.1.p2l.info
 127.0.0.1 didtal.com
 127.0.0.1 didtheyreadit.com
+127.0.0.1 dierendal.nl
 127.0.0.1 diet-pills.hut1.ru
 127.0.0.1 diet.rodale.com
 127.0.0.1 dietoftoday.ca.pn
@@ -25776,7 +25777,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 freexxxpages.net
 127.0.0.1 freexxxvideoclip.aebn.net
 127.0.0.1 freipres.ivwbox.de
-127.0.0.1 frenzonerwirepol.com
 127.0.0.1 frequently-find.com
 127.0.0.1 frequentlyfind.com
 127.0.0.1 fresh.doublepimp.com
@@ -38700,6 +38700,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rmgparcelforcecom.112.2o7.net
 127.0.0.1 rmgroyalmailcom.112.2o7.net
 127.0.0.1 rmm1u.checkm8.com
+127.0.0.1 rmofminota.com
 127.0.0.1 rmoreira.info
 127.0.0.1 rmpanelzone.research-int.com
 127.0.0.1 rms.admeta.com
@@ -45725,6 +45726,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vad.e-messenger.net
 127.0.0.1 vad.mainentrypoint.com
 127.0.0.1 vads.adbrite.com
+127.0.0.1 vadscust.com
 127.0.0.1 vagamonhillvalley.com
 127.0.0.1 vahendkarasis4.com
 127.0.0.1 vaime.net.popunder.ru
