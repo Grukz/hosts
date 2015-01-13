@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 54364 ad serving and malware domains.
+# Currently blocking 54365 ad serving and malware domains.
 #
-# Date Generated: Jan 12 2015
+# Date Generated: Jan 13 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -17528,6 +17528,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 capital.nuggad.net
 127.0.0.1 capitalist-direct.com
 127.0.0.1 caprewards.go2cloud.org
+127.0.0.1 captures-web.com
 127.0.0.1 car-donation.shengen.ru
 127.0.0.1 car-insurance.inshurance-from.com
 127.0.0.1 car-loan.shengen.ru
@@ -19357,6 +19358,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 coke.nuggad.net
 127.0.0.1 col.eum-appdynamics.com
 127.0.0.1 col.mobileads.msn.com
+127.0.0.1 coldfireblue.net
 127.0.0.1 coldfusion.affiliateshop.com
 127.0.0.1 colette-connell.us
 127.0.0.1 colette-filson.us
@@ -30618,7 +30620,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ligatus.de
 127.0.0.1 lightad.co.kr
 127.0.0.1 lighterswith.in
-127.0.0.1 lightevening.com
 127.0.0.1 lighthouse2k.com
 127.0.0.1 lightningcast.net
 127.0.0.1 lightspeedcash.com
@@ -35253,7 +35254,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 objects.abcvisiteurs.com
 127.0.0.1 objects.designbloxlive.com
 127.0.0.1 objects.tremormedia.com
-127.0.0.1 objectvoid.com
 127.0.0.1 obkom.net.ua
 127.0.0.1 obozua.adocean.pl
 127.0.0.1 obs.nnm2.ru
@@ -36638,7 +36638,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pi.feedsportal.com
 127.0.0.1 pi.pardot.com
 127.0.0.1 pi.safer-networking.ie
-127.0.0.1 pianoetude16.com
 127.0.0.1 pic.geocities.com
 127.0.0.1 pic.starsarabian.com
 127.0.0.1 pic.tokyo-tube-ad.com
@@ -38721,7 +38720,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 roar.com
 127.0.0.1 roars.com
 127.0.0.1 robert.xiga.us
-127.0.0.1 robocashe.com
 127.0.0.1 robotreplay.com
 127.0.0.1 robtex.hopfeed.com
 127.0.0.1 rockdirt.us.intellitxt.com
@@ -42429,6 +42427,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 supportnet.de.intellitxt.com
 127.0.0.1 supremeadserver.com
 127.0.0.1 supremeadsonline.com
+127.0.0.1 supremearena.fr
 127.0.0.1 suptullog.com
 127.0.0.1 sureads.com
 127.0.0.1 surebaby.us.intellitxt.com
@@ -44633,6 +44632,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 treasuretrooper.com
 127.0.0.1 tredirect.com
 127.0.0.1 tree-pixel-log.s3.amazonaws.com
+127.0.0.1 treetopsbestcondo.com
 127.0.0.1 trehomanyself.com
 127.0.0.1 trekblue.com
 127.0.0.1 trekdata.com
@@ -51181,6 +51181,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.modelatos.com
 127.0.0.1 www.mojiva.com
 127.0.0.1 www.mokono.com
+127.0.0.1 www.molchtoohookeie.com
 127.0.0.1 www.mollie-patino.us
 127.0.0.1 www.mommaporn.com
 127.0.0.1 www.mondo-shopping.it
