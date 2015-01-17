@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 54449 ad serving and malware domains.
+# Currently blocking 54452 ad serving and malware domains.
 #
-# Date Generated: Jan 16 2015
+# Date Generated: Jan 17 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -22858,6 +22858,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 donorschoose.org
 127.0.0.1 donotwatch.org
 127.0.0.1 dontblockme.modaco.com
+127.0.0.1 dontskid.me
 127.0.0.1 dontstop2346210.com
 127.0.0.1 dontwatch.us
 127.0.0.1 donval.112.2o7.net
@@ -26268,7 +26269,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 geoads.eurorevenue.com
 127.0.0.1 geoads.osdn.com
 127.0.0.1 geoadserver.com
-127.0.0.1 geoadserving.coffeetree.info
 127.0.0.1 geobanner.adultfriendfinder.com
 127.0.0.1 geobanner.alt.com
 127.0.0.1 geobanner.blacksexmatch.com
@@ -28227,6 +28227,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ilbanner.com
 127.0.0.1 ilead.itrack.it
 127.0.0.1 ilife.com
+127.0.0.1 iliillliO00OO0.321.cn
 127.0.0.1 iliky.com
 127.0.0.1 ilinks.industrybrains.com
 127.0.0.1 illinoisnets.net
@@ -42511,6 +42512,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sureads.com
 127.0.0.1 surebaby.us.intellitxt.com
 127.0.0.1 surehits.com
+127.0.0.1 sureioratte.ru
 127.0.0.1 sureonlinefind.com
 127.0.0.1 suresafe1.adsovo.com
 127.0.0.1 sureseeker.com
@@ -50098,6 +50100,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.gxplugin.com
 127.0.0.1 www.hab3n.trackvoluum.com
 127.0.0.1 www.hai2u.com
+127.0.0.1 www.hakanla.com
 127.0.0.1 www.hakerzy.net
 127.0.0.1 www.haley-seeber.us
 127.0.0.1 www.handyarchive.com
