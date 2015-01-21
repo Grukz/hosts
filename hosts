@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 54561 ad serving and malware domains.
+# Currently blocking 54563 ad serving and malware domains.
 #
-# Date Generated: Jan 20 2015
+# Date Generated: Jan 21 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18329,6 +18329,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 chat.ero-advertising.com
 127.0.0.1 chat.ezula.com
 127.0.0.1 chat.zedo.com
+127.0.0.1 chathu.apkmania.co
 127.0.0.1 chatserver.comm100.cn
 127.0.0.1 chaveiro.bio.br
 127.0.0.1 chchoice.112.2o7.net
@@ -19739,6 +19740,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 coolwebsearch.com
 127.0.0.1 coolwebstats.com
 127.0.0.1 coop.crwdcntrl.net
+127.0.0.1 cooper-stewartconnect.com
 127.0.0.1 cope.it
 127.0.0.1 copilul.2cnt.net
 127.0.0.1 copperheadsecurity.com
@@ -42254,7 +42256,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 stats.spyware-browser.com
 127.0.0.1 stats.srvasnet.info
 127.0.0.1 stats.ssa.gov
-127.0.0.1 stats.stackexchange.com
 127.0.0.1 stats.storify.com
 127.0.0.1 stats.street-jeni.us
 127.0.0.1 stats.style.com
@@ -49156,6 +49157,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.coolsavings.com
 127.0.0.1 www.coolwebsearch.com
 127.0.0.1 www.coolwebstats.com
+127.0.0.1 www.cooper-stewartconnect.com
 127.0.0.1 www.copner.co.uk
 127.0.0.1 www.copperheadsecurity.com
 127.0.0.1 www.copyright-reform.info
