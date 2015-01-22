@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 54563 ad serving and malware domains.
+# Currently blocking 54564 ad serving and malware domains.
 #
-# Date Generated: Jan 21 2015
+# Date Generated: Jan 22 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -15986,6 +15986,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bestinfosearch.com
 127.0.0.1 bestjobs.count.brat-online.ro
 127.0.0.1 bestjobs.hit.gemius.pl
+127.0.0.1 bestkika.crashs.net
 127.0.0.1 bestlinkfree.com
 127.0.0.1 bestlolaray.com
 127.0.0.1 bestlotron.cn
