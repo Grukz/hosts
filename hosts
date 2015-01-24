@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 54564 ad serving and malware domains.
+# Currently blocking 54574 ad serving and malware domains.
 #
-# Date Generated: Jan 23 2015
+# Date Generated: Jan 24 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -8611,6 +8611,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.videosz.com
 127.0.0.1 ads.vidsense.com
 127.0.0.1 ads.viewlondon.co.uk
+127.0.0.1 ads.viewx.co.uk
 127.0.0.1 ads.vimg.net
 127.0.0.1 ads.vintageporntubenet.com
 127.0.0.1 ads.vipcams.com
@@ -14255,6 +14256,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 baciotti.com
 127.0.0.1 backbeatmedia.com
 127.0.0.1 backfill.ph.affinity.com
+127.0.0.1 backinmotionmassage.com
 127.0.0.1 backlink.dichthuat.org
 127.0.0.1 backoffice.adsender.us
 127.0.0.1 backoffice.roitracking.info
@@ -17744,6 +17746,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ccs.infospace.com
 127.0.0.1 ccstatic.highwebmedia.com
 127.0.0.1 cct2.o2online.de
+127.0.0.1 cctvpurchase.com
 127.0.0.1 ccudl.com
 127.0.0.1 cd-ladsp-com.s3.amazonaws.com
 127.0.0.1 cd2.odtoidcwe.info
@@ -21524,6 +21527,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cumshotvideos.com
 127.0.0.1 cunda.122.2o7.net
 127.0.0.1 cupidplc.go2cloud.org
+127.0.0.1 cupomkinghost.com.br
 127.0.0.1 cur.lv
 127.0.0.1 curate.nestedmedia.com
 127.0.0.1 cursecom.ivwbox.de
@@ -22397,6 +22401,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 demr.mspaceads.com
 127.0.0.1 demr.myspace.com
 127.0.0.1 demr.opt.fimserve.com
+127.0.0.1 dendroteam.unizar.es
 127.0.0.1 denguru.us.intellitxt.com
 127.0.0.1 denise.sexybabesx.com
 127.0.0.1 deniserichards.1stOK.com
@@ -24425,7 +24430,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ext.tyroo.com
 127.0.0.1 ext1.engageya.com
 127.0.0.1 ext4.price.ru
-127.0.0.1 extads.web.de
 127.0.0.1 extclickmedia-maynemyltf.netdna-ssl.com
 127.0.0.1 extended.dmtracker.com
 127.0.0.1 extensive-research.com
@@ -26302,6 +26306,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 geoads.eurorevenue.com
 127.0.0.1 geoads.osdn.com
 127.0.0.1 geoadserver.com
+127.0.0.1 geoadserving.coffeetree.info
 127.0.0.1 geobanner.adultfriendfinder.com
 127.0.0.1 geobanner.alt.com
 127.0.0.1 geobanner.blacksexmatch.com
@@ -29927,6 +29932,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jung-steuerberater.com
 127.0.0.1 junior.apk.net
 127.0.0.1 junllian.net
+127.0.0.1 junniper.mcdir.ru
 127.0.0.1 jupiter.appads.com
 127.0.0.1 jupiter.bravenet.com
 127.0.0.1 jupiter.cometsystems.com
@@ -33267,6 +33273,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mindy-sawyer.us
 127.0.0.1 minerva.cometsystems.com
 127.0.0.1 minerva.healthcentral.com
+127.0.0.1 minhassapatilhas.com.br
 127.0.0.1 mini.activeshopper.com
 127.0.0.1 mini.videostrip.com
 127.0.0.1 minisearch.startnow.com
@@ -36454,6 +36461,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pasta.dianxinos.com
 127.0.0.1 pastilon.com
 127.0.0.1 pata.ero-advertising.com
+127.0.0.1 patayershomes.com
 127.0.0.1 patchwork.net
 127.0.0.1 path.trackinglabs.com
 127.0.0.1 pathforpoints.com
@@ -38149,7 +38157,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 randyandjeri.com
 127.0.0.1 rank-master.com
 127.0.0.1 rank-master.de
-127.0.0.1 rank8.de
 127.0.0.1 rankchamp.de
 127.0.0.1 ranker.springboardplatform.com
 127.0.0.1 ranking-charts.de
@@ -43719,6 +43726,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tizermy.net
 127.0.0.1 tizers.net
 127.0.0.1 tj.phpwind.net
+127.0.0.1 tjislandman.com
 127.0.0.1 tjx.112.2o7.net
 127.0.0.1 tk-gregoric.si
 127.0.0.1 tk.ads.mmondi.com
@@ -46769,6 +46777,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wahyufian.zoomshare.com
 127.0.0.1 waipdns.ru
 127.0.0.1 waiwidgets-1246822334.eu-west-1.elb.amazonaws.com
+127.0.0.1 wakesho.co.ke
 127.0.0.1 waldenfarms.com
 127.0.0.1 walgrns.112.2o7.net
 127.0.0.1 walkthedinosaur.com
@@ -52032,6 +52041,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.radar11ab.co.uk
 127.0.0.1 www.radarurl.com
 127.0.0.1 www.radiate.com
+127.0.0.1 www.rajnialex.com
 127.0.0.1 www.rampidads.com
 127.0.0.1 www.randall-mccabe.us
 127.0.0.1 www.random-logic.com
