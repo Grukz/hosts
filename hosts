@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 54748 ad serving and malware domains.
+# Currently blocking 54756 ad serving and malware domains.
 #
-# Date Generated: Jan 25 2015
+# Date Generated: Jan 26 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -758,6 +758,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 20574919p.rfihub.com
 127.0.0.1 20576983p.rfihub.com
 127.0.0.1 20576991p.rfihub.com
+127.0.0.1 20585485p.rfihub.com
 127.0.0.1 20591617p.rfihub.com
 127.0.0.1 206.6.87.194.dynamic.dol.ru
 127.0.0.1 207-87-18-203.wsmg.digex.net
@@ -14052,6 +14053,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aveconomic.trailswest.org
 127.0.0.1 avenfeld.com
 127.0.0.1 avenuea.com
+127.0.0.1 avg-free.info
 127.0.0.1 avgtechnologies.112.2o7.net
 127.0.0.1 avidtrak.com
 127.0.0.1 avirasecureserver.com
@@ -16274,6 +16276,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bizzibeans.net
 127.0.0.1 bj04.com
 127.0.0.1 bkrntr.netmng.com
+127.0.0.1 bkrtx.com
 127.0.0.1 bl.wavecdn.de
 127.0.0.1 bl1nqz8yrf7tgdsq.tk
 127.0.0.1 bl4ckst4r.cn
@@ -22695,6 +22698,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 directbrand.com
 127.0.0.1 directcoupons.com
 127.0.0.1 directfreebies.com
+127.0.0.1 directivemotions.ru
 127.0.0.1 directivepub.com
 127.0.0.1 directleads.com
 127.0.0.1 directleads.net
@@ -25920,6 +25924,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 frontpage-stats.rbl.ms
 127.0.0.1 frontpagecash.com
 127.0.0.1 fronty2073.net
+127.0.0.1 frugaliasdelivery.com
 127.0.0.1 fruitlauncher.com
 127.0.0.1 fs10.fusestats.com
 127.0.0.1 fsdfile.ru
@@ -28153,6 +28158,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ibg.hitbox.com
 127.0.0.1 ibibo.112.2o7.net
 127.0.0.1 ibis.lgappstv.com
+127.0.0.1 ibizaxxx.net
 127.0.0.1 ibm-notebook-battery.wp-club.net
 127.0.0.1 ibmvideo.com
 127.0.0.1 ibope.2cnt.net
@@ -37351,6 +37357,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 potenza.cz
 127.0.0.1 potvaporizer.com
 127.0.0.1 powabcyfqe.com
+127.0.0.1 powblock.com
 127.0.0.1 powellsbooks.122.2o7.net
 127.0.0.1 power-affliate.blogspot.com
 127.0.0.1 poweradvertising.co.uk
@@ -39699,6 +39706,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sa.bbc.co.uk
 127.0.0.1 sa.bbc.com
 127.0.0.1 sa.entireweb.com
+127.0.0.1 sa.jumptap.com
 127.0.0.1 sa.scorecardresearch.com
 127.0.0.1 sa.seotoaster.com
 127.0.0.1 sa.squareup.com
