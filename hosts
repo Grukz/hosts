@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 54756 ad serving and malware domains.
+# Currently blocking 54753 ad serving and malware domains.
 #
-# Date Generated: Jan 26 2015
+# Date Generated: Jan 27 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -14053,7 +14053,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 aveconomic.trailswest.org
 127.0.0.1 avenfeld.com
 127.0.0.1 avenuea.com
-127.0.0.1 avg-free.info
 127.0.0.1 avgtechnologies.112.2o7.net
 127.0.0.1 avidtrak.com
 127.0.0.1 avirasecureserver.com
@@ -35993,7 +35992,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 origin2.adsdk.com
 127.0.0.1 orion.bnex.com
 127.0.0.1 orkut.krovatka.su
-127.0.0.1 oroma.in
 127.0.0.1 ort.com.mx
 127.0.0.1 ortc-ws2-useast1-s0005.realtime.co
 127.0.0.1 ortc-ws2.realtime.co
@@ -36607,7 +36605,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pcbutts1.com
 127.0.0.1 pcbutts1.ourtoolbar.com
 127.0.0.1 pcbutts1.software.informer.com
-127.0.0.1 pcekspert.com
 127.0.0.1 pcgameha.ivwbox.de
 127.0.0.1 pcgamer.uk.intellitxt.com
 127.0.0.1 pcgames.de.intellitxt.com
