@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 54753 ad serving and malware domains.
+# Currently blocking 54765 ad serving and malware domains.
 #
-# Date Generated: Jan 27 2015
+# Date Generated: Jan 29 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -13066,6 +13066,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ans3.adsoftware.com
 127.0.0.1 ans4.adsoftware.com
 127.0.0.1 ansettairlines.com
+127.0.0.1 anshinkuyo.jp
 127.0.0.1 anshrit.com
 127.0.0.1 answerbag.us.intellitxt.com
 127.0.0.1 answers.us.intellitxt.com
@@ -16224,6 +16225,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 binarybliss.com
 127.0.0.1 binaryoffers.go2cloud.org
 127.0.0.1 binaryperform.go2cloud.org
+127.0.0.1 bindcpro.com
 127.0.0.1 bing.zugo.com
 127.0.0.1 bingo-online.petrovka.info
 127.0.0.1 bingocabin.com
@@ -19587,6 +19589,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 conforama.commander1.com
 127.0.0.1 conforama.ugc.bazaarvoice.com
 127.0.0.1 congdongtinhoc.info
+127.0.0.1 congtynguyenbinh.com.vn
 127.0.0.1 connect.247media.ads.link4ads.com
 127.0.0.1 connect.appflood.com
 127.0.0.1 connect.de.intellitxt.com
@@ -26158,6 +26161,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 garbo.2cnt.net
 127.0.0.1 garden.ngadcenter.net
 127.0.0.1 gardenweb.us.intellitxt.com
+127.0.0.1 garneyrealestate.com
 127.0.0.1 garo.hit.gemius.pl
 127.0.0.1 garristo.com
 127.0.0.1 gars.hit.gemius.pl
@@ -28201,6 +28205,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 icvwbox.de
 127.0.0.1 icwbox.de
 127.0.0.1 icydk.us.intellitxt.com
+127.0.0.1 id-bola.com
 127.0.0.1 id-cdn.effectivemeasure.net
 127.0.0.1 id.5.p2l.info
 127.0.0.1 id.allegisgroup.com
@@ -30394,6 +30399,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kunal3291.ibprofits.cpa.clicksure.com
 127.0.0.1 kundenserver.de
 127.0.0.1 kustusch.com
+127.0.0.1 kutsalkitaplar.net
 127.0.0.1 kvm001.bob.local.vmsn.de
 127.0.0.1 kvm001.con.local.vmsn.de
 127.0.0.1 kvm002.bob.local.vmsn.de
@@ -32156,6 +32162,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mandi-kearney.us
 127.0.0.1 mandi-sayre.us
 127.0.0.1 mandi-sikes.us
+127.0.0.1 mandurtreeounienie.net
 127.0.0.1 mandy-hooker.us
 127.0.0.1 mandy-huntington.us
 127.0.0.1 mandy-lauzon.us
@@ -32777,6 +32784,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mediatrafficagency.com
 127.0.0.1 mediauk.247realmedia.com
 127.0.0.1 mediaunder.org
+127.0.0.1 mediaupdate41.com
 127.0.0.1 mediaview.globalmailer.com
 127.0.0.1 mediavisor.doubleclick.com
 127.0.0.1 mediavisor.doubleclick.net
@@ -32791,7 +32799,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 medienhaus.nuggad.net
 127.0.0.1 medindia.us.intellitxt.com
 127.0.0.1 medleyads.com
-127.0.0.1 medlytrade.net
 127.0.0.1 medrx.sensis.com.au
 127.0.0.1 medsearch007.com
 127.0.0.1 meethotties.mobi
@@ -33864,6 +33871,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mtvnetworks.tt.omtrdc.net
 127.0.0.1 mtvu.112.2o7.net
 127.0.0.1 mu-in-f167.1e100.net
+127.0.0.1 muazymaur.in
 127.0.0.1 muazymaur.tk
 127.0.0.1 muchmarketing.go2cloud.org
 127.0.0.1 mudfall.com
@@ -37497,6 +37505,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 prizes.co.uk
 127.0.0.1 prk.firstconf.3gb.biz
 127.0.0.1 prm-ext.phorm.com
+127.0.0.1 prmarketing.it
 127.0.0.1 prmfactory.go2cloud.org
 127.0.0.1 prnewswire.122.2o7.net
 127.0.0.1 pro-advertising.com
@@ -37931,6 +37940,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 publicidad.vocento.com
 127.0.0.1 publicidades.redtotalonline.com
 127.0.0.1 publicis.adcentriconline.com
+127.0.0.1 publilogic.fr
 127.0.0.1 publish.bonzaii.no
 127.0.0.1 publish.pizzazzemail.com
 127.0.0.1 publish.vidavee.com
@@ -40691,6 +40701,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sezwho.com
 127.0.0.1 sf.vserv.mobi
 127.0.0.1 sfads.osdn.com
+127.0.0.1 sfescapital.co.uk
 127.0.0.1 sfmusictech.appstores.com
 127.0.0.1 sftp.barb.2cnt.net
 127.0.0.1 sftp.clickability.com
@@ -43417,7 +43428,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 te.wsls.com
 127.0.0.1 teachscape.vo.llnwd.net
 127.0.0.1 tealium.hs.llnwd.net
-127.0.0.1 teamawesome.dtdns.net
 127.0.0.1 teamaxe.wz.cz
 127.0.0.1 teamcpm.me
 127.0.0.1 teamcpm.us
@@ -44943,7 +44953,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tramadol.3.p2l.info
 127.0.0.1 tramadol.4.p2l.info
 127.0.0.1 tramadol2006.3xforum.ro
-127.0.0.1 tramitex.co
 127.0.0.1 trane-ir-corp-ingersollrand.112.2o7.net
 127.0.0.1 tranga.put-in-bayrealesate.com
 127.0.0.1 trans20120430.getjar.com
@@ -48518,6 +48527,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.agkn.com
 127.0.0.1 www.agmtrk.com
 127.0.0.1 www.agnstaging.com
+127.0.0.1 www.ahz.com.ua
 127.0.0.1 www.aim4media.com
 127.0.0.1 www.airpush.com
 127.0.0.1 www.aivwbox.de
@@ -50641,6 +50651,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.imgclck.com
 127.0.0.1 www.imiclk.com
 127.0.0.1 www.immediatelydownload.com
+127.0.0.1 www.imobiliariafelippe.com.br
 127.0.0.1 www.impm.upel.edu.ve
 127.0.0.1 www.impregnable.net
 127.0.0.1 www.impresionesweb.com
@@ -51751,6 +51762,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.neverticular.com
 127.0.0.1 www.new-folder-virus.com
 127.0.0.1 www.newclick.com
+127.0.0.1 www.newdays.vn
 127.0.0.1 www.newmarketinformation.com
 127.0.0.1 www.news6health.com
 127.0.0.1 www.newssourceoftoday.com
