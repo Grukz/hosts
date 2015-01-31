@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 54615 ad serving and malware domains.
+# Currently blocking 54617 ad serving and malware domains.
 #
-# Date Generated: Jan 30 2015
+# Date Generated: Jan 31 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -8642,7 +8642,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.videosz.com
 127.0.0.1 ads.vidsense.com
 127.0.0.1 ads.viewlondon.co.uk
-127.0.0.1 ads.viewx.co.uk
 127.0.0.1 ads.vimg.net
 127.0.0.1 ads.vintageporntubenet.com
 127.0.0.1 ads.vipcams.com
@@ -21427,7 +21426,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 crux.songline.com
 127.0.0.1 crv.clickad.pl
 127.0.0.1 crwdcntrl.net
-127.0.0.1 cryptex.com.tr
 127.0.0.1 cryptmyexe.pw
 127.0.0.1 crystal-eisenberg.us
 127.0.0.1 crystal-skaggs.us
@@ -24207,6 +24205,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 espritnlssl.webtrekk.net
 127.0.0.1 espritshopchssl.webtrekk.net
 127.0.0.1 esquare.go2cloud.org
+127.0.0.1 essays-writing-company.com
 127.0.0.1 essen-und-trinken.de.intellitxt.com
 127.0.0.1 estaciondiaynoche.com
 127.0.0.1 estadisticas.lanacion.com.ar
@@ -27902,6 +27901,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hydrocodone.t-amo.net
 127.0.0.1 hydrocodone.visa-usa.ru
 127.0.0.1 hydrogen.cometsystems.com
+127.0.0.1 hygran.com
 127.0.0.1 hyperbanner.net
 127.0.0.1 hyperbolic.tk
 127.0.0.1 hyperion.adtech.de
@@ -29555,7 +29555,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 jeannette-nauman.us
 127.0.0.1 jeannie-mccord.us
 127.0.0.1 jeansvixens.com
-127.0.0.1 jedonkey.cjt1.net
 127.0.0.1 jefferkayelle.name
 127.0.0.1 jen-lobdell.us
 127.0.0.1 jena-harbin.us
@@ -29684,7 +29683,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 jizzads.com
 127.0.0.1 jk.chapm.com
 127.0.0.1 jk.revolvermaps.com
-127.0.0.1 jkazaa.cjt1.net
 127.0.0.1 jkcadeiras.com.br
 127.0.0.1 jkearns.freestats.com
 127.0.0.1 jkontherun.us.intellitxt.com
@@ -41329,6 +41327,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 speeuclicks.ero-advertising.com
 127.0.0.1 spekband.com
 127.0.0.1 spencergifts.112.2o7.net
+127.0.0.1 speroni.pw
 127.0.0.1 sperse.com
 127.0.0.1 spezialreporte.de
 127.0.0.1 spi.domainsponsor.com
@@ -45187,6 +45186,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tweakvista.us.intellitxt.com
 127.0.0.1 tweets.kissmetrics.com
 127.0.0.1 tweetsoup.us.intellitxt.com
+127.0.0.1 tweetthepeeps.com
 127.0.0.1 twiant.com
 127.0.0.1 twinedigital.go2cloud.org
 127.0.0.1 twitchguru.us.intellitxt.com
@@ -49330,6 +49330,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.criteo.com
 127.0.0.1 www.crittercism.com
 127.0.0.1 www.crm-metrix.fr
+127.0.0.1 www.crocedonore.it
 127.0.0.1 www.crocoads.com
 127.0.0.1 www.cross-plus-a.com
 127.0.0.1 www.crowdgather.com
@@ -50977,6 +50978,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.krysta-quinlan.us
 127.0.0.1 www.kuhdi.com
 127.0.0.1 www.kuman.cz
+127.0.0.1 www.kupitbalkon.ru
 127.0.0.1 www.kvr-systems.de
 127.0.0.1 www.kvwbox.de
 127.0.0.1 www.kwistal.nl
