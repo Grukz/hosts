@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 54630 ad serving and malware domains.
+# Currently blocking 54634 ad serving and malware domains.
 #
-# Date Generated: Feb 01 2015
+# Date Generated: Feb 02 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -21542,6 +21542,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cu.genesismedia.com
 127.0.0.1 cu.outerinfo.com
 127.0.0.1 cube.ign.us.intellitxt.com
+127.0.0.1 cubecube.net
 127.0.0.1 cubegroup.go2cloud.org
 127.0.0.1 cubics.com
 127.0.0.1 cucdn.genesismedia.com
@@ -23527,6 +23528,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 eddamedia.linkpulse.com
 127.0.0.1 eddamedia.tns-cs.net
 127.0.0.1 eddie-theriot.us
+127.0.0.1 eder-helopal.at
 127.0.0.1 edf.fr.kfskz.com
 127.0.0.1 edgar.ivwbox.de
 127.0.0.1 edge.analytics.brightedge.com
@@ -27874,6 +27876,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 huffingtonpost.crwdcntrl.net
 127.0.0.1 hugde.adocean.pl
 127.0.0.1 hughesprocessing.com
+127.0.0.1 hui-ain-apparel.tk
 127.0.0.1 huinveu.axfree.com
 127.0.0.1 huiwiw.hit.gemius.pl
 127.0.0.1 huliq.us.intellitxt.com
@@ -28233,6 +28236,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ifa.youpornmate.com
 127.0.0.1 ifc.inmobi.com
 127.0.0.1 iffet.de
+127.0.0.1 iflea.motioninfo.jp
 127.0.0.1 iforex.go2cloud.org
 127.0.0.1 iframe.adultfriendfinder.com
 127.0.0.1 iframe.mediaplazza.com
