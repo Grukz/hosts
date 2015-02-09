@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 55153 ad serving and malware domains.
+# Currently blocking 55158 ad serving and malware domains.
 #
-# Date Generated: Feb 08 2015
+# Date Generated: Feb 09 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -15957,6 +15957,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bc685d37-266c-488e-824e-dd95d1c0e98b.statcamp.net
 127.0.0.1 bcanalytics.bigcommerce.com
 127.0.0.1 bcaudit01.lodo.exactis.com
+127.0.0.1 bcbindpro.com
 127.0.0.1 bcentral.com
 127.0.0.1 bcfads.com
 127.0.0.1 bcm.itv.com
@@ -24132,6 +24133,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 employment.112.2o7.net
 127.0.0.1 emsdirect.go2cloud.org
 127.0.0.1 emsvr.com
+127.0.0.1 emykingfish.in
 127.0.0.1 en.adition.com
 127.0.0.1 en.adtech.info
 127.0.0.1 en.dd.blueline.be
@@ -27227,6 +27229,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 grafix.xxxcounter.com
 127.0.0.1 grafstat.ro
 127.0.0.1 grammarly.go2cloud.org
+127.0.0.1 grand-hotel-thermal.fr
 127.0.0.1 granite.bnex.com
 127.0.0.1 grapeshot.co.uk
 127.0.0.1 graphics.adultfriendfinder.com
@@ -31700,6 +31703,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 louise-poulsen.us
 127.0.0.1 louisvil.app.ur.gcion.com
 127.0.0.1 louisvil.ur.gcion.com
+127.0.0.1 love2waits.com
 127.0.0.1 lovecam.com.br
 127.0.0.1 loved-by.s3.amazonaws.com
 127.0.0.1 lovefreegames.aavalue.com
@@ -37474,6 +37478,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pong.netcaptor.com
 127.0.0.1 pong.qubitproducts.com
 127.0.0.1 pongoresume.com
+127.0.0.1 pongwebdevelop.com
 127.0.0.1 pons.ivwbox.de
 127.0.0.1 pontiflex.com
 127.0.0.1 pontokol.com
