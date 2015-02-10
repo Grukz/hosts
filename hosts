@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 55158 ad serving and malware domains.
+# Currently blocking 55186 ad serving and malware domains.
 #
-# Date Generated: Feb 09 2015
+# Date Generated: Feb 10 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -15957,7 +15957,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bc685d37-266c-488e-824e-dd95d1c0e98b.statcamp.net
 127.0.0.1 bcanalytics.bigcommerce.com
 127.0.0.1 bcaudit01.lodo.exactis.com
-127.0.0.1 bcbindpro.com
 127.0.0.1 bcentral.com
 127.0.0.1 bcfads.com
 127.0.0.1 bcm.itv.com
@@ -18523,6 +18522,15 @@ ff02::2 ip6-allrouters
 127.0.0.1 cheapxanax.hut1.ru
 127.0.0.1 cheatcc.us.intellitxt.com
 127.0.0.1 cheatingdome.us.intellitxt.com
+127.0.0.1 checker.admitad.com
+127.0.0.1 checker.cityads.com
+127.0.0.1 checker.cityads.com.br
+127.0.0.1 checker.cityads.ru
+127.0.0.1 checker.cityadspix.com
+127.0.0.1 checker.cityredirect.com
+127.0.0.1 checker.cityviplink.com
+127.0.0.1 checker.dumedia.ru
+127.0.0.1 checker.gameleads.ru
 127.0.0.1 checkintocash.data.7bpeople.com
 127.0.0.1 checkm8.com
 127.0.0.1 checkstat.com
@@ -18669,14 +18677,19 @@ ff02::2 ip6-allrouters
 127.0.0.1 citrix.tradedoubler.com
 127.0.0.1 city-ads.de
 127.0.0.1 city.sk
+127.0.0.1 cityads.com
+127.0.0.1 cityads.com.br
 127.0.0.1 cityads.ru
 127.0.0.1 cityads.telus.net
+127.0.0.1 cityadslink.com
 127.0.0.1 cityadspix.com
 127.0.0.1 citycash2.blogspot.com
 127.0.0.1 citygrid.com
 127.0.0.1 citymasterplan.nairobi.go.ke
 127.0.0.1 citymediamagazin.hu
 127.0.0.1 cityoforgasm.com
+127.0.0.1 cityredirect.com
+127.0.0.1 cityviplink.com
 127.0.0.1 civicfootprint.net
 127.0.0.1 civwbox.de
 127.0.0.1 cj.com
@@ -23378,6 +23391,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dubich91119.justclick.ru
 127.0.0.1 dubstep.onedumb.com
 127.0.0.1 dufue2m4sondk.cloudfront.net
+127.0.0.1 dumedia.ru
 127.0.0.1 duoscontabilidade.com.br
 127.0.0.1 duplaouroeprata.com.br
 127.0.0.1 durre.freestats.com
@@ -24133,7 +24147,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 employment.112.2o7.net
 127.0.0.1 emsdirect.go2cloud.org
 127.0.0.1 emsvr.com
-127.0.0.1 emykingfish.in
 127.0.0.1 en.adition.com
 127.0.0.1 en.adtech.info
 127.0.0.1 en.dd.blueline.be
@@ -25925,6 +25938,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 francesca-studer.us
 127.0.0.1 francisca-corner.us
 127.0.0.1 francisca-hartsock.us
+127.0.0.1 frankansasa-001-site1.smarterasp.net
 127.0.0.1 frantic.com
 127.0.0.1 frapost.ivwbox.de
 127.0.0.1 freakads.com
@@ -26278,6 +26292,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gamefiesta.com
 127.0.0.1 gamefuse.go2cloud.org
 127.0.0.1 gamehouse.com
+127.0.0.1 gameleads.ru
 127.0.0.1 gamelights.ru
 127.0.0.1 gamersad.com
 127.0.0.1 gamersblast.com
@@ -28571,7 +28586,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 image.providesupport.com
 127.0.0.1 image.reporo.net
 127.0.0.1 image.safe-sender.co.uk
-127.0.0.1 image.tmdb.org
 127.0.0.1 image.ugo.com
 127.0.0.1 image.versiontracker.com
 127.0.0.1 image01.ctvdigital.com
@@ -32207,6 +32221,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 madisonlogic.com
 127.0.0.1 madmax53.stellar.cpa.clicksure.com
 127.0.0.1 madmimi.com
+127.0.0.1 madnet.ru
 127.0.0.1 madonna.sexybabesx.com
 127.0.0.1 madpenguin.us.intellitxt.com
 127.0.0.1 mads.aol.com
@@ -32602,6 +32617,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mccc-investconsultant.com
 127.0.0.1 mcclatchy.112.2o7.net
 127.0.0.1 mci12.clicksor.com
+127.0.0.1 mcityadslink.com
 127.0.0.1 mcl.girlsgothic.com
 127.0.0.1 mclient.ivwbox.de
 127.0.0.1 mclient2.ivwbox.de
@@ -36370,6 +36386,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ox-d.hulkshare.com
 127.0.0.1 ox-d.hypeads.org
 127.0.0.1 ox-d.imgur.servedbyopenx.com
+127.0.0.1 ox-d.intermarkets.net
 127.0.0.1 ox-d.interweave.com
 127.0.0.1 ox-d.johnstonpress.co.uk
 127.0.0.1 ox-d.journatic.com
@@ -43057,6 +43074,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 summitcpas.com
 127.0.0.1 sumome.com
 127.0.0.1 sun3xani.justclick.ru
+127.0.0.1 sunbond-kossan.com
 127.0.0.1 suncom.112.2o7.net
 127.0.0.1 suncountryair.com
 127.0.0.1 sunglobal.112.2o7.net
@@ -48602,6 +48620,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.admex.com
 127.0.0.1 www.admez.com
 127.0.0.1 www.adminder.com
+127.0.0.1 www.admitad.com
 127.0.0.1 www.admix.gr
 127.0.0.1 www.admixxer.com
 127.0.0.1 www.admxr.com
@@ -49528,7 +49547,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.cindy-malott.us
 127.0.0.1 www.cinthya-hanks.us
 127.0.0.1 www.ciqugasox.cn
+127.0.0.1 www.cityads.com
+127.0.0.1 www.cityads.com.br
 127.0.0.1 www.cityads.ru
+127.0.0.1 www.cityadspix.com
+127.0.0.1 www.cityredirect.com
+127.0.0.1 www.cityviplink.com
 127.0.0.1 www.civwbox.de
 127.0.0.1 www.cj.com
 127.0.0.1 www.cjsab.com
@@ -49627,6 +49651,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.cmltrk3.com
 127.0.0.1 www.cms2.net
 127.0.0.1 www.cnstats.com
+127.0.0.1 www.cnt.my
 127.0.0.1 www.cntrrx1.com
 127.0.0.1 www.cntrtr.com
 127.0.0.1 www.cnzz.com
@@ -50058,6 +50083,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.dsytrk.com
 127.0.0.1 www.duba.net
 127.0.0.1 www.duenow.com
+127.0.0.1 www.dumedia.ru
 127.0.0.1 www.dummywebsitedatabase.com
 127.0.0.1 www.dustat.com
 127.0.0.1 www.dutchsales.org
@@ -50593,6 +50619,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.gamecity.net
 127.0.0.1 www.gameconsolerewards.com
 127.0.0.1 www.gamefiesta.com
+127.0.0.1 www.gameleads.ru
 127.0.0.1 www.gameplaylabs.com
 127.0.0.1 www.gamersbanner.com
 127.0.0.1 www.gamersblast.com
@@ -51718,6 +51745,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.madisonlogic.com
 127.0.0.1 www.madmax53.stellar.cpa.clicksure.com
 127.0.0.1 www.madmimi.com
+127.0.0.1 www.madnet.ru
 127.0.0.1 www.madtubeporn.com
 127.0.0.1 www.maegan-abad.us
 127.0.0.1 www.magentanews.com
