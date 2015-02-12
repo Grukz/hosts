@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 55186 ad serving and malware domains.
+# Currently blocking 55196 ad serving and malware domains.
 #
-# Date Generated: Feb 10 2015
+# Date Generated: Feb 12 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -12428,6 +12428,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aktif.haberx.com
 127.0.0.1 aktrack.pubmatic.com
 127.0.0.1 akway.com
+127.0.0.1 al-qaasim.co.za
 127.0.0.1 al.5.p2l.info
 127.0.0.1 al.myrice.com
 127.0.0.1 al1.sharethis.com
@@ -12767,6 +12768,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 amo.servik.com
 127.0.0.1 amoazon.com
 127.0.0.1 amobee.com
+127.0.0.1 amobionlineinc.uni.me
 127.0.0.1 amoffers.go2cloud.org
 127.0.0.1 amoffers.hasoffers.com
 127.0.0.1 amono.justclick.ru
@@ -26015,6 +26017,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 freefuelcoupon.com
 127.0.0.1 freegasonus.com
 127.0.0.1 freegasprovider.com
+127.0.0.1 freegeart.net
 127.0.0.1 freegeoip.net
 127.0.0.1 freegiftcardsource.com
 127.0.0.1 freegiftreward.com
@@ -27805,6 +27808,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hitslap.com
 127.0.0.1 hitslink.com
 127.0.0.1 hitslog.com
+127.0.0.1 hitsniffer.com
 127.0.0.1 hitsquad.us.intellitxt.com
 127.0.0.1 hitstats.net
 127.0.0.1 hitstatus.com
@@ -28107,6 +28111,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 huffingtonpost.crwdcntrl.net
 127.0.0.1 hugde.adocean.pl
 127.0.0.1 hughesprocessing.com
+127.0.0.1 hui-ain-apparel.biz
 127.0.0.1 hui-ain-apparel.tk
 127.0.0.1 huinveu.axfree.com
 127.0.0.1 huiwiw.hit.gemius.pl
@@ -30993,6 +30998,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lily-pelchat.us
 127.0.0.1 limg.adspirit.de
 127.0.0.1 limitlessoffers.go2cloud.org
+127.0.0.1 limpiezaacuariodelnorte.com
 127.0.0.1 lin31.metriweb.be
 127.0.0.1 linalex.com
 127.0.0.1 linda-bretz.us
@@ -36928,6 +36934,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 penwithian.co.uk
 127.0.0.1 people-choice-sites.com
 127.0.0.1 people-group.su
+127.0.0.1 peoplesnewsbd.com
 127.0.0.1 pepelacer.computingservices123.com
 127.0.0.1 pepelacer.memeletrica.com
 127.0.0.1 pepipo.com
@@ -43067,6 +43074,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sue-headley.us
 127.0.0.1 sue-reale.us
 127.0.0.1 sueddeut.ivwbox.de
+127.0.0.1 suferoomsky.ru
 127.0.0.1 sugar.gameforge.com
 127.0.0.1 suggest.infospace.com
 127.0.0.1 sugoicounter.com
@@ -43877,6 +43885,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 telekom02.webtrekk.net
 127.0.0.1 telenor.112.2o7.net
 127.0.0.1 telenorstartsiden.112.2o7.net
+127.0.0.1 telesemana.com
 127.0.0.1 teletari.ivwbox.de
 127.0.0.1 teletypos.nuggad.net
 127.0.0.1 telgids.adsolutions.nl
@@ -46456,7 +46465,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 v2.shareaholic.com
 127.0.0.1 v2.urlads.net
 127.0.0.1 v2.visualwebsiteoptimizer.com
-127.0.0.1 v2.zopim.com
 127.0.0.1 v3.adition.com
 127.0.0.1 v3.cnzz.com
 127.0.0.1 v3.come.to
@@ -50881,6 +50889,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.hitsearchfind.com
 127.0.0.1 www.hitsearchfind.net
 127.0.0.1 www.hitslink.com
+127.0.0.1 www.hitsniffer.com
 127.0.0.1 www.hitstats.co.uk
 127.0.0.1 www.hittrack.org
 127.0.0.1 www.hittracker.org
@@ -54116,6 +54125,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.youfindmore.com
 127.0.0.1 www.youho.com
 127.0.0.1 www.youll-find.com
+127.0.0.1 www.youporni.net
 127.0.0.1 www.your-gift-zone.com
 127.0.0.1 www.your.com
 127.0.0.1 www.youradexchange.com
