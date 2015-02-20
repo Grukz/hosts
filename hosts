@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 54954 ad serving and malware domains.
+# Currently blocking 54962 ad serving and malware domains.
 #
-# Date Generated: Feb 19 2015
+# Date Generated: Feb 20 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -13927,6 +13927,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ast.adiquity.com
 127.0.0.1 astalavista.box.sk
 127.0.0.1 astatic.weborama.fr
+127.0.0.1 astin.edu.my
 127.0.0.1 astrocash.org
 127.0.0.1 astroportal.de.intellitxt.com
 127.0.0.1 astrowhiscinam.com
@@ -18389,6 +18390,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 central.paypopup.com
 127.0.0.1 central2.paypopup.com
 127.0.0.1 centralad.com
+127.0.0.1 centraltransbankonlinetrans.org
 127.0.0.1 centralwestwater.com.au
 127.0.0.1 centricabritishgas.d3.sc.omtrdc.net
 127.0.0.1 centricaplc.tt.omtrdc.net
@@ -27514,7 +27516,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 hentaicounter.com
 127.0.0.1 herbalaffiliateprogram.com
 127.0.0.1 herbiguide.com.au
-127.0.0.1 here.com
 127.0.0.1 herezera.com
 127.0.0.1 herfirstdv.biz
 127.0.0.1 hernando.com
@@ -27572,6 +27573,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 highcpms.com
 127.0.0.1 highdefforum.us.intellitxt.com
 127.0.0.1 highflyingfood.com
+127.0.0.1 highhedhicom.ru
 127.0.0.1 highpro1.com
 127.0.0.1 highspeed.duckcrypt.info
 127.0.0.1 highspeedtesting.com
@@ -30159,6 +30161,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kacie-foos.us
 127.0.0.1 kacie-pelley.us
 127.0.0.1 kacy-mcfarland.us
+127.0.0.1 kadastr89.ru
 127.0.0.1 kadirzerey.com
 127.0.0.1 kadman.net
 127.0.0.1 kads.k-network.com
@@ -33802,6 +33805,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mp3world.ivwbox.de
 127.0.0.1 mpire.112.2o7.net
 127.0.0.1 mplayerdownloader.com
+127.0.0.1 mplus.com.my
 127.0.0.1 mpm.payback.de
 127.0.0.1 mpmcash.com
 127.0.0.1 mpmotrk.com
@@ -38217,6 +38221,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 qarmonija.justclick.ru
 127.0.0.1 qbike.com.br
 127.0.0.1 qc.5.p2l.info
+127.0.0.1 qchase.net
 127.0.0.1 qckjmp.com
 127.0.0.1 qctop.com
 127.0.0.1 qdigital.co.il
@@ -38918,6 +38923,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 remotrk.com
 127.0.0.1 renata-wenz.us
 127.0.0.1 renata-winstead.us
+127.0.0.1 renatoluis.com.br
 127.0.0.1 renee-gratton.us
 127.0.0.1 renee-neubauer.us
 127.0.0.1 renee-peacock.us
@@ -40505,6 +40511,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 securecontactinfo.com
 127.0.0.1 securedliveuploads.com
 127.0.0.1 securemetrics.apple.com
+127.0.0.1 securenetsystem.net
 127.0.0.1 securepaths.com
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 securerunner.com
@@ -47878,6 +47885,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 worldnowboston.112.2o7.net
 127.0.0.1 worldprofitassociates.com
 127.0.0.1 worldrecipeblogs.com
+127.0.0.1 worldshopstore.com
 127.0.0.1 worldsite.ws
 127.0.0.1 worldtravelguide.uk.intellitxt.com
 127.0.0.1 worldusa.com
@@ -52170,6 +52178,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.peakclick.com
 127.0.0.1 www.peakcounter.dk
 127.0.0.1 www.peekstats.com
+127.0.0.1 www.pengakap.org
 127.0.0.1 www.people-choice-sites.com
 127.0.0.1 www.people-group.su
 127.0.0.1 www.pepipo.com
@@ -53413,7 +53422,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.trakpiy.com
 127.0.0.1 www.traktum.com
 127.0.0.1 www.transparty.net
-127.0.0.1 www.trasbeotrafertz.net
 127.0.0.1 www.travel-leisure-bonuspath.com
 127.0.0.1 www.travel-leisure-premiumblvd.com
 127.0.0.1 www.traveladvertising.com
