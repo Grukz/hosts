@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 54963 ad serving and malware domains.
+# Currently blocking 54964 ad serving and malware domains.
 #
-# Date Generated: Feb 21 2015
+# Date Generated: Feb 22 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -16469,6 +16469,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bluemongoose.com
 127.0.0.1 bluerazormedia.go2cloud.org
 127.0.0.1 blueseek.com
+127.0.0.1 blueskyroofing.co.za
 127.0.0.1 bluesq.com
 127.0.0.1 bluesquirrel.com
 127.0.0.1 bluestreak.com
@@ -18873,6 +18874,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 click14.aditic.net
 127.0.0.1 click168.com
 127.0.0.1 click2.cafepress.com
+127.0.0.1 click2.danarimedia.com
 127.0.0.1 click2.rbc.magna.ru
 127.0.0.1 click2.wisewire.com
 127.0.0.1 click2.yllix.com
@@ -35745,7 +35747,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 om.zdnet.co.uk
 127.0.0.1 omariev.justclick.ru
 127.0.0.1 omarsys.com
-127.0.0.1 omegaclaws.com
 127.0.0.1 ometrics.netapp.com
 127.0.0.1 ometrics.warnerbros.com
 127.0.0.1 omg247.us4.list-manage.com
@@ -41162,7 +41163,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 skinner.ixn.local.vmsn.de
 127.0.0.1 skipperlogistics.com
 127.0.0.1 skocz.pl
-127.0.0.1 sksshopping.com
 127.0.0.1 sky-connect.adinfuse.com
 127.0.0.1 sky.2cnt.net
 127.0.0.1 sky.adinfuse.com
@@ -43930,6 +43930,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 themoneyclippodcast.com
 127.0.0.1 themusicnetwork.co.uk
 127.0.0.1 theoads.com
+127.0.0.1 theoads.com.
 127.0.0.1 theonenetwork.us.intellitxt.com
 127.0.0.1 thepaparazzis.us.intellitxt.com
 127.0.0.1 thepiratetrader.com
