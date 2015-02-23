@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 54964 ad serving and malware domains.
+# Currently blocking 54963 ad serving and malware domains.
 #
-# Date Generated: Feb 22 2015
+# Date Generated: Feb 23 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -16064,7 +16064,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 benedictemaindiaux.com
 127.0.0.1 benhancement.gohip.com
 127.0.0.1 benimreklam.com
-127.0.0.1 benmillsmadethis.com
 127.0.0.1 bentleyoil.su
 127.0.0.1 berater.adition.com
 127.0.0.1 beregs.info
@@ -22159,6 +22158,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dashboard.gumgum.com
 127.0.0.1 dashboard.qubitproducts.com
 127.0.0.1 dashboard.trafficforce.com
+127.0.0.1 dashcambestellen.com
 127.0.0.1 dasoertl.ivwbox.de
 127.0.0.1 dasretokfin.com
 127.0.0.1 dastelef.ivwbox.de
@@ -25152,6 +25152,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fizzix.com
 127.0.0.1 fkhfgfg.tk
 127.0.0.1 fkm.go2cloud.org
+127.0.0.1 fknegs.com.mk
 127.0.0.1 fkns.com.mk
 127.0.0.1 fl.5.p2l.info
 127.0.0.1 fl.milesplit.com
@@ -28018,7 +28019,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 httpoolsr.nuggad.net
 127.0.0.1 https.edge.ru4.com
 127.0.0.1 httpwwwadserver.com
-127.0.0.1 htyritofncfjfjfn.paracetamols.net
 127.0.0.1 hu.2.cqcounter.com
 127.0.0.1 hu.hit.gemius.pl
 127.0.0.1 hu.search.etargetnet.com
@@ -34633,6 +34633,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 newt3.adultadworld.com
 127.0.0.1 newtopdomains.net
 127.0.0.1 newtopsites.com
+127.0.0.1 newtreechess.ru
 127.0.0.1 newusnews.justclick.ru
 127.0.0.1 newwayscanner.info
 127.0.0.1 newworldiq.com
@@ -40515,7 +40516,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 securecontactinfo.com
 127.0.0.1 securedliveuploads.com
 127.0.0.1 securemetrics.apple.com
-127.0.0.1 securenetsystem.net
 127.0.0.1 securepaths.com
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 securerunner.com
@@ -42914,7 +42914,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 suncom.112.2o7.net
 127.0.0.1 suncountryair.com
 127.0.0.1 sunglobal.112.2o7.net
-127.0.0.1 sunhotelsandresort.com
 127.0.0.1 sunidaytravel.co.uk
 127.0.0.1 sunlux.net
 127.0.0.1 sunmaker.com
