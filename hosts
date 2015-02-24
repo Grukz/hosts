@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 54963 ad serving and malware domains.
+# Currently blocking 54966 ad serving and malware domains.
 #
-# Date Generated: Feb 23 2015
+# Date Generated: Feb 24 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1980,6 +1980,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.loomia.com
 127.0.0.1 a.lvt.ru
 127.0.0.1 a.macuser.co.uk
+127.0.0.1 a.makeyourmoveknoxville.net
 127.0.0.1 a.medialytics.com
 127.0.0.1 a.mgid.com
 127.0.0.1 a.mibbit.com
@@ -2612,6 +2613,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ac9d98.r.axf8.net
 127.0.0.1 aca.ninemsn.com
 127.0.0.1 acac7.home4u.china.com
+127.0.0.1 acaciadeperus.com.br
 127.0.0.1 acai.go2cloud.org
 127.0.0.1 acasatv.2cnt.net
 127.0.0.1 acbacb9c.ipt.aol.com
@@ -5916,6 +5918,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adengine.theglobe.net
 127.0.0.1 adespresso.com
 127.0.0.1 adeva.de
+127.0.0.1 adex.adchakra.net
 127.0.0.1 adex.admailtiser.com
 127.0.0.1 adexcite.com
 127.0.0.1 adexit.com
@@ -8226,6 +8229,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.profootballtalk.com
 127.0.0.1 ads.program3.com
 127.0.0.1 ads.prospect.org
+127.0.0.1 ads.provincianews.ro
 127.0.0.1 ads.proxy3.adservr.de
 127.0.0.1 ads.proz.com
 127.0.0.1 ads.psd2html.com
@@ -24656,7 +24660,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 f.aduwant.com
 127.0.0.1 f.as-eu.falkag.net
 127.0.0.1 f.blogads.com
-127.0.0.1 f.cl.ly
 127.0.0.1 f.domdex.com
 127.0.0.1 f.gj555.net
 127.0.0.1 f.mol.im
@@ -36544,7 +36547,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 paperg.com
 127.0.0.1 papi.slideme.org
 127.0.0.1 paracadutismolucca.it
-127.0.0.1 paracetamols.net
 127.0.0.1 parade.122.2o7.net
 127.0.0.1 paramount.go2cloud.org
 127.0.0.1 paranoidf.com
@@ -42264,6 +42266,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.parsely.com
 127.0.0.1 static.partnerlogic.net
 127.0.0.1 static.pixazza.com
+127.0.0.1 static.platinumweddingplanner.com
 127.0.0.1 static.plista.com
 127.0.0.1 static.plugrush.com
 127.0.0.1 static.pochta.ru
