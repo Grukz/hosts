@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 54966 ad serving and malware domains.
+# Currently blocking 54969 ad serving and malware domains.
 #
-# Date Generated: Feb 24 2015
+# Date Generated: Feb 25 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -30047,6 +30047,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jsc.dt07.net
 127.0.0.1 jsc.madisonlogic.com
 127.0.0.1 jsc.mgid.com
+127.0.0.1 jscount.com
 127.0.0.1 jserr.cnzz.com
 127.0.0.1 jserror.newrelic.com
 127.0.0.1 jsfeedadsget.com
@@ -41079,6 +41080,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 simpleonlinemedia.go2cloud.org
 127.0.0.1 simpleshop.vn
 127.0.0.1 simpli.fi
+127.0.0.1 simplism.hk
 127.0.0.1 simplusx.website
 127.0.0.1 simyo.adclear.net
 127.0.0.1 sin.ero-advertising.com
@@ -42277,6 +42279,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.pxlad.io
 127.0.0.1 static.qweery.nl
 127.0.0.1 static.realmediadigital.com
+127.0.0.1 static.retirementcommunitiesfyi.com
 127.0.0.1 static.rpxnow.com
 127.0.0.1 static.rts.doublepimp.com
 127.0.0.1 static.rts.phn.doublepimp.com
