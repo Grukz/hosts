@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 55135 ad serving and malware domains.
+# Currently blocking 55141 ad serving and malware domains.
 #
-# Date Generated: Mar 01 2015
+# Date Generated: Mar 02 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -13759,6 +13759,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 arnaudnicolas.fr
 127.0.0.1 arnoldlanecars.co.uk
 127.0.0.1 arnoldlaneservice.co.uk
+127.0.0.1 arrinmortoes.ru
 127.0.0.1 arrowtec.go2cloud.org
 127.0.0.1 arroyomedia.go2cloud.org
 127.0.0.1 ars.couphole.com
@@ -30891,6 +30892,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 letsgodigital.uk.intellitxt.com
 127.0.0.1 letsrun.us.intellitxt.com
 127.0.0.1 letssearch.com
+127.0.0.1 lettermakeall.info
 127.0.0.1 lettre.research-int.fr
 127.0.0.1 level3com.d2.sc.omtrdc.net
 127.0.0.1 levelrate.de
@@ -36193,6 +36195,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 orf.oewabox.at
 127.0.0.1 organicsearchanswers.com
 127.0.0.1 organicsearchgoals.com
+127.0.0.1 orientexpcs.org
 127.0.0.1 origin-ics.fivemillionfriends.com
 127.0.0.1 origin-tracking.trulia.com
 127.0.0.1 origin.chron.com
@@ -41578,6 +41581,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 software.xoomcounter.com
 127.0.0.1 softwares.timesink.com
 127.0.0.1 softwareupdaterlp.com
+127.0.0.1 soha-ac.ir
 127.0.0.1 sohh.us.intellitxt.com
 127.0.0.1 sokrates.adtech.de
 127.0.0.1 sokrates.adtech.fr
@@ -46123,6 +46127,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 uninstall-free.com
 127.0.0.1 union2.50bang.org
 127.0.0.1 uniprix.nouvelobs.com
+127.0.0.1 unique-chemical.com
 127.0.0.1 uniqueleads.com
 127.0.0.1 uniquesurf.com
 127.0.0.1 unisearch.name
@@ -53317,6 +53322,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.teknosurf.com
 127.0.0.1 www.teknosurf2.com
 127.0.0.1 www.telechargerantivirus.net
+127.0.0.1 www.teleeye.com.ph
 127.0.0.1 www.teligo-ads.de
 127.0.0.1 www.tencent.com
 127.0.0.1 www.tenzero.com
