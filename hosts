@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 55141 ad serving and malware domains.
+# Currently blocking 55179 ad serving and malware domains.
 #
-# Date Generated: Mar 02 2015
+# Date Generated: Mar 03 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -16921,6 +16921,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 buongiorno.go2cloud.org
 127.0.0.1 bupropion-hcl.1.p2l.info
 127.0.0.1 burgerspendingbusiness.kz
+127.0.0.1 burgessprojects.co.za
 127.0.0.1 burnads.com
 127.0.0.1 burns.adtech.de
 127.0.0.1 burns.adtech.fr
@@ -18944,6 +18945,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 clickad.com.pl
 127.0.0.1 clickad.eo.pl
 127.0.0.1 clickad.pl
+127.0.0.1 clickadu.com
 127.0.0.1 clickadz.com
 127.0.0.1 clickagents.com
 127.0.0.1 clickagy.com
@@ -26945,6 +26947,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 go.cz.bbelements.com
 127.0.0.1 go.eu.bbelements.com
 127.0.0.1 go.evolutionmedia.bbelements.com
+127.0.0.1 go.feedxfeed.com
 127.0.0.1 go.freeanalyzer.ru
 127.0.0.1 go.gba.bbelements.com
 127.0.0.1 go.goldbachpoland.bbelements.com
@@ -36195,7 +36198,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 orf.oewabox.at
 127.0.0.1 organicsearchanswers.com
 127.0.0.1 organicsearchgoals.com
-127.0.0.1 orientexpcs.org
 127.0.0.1 origin-ics.fivemillionfriends.com
 127.0.0.1 origin-tracking.trulia.com
 127.0.0.1 origin.chron.com
@@ -46030,6 +46032,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 uedata.amazon.com
 127.0.0.1 uelbdc74fn.s.ad6media.fr
 127.0.0.1 uenetwork.go2cloud.org
+127.0.0.1 uertebamurquebloktreinen.buyerware.net
 127.0.0.1 uestat.video.qiyi.com
 127.0.0.1 uf2.svrni.ca
 127.0.0.1 uf2aasn.111adfueo.us
@@ -49542,6 +49545,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.click2trusttracker.com
 127.0.0.1 www.click4click.com
 127.0.0.1 www.clickaction.net
+127.0.0.1 www.clickadu.com
 127.0.0.1 www.clickagents.com
 127.0.0.1 www.clickansave.net
 127.0.0.1 www.clickauditor.net
@@ -53942,6 +53946,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.winneronline.ru
 127.0.0.1 www.winnerschoiceservices.com
 127.0.0.1 www.winter-seek.com
+127.0.0.1 www.wirachartered.info
 127.0.0.1 www.wishbone.com
 127.0.0.1 www.witchlab.com
 127.0.0.1 www.witkey.com
@@ -54979,14 +54984,24 @@ ff02::2 ip6-allrouters
 127.0.0.1 z1.adserver.com
 127.0.0.1 z1.extreme-dm.com
 127.0.0.1 z1.zedo.com
+127.0.0.1 z1.zeroredirect1.com
 127.0.0.1 z166o1s1kfkha8gsnfm9gq.82435.com
 127.0.0.1 z2.zedo.com
+127.0.0.1 z2.zeroredirect1.com
+127.0.0.1 z3.zeroredirect1.com
 127.0.0.1 z32538.nb.host127-0-0-1.com
 127.0.0.1 z3us1.z-ed.info
+127.0.0.1 z4.zeroredirect1.com
+127.0.0.1 z5.zeroredirect1.com
 127.0.0.1 z5x.net
+127.0.0.1 z6.zeroredirect1.com
+127.0.0.1 z7.zeroredirect1.com
 127.0.0.1 z7752.com
 127.0.0.1 z7ale.go2cloud.org
+127.0.0.1 z8.zeroredirect1.com
+127.0.0.1 z9.zeroredirect1.com
 127.0.0.1 za-cdn.effectivemeasure.net
+127.0.0.1 za.zeroredirect1.com
 127.0.0.1 zads.zedo.com
 127.0.0.1 zafiti01.webtrekk-us.net
 127.0.0.1 zag.112.2o7.net
@@ -55033,6 +55048,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 zbxproxy01.con.local.vmsn.de
 127.0.0.1 zc.zeroredirect1.com
 127.0.0.1 zc.zeroredirect2.com
+127.0.0.1 zd.zeroredirect1.com
 127.0.0.1 zdads.e-media.com
 127.0.0.1 zdau-builder.122.2o7.net
 127.0.0.1 zdau-zdnetau.122.2o7.net
@@ -55046,6 +55062,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 zdnet.be.intellitxt.com
 127.0.0.1 zdnet.ivwbox.de
 127.0.0.1 zdorovayaspina.justclick.ru
+127.0.0.1 ze.zeroredirect1.com
 127.0.0.1 zeads.com
 127.0.0.1 zebutal.1.p2l.info
 127.0.0.1 zedo.com
@@ -55076,14 +55093,18 @@ ff02::2 ip6-allrouters
 127.0.0.1 zeusclicks.com
 127.0.0.1 zeuscpa.go2cloud.org
 127.0.0.1 zevents.com
+127.0.0.1 zf.zeroredirect1.com
 127.0.0.1 zfhg.digitaldesire.com
 127.0.0.1 zfotos.fromru.su
+127.0.0.1 zg.zeroredirect1.com
 127.0.0.1 zgsysz.com
+127.0.0.1 zh.zeroredirect1.com
 127.0.0.1 zhanzhang.net
 127.0.0.1 zhcn.admob.com
 127.0.0.1 zhirok.com
 127.0.0.1 zhopa.net
 127.0.0.1 zhyravlik.ru
+127.0.0.1 zi.zeroredirect1.com
 127.0.0.1 ziffdavisenterprise.112.2o7.net
 127.0.0.1 ziffdavisenterpriseglobal.112.2o7.net
 127.0.0.1 ziffdaviseweek.112.2o7.net
@@ -55102,12 +55123,18 @@ ff02::2 ip6-allrouters
 127.0.0.1 zirve100.com
 127.0.0.1 zivwbox.de
 127.0.0.1 zj.dcys.ksmobile.com
+127.0.0.1 zj.zeroredirect1.com
 127.0.0.1 zjjlf.croukwexdbyerr.net
+127.0.0.1 zk.zeroredirect1.com
 127.0.0.1 zkic.com
+127.0.0.1 zl.zeroredirect1.com
+127.0.0.1 zm.zeroredirect1.com
 127.0.0.1 zmedia.com
+127.0.0.1 zn.zeroredirect1.com
 127.0.0.1 zn_0xssfnnsxmogd01-cbs.siteintercept.qualtrics.com
 127.0.0.1 zn_9nquvazst1xipkt-cbs.siteintercept.qualtrics.com
 127.0.0.1 zn_b4q1adq70amqdth-citrix.siteintercept.qualtrics.com
+127.0.0.1 zo.zeroredirect1.com
 127.0.0.1 zo6.adservlite.com
 127.0.0.1 zocor.about-tabs.com
 127.0.0.1 zoek.zugo.com
@@ -55127,24 +55154,34 @@ ff02::2 ip6-allrouters
 127.0.0.1 zoomovies.org
 127.0.0.1 zoosextv.com
 127.0.0.1 zous.szm.sk
+127.0.0.1 zp.zeroredirect1.com
+127.0.0.1 zq.zeroredirect1.com
+127.0.0.1 zr.zeroredirect1.com
 127.0.0.1 zr0.net
 127.0.0.1 zs.dhl.de
 127.0.0.1 zs.ffshrine.org
+127.0.0.1 zs.zeroredirect1.com
 127.0.0.1 zs0s5xfe.com
 127.0.0.1 zs11.cnzz.com
 127.0.0.1 zs16.cnzz.com
 127.0.0.1 zsc.scmspain.com
+127.0.0.1 zt.zeroredirect1.com
 127.0.0.1 ztrack.net
 127.0.0.1 ztrf.net
 127.0.0.1 zu-yuan.com
+127.0.0.1 zu.zeroredirect1.com
 127.0.0.1 zug.us.intellitxt.com
 127.0.0.1 zulu.go2cloud.org
 127.0.0.1 zulumob.go2cloud.org
 127.0.0.1 zuzzer5.com
+127.0.0.1 zv.zeroredirect1.com
 127.0.0.1 zviframe.biz
+127.0.0.1 zw.zeroredirect1.com
 127.0.0.1 zwierzu.zxy.me
 127.0.0.1 zww.ero-advertising.com
+127.0.0.1 zx.zeroredirect1.com
 127.0.0.1 zxypenguin.people-group.su
+127.0.0.1 zy.zeroredirect1.com
 127.0.0.1 zyban-store.shengen.ru
 127.0.0.1 zyban.1.p2l.info
 127.0.0.1 zyban.about-tabs.com
@@ -55154,4 +55191,5 @@ ff02::2 ip6-allrouters
 127.0.0.1 zyrtec.3.p2l.info
 127.0.0.1 zyrtec.4.p2l.info
 127.0.0.1 zz.cqcounter.com
+127.0.0.1 zz.zeroredirect1.com
 127.0.0.1 zzz.clickbank.net
