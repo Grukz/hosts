@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 55179 ad serving and malware domains.
 #
-# Date Generated: Mar 03 2015
+# Date Generated: Mar 04 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -30895,7 +30895,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 letsgodigital.uk.intellitxt.com
 127.0.0.1 letsrun.us.intellitxt.com
 127.0.0.1 letssearch.com
-127.0.0.1 lettermakeall.info
 127.0.0.1 lettre.research-int.fr
 127.0.0.1 level3com.d2.sc.omtrdc.net
 127.0.0.1 levelrate.de
@@ -45300,6 +45299,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 transition.adtrgt.com
 127.0.0.1 transparty.net
 127.0.0.1 tranti.ru
+127.0.0.1 traspalaciorubicell.whygibraltar.co.uk
 127.0.0.1 travel-and-weather.msnbc.us.intellitxt.com
 127.0.0.1 travel-insurance-quotes.beesearch.info
 127.0.0.1 travel-leisure-bonuspath.com
