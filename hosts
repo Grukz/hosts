@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 55179 ad serving and malware domains.
+# Currently blocking 55182 ad serving and malware domains.
 #
-# Date Generated: Mar 04 2015
+# Date Generated: Mar 05 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -16487,6 +16487,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bluecava.com
 127.0.0.1 bluechillies.us.intellitxt.com
 127.0.0.1 bluecutsystem.com
+127.0.0.1 bluedccluster.com
 127.0.0.1 bluediamondoffers.com
 127.0.0.1 blueflameelite.go2cloud.org
 127.0.0.1 blueglobetracker.com
@@ -16668,6 +16669,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bounty.bighits.net
 127.0.0.1 boutique.telecharger.com
 127.0.0.1 bouygues-care.inq.com
+127.0.0.1 bowercloud.ru
 127.0.0.1 bowlgirl.com
 127.0.0.1 box.anchorfree.net
 127.0.0.1 box002.2cnt.net
@@ -24059,6 +24061,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 elissa-joiner.us
 127.0.0.1 elite.sextracker.com
 127.0.0.1 elite50.com
+127.0.0.1 eliteblocksy.ru
 127.0.0.1 elitecash.com
 127.0.0.1 elitecities.com
 127.0.0.1 elitecpamountain.go2cloud.org
@@ -25264,6 +25267,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 floridat.app.ur.gcion.com
 127.0.0.1 florineff.ql.st
 127.0.0.1 flower-online.petrovka.info
+127.0.0.1 flowerevent.ru
 127.0.0.1 flowers-offer.com
 127.0.0.1 flowgo.com
 127.0.0.1 flowleadsmedia.go2cloud.org
@@ -37454,7 +37458,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pongwebdevelop.com
 127.0.0.1 pons.ivwbox.de
 127.0.0.1 pontiflex.com
-127.0.0.1 pontokol.com
 127.0.0.1 pontuall.com.br
 127.0.0.1 pool-colruytgroup.adhese.com
 127.0.0.1 pool-nrc.adhese.com
@@ -41440,6 +41443,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 smartdevicemedia.com
 127.0.0.1 smartdirect.com
 127.0.0.1 smarterrorpage.com
+127.0.0.1 smartfoodsglutenfree.kz
 127.0.0.1 smarticon.geotrust.com
 127.0.0.1 smartify.org
 127.0.0.1 smartinit.webads.nl
@@ -44486,7 +44490,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 towerrecords.track4.com
 127.0.0.1 toy-offer.com
 127.0.0.1 toy-offer.net
-127.0.0.1 toyootacrusernow.net
 127.0.0.1 toyota.112.2o7.net
 127.0.0.1 toyota.cyberealhosting.com
 127.0.0.1 toyota.demdex.net
@@ -52223,7 +52226,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.onestat.com
 127.0.0.1 www.onestatfree.com
 127.0.0.1 www.onlinebestoffers.net
-127.0.0.1 www.onlinediamondbenin.net
 127.0.0.1 www.onlineemailmarketing.com
 127.0.0.1 www.onlinetraffic.info
 127.0.0.1 www.onlineuserscounter.com
@@ -53601,6 +53603,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.traveller-offer.com
 127.0.0.1 www.traveller-offer.net
 127.0.0.1 www.travelncs.com
+127.0.0.1 www.travelrecipes.in
 127.0.0.1 www.trctrc.com
 127.0.0.1 www.treeloot.com
 127.0.0.1 www.trendcounter.com
