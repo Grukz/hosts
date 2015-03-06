@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 55182 ad serving and malware domains.
+# Currently blocking 55188 ad serving and malware domains.
 #
-# Date Generated: Mar 05 2015
+# Date Generated: Mar 06 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -16487,7 +16487,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bluecava.com
 127.0.0.1 bluechillies.us.intellitxt.com
 127.0.0.1 bluecutsystem.com
-127.0.0.1 bluedccluster.com
 127.0.0.1 bluediamondoffers.com
 127.0.0.1 blueflameelite.go2cloud.org
 127.0.0.1 blueglobetracker.com
@@ -16551,6 +16550,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bo-videos.s3.amazonaws.com
 127.0.0.1 bo.jumptap.com
 127.0.0.1 board.classifieds1000.com
+127.0.0.1 boardracks.co.za
 127.0.0.1 boardreader.us.intellitxt.com
 127.0.0.1 boards2go.com
 127.0.0.1 bob.crazyshit.com
@@ -22606,6 +22606,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 demetria-tickle.us
 127.0.0.1 demimoore.sexybabesx.com
 127.0.0.1 demimoorenude.1stOK.com
+127.0.0.1 deminlucientransit.cf
 127.0.0.1 demisoft.altervista.org
 127.0.0.1 demo.adsender.us
 127.0.0.1 demo.advertising.com
@@ -30193,6 +30194,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jupiter2.appads.com
 127.0.0.1 jupiter3.appads.com
 127.0.0.1 jurneirah.com
+127.0.0.1 jurserv.ru
 127.0.0.1 justcounter.com
 127.0.0.1 juste.ru
 127.0.0.1 justin-boston.us
@@ -30868,6 +30870,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 learn.doubleclick.net
 127.0.0.1 learning-offer.com
 127.0.0.1 leave.exacttarget.com
+127.0.0.1 lebedev30.ru
 127.0.0.1 leeenterprises.112.2o7.net
 127.0.0.1 leeleesobieski.sexybabesx.com
 127.0.0.1 lefos.net
@@ -37474,6 +37477,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pool.skyhookwireless.com
 127.0.0.1 pool01.2cnt.net
 127.0.0.1 pool02.2cnt.net
+127.0.0.1 poolkingsthailand.com
 127.0.0.1 poopoo.freestats.com
 127.0.0.1 pop-under.ru
 127.0.0.1 pop.adcocktail.com
@@ -41157,7 +41161,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 signsbycoast.com
 127.0.0.1 signup.advance.net
 127.0.0.1 signup.clicksor.com
-127.0.0.1 siladin.cch-oriente.unam.mx
 127.0.0.1 siliconaction.com
 127.0.0.1 siliconera.us.intellitxt.com
 127.0.0.1 silkmore.staffs.sch.uk
@@ -43139,6 +43142,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 suzi-huffine.us
 127.0.0.1 suzi-vogelsang.us
 127.0.0.1 sv1.eyeonmusica.it
+127.0.0.1 svarkatyumen.ru
 127.0.0.1 svast.moatads.com
 127.0.0.1 svastx.moatads.com
 127.0.0.1 svd.112.2o7.net
@@ -46136,6 +46140,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 unique-chemical.com
 127.0.0.1 uniqueleads.com
 127.0.0.1 uniquesurf.com
+127.0.0.1 uniquewindowservice.com
 127.0.0.1 unisearch.name
 127.0.0.1 unisonsas.bravejournal.com
 127.0.0.1 unit2.euro2day.gr
@@ -46205,6 +46210,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 upload.yeahmobi.com
 127.0.0.1 upload.zedo.com
 127.0.0.1 uploads.tmweb.ru
+127.0.0.1 upperlowstream.ru
 127.0.0.1 uppyads.com
 127.0.0.1 uproar.com
 127.0.0.1 uproar.fortunecity.com
