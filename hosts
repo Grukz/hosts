@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 55308 ad serving and malware domains.
+# Currently blocking 55309 ad serving and malware domains.
 #
-# Date Generated: Mar 07 2015
+# Date Generated: Mar 08 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -41093,7 +41093,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sg.adserver.yahoo.com
 127.0.0.1 sg.winmobi.me
 127.0.0.1 sg.yimg.com
-127.0.0.1 sgb-sy.com
 127.0.0.1 sgcdn.duplomediaas.netdna-cdn.com
 127.0.0.1 sgiz.mobi
 127.0.0.1 sgizmo.com
@@ -41363,6 +41362,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 skipperlogistics.com
 127.0.0.1 skocz.pl
 127.0.0.1 sky-connect.adinfuse.com
+127.0.0.1 sky-pitch.com
 127.0.0.1 sky.2cnt.net
 127.0.0.1 sky.adinfuse.com
 127.0.0.1 sky.estat.com
@@ -46250,7 +46250,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 unique-chemical.com
 127.0.0.1 uniqueleads.com
 127.0.0.1 uniquesurf.com
-127.0.0.1 uniquewindowservice.com
 127.0.0.1 unisearch.name
 127.0.0.1 unisonsas.bravejournal.com
 127.0.0.1 unit2.euro2day.gr
@@ -48305,6 +48304,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wuv.ivwbox.de
 127.0.0.1 wv.5.p2l.info
 127.0.0.1 wv.inner-active.mobi
+127.0.0.1 wvin.su
 127.0.0.1 wvwr1.hitbox.com
 127.0.0.1 ww-eu.steelhousemedia.com
 127.0.0.1 ww.thefile.me
@@ -49271,6 +49271,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.bargainbeautybuys.com
 127.0.0.1 www.barilliance.net
 127.0.0.1 www.basecinco.com.ar
+127.0.0.1 www.batavia.com.ar
 127.0.0.1 www.baypops.com
 127.0.0.1 www.bazingandroid.com
 127.0.0.1 www.bbelements.com
