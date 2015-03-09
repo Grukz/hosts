@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 55309 ad serving and malware domains.
+# Currently blocking 55312 ad serving and malware domains.
 #
-# Date Generated: Mar 08 2015
+# Date Generated: Mar 09 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -12486,6 +12486,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 alert.freepush.com
 127.0.0.1 alert.police-patrol-agent.com
 127.0.0.1 alertspy.com
+127.0.0.1 alessandrogaggio-ventures.biz
 127.0.0.1 alex.fileburst.com
 127.0.0.1 alexa-gunther.us
 127.0.0.1 alexa-harrod.us
@@ -21425,6 +21426,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cp.surf-town.net
 127.0.0.1 cp16688.cn
 127.0.0.1 cp35.v2.adsbookie.com
+127.0.0.1 cp975141.cpanel.tech-logol.ru
 127.0.0.1 cpa.ly
 127.0.0.1 cpaaltima.go2cloud.org
 127.0.0.1 cpabrasil.go2cloud.org
@@ -42185,6 +42187,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stampscom.112.2o7.net
 127.0.0.1 stampscom.tt.omtrdc.net
 127.0.0.1 standardsandpraiserepurpose.com
+127.0.0.1 standwoodconsulting.com
 127.0.0.1 stantop.pl
 127.0.0.1 stanzapub.advertserve.com
 127.0.0.1 staples.tt.omtrdc.net
