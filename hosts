@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 55312 ad serving and malware domains.
+# Currently blocking 55320 ad serving and malware domains.
 #
-# Date Generated: Mar 09 2015
+# Date Generated: Mar 11 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -24068,6 +24068,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ekmas.com
 127.0.0.1 ekmpinpoint.co.uk
 127.0.0.1 ekstra.htg.no
+127.0.0.1 el.christiancarenet.com
 127.0.0.1 el.woolik.com
 127.0.0.1 elaina-blanton.us
 127.0.0.1 elaine-hamdan.us
@@ -34613,6 +34614,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 netaffiliation.com
 127.0.0.1 netagent.cz
 127.0.0.1 netbanner.com
+127.0.0.1 netcafeii.in
 127.0.0.1 netclickstats.com
 127.0.0.1 netcologne-01.webtrekk.net
 127.0.0.1 netcomm.spinbox.net
@@ -36680,6 +36682,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pamela-wanamaker.us
 127.0.0.1 pamela.sexybabesx.com
 127.0.0.1 pamoran.net
+127.0.0.1 pampam.xsrv.jp
 127.0.0.1 pan.conanpartners.com
 127.0.0.1 panachedesai.go2cloud.org
 127.0.0.1 pandaapp.us.intellitxt.com
@@ -36939,6 +36942,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pebble-adhese.gva.be
 127.0.0.1 pebble-adhese.hbvl.be
 127.0.0.1 pebble.bnex.com
+127.0.0.1 pedropedreiromoxik.su
 127.0.0.1 peel.spacash.com
 127.0.0.1 peel.webmasterprofitcenter.com
 127.0.0.1 peelads.hustler.com
@@ -44193,6 +44197,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 thetimes420.com
 127.0.0.1 thetradedesk-tags.s3.amazonaws.com
 127.0.0.1 theu.net
+127.0.0.1 theuglygrocer.com
 127.0.0.1 theunwired.us.intellitxt.com
 127.0.0.1 theuploadbusiness.com
 127.0.0.1 theuseful.com
@@ -50153,6 +50158,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.dpbolvw.net
 127.0.0.1 www.dragonballzhomeland.com
 127.0.0.1 www.dream-squad.com
+127.0.0.1 www.dreamconsultancy.com.au
 127.0.0.1 www.drimads.com
 127.0.0.1 www.drivelinemedia.com
 127.0.0.1 www.drivotracker.com
@@ -53675,6 +53681,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.tradedoubler.com.ar
 127.0.0.1 www.tradetraffic.com
 127.0.0.1 www.trading.dianomi.com
+127.0.0.1 www.tradingdirects.co.uk
 127.0.0.1 www.tradomedicalinstints.com
 127.0.0.1 www.traffic-exchanger.net
 127.0.0.1 www.traffic-trades.com
@@ -54978,6 +54985,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 yellgroup.122.2o7.net
 127.0.0.1 yello-de01.webtrekk.net
 127.0.0.1 yellostrom.webtrekk.net
+127.0.0.1 yellowcameras.wanroymotors.com
 127.0.0.1 yellownet.cometsystems.com
 127.0.0.1 yellspain.112.2o7.net
 127.0.0.1 yepdigital.go2cloud.org
