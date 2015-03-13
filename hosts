@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53840 ad serving and malware domains.
+# Currently blocking 53842 ad serving and malware domains.
 #
-# Date Generated: Mar 12 2015
+# Date Generated: Mar 13 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -23229,6 +23229,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dw.cnet.com
 127.0.0.1 dw.com.com
 127.0.0.1 dwclick.com
+127.0.0.1 dwin2.com
 127.0.0.1 dwn.pushtraffic.net
 127.0.0.1 dwnld.promotion-offer.com
 127.0.0.1 dws.reporting.dnitv.com
@@ -24617,6 +24618,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 falkekombiservisi.net
 127.0.0.1 fallencrafts.info
 127.0.0.1 fallon-navarro.us
+127.0.0.1 fam-printings.com
 127.0.0.1 family-offer.com
 127.0.0.1 familyupport1.com
 127.0.0.1 famososvideo.com
@@ -27248,7 +27250,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 hc.rapidshare.com
 127.0.0.1 hc1.humanclick.com
 127.0.0.1 hc2.humanclick.com
-127.0.0.1 hcforklitf.com
 127.0.0.1 hchrmain.112.2o7.net
 127.0.0.1 hdbusty.com
 127.0.0.1 hdmoviesinc.com
@@ -49012,6 +49013,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.dvd-explorer.com
 127.0.0.1 www.dwclick.com
 127.0.0.1 www.dwin1.com
+127.0.0.1 www.dwin2.com
 127.0.0.1 www.e-bannerx.com
 127.0.0.1 www.e-googles.com
 127.0.0.1 www.e-mailpromotion.com
