@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53842 ad serving and malware domains.
+# Currently blocking 53830 ad serving and malware domains.
 #
-# Date Generated: Mar 13 2015
+# Date Generated: Mar 14 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -8670,7 +8670,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.videosz.com
 127.0.0.1 ads.vidsense.com
 127.0.0.1 ads.viewlondon.co.uk
-127.0.0.1 ads.viewx.co.uk
 127.0.0.1 ads.vimg.net
 127.0.0.1 ads.vintageporntubenet.com
 127.0.0.1 ads.vipcams.com
@@ -12396,7 +12395,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 albertarodeo.com
 127.0.0.1 albinoblacksheep.us.intellitxt.com
 127.0.0.1 albionmedical.com
-127.0.0.1 albrecht-pie.net
 127.0.0.1 albullansa.com
 127.0.0.1 albumgirl.com
 127.0.0.1 alclick.com
@@ -22666,7 +22664,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dinoadserver1.roka.net
 127.0.0.1 dinoadserver2.roka.net
 127.0.0.1 dinsalgsvagt.adservinginternational.com
-127.0.0.1 diocesedemarilia.org.br
 127.0.0.1 diosdelared.com.mx
 127.0.0.1 dir.opank.com
 127.0.0.1 dirbg.hit.gemius.pl
@@ -23972,7 +23969,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 enfintrouver.com
 127.0.0.1 engage.com
 127.0.0.1 engage.everyone.net
-127.0.0.1 engage.lv
 127.0.0.1 engage.speedera.net
 127.0.0.1 engage2.advanstar.com
 127.0.0.1 engagebdr.com
@@ -24623,7 +24619,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 familyupport1.com
 127.0.0.1 famososvideo.com
 127.0.0.1 famous-pics.com
-127.0.0.1 famouspoint.com.hk
 127.0.0.1 famut.com
 127.0.0.1 famvir.1.p2l.info
 127.0.0.1 fan.twitch.tv
@@ -26532,7 +26527,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gfx.webmasterprofitcenter.com
 127.0.0.1 gfx3.avn.com
 127.0.0.1 gfxa.sheetmusicplus.com
-127.0.0.1 gfxtrucks.com
 127.0.0.1 gg.adocean.pl
 127.0.0.1 gg.google.com
 127.0.0.1 gg.hit.gemius.pl
@@ -27272,7 +27266,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 hearstmagazines.112.2o7.net
 127.0.0.1 hearstugo.112.2o7.net
 127.0.0.1 heartbeat.pmc.com
-127.0.0.1 heartfactor.us
 127.0.0.1 heather-brennen.us
 127.0.0.1 heathergraham.ca.tt
 127.0.0.1 heathergraham.sexybabesx.com
@@ -27561,6 +27554,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hobbat.fvds.ru
 127.0.0.1 hobbytotaalservice.nl
 127.0.0.1 hobot.ru
+127.0.0.1 hoehuatseafood.com
 127.0.0.1 hoerbird.net
 127.0.0.1 holiday-gift-offers.com
 127.0.0.1 holidayc.ivwbox.de
@@ -28812,6 +28806,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 infinity.adsupply.com
 127.0.0.1 infinityads.com
 127.0.0.1 influentialads.go2cloud.org
+127.0.0.1 influxseo.com
 127.0.0.1 info-images.rambler.ru
 127.0.0.1 info-mail.codeguard.com
 127.0.0.1 info.anmedia.co.uk
@@ -30513,6 +30508,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lifescript.us.intellitxt.com
 127.0.0.1 lifeserv.com
 127.0.0.1 lifestyles.pp.ru
+127.0.0.1 lifestyles3d.ru
 127.0.0.1 lifetimecollect.insightfirst.com
 127.0.0.1 lifetoyou.justclick.ru
 127.0.0.1 lift.openx.com
@@ -34342,6 +34338,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nordiccountry.cz
 127.0.0.1 norma-simental.us
 127.0.0.1 nortelcom.112.2o7.net
+127.0.0.1 north-cvprus.net
 127.0.0.1 northerningredients.com
 127.0.0.1 northjersey.112.2o7.net
 127.0.0.1 northnetworks.go2cloud.org
@@ -34673,7 +34670,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 oacentral.cepro.com
 127.0.0.1 oad.realmedia.com
 127.0.0.1 oads.cracked.com
-127.0.0.1 oakparkltd.com
 127.0.0.1 oamsrhads.us.publicus.com
 127.0.0.1 oamtrk.com
 127.0.0.1 oas-1.rmuk.co.uk
@@ -37091,7 +37087,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pressurespot.com
 127.0.0.1 preteenland.com
 127.0.0.1 preteensite.com
-127.0.0.1 pretorianosdetomares.com
 127.0.0.1 prettyboring.us.intellitxt.com
 127.0.0.1 prevacid.1.p2l.info
 127.0.0.1 prevent-asian-flu.com
@@ -37920,7 +37915,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 rakuten.112.2o7.net
 127.0.0.1 rallye-de-fourmies.com
 127.0.0.1 rallyeair.com
-127.0.0.1 ralphlauren.cf
 127.0.0.1 rampagegramar.com
 127.0.0.1 rampidads.com
 127.0.0.1 randall-mccabe.us
@@ -40391,7 +40385,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 signin-ebay-com-ws-ebayisapi-dll-signin-webscr.ocom.pl
 127.0.0.1 signpost.go2cloud.org
 127.0.0.1 signready.com
-127.0.0.1 signsbycoast.com
 127.0.0.1 signup.advance.net
 127.0.0.1 signup.clicksor.com
 127.0.0.1 siliconaction.com
@@ -40859,7 +40852,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sonycorporate.122.2o7.net
 127.0.0.1 sonyglobal.112.2o7.net
 127.0.0.1 sonyscei.112.2o7.net
-127.0.0.1 sonysugar.co.ke
 127.0.0.1 soongu.info
 127.0.0.1 sophiabush.sexybabesx.com
 127.0.0.1 soracha.hopfeed.com
@@ -44765,6 +44757,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tv-rightcelebrity.us.intellitxt.com
 127.0.0.1 tv.livejasmin.com
 127.0.0.1 tv.sohu.com
+127.0.0.1 tv.theater-und-orchester.de
 127.0.0.1 tv2no.linkpulse.com
 127.0.0.1 tv69.com
 127.0.0.1 tvfanatic.us.intellitxt.com
@@ -47114,7 +47107,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 workingonline.com
 127.0.0.1 workopolis.122.2o7.net
 127.0.0.1 worksbest.freeservers.com
-127.0.0.1 world-livestreaming.eu
 127.0.0.1 world-trade-center.hawaiicity.com
 127.0.0.1 world.eliteserverconnect.xyz
 127.0.0.1 world.popadscdn.net
@@ -48142,7 +48134,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.balook.com
 127.0.0.1 www.baltictop.com
 127.0.0.1 www.bananacashback.com
-127.0.0.1 www.bandanasrepublic.com
 127.0.0.1 www.bangbuddy.com
 127.0.0.1 www.bango.co.uk
 127.0.0.1 www.bango.com
@@ -48667,7 +48658,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.connectlinking9.com
 127.0.0.1 www.connexionsecure.com
 127.0.0.1 www.connextra.com
-127.0.0.1 www.consumatorul.com
 127.0.0.1 www.consumer-org.com
 127.0.0.1 www.consumeralternatives.org
 127.0.0.1 www.consumergiftcenter.com
@@ -51084,7 +51074,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.oxinads.com
 127.0.0.1 www.oxoads.com
 127.0.0.1 www.oxosurf.eu
-127.0.0.1 www.p-studio.ro
 127.0.0.1 www.p.de
 127.0.0.1 www.p3marketing.com
 127.0.0.1 www.pacificpoker.com
@@ -52246,7 +52235,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.tradetraffic.com
 127.0.0.1 www.trading.dianomi.com
 127.0.0.1 www.tradingdirects.co.uk
-127.0.0.1 www.tradomedicalinstints.com
 127.0.0.1 www.traffic-exchanger.net
 127.0.0.1 www.traffic-trades.com
 127.0.0.1 www.traffic4u.com
@@ -53434,7 +53422,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 xyz.freeweblogger.com
 127.0.0.1 xz.duba.net
 127.0.0.1 xz6h6zj3.com
-127.0.0.1 xzoomy.com
 127.0.0.1 y.analytics.yahoo.com
 127.0.0.1 y.cdn.adblade.com
 127.0.0.1 y.extreme-dm.com
@@ -53779,6 +53766,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ziflx.trackvoluum.com
 127.0.0.1 ziinga.go2cloud.org
 127.0.0.1 zillow.go2cloud.org
+127.0.0.1 zintext.com
 127.0.0.1 zinzimo.info
 127.0.0.1 zip.er.cz
 127.0.0.1 zipcity.com
