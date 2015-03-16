@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53165 ad serving and malware domains.
+# Currently blocking 53164 ad serving and malware domains.
 #
-# Date Generated: Mar 15 2015
+# Date Generated: Mar 16 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -21237,6 +21237,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 crmbuyer.us.intellitxt.com
 127.0.0.1 crosspixel.demdex.net
 127.0.0.1 crosspromotion.ubi.com
+127.0.0.1 crossydonaldstion.in
 127.0.0.1 crowdcontrol.lotame.com
 127.0.0.1 crowdgravity.com
 127.0.0.1 crowdignite.com
@@ -28800,7 +28801,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 is.spring-tns.net
 127.0.0.1 is.vinsight.de
 127.0.0.1 is2.websearch.com
-127.0.0.1 iscaleos.com
 127.0.0.1 isearch.babylon.com
 127.0.0.1 isearch.shopathome.com
 127.0.0.1 isg01.casalemedia.com
@@ -35597,7 +35597,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 paracadutismolucca.it
 127.0.0.1 parade.122.2o7.net
 127.0.0.1 paramount.go2cloud.org
-127.0.0.1 paranoidf.com
 127.0.0.1 paraskov.com
 127.0.0.1 paris.typepad.com
 127.0.0.1 paritycube.go2cloud.org
