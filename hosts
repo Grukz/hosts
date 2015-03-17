@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53164 ad serving and malware domains.
+# Currently blocking 53167 ad serving and malware domains.
 #
-# Date Generated: Mar 16 2015
+# Date Generated: Mar 17 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -12826,6 +12826,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 answerbag.us.intellitxt.com
 127.0.0.1 answers.us.intellitxt.com
 127.0.0.1 ant.conversive.nl
+127.0.0.1 antalya-eticaret.com
 127.0.0.1 antalya.ru
 127.0.0.1 antalyareklamajansi.net
 127.0.0.1 antenne.ivwbox.de
@@ -15669,7 +15670,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 benedictemaindiaux.com
 127.0.0.1 benhancement.gohip.com
 127.0.0.1 benimreklam.com
-127.0.0.1 bentleyoil.su
 127.0.0.1 berater.adition.com
 127.0.0.1 bergenstidende.112.2o7.net
 127.0.0.1 bergfex.ivwbox.de
@@ -29237,6 +29237,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jiktnv.122.2o7.net
 127.0.0.1 jill-mortimer.us
 127.0.0.1 jill-southern.us
+127.0.0.1 jimandjaneproductions.com
 127.0.0.1 jimbo.ixn.local.vmsn.de
 127.0.0.1 jinkads.de
 127.0.0.1 jip.nuggad.net
@@ -30184,6 +30185,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 linalex.com
 127.0.0.1 linda-bretz.us
 127.0.0.1 linda-jose.us
+127.0.0.1 lindabstewart.com
 127.0.0.1 lindsay-cournoyer.us
 127.0.0.1 lindy-verdi.us
 127.0.0.1 lineacount.info
@@ -33640,6 +33642,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 netword.com
 127.0.0.1 network-a.bazaarvoice.com
 127.0.0.1 network-ca.247realmedia.com
+127.0.0.1 network.adbullion.com
 127.0.0.1 network.adjal.com
 127.0.0.1 network.adsmarket.com
 127.0.0.1 network.adsmarket.es
