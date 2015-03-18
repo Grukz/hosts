@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53167 ad serving and malware domains.
+# Currently blocking 53171 ad serving and malware domains.
 #
-# Date Generated: Mar 17 2015
+# Date Generated: Mar 18 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -11706,6 +11706,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aff3.gittigidiyor.com
 127.0.0.1 aff4.gittigidiyor.com
 127.0.0.1 affbanners.bizland.com
+127.0.0.1 affbeat.com
 127.0.0.1 affbuzzads.com
 127.0.0.1 affcloud.go2cloud.org
 127.0.0.1 affddl.automotive.com
@@ -24350,7 +24351,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 falkekombiservisi.net
 127.0.0.1 fallencrafts.info
 127.0.0.1 fallon-navarro.us
-127.0.0.1 fam-printings.com
 127.0.0.1 family-offer.com
 127.0.0.1 familyupport1.com
 127.0.0.1 famososvideo.com
@@ -29062,6 +29062,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jackpot.112.2o7.net
 127.0.0.1 jackpotgambling.net
 127.0.0.1 jacksonsun.us.intellitxt.com
+127.0.0.1 jacoblanderville.myjino.ru
 127.0.0.1 jact.atdmt.com
 127.0.0.1 jadcenter.com
 127.0.0.1 jade-aultman.us
@@ -32086,6 +32087,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 meetupdev.122.2o7.net
 127.0.0.1 meevehdar.com
 127.0.0.1 mega-e.org
+127.0.0.1 megaats.atspace.cc
 127.0.0.1 megacash.de
 127.0.0.1 megacash.warpnet.com.br
 127.0.0.1 megacounter.de
@@ -35821,6 +35823,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pebble-adhese.gva.be
 127.0.0.1 pebble-adhese.hbvl.be
 127.0.0.1 pebble.bnex.com
+127.0.0.1 pedromania.com
 127.0.0.1 pedropedreiromoxik.su
 127.0.0.1 peel.spacash.com
 127.0.0.1 peel.webmasterprofitcenter.com
@@ -47344,6 +47347,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.afantispy.com
 127.0.0.1 www.afcyhf.com
 127.0.0.1 www.afdtkr.com
+127.0.0.1 www.affbeat.com
 127.0.0.1 www.affbuzzads.com
 127.0.0.1 www.affiliate-fr.com
 127.0.0.1 www.affiliate.net
