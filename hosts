@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53171 ad serving and malware domains.
+# Currently blocking 53173 ad serving and malware domains.
 #
-# Date Generated: Mar 18 2015
+# Date Generated: Mar 19 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -36920,6 +36920,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 proudclick.com
 127.0.0.1 provexia.com
 127.0.0.1 providence.voxmedia.com
+127.0.0.1 provideshield.com
 127.0.0.1 proxad.net
 127.0.0.1 proximityads.flipcorp.com
 127.0.0.1 proxy.blogads.com
@@ -40382,6 +40383,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 southwestairlines.tt.omtrdc.net
 127.0.0.1 sovereign.sitetracker.com
 127.0.0.1 sovetnik.go2cloud.org
+127.0.0.1 sozoku-kinki.jp
 127.0.0.1 sp.analytics.yahoo.com
 127.0.0.1 sp.fastclick.net
 127.0.0.1 sp.ltassrv.com.s3.amazonaws.com
