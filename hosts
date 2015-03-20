@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53173 ad serving and malware domains.
+# Currently blocking 53177 ad serving and malware domains.
 #
-# Date Generated: Mar 19 2015
+# Date Generated: Mar 20 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -13334,6 +13334,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 arads.tk
 127.0.0.1 aragonadvertising.go2cloud.org
 127.0.0.1 arank.com
+127.0.0.1 arbitrary.drclinton.org
 127.0.0.1 arbo.hit.gemius.pl
 127.0.0.1 arbomedia.nuggad.net
 127.0.0.1 arbomedia.pl
@@ -22721,6 +22722,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dosugcz.biz
 127.0.0.1 dot.adtotal.pl
 127.0.0.1 dot.eporner.com
+127.0.0.1 dot.idealzip.com
 127.0.0.1 dot.idot.cz
 127.0.0.1 dot.wp.pl
 127.0.0.1 dot2.eporner.com
@@ -24493,6 +24495,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fe3-uk.imrworldwide.com
 127.0.0.1 fe4-uk.imrworldwide.com
 127.0.0.1 feaecebook.com
+127.0.0.1 featuring.cinemalink.us
 127.0.0.1 fedex.demdex.net
 127.0.0.1 fedex.tt.omtrdc.net
 127.0.0.1 fee-hydrocodone.bebto.com
@@ -24527,6 +24530,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 feedx.bidsystem.com
 127.0.0.1 fei.pro-market.net
 127.0.0.1 felanco.heliohost.org
+127.0.0.1 feldie.jp
 127.0.0.1 felitb.rightinthebox.com
 127.0.0.1 female-v.1.p2l.info
 127.0.0.1 femalefirst.uk.intellitxt.com
@@ -29337,6 +29341,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 js-at.goldbach.com
 127.0.0.1 js.ad-stir.com
 127.0.0.1 js.ad.mediamond.it
+127.0.0.1 js.adforgames.com
 127.0.0.1 js.adlink.net
 127.0.0.1 js.adm.cnzz.net
 127.0.0.1 js.admngr.com
@@ -32804,7 +32809,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mobilewithsms.net
 127.0.0.1 mobilityguru.us.intellitxt.com
 127.0.0.1 mobilitysite.us.intellitxt.com
-127.0.0.1 mobilorder.com
 127.0.0.1 mobisystems.com
 127.0.0.1 mobitracker.info
 127.0.0.1 mobivity.com
@@ -34903,6 +34907,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 onestatfree.com
 127.0.0.1 onet.hit.gemius.pl
 127.0.0.1 onet.hit.stat.pl
+127.0.0.1 onetimeoffer.org
 127.0.0.1 onetoone.112.2o7.net
 127.0.0.1 oneund.ru
 127.0.0.1 onewaylinkexchange.net
@@ -36920,7 +36925,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 proudclick.com
 127.0.0.1 provexia.com
 127.0.0.1 providence.voxmedia.com
-127.0.0.1 provideshield.com
 127.0.0.1 proxad.net
 127.0.0.1 proximityads.flipcorp.com
 127.0.0.1 proxy.blogads.com
@@ -42445,6 +42449,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 techcrunch.appstores.com
 127.0.0.1 techeblog.us.intellitxt.com
 127.0.0.1 techexpress.home.mindspring.com
+127.0.0.1 techfonthk.com
 127.0.0.1 techgadgets.in.intellitxt.com
 127.0.0.1 techgage.us.intellitxt.com
 127.0.0.1 techguy.us.intellitxt.com
@@ -47776,7 +47781,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.brittni-olson.us
 127.0.0.1 www.broadcastpc.tv
 127.0.0.1 www.broadspring.com
-127.0.0.1 www.broderiecanevas.com
 127.0.0.1 www.brokertraffic.com
 127.0.0.1 www.brook-durante.us
 127.0.0.1 www.brook-rosen.us
