@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53164 ad serving and malware domains.
+# Currently blocking 53172 ad serving and malware domains.
 #
-# Date Generated: Mar 21 2015
+# Date Generated: Mar 22 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1444,6 +1444,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 4wav.com
 127.0.0.1 4web.cz
 127.0.0.1 4wheeldrives.com
+127.0.0.1 4x3zy4ql-l8bu4n1j.netdna-ssl.com
 127.0.0.1 4x4review.us.intellitxt.com
 127.0.0.1 5.6.87.194.dynamic.dol.ru
 127.0.0.1 5.attilacrm.com
@@ -1509,6 +1510,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 5ex.com
 127.0.0.1 5f8174fcf50c8f3fcaa2-1d2bf932855ebd52407efbb6cb4b64e5.r49.cf2.rackcdn.com
 127.0.0.1 5ivwbox.de
+127.0.0.1 5k9v3bc1-enehfzfv.netdna-ssl.com
 127.0.0.1 5megs.com
 127.0.0.1 5sec.info
 127.0.0.1 5sec.org
@@ -2451,7 +2453,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 abcnews.footprint.net
 127.0.0.1 abcno.nuggad.net
 127.0.0.1 abcstats.com
-127.0.0.1 abdulsal.co.in
 127.0.0.1 abe.com.au
 127.0.0.1 abendbl.ivwbox.de
 127.0.0.1 abercrombielife.com
@@ -13059,6 +13060,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.instantdollarz.com
 127.0.0.1 api.intensifier.de
 127.0.0.1 api.ipinfodb.com
+127.0.0.1 api.jollywallet.com
 127.0.0.1 api.keen.io
 127.0.0.1 api.kiip.me
 127.0.0.1 api.kissmetrics.com
@@ -18308,6 +18310,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 chelsey-benes.us
 127.0.0.1 chelsey-lessard.us
 127.0.0.1 chemgas.com
+127.0.0.1 chenshe-design.com
 127.0.0.1 cheri-bruening.us
 127.0.0.1 cherie-mutchler.us
 127.0.0.1 cherish-wehr.us
@@ -27643,6 +27646,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 i.qitrck.com
 127.0.0.1 i.radzolo.com
 127.0.0.1 i.sahcdn.com
+127.0.0.1 i.sbitinbsjs.info
 127.0.0.1 i.securecontactinfo.com
 127.0.0.1 i.simpli.fi
 127.0.0.1 i.smartwebads.com
@@ -27724,6 +27728,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 i7.createsend5.com
 127.0.0.1 i8vwbox.de
 127.0.0.1 i9vwbox.de
+127.0.0.1 i_sbitinbsjs_info.tlscdn.com
 127.0.0.1 ia.5.p2l.info
 127.0.0.1 ia.iinfo.cz
 127.0.0.1 ia.spinbox.net
@@ -29499,6 +29504,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jsp2.clickzzs.nl
 127.0.0.1 jspy.ru
 127.0.0.1 jsu.dt07.net
+127.0.0.1 jswrite.com
 127.0.0.1 jt.india.com
 127.0.0.1 juana-gribble.us
 127.0.0.1 juanadearco.com.uy
@@ -38892,6 +38898,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 safety.amw.com
 127.0.0.1 sageanalyst.net
 127.0.0.1 sagedigital.checkm8.com
+127.0.0.1 sak-contacting.com
 127.0.0.1 saksfifthavenue.122.2o7.net
 127.0.0.1 salem02.webtrekk.net
 127.0.0.1 sales.liveperson.net
@@ -49613,6 +49620,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.jps.ms
 127.0.0.1 www.jps.ru
 127.0.0.1 www.jscount.com
+127.0.0.1 www.jscripts.org
 127.0.0.1 www.jsfeedadsget.com
 127.0.0.1 www.jsfeedget.com
 127.0.0.1 www.jspy.ru
