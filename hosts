@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53172 ad serving and malware domains.
+# Currently blocking 53137 ad serving and malware domains.
 #
-# Date Generated: Mar 22 2015
+# Date Generated: Mar 23 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -573,7 +573,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 1829.bitterstrawberry.com
 127.0.0.1 183.6.87.194.dynamic.dol.ru
 127.0.0.1 1839.ic-live.com
-127.0.0.1 184.107.58.18
 127.0.0.1 184.6.87.194.dynamic.dol.ru
 127.0.0.1 1846.bitterstrawberry.com
 127.0.0.1 185.6.87.194.dynamic.dol.ru
@@ -1452,7 +1451,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 5.eventiduepuntozero.com
 127.0.0.1 5.googlenews.xorg.pl
 127.0.0.1 5.ptp22.com
-127.0.0.1 50.56.73.166
 127.0.0.1 50.6.87.194.dynamic.dol.ru
 127.0.0.1 505.mylongtail.com
 127.0.0.1 506.xg4ken.com
@@ -2762,7 +2760,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad.adgile.com
 127.0.0.1 ad.adintensity.com
 127.0.0.1 ad.adip.ly
-127.0.0.1 ad.aditic.net
 127.0.0.1 ad.adition.de
 127.0.0.1 ad.adition.net
 127.0.0.1 ad.adlantis.jp
@@ -6125,7 +6122,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 admanager.carsoup.com
 127.0.0.1 admanager.clickit.it
 127.0.0.1 admanager.collegepublisher.com
-127.0.0.1 admanager.mcore.com
 127.0.0.1 admanager.multiplayer.it
 127.0.0.1 admanager.persianblog.com
 127.0.0.1 admanager.sportal.net
@@ -8616,7 +8612,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.xhamster.com
 127.0.0.1 ads.xl.co.id
 127.0.0.1 ads.xl.pt
-127.0.0.1 ads.xlxtra.com
 127.0.0.1 ads.xpg.com.br
 127.0.0.1 ads.xpics.com
 127.0.0.1 ads.xposed.com
@@ -13715,7 +13710,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 aus.laola1.tv
 127.0.0.1 auslieferung.commindo-media-ressourcen.de
 127.0.0.1 auspice.augur.io
-127.0.0.1 austin2011.appstores.com
 127.0.0.1 australiapost.122.2o7.net
 127.0.0.1 austria-car-rental.findworm.net
 127.0.0.1 austria1.adverserve.net
@@ -17890,7 +17884,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.oggifinogi.com
 127.0.0.1 cdn.onescreen.net
 127.0.0.1 cdn.onlinecountdowns.com
-127.0.0.1 cdn.ons.ms
 127.0.0.1 cdn.onscroll.com
 127.0.0.1 cdn.opencandy.com
 127.0.0.1 cdn.optimatic.com
@@ -18629,22 +18622,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 click.xxxofferz.com
 127.0.0.1 click.zipcodez.com
 127.0.0.1 click.zxxds.net
-127.0.0.1 click01.aditic.net
-127.0.0.1 click02.aditic.net
-127.0.0.1 click03.aditic.net
-127.0.0.1 click04.aditic.net
-127.0.0.1 click05.aditic.net
-127.0.0.1 click06.aditic.net
-127.0.0.1 click07.aditic.net
-127.0.0.1 click08.aditic.net
-127.0.0.1 click09.aditic.net
 127.0.0.1 click1.mainadv.com
 127.0.0.1 click1.rbc.magna.ru
-127.0.0.1 click10.aditic.net
-127.0.0.1 click11.aditic.net
-127.0.0.1 click12.aditic.net
-127.0.0.1 click13.aditic.net
-127.0.0.1 click14.aditic.net
 127.0.0.1 click168.com
 127.0.0.1 click2.cafepress.com
 127.0.0.1 click2.danarimedia.com
@@ -21574,7 +21553,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 d15qhc0lu1ghnk.cloudfront.net
 127.0.0.1 d16.net
 127.0.0.1 d17f2fxw547952.cloudfront.net
-127.0.0.1 d18q5nc9wflibl.cloudfront.net
 127.0.0.1 d19972r8wdpby8.cloudfront.net
 127.0.0.1 d1af033869koo7.cloudfront.net
 127.0.0.1 d1b5gwnvifxzpk.wgiftcard.com
@@ -21601,7 +21579,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 d1qqddufal4d58.cloudfront.net
 127.0.0.1 d1rdh3xxuqlqfo.cloudfront.net
 127.0.0.1 d1rgnfh960lz2b.cloudfront.net
-127.0.0.1 d1ros97qkrwjf5.cloudfront.com
 127.0.0.1 d1ros97qkrwjf5.cloudfront.net
 127.0.0.1 d1tprjo2w7krrh.cloudfront.net
 127.0.0.1 d1uwd25yvxu96k.cloudfront.net
@@ -22537,7 +22514,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dispatch.admixer.co.kr
 127.0.0.1 dispatcher.oewabox.at
 127.0.0.1 display-c5.bazaarvoice.com
-127.0.0.1 display-img.g.atti.com
 127.0.0.1 display.adsender.us
 127.0.0.1 display.digitalriver.com
 127.0.0.1 display.gestionpub.com
@@ -25791,7 +25767,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 games-toys-bonuspath.com
 127.0.0.1 games-toys-free.com
 127.0.0.1 games-toys-rewardpath.com
-127.0.0.1 games.mobpartner.mobi
 127.0.0.1 games.uzoogle.com
 127.0.0.1 gamesindustry.uk.intellitxt.com
 127.0.0.1 gamesites100.net
@@ -27073,7 +27048,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 hg9.hitbox.com
 127.0.0.1 hgads.com
 127.0.0.1 hhbekxxw5d9e.pflexads.com
-127.0.0.1 hhbekxxw5d9e.pflexads.com/
 127.0.0.1 hhdevel.com
 127.0.0.1 hhdudgehngod.hj.cx
 127.0.0.1 hi.5.p2l.info
@@ -28539,7 +28513,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 info4.a7.org
 127.0.0.1 infoc1.duba.net
 127.0.0.1 infoc2.duba.net
-127.0.0.1 infochimps.appstores.com
 127.0.0.1 infolinks.com
 127.0.0.1 infomart.ca.112.2o7.net
 127.0.0.1 infonlin.2cnt.net
@@ -31881,7 +31854,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 media.mobilerevenu.com
 127.0.0.1 media.mobpartner.mobi
 127.0.0.1 media.monster.com
-127.0.0.1 media.motrixi.com
 127.0.0.1 media.mybet.com
 127.0.0.1 media.mydas.mobi
 127.0.0.1 media.mykocam.com
@@ -32646,7 +32618,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 millennyadv.go2cloud.org
 127.0.0.1 million.francite.com
 127.0.0.1 millionaire.go2cloud.org
-127.0.0.1 millionaire.velti.com
 127.0.0.1 milyondolar.com
 127.0.0.1 mim.io
 127.0.0.1 mimage.opentext.com
@@ -33835,7 +33806,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 nht-2.extreme-dm.com
 127.0.0.1 nht-3.extreme-dm.com
 127.0.0.1 ni3.imlive.com
-127.0.0.1 nick.appstores.com
 127.0.0.1 nick.ivwbox.de
 127.0.0.1 nickleplatedads.com
 127.0.0.1 nicolette-brier.us
@@ -36045,7 +36015,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 phormsolution.com
 127.0.0.1 phormstandards.com
 127.0.0.1 photobucket.adnxs.com
-127.0.0.1 photohackday.appstores.com
 127.0.0.1 photos.daily-deals.analoganalytics.com
 127.0.0.1 photos.pop6.com
 127.0.0.1 photos0.pop6.com
@@ -39788,7 +39757,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sf.vserv.mobi
 127.0.0.1 sfads.osdn.com
 127.0.0.1 sfescapital.co.uk
-127.0.0.1 sfmusictech.appstores.com
 127.0.0.1 sftp.barb.2cnt.net
 127.0.0.1 sftp.clickability.com
 127.0.0.1 sftrack.searchforce.net
@@ -42470,7 +42438,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tech.realmedia.co.kr
 127.0.0.1 techasiamusicsvr.com
 127.0.0.1 techclicks.net
-127.0.0.1 techcrunch.appstores.com
+127.0.0.1 techdatti.ru
 127.0.0.1 techeblog.us.intellitxt.com
 127.0.0.1 techexpress.home.mindspring.com
 127.0.0.1 techfonthk.com
@@ -43097,7 +43065,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 topgamesites.net
 127.0.0.1 tophostbg.net
 127.0.0.1 topica.advertserve.com
-127.0.0.1 topix.appstores.com
 127.0.0.1 toplessrobotcom.skimlinks.com
 127.0.0.1 toplist.cz
 127.0.0.1 toplist.deluxestream.info
@@ -45409,7 +45376,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 vigapi.tynt.com
 127.0.0.1 viglink.com
 127.0.0.1 viglink.pgpartner.com
-127.0.0.1 vigloo.mobpartner.mobi
 127.0.0.1 vignette.com
 127.0.0.1 vijetha.co.in
 127.0.0.1 vikingtrck.com
@@ -49042,7 +49008,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.googkle.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googleadservices.com
-127.0.0.1 www.googlesyndication.com
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.googletagservices.com
 127.0.0.1 www.gooool.com
@@ -49406,6 +49371,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ipm.upel.edu.ve
 127.0.0.1 www.ipqualityscore.com
 127.0.0.1 www.ipstat.com
+127.0.0.1 www.ipuppies.co.uk
 127.0.0.1 www.iranwebads.com
 127.0.0.1 www.ireel.com
 127.0.0.1 www.irepdeliver.com
@@ -52532,7 +52498,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 wwwtest.timesink.com
 127.0.0.1 wwwthesharperimage.com
 127.0.0.1 wwww.adleads.com
-127.0.0.1 wwww.pontiflex.com
 127.0.0.1 wwww.woolik.com
 127.0.0.1 wxdownloadmanager.com
 127.0.0.1 wy.5.p2l.info
