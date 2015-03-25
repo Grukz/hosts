@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53141 ad serving and malware domains.
+# Currently blocking 53147 ad serving and malware domains.
 #
-# Date Generated: Mar 24 2015
+# Date Generated: Mar 25 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -15818,6 +15818,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bianca-rhoton.us
 127.0.0.1 biba05.ru
 127.0.0.1 bibleanswers4u.com
+127.0.0.1 bibrath.eu
 127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 bid.openx.net
 127.0.0.1 bid.pubmatic.com
@@ -16433,6 +16434,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 books-media-rewardpath.com
 127.0.0.1 boom.ro
 127.0.0.1 boomerang.com.au
+127.0.0.1 boomsgkenwewjoytto.net
 127.0.0.1 boost-my-pr.de
 127.0.0.1 boostmobile.112.2o7.net
 127.0.0.1 bootdaily.us.intellitxt.com
@@ -18336,6 +18338,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 chkpt.zdnet.com
 127.0.0.1 chktrk.ifario.us
 127.0.0.1 chlcotrk.com
+127.0.0.1 chobephotography.com
 127.0.0.1 chocoservices.ru
 127.0.0.1 choice.demdex.net
 127.0.0.1 choicedealz.com
@@ -25470,6 +25473,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 freecodecs.us.intellitxt.com
 127.0.0.1 freecoolgift.com
 127.0.0.1 freecountersnow.com
+127.0.0.1 freedatarecharge.com
 127.0.0.1 freedesignerhandbagreviews.com
 127.0.0.1 freedinnersource.com
 127.0.0.1 freedownloadcenter.uk.intellitxt.com
@@ -33438,6 +33442,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nana10.checkm8.com
 127.0.0.1 nana10digital.checkm8.com
 127.0.0.1 nancy-mosca.us
+127.0.0.1 nancycemt1225.ddns.net
 127.0.0.1 nandomedia.112.2o7.net
 127.0.0.1 nandp.go2cloud.org
 127.0.0.1 nanocluster.reklamz.com
@@ -33933,6 +33938,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nol.yahoo.com
 127.0.0.1 nomen-est-omen.de
 127.0.0.1 nonames.tk
+127.0.0.1 nonstopeddanceraz.su
 127.0.0.1 noobgirls.com
 127.0.0.1 noonepa.tk
 127.0.0.1 noowho.com
@@ -38870,7 +38876,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 safety.amw.com
 127.0.0.1 sageanalyst.net
 127.0.0.1 sagedigital.checkm8.com
-127.0.0.1 sak-contacting.com
 127.0.0.1 saksfifthavenue.122.2o7.net
 127.0.0.1 salem02.webtrekk.net
 127.0.0.1 sales.liveperson.net
@@ -48787,6 +48792,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.freecoolgift.com
 127.0.0.1 www.freecounter.it
 127.0.0.1 www.freecountersnow.com
+127.0.0.1 www.freedatarecharge.com
 127.0.0.1 www.freedesignerhandbagreviews.com
 127.0.0.1 www.freedinnersource.com
 127.0.0.1 www.freedownloadhq.com
