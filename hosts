@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53147 ad serving and malware domains.
+# Currently blocking 53149 ad serving and malware domains.
 #
-# Date Generated: Mar 25 2015
+# Date Generated: Mar 26 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -44251,6 +44251,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tvmtracker.com
 127.0.0.1 tvn.adocean.pl
 127.0.0.1 tvn.hit.gemius.pl
+127.0.0.1 tvoidoktor24.ru
 127.0.0.1 tvoy-mir.justclick.ru
 127.0.0.1 tvseriesfinale.us.intellitxt.com
 127.0.0.1 tvshowslist.com
@@ -48392,6 +48393,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.domamil.cz
 127.0.0.1 www.domdex.com
 127.0.0.1 www.donkeymails.com
+127.0.0.1 www.donor-kursk.ru
 127.0.0.1 www.donotwatch.org
 127.0.0.1 www.dontwatch.us
 127.0.0.1 www.doris-imhoff.us
