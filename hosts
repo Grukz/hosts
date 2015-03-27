@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53149 ad serving and malware domains.
+# Currently blocking 53151 ad serving and malware domains.
 #
-# Date Generated: Mar 26 2015
+# Date Generated: Mar 27 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -15626,6 +15626,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 beads.sx.atl.publicus.com
 127.0.0.1 beam.hlserve.com
 127.0.0.1 beam.to
+127.0.0.1 beamline.net.in
 127.0.0.1 beap.adx.yahoo.com
 127.0.0.1 beastasuum.a.ssl.fastly.net
 127.0.0.1 beasttube.biz
@@ -44660,6 +44661,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ughmvqf.spitt.ru
 127.0.0.1 ugo.eu-adcenter.net
 127.0.0.1 ugo.tractionize.com
+127.0.0.1 ugruopltd.com
 127.0.0.1 ugwebz.uk.pn
 127.0.0.1 ui.avid.doublepimp.com
 127.0.0.1 ui.bang.doublepimp.com
