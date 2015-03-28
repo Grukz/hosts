@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53151 ad serving and malware domains.
+# Currently blocking 53155 ad serving and malware domains.
 #
-# Date Generated: Mar 27 2015
+# Date Generated: Mar 28 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -8497,6 +8497,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.videosz.com
 127.0.0.1 ads.vidsense.com
 127.0.0.1 ads.viewlondon.co.uk
+127.0.0.1 ads.viewx.co.uk
 127.0.0.1 ads.vimg.net
 127.0.0.1 ads.vintageporntubenet.com
 127.0.0.1 ads.vipcams.com
@@ -12700,6 +12701,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 analyzer52.fc2.com
 127.0.0.1 analyzer55.fc2.com
 127.0.0.1 anandtech.us.smarttargetting.com
+127.0.0.1 anantana.com
 127.0.0.1 anapixel.elmundo.es
 127.0.0.1 anapixel.expansion.com
 127.0.0.1 anapixel.marca.com
@@ -15626,7 +15628,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 beads.sx.atl.publicus.com
 127.0.0.1 beam.hlserve.com
 127.0.0.1 beam.to
-127.0.0.1 beamline.net.in
 127.0.0.1 beap.adx.yahoo.com
 127.0.0.1 beastasuum.a.ssl.fastly.net
 127.0.0.1 beasttube.biz
@@ -18861,6 +18862,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 clients.tbo.com
 127.0.0.1 clientstat.castup.net
 127.0.0.1 clik2008.popunder.ru
+127.0.0.1 clinicapromaxi.com
 127.0.0.1 clipcaps.com
 127.0.0.1 clipfish.ivwbox.de
 127.0.0.1 clips.coolerads.com
@@ -25800,7 +25802,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 garbo.2cnt.net
 127.0.0.1 garden.ngadcenter.net
 127.0.0.1 gardenweb.us.intellitxt.com
-127.0.0.1 garneyrealestate.com
 127.0.0.1 garo.hit.gemius.pl
 127.0.0.1 garristo.com
 127.0.0.1 gars.hit.gemius.pl
@@ -27963,6 +27964,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 imadworks.rediff.com
 127.0.0.1 image-circul.tk
 127.0.0.1 image-map.com
+127.0.0.1 image-png.us
 127.0.0.1 image.accendo.com
 127.0.0.1 image.adition.com
 127.0.0.1 image.adjuggler.com
@@ -29783,7 +29785,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 kontera.com
 127.0.0.1 kootil.com
 127.0.0.1 kori-stimson.us
-127.0.0.1 korkutgroup.com
 127.0.0.1 kos.interseek.si
 127.0.0.1 kosoft-ads.com
 127.0.0.1 kotikokki.spring-tns.net
@@ -33809,7 +33810,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ngohq.us.intellitxt.com
 127.0.0.1 ngs.impress.co.jp
 127.0.0.1 nh.5.p2l.info
-127.0.0.1 nhaphangmy.net
 127.0.0.1 nhl.112.2o7.net
 127.0.0.1 nhpz.lalaghoaujrnu.info
 127.0.0.1 nht-2.extreme-dm.com
@@ -39486,6 +39486,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 semengineers.com
 127.0.0.1 semiyun.com
 127.0.0.1 semrush.com
+127.0.0.1 send-image.us
 127.0.0.1 send.microad.jp
 127.0.0.1 send4fun.com
 127.0.0.1 senseiproducts.com
@@ -42212,6 +42213,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tailsweep.com
 127.0.0.1 tailsweep.se
 127.0.0.1 tajs.qq.com
+127.0.0.1 take-screenshot.us
 127.0.0.1 take5.real.com
 127.0.0.1 taking-technology.com
 127.0.0.1 takru.com
@@ -49290,6 +49292,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ilovecheating.com
 127.0.0.1 www.imads.ero-advertising.com
 127.0.0.1 www.image-map.com
+127.0.0.1 www.image-png.us
 127.0.0.1 www.image-werbebedarf.de
 127.0.0.1 www.image.ft.com
 127.0.0.1 www.imageers.com
@@ -50402,7 +50405,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.oneandonlynetwork.com
 127.0.0.1 www.oneclick.bg
 127.0.0.1 www.onelouder.com
-127.0.0.1 www.onenewmanthailand.com
 127.0.0.1 www.onestat.com
 127.0.0.1 www.onestatfree.com
 127.0.0.1 www.onlinebestoffers.net
@@ -51119,6 +51121,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.silveragesoftware.com
 127.0.0.1 www.silvercash.com
 127.0.0.1 www.silvia-maffei.us
+127.0.0.1 www.silwel.or.kr
 127.0.0.1 www.simona-stanford.us
 127.0.0.1 www.simonsearch.com
 127.0.0.1 www.simplecounter.net
@@ -52976,6 +52979,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 z9.zeroredirect1.com
 127.0.0.1 za-cdn.effectivemeasure.net
 127.0.0.1 za.zeroredirect1.com
+127.0.0.1 zabava-bel.ru
 127.0.0.1 zads.zedo.com
 127.0.0.1 zafiti01.webtrekk-us.net
 127.0.0.1 zag.112.2o7.net
