@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53155 ad serving and malware domains.
+# Currently blocking 53156 ad serving and malware domains.
 #
-# Date Generated: Mar 28 2015
+# Date Generated: Mar 29 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18396,6 +18396,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ciaoshopde.122.2o7.net
 127.0.0.1 ciaoshopit.122.2o7.net
 127.0.0.1 cibleclick.com
+127.0.0.1 ciceksatinal.com.tr
 127.0.0.1 cicero-dropbox.tk
 127.0.0.1 ciclismovalenciano.com
 127.0.0.1 cid.pardot.com
@@ -50519,7 +50520,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.peakclick.com
 127.0.0.1 www.peakcounter.dk
 127.0.0.1 www.peekstats.com
-127.0.0.1 www.pengakap.org
 127.0.0.1 www.people-choice-sites.com
 127.0.0.1 www.people-group.su
 127.0.0.1 www.pepipo.com
@@ -50874,6 +50874,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.roispy.com
 127.0.0.1 www.roitracker.com
 127.0.0.1 www.rokus-tgy.hu
+127.0.0.1 www.romafoodimpex.com
 127.0.0.1 www.romanticmaui.net
 127.0.0.1 www.romepartners.com
 127.0.0.1 www.rooversadvocatuur.nl
