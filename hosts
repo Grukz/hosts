@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53156 ad serving and malware domains.
+# Currently blocking 53160 ad serving and malware domains.
 #
-# Date Generated: Mar 29 2015
+# Date Generated: Mar 30 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -17519,6 +17519,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 carolina-fullwood.us
 127.0.0.1 caroline-beckman.us
 127.0.0.1 carolyn-deckard.us
+127.0.0.1 caroplex.co.za
 127.0.0.1 carpediem.sv2.biz
 127.0.0.1 carpuma.com
 127.0.0.1 carquestionswebsite.com
@@ -27094,6 +27095,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hiq.fotolog.com
 127.0.0.1 hiradgjof.is
 127.0.0.1 hirockey.jp
+127.0.0.1 hirotacar.jp
 127.0.0.1 hisnakiamotors.122.2o7.net
 127.0.0.1 histats.com
 127.0.0.1 histats2014.simply-webspace.it
@@ -36726,6 +36728,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 prod02.jag.vmsn.de
 127.0.0.1 prod03.jag.vmsn.de
 127.0.0.1 prodege.go2cloud.org
+127.0.0.1 prodigiy.net
 127.0.0.1 product-reviews.uk.intellitxt.com
 127.0.0.1 production-eqbc.lvp.llnw.net
 127.0.0.1 production-mcs.lvp.llnw.net
@@ -42501,6 +42504,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 teens24h.com
 127.0.0.1 teensparty.net
 127.0.0.1 teeser.ru
+127.0.0.1 teeth.co.jp
 127.0.0.1 tei.fivemillionfriends.com
 127.0.0.1 teknosurf3.com
 127.0.0.1 teknosystem.cl
