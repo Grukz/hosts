@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53160 ad serving and malware domains.
+# Currently blocking 53147 ad serving and malware domains.
 #
-# Date Generated: Mar 30 2015
+# Date Generated: Mar 31 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -12378,7 +12378,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 amandaplese.com
 127.0.0.1 amare.softwaregarden.com
 127.0.0.1 amaritrade.com
-127.0.0.1 amartemexico.com
 127.0.0.1 amateur-mature-sex.adaltabaza.net
 127.0.0.1 amateur-porn-links.com
 127.0.0.1 amateur.amarotic.com
@@ -16400,7 +16399,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bobgwtmp.vmsn.de
 127.0.0.1 bobtv.ivwbox.de
 127.0.0.1 bodisparking.com
-127.0.0.1 bodlandtechnic.com
 127.0.0.1 boersego-ads.de
 127.0.0.1 boerseon.ivwbox.de
 127.0.0.1 boingdragon.com
@@ -16436,7 +16434,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 books-media-rewardpath.com
 127.0.0.1 boom.ro
 127.0.0.1 boomerang.com.au
-127.0.0.1 boomsgkenwewjoytto.net
 127.0.0.1 boost-my-pr.de
 127.0.0.1 boostmobile.112.2o7.net
 127.0.0.1 bootdaily.us.intellitxt.com
@@ -22019,7 +22016,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ddi2.com
 127.0.0.1 ddos.bob.local.vmsn.de
 127.0.0.1 ddos.con.local.vmsn.de
-127.0.0.1 ddu876fe78e.cloudns.org
 127.0.0.1 ddwht76d9jvfl.cloudfront.net
 127.0.0.1 de-ipd.cdn.videoplaza.tv
 127.0.0.1 de.2.cqcounter.com
@@ -25837,7 +25833,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gazeta.adfox.ru
 127.0.0.1 gazeta.hit.gemius.pl
 127.0.0.1 gazetteextra.advertserve.com
-127.0.0.1 gaziantepikincielesya.com
 127.0.0.1 gazzetta.adman.gr
 127.0.0.1 gazzz.survey7.adsservingtwig.xyz
 127.0.0.1 gb.impresionesweb.com
@@ -27093,7 +27088,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 hiphoprx.us.intellitxt.com
 127.0.0.1 hippo.adultadworld.com
 127.0.0.1 hiq.fotolog.com
-127.0.0.1 hiradgjof.is
 127.0.0.1 hirockey.jp
 127.0.0.1 hirotacar.jp
 127.0.0.1 hisnakiamotors.122.2o7.net
@@ -29124,6 +29118,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 japanparts.pw
 127.0.0.1 japscat.org
 127.0.0.1 jaqueline-bostwick.us
+127.0.0.1 jarekciara.pl
 127.0.0.1 jasmin-mcgehee.us
 127.0.0.1 jasmin-thaxton.us
 127.0.0.1 jasmin.com
@@ -30547,7 +30542,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 localytics.com
 127.0.0.1 locations.webinm.de
 127.0.0.1 lockergnome.us.intellitxt.com
-127.0.0.1 lockton-asia.com
 127.0.0.1 locktrk.com
 127.0.0.1 loestrin.1.p2l.info
 127.0.0.1 loft2126.dedicatedpanel.com
@@ -34216,7 +34210,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 nym1.mobile.adnxs.com
 127.0.0.1 nym2.ib.adnxs.com
 127.0.0.1 nymcom.112.2o7.net
-127.0.0.1 nyprince.us
 127.0.0.1 nysubwayoffer.com
 127.0.0.1 nysun.com.112.2o7.net
 127.0.0.1 nytadvertising.nytimes.com
@@ -38907,7 +38900,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 santacruzsentinel.112.2o7.net
 127.0.0.1 santacruzsentinelcom.112.2o7.net
 127.0.0.1 santacruzsuspension.com
-127.0.0.1 santori.pw
 127.0.0.1 santos-seeley.net
 127.0.0.1 sanyai-love.rmu.ac.th
 127.0.0.1 sapato01.webtrekk.net
@@ -39833,6 +39825,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sherry-klingbeil.us
 127.0.0.1 shfr.hernando.com
 127.0.0.1 shim.btrll.com
+127.0.0.1 shinemines.com
 127.0.0.1 shinystat.com
 127.0.0.1 shinystat.it
 127.0.0.1 shinystat.lvlar.com
@@ -41792,7 +41785,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 surfline.112.2o7.net
 127.0.0.1 surfmatch.com
 127.0.0.1 surfmusik-adserver.de
-127.0.0.1 surifun.tv
 127.0.0.1 surplus-suppliers.com
 127.0.0.1 survey.112.2o7.net
 127.0.0.1 survey.122.2o7.net
@@ -41852,7 +41844,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sw.static.planet49.com
 127.0.0.1 swa.demdex.net
 127.0.0.1 swag.go2cloud.org
-127.0.0.1 swanky.pw
 127.0.0.1 swappit.tapad.com
 127.0.0.1 sweepstakes.about.com
 127.0.0.1 sweepstakes.com
@@ -43074,7 +43065,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 topdemaroc.com
 127.0.0.1 topdesktop.ezthemes.com
 127.0.0.1 topdownloads.nl.intellitxt.com
-127.0.0.1 toperdwtrade.biz
 127.0.0.1 topeuro.biz
 127.0.0.1 topforall.com
 127.0.0.1 topfox.co.uk
@@ -49059,7 +49049,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.greasypalm.co.uk
 127.0.0.1 www.greasypalm.com
 127.0.0.1 www.greatcarrates.com
-127.0.0.1 www.greenfield1.pw
 127.0.0.1 www.gretchen-domino.us
 127.0.0.1 www.gripfile.net
 127.0.0.1 www.grmtech.net
@@ -51103,7 +51092,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.shinystat.it
 127.0.0.1 www.shirley-rivet.us
 127.0.0.1 www.shockcounter.com
-127.0.0.1 www.shockerracing.com
 127.0.0.1 www.shonda-nowicki.us
 127.0.0.1 www.shooshtimeinc.com
 127.0.0.1 www.shopathome.com
@@ -51324,7 +51312,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.su600.com
 127.0.0.1 www.sublimemedia.net
 127.0.0.1 www.subsitesadserver.co.uk
-127.0.0.1 www.successfultravelservice.com
 127.0.0.1 www.suckdude.com
 127.0.0.1 www.suddenlyfind.com
 127.0.0.1 www.sudokuwhiz.com
