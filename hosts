@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53181 ad serving and malware domains.
+# Currently blocking 53178 ad serving and malware domains.
 #
-# Date Generated: Apr 02 2015
+# Date Generated: Apr 03 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -39847,7 +39847,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sherry-klingbeil.us
 127.0.0.1 shfr.hernando.com
 127.0.0.1 shim.btrll.com
-127.0.0.1 shinemines.com
 127.0.0.1 shinystat.com
 127.0.0.1 shinystat.it
 127.0.0.1 shinystat.lvlar.com
@@ -41605,7 +41604,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 stf.terra.com.br
 127.0.0.1 stg.widget.crowdignite.com
 127.0.0.1 sticker.yadro.ru
-127.0.0.1 stillbreak.com
 127.0.0.1 stimme.ivwbox.de
 127.0.0.1 stimul-m.com.ua
 127.0.0.1 stir.semilo.com
@@ -44320,7 +44318,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 txn.grabnetworks.com
 127.0.0.1 txt.adv.vz.ru
 127.0.0.1 txtimpact.com
-127.0.0.1 tylerbracelets.com
 127.0.0.1 tynt.com
 127.0.0.1 typeofmarijuana.com
 127.0.0.1 typiol.com
