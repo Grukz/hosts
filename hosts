@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53178 ad serving and malware domains.
+# Currently blocking 53180 ad serving and malware domains.
 #
-# Date Generated: Apr 03 2015
+# Date Generated: Apr 04 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -8492,7 +8492,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.videosz.com
 127.0.0.1 ads.vidsense.com
 127.0.0.1 ads.viewlondon.co.uk
-127.0.0.1 ads.viewx.co.uk
 127.0.0.1 ads.vimg.net
 127.0.0.1 ads.vintageporntubenet.com
 127.0.0.1 ads.vipcams.com
@@ -24616,6 +24615,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 filter.bluemediappc.com
 127.0.0.1 filter.eclickz.com
 127.0.0.1 filter.online-adnetwork.com
+127.0.0.1 filter.onwardclick.com
 127.0.0.1 filtertest.2cnt.net
 127.0.0.1 fim.122.2o7.net
 127.0.0.1 fim.adnxs.com
@@ -31622,6 +31622,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mashable.d2.sc.omtrdc.net
 127.0.0.1 mashasedgwick.digidip.net
 127.0.0.1 mashinkhabar.com
+127.0.0.1 mashroomskro.eu
 127.0.0.1 mass-traffic.com
 127.0.0.1 massmerchandise.com
 127.0.0.1 masterh1.adriver.ru
@@ -33460,6 +33461,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nancycemt1225.ddns.net
 127.0.0.1 nandomedia.112.2o7.net
 127.0.0.1 nandp.go2cloud.org
+127.0.0.1 nanoageco.ir
 127.0.0.1 nanocluster.reklamz.com
 127.0.0.1 nanostats.nanopress.it
 127.0.0.1 naomi-thorn.us
@@ -38885,6 +38887,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sadiqtv.com
 127.0.0.1 sadv.dadapro.com
 127.0.0.1 saemark.is
+127.0.0.1 safari-critical-alert.com
 127.0.0.1 safaribooks.112.2o7.net
 127.0.0.1 safe-es.imrworldwide.com
 127.0.0.1 safe.hyperpaysys.com
@@ -52933,7 +52936,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 yoursubdomain.braveweblog.com
 127.0.0.1 yoursubdomain.bravewriting.com
 127.0.0.1 yourtango.us.intellitxt.com
-127.0.0.1 yourtracking.net
 127.0.0.1 yousearchdirect.com
 127.0.0.1 youspacko.com
 127.0.0.1 youtibe.com
