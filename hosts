@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53248 ad serving and malware domains.
+# Currently blocking 53258 ad serving and malware domains.
 #
-# Date Generated: Apr 06 2015
+# Date Generated: Apr 07 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -711,6 +711,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 201.6.87.194.dynamic.dol.ru
 127.0.0.1 2013561.fls.doubleclick.net
 127.0.0.1 2013hk.go2cloud.org
+127.0.0.1 2015letsdoit.in
 127.0.0.1 202.6.87.194.dynamic.dol.ru
 127.0.0.1 2026953308.go2cloud.org
 127.0.0.1 202trackingsoft.com
@@ -12498,6 +12499,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 amscdn.btrll.com
 127.0.0.1 amserver.de
 127.0.0.1 amsv2.daum.net
+127.0.0.1 amtech21.co.jp
 127.0.0.1 amtracking.go2cloud.org
 127.0.0.1 amtracking01.com
 127.0.0.1 amu.adduraddonhere.info
@@ -24736,6 +24738,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fkm.go2cloud.org
 127.0.0.1 fknegs.com.mk
 127.0.0.1 fkns.com.mk
+127.0.0.1 fkref.com
 127.0.0.1 fl.5.p2l.info
 127.0.0.1 fl.milesplit.com
 127.0.0.1 fl01.ct2.comclick.com
@@ -26463,6 +26466,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 go.ll.net.co
 127.0.0.1 go.lotech.bbelements.com
 127.0.0.1 go.madmimi.com
+127.0.0.1 go.mobilix.mobi
 127.0.0.1 go.mobisla.com
 127.0.0.1 go.mobitraxk.com
 127.0.0.1 go.mobpartner.mobi
@@ -27133,6 +27137,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hillary-rhodes.us
 127.0.0.1 himedia.112.2o7.net
 127.0.0.1 himediads.com
+127.0.0.1 himi-handball.jp
 127.0.0.1 hindsight.com
 127.0.0.1 hints.netflame.cc
 127.0.0.1 hipcrime.home.dhs.org
@@ -28859,6 +28864,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 iptrack03.webtrekk.net
 127.0.0.1 iptrack04.webtrekk.net
 127.0.0.1 iptrack05.webtrekk.net
+127.0.0.1 iq.mobilix.mobi
 127.0.0.1 iq001.adtech.de
 127.0.0.1 iq001.adtech.fr
 127.0.0.1 iq001.adtech.us
@@ -29130,6 +29136,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 j.flxpxl.com
 127.0.0.1 j.kissinsights.com
 127.0.0.1 j.maxmind.com
+127.0.0.1 j.mp
 127.0.0.1 j.ophan.co.uk
 127.0.0.1 j.sahcdn.com
 127.0.0.1 j.theadsnet.com
@@ -37069,6 +37076,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ptreklamssp.com
 127.0.0.1 ptreklamssp.com.tr
 127.0.0.1 ptreklamssp.net
+127.0.0.1 ptrking.com
 127.0.0.1 ptsc.shoplocal.com
 127.0.0.1 pu-dsp.adsniper.ru
 127.0.0.1 pu.plugrush.com
@@ -47752,7 +47760,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.bestshopperrewards.com
 127.0.0.1 www.besttoolbars.net
 127.0.0.1 www.bestwebnutfunblack.biz
-127.0.0.1 www.besty.firm.in
 127.0.0.1 www.bet365.com
 127.0.0.1 www.betcounter.com
 127.0.0.1 www.betterclips.com
@@ -48821,6 +48828,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.fix-registry-here.com
 127.0.0.1 www.fixin.de
 127.0.0.1 www.fjjyjy.net
+127.0.0.1 www.fkref.com
 127.0.0.1 www.flagads.net
 127.0.0.1 www.flagcounter.com
 127.0.0.1 www.flash-counter.com
@@ -49639,6 +49647,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.iwvwbox.de
 127.0.0.1 www.iwwbox.de
 127.0.0.1 www.iyvwbox.de
+127.0.0.1 www.j.mp
 127.0.0.1 www.jade-aultman.us
 127.0.0.1 www.jadina-counter.de
 127.0.0.1 www.jag.vmsn.de
@@ -50794,6 +50803,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ptp123.com
 127.0.0.1 www.ptp22.com
 127.0.0.1 www.ptp4ever.net
+127.0.0.1 www.ptrking.com
 127.0.0.1 www.pubdirecte.com
 127.0.0.1 www.pulse360.com
 127.0.0.1 www.pulsix.com
