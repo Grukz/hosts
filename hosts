@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53258 ad serving and malware domains.
+# Currently blocking 53276 ad serving and malware domains.
 #
-# Date Generated: Apr 07 2015
+# Date Generated: Apr 08 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -254,6 +254,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 0f36f3.r.axf8.net
 127.0.0.1 0hna.com
 127.0.0.1 0iecfobt.com
+127.0.0.1 0if1nl6.org
 127.0.0.1 0ivwbox.de
 127.0.0.1 0ki.ru
 127.0.0.1 0koryu0.easter.ne.jp
@@ -8709,6 +8710,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads09.hpg.ig.com.br
 127.0.0.1 ads09.hyperbanner.net
 127.0.0.1 ads09.liteweb.net
+127.0.0.1 ads1-fo.stickyadstv.com
 127.0.0.1 ads1.activeagent.at
 127.0.0.1 ads1.ad-flow.com
 127.0.0.1 ads1.admedia.ro
@@ -9135,6 +9137,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads199.hpg.com.br
 127.0.0.1 ads199.hpg.ig.com.br
 127.0.0.1 ads199.liteweb.net
+127.0.0.1 ads2-fo.stickyadstv.com
 127.0.0.1 ads2.ad-flow.com
 127.0.0.1 ads2.adbrite.com
 127.0.0.1 ads2.adcorps.com
@@ -9441,6 +9444,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads29.liteweb.net
 127.0.0.1 ads2ads.net
 127.0.0.1 ads2srv.com
+127.0.0.1 ads3-fo.stickyadstv.com
 127.0.0.1 ads3.ad-flow.com
 127.0.0.1 ads3.adman.gr
 127.0.0.1 ads3.advance.de
@@ -9523,6 +9527,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads39.hpg.com.br
 127.0.0.1 ads39.hpg.ig.com.br
 127.0.0.1 ads39.liteweb.net
+127.0.0.1 ads4-fo.stickyadstv.com
 127.0.0.1 ads4.ad-flow.com
 127.0.0.1 ads4.advance.de
 127.0.0.1 ads4.advance.net
@@ -9580,6 +9585,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads4homes.com
 127.0.0.1 ads4links.com
 127.0.0.1 ads4pubs.com
+127.0.0.1 ads5-fo.stickyadstv.com
 127.0.0.1 ads5.ad-flow.com
 127.0.0.1 ads5.advance.net
 127.0.0.1 ads5.advertwizard.com
@@ -9633,6 +9639,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads59.hpg.com.br
 127.0.0.1 ads59.hpg.ig.com.br
 127.0.0.1 ads59.liteweb.net
+127.0.0.1 ads6-fo.stickyadstv.com
 127.0.0.1 ads6.ad-flow.com
 127.0.0.1 ads6.advance.net
 127.0.0.1 ads6.advertwizard.com
@@ -9677,6 +9684,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads69.hpg.com.br
 127.0.0.1 ads69.hpg.ig.com.br
 127.0.0.1 ads69.liteweb.net
+127.0.0.1 ads7-fo.stickyadstv.com
 127.0.0.1 ads7.ad-flow.com
 127.0.0.1 ads7.advance.net
 127.0.0.1 ads7.advertwizard.com
@@ -9719,6 +9727,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads79.hpg.com.br
 127.0.0.1 ads79.hpg.ig.com.br
 127.0.0.1 ads79.liteweb.net
+127.0.0.1 ads8-fo.stickyadstv.com
 127.0.0.1 ads8.ad-flow.com
 127.0.0.1 ads8.advertwizard.com
 127.0.0.1 ads8.com
@@ -14053,6 +14062,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 balanced.gtsadsdistributed.com
 127.0.0.1 balleralert.us.intellitxt.com
 127.0.0.1 ballsack.org
+127.0.0.1 bam-1.nr-data.net
+127.0.0.1 bam-2.nr-data.net
+127.0.0.1 bam-3.nr-data.net
+127.0.0.1 bam-4.nr-data.net
+127.0.0.1 bam-5.nr-data.net
 127.0.0.1 bam.nr-data.net
 127.0.0.1 ban.erovideo.ru
 127.0.0.1 ban.hiwit.com
@@ -22743,6 +22757,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dooweb.us
 127.0.0.1 doratopelase.pw
 127.0.0.1 dorothy-carrero.us
+127.0.0.1 dorowoman.co.in
 127.0.0.1 dos.velek.com
 127.0.0.1 dos.wearethenest.com.au
 127.0.0.1 dosugcz.biz
@@ -23770,6 +23785,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 engine.bang.doublepimp.com
 127.0.0.1 engine.billetmoinscher.com
 127.0.0.1 engine.bingocams.com
+127.0.0.1 engine.bitmedianetwork.com
 127.0.0.1 engine.bottomdollar.com
 127.0.0.1 engine.carbonads.com
 127.0.0.1 engine.century.edocbuilder.com
@@ -36683,6 +36699,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pr.5.p2l.info
 127.0.0.1 pr.atwola.com
 127.0.0.1 pr.blogflux.com
+127.0.0.1 pr.pbp.vip.ir2.yahoo.com
 127.0.0.1 pr.prchecker.info
 127.0.0.1 pr.realvu.net
 127.0.0.1 pr5dir.com
@@ -44031,6 +44048,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 transfer.ivwbox.de
 127.0.0.1 transition.adtrgt.com
 127.0.0.1 transparty.net
+127.0.0.1 transpert-online.ru
 127.0.0.1 tranti.ru
 127.0.0.1 traspalaciorubicell.whygibraltar.co.uk
 127.0.0.1 travel-and-weather.msnbc.us.intellitxt.com
