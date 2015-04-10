@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 53277 ad serving and malware domains.
 #
-# Date Generated: Apr 09 2015
+# Date Generated: Apr 10 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -12779,6 +12779,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 angmar.112.2o7.net
 127.0.0.1 angmil.112.2o7.net
 127.0.0.1 angpar.112.2o7.net
+127.0.0.1 angryshippflyforok.su
 127.0.0.1 angtr.112.2o7.net
 127.0.0.1 angts.112.2o7.net
 127.0.0.1 angvac.112.2o7.net
@@ -22758,7 +22759,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dooweb.us
 127.0.0.1 doratopelase.pw
 127.0.0.1 dorothy-carrero.us
-127.0.0.1 dorowoman.co.in
 127.0.0.1 dos.velek.com
 127.0.0.1 dos.wearethenest.com.au
 127.0.0.1 dosugcz.biz
