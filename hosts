@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53277 ad serving and malware domains.
+# Currently blocking 53284 ad serving and malware domains.
 #
-# Date Generated: Apr 10 2015
+# Date Generated: Apr 11 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -496,6 +496,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 1513878.fls.doubleclick.net
 127.0.0.1 15141.hittail.com
 127.0.0.1 152.6.87.194.dynamic.dol.ru
+127.0.0.1 152media.adk2x.com
 127.0.0.1 153.6.87.194.dynamic.dol.ru
 127.0.0.1 154.6.87.194.dynamic.dol.ru
 127.0.0.1 155.6.87.194.dynamic.dol.ru
@@ -5876,6 +5877,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adhitzads.com
 127.0.0.1 adhood.com
 127.0.0.1 adhost.com
+127.0.0.1 adhostcenter.com
 127.0.0.1 adhostingsolutions.com
 127.0.0.1 adhr.hit.gemius.pl
 127.0.0.1 adhref.pl
@@ -28285,6 +28287,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 img.blogads.com
 127.0.0.1 img.blogsavenue.com
 127.0.0.1 img.bluehost.com
+127.0.0.1 img.bororeb.com
 127.0.0.1 img.casalemedia.com
 127.0.0.1 img.centrum.sk
 127.0.0.1 img.clicksagent.com
@@ -28588,6 +28591,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 info-images.rambler.ru
 127.0.0.1 info-mail.codeguard.com
 127.0.0.1 info.anmedia.co.uk
+127.0.0.1 info.bororeb.com
 127.0.0.1 info.elba.at
 127.0.0.1 info.evidon.com
 127.0.0.1 info.intelli-direct.com
@@ -30606,6 +30610,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 load.s3.amazonaws.com
 127.0.0.1 load.scanscout.com
 127.0.0.1 load.sumome.com
+127.0.0.1 loadedupdates.com
 127.0.0.1 loader.engage.gsfn.us
 127.0.0.1 loader.topadvert.ru
 127.0.0.1 loadeu.exelator.com
@@ -32658,6 +32663,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 miami.ero-advertising.com
 127.0.0.1 miarroba.com
 127.0.0.1 micardiss.ql.st
+127.0.0.1 michaelkorareviews.com
 127.0.0.1 micheal766.info
 127.0.0.1 michelle-laird.us
 127.0.0.1 micraamber.net
@@ -35295,6 +35301,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ortc-ws2.realtime.co
 127.0.0.1 ortho-tri-cyclen.1.p2l.info
 127.0.0.1 orts.wixawin.com
+127.0.0.1 os.bororeb.com
 127.0.0.1 os.filefactscdn.com
 127.0.0.1 os.scmpacdn.com
 127.0.0.1 os2.alcoholsoftcdn.com
@@ -39841,7 +39848,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 seventynine.go2cloud.org
 127.0.0.1 sevload.ivwbox.de
 127.0.0.1 sex-and-animals.com
-127.0.0.1 sexaddpro.de
 127.0.0.1 sexcount.de
 127.0.0.1 sexcounter.com
 127.0.0.1 sexinyourcity.com
@@ -40503,6 +40509,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sp.fastclick.net
 127.0.0.1 sp.ltassrv.com.s3.amazonaws.com
 127.0.0.1 sp1.convertro.com
+127.0.0.1 spa-elaj.com
 127.0.0.1 spa.snap.com
 127.0.0.1 spacash.com
 127.0.0.1 space.us.intellitxt.com
