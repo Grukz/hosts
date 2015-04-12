@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53284 ad serving and malware domains.
+# Currently blocking 53309 ad serving and malware domains.
 #
-# Date Generated: Apr 11 2015
+# Date Generated: Apr 12 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1476,6 +1476,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 53.6.87.194.dynamic.dol.ru
 127.0.0.1 53029.gotitsearch.com
 127.0.0.1 531.xg4ken.com
+127.0.0.1 535225459.keywordblocks.com
 127.0.0.1 54.6.87.194.dynamic.dol.ru
 127.0.0.1 540.filost.com
 127.0.0.1 540.scmg.net
@@ -10592,6 +10593,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adsrvr.org
 127.0.0.1 adss.hookupbucks.com
 127.0.0.1 adss.yahoo.com
+127.0.0.1 adsserving.net
 127.0.0.1 adssl-dc2.adtech.de
 127.0.0.1 adssl01.adtech.de
 127.0.0.1 adssl01.adtech.fr
@@ -10956,6 +10958,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adv2.absoluteagency.com
 127.0.0.1 adv2.eblocs.com
 127.0.0.1 adv2.expres.ua
+127.0.0.1 adv679854.ru
 127.0.0.1 adv758968.ru
 127.0.0.1 adv777.com
 127.0.0.1 adv9.net
@@ -12870,6 +12873,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 antivirgear.com
 127.0.0.1 antivirus-2008pro.net
 127.0.0.1 antivirus-database.com
+127.0.0.1 antivirus-message.com
 127.0.0.1 antivirus-online-scan5.com
 127.0.0.1 antivirus-scanner.com
 127.0.0.1 antivirus-scanner8.com
@@ -16658,6 +16662,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 browngas.hopfeed.com
 127.0.0.1 browntrkn.com
 127.0.0.1 browsecheck.com
+127.0.0.1 browser-message.com
 127.0.0.1 browseraccelerator.com
 127.0.0.1 browsertest.web.aol.com
 127.0.0.1 brqvld0p.com
@@ -17943,6 +17948,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.program3.com
 127.0.0.1 cdn.promo.pimproll.com
 127.0.0.1 cdn.psdvault.com
+127.0.0.1 cdn.puatraffic.com
 127.0.0.1 cdn.pubexchange.com
 127.0.0.1 cdn.publicidad.net
 127.0.0.1 cdn.qbaka.net
@@ -22339,6 +22345,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 deta.ero-advertising.com
 127.0.0.1 detect.ergebnis-dienst.de
 127.0.0.1 detector.apptornado.com
+127.0.0.1 detectorcarecenter.in
 127.0.0.1 detectspywares.info
 127.0.0.1 detik.serving-sys.com
 127.0.0.1 detox-kit.com
@@ -24531,6 +24538,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fcstats.altervista.org
 127.0.0.1 fcstats.bcentral.com
 127.0.0.1 fdads.sv.publicus.com
+127.0.0.1 fdbdo.com
 127.0.0.1 fdff44.r.axf8.net
 127.0.0.1 fdff44.t.axf8.net
 127.0.0.1 fdimages.fairfax.com.au
@@ -26519,6 +26527,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 go.theadsnet.com
 127.0.0.1 go.theregister.com
 127.0.0.1 go.toutapp.com
+127.0.0.1 go.trackgold.net
 127.0.0.1 go.trafficshop.com
 127.0.0.1 go.underclick.ru
 127.0.0.1 go.voice2page.com
@@ -27147,6 +27156,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 highflyingfood.com
 127.0.0.1 highhedhicom.ru
 127.0.0.1 highpro1.com
+127.0.0.1 highscanprotect.com
 127.0.0.1 highspeedtesting.com
 127.0.0.1 hightrafficads.com
 127.0.0.1 hilary-lafortune.us
@@ -31008,6 +31018,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lp.webgame.web.id
 127.0.0.1 lp1.linkpulse.com
 127.0.0.1 lp4.linkpulse.com
+127.0.0.1 lpcloudsvr302.com
 127.0.0.1 lpcloudsvr405.com
 127.0.0.1 lpm-20minutes.nuggad.net
 127.0.0.1 lpm-francetv.nuggad.net
@@ -33884,6 +33895,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nexys404.us.intellitxt.com
 127.0.0.1 nexzenpro.go2cloud.org
 127.0.0.1 nf.5.p2l.info
+127.0.0.1 nfbal.trackvoluum.com
 127.0.0.1 nfl.demdex.net
 127.0.0.1 nfl.sp1.convertro.com
 127.0.0.1 nfm.optdiv.net
@@ -35347,6 +35359,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ourbestsearch.info
 127.0.0.1 ourdeal.go2cloud.org
 127.0.0.1 ourfreestuff.net
+127.0.0.1 ourtoolbar.com
 127.0.0.1 out-there-media.com
 127.0.0.1 out.paycounter.com
 127.0.0.1 out.popads.net
@@ -39503,6 +39516,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 secure.providesupport.com
 127.0.0.1 secure.pubdirecte.com
 127.0.0.1 secure.quantserve.com
+127.0.0.1 secure.redirectportal.com
 127.0.0.1 secure.signup-page.com
 127.0.0.1 secure.signup-processor.com
 127.0.0.1 secure.signup-way.com
@@ -39540,6 +39554,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 security.ivwbox.de
 127.0.0.1 securityandroidupdate.dinamikaprinting.com
 127.0.0.1 securityscan.us
+127.0.0.1 securitywebservices.com
 127.0.0.1 sedoparking.com
 127.0.0.1 sedotracker.com
 127.0.0.1 sedotracker.de
@@ -40431,7 +40446,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 softlinkers.popunder.ru
 127.0.0.1 softonic-analytics.net
 127.0.0.1 softonic.112.2o7.net
+127.0.0.1 softonic.com
 127.0.0.1 softonic.de.intellitxt.com
+127.0.0.1 softonic.it
 127.0.0.1 softonic.us.intellitxt.com
 127.0.0.1 softpedia.uk.intellitxt.com
 127.0.0.1 softpedia.us.intellitxt.com
@@ -41167,7 +41184,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.ifa.slutloadlive.com
 127.0.0.1 static.ifa.yobtcams.com
 127.0.0.1 static.inviziads.com
-127.0.0.1 static.issuu.com
 127.0.0.1 static.it.groupon-content.net
 127.0.0.1 static.itrack.it
 127.0.0.1 static.kameleoon.com
@@ -41809,6 +41825,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sub.uniust.info
 127.0.0.1 subad-server.com
 127.0.0.1 subaruofamerica.112.2o7.net
+127.0.0.1 subiloya.com
 127.0.0.1 submitexpress.co.uk
 127.0.0.1 subscribe.hearstmags.com
 127.0.0.1 subscriberbase.com
@@ -42074,6 +42091,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 systemmonitoring.badgeville.com
 127.0.0.1 systemscheckusa.com
 127.0.0.1 systemsconners.wha.la
+127.0.0.1 systweak.com
 127.0.0.1 sz.met.vgwort.de
 127.0.0.1 sz.track4.com
 127.0.0.1 szon.ivwbox.de
@@ -42881,6 +42899,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 theuseful.net
 127.0.0.1 thevanda.tk
 127.0.0.1 thevictorynetwork.com
+127.0.0.1 theweatherspace.com
 127.0.0.1 thewrap.rotator.hadj7.adjuggler.net
 127.0.0.1 thexor.com
 127.0.0.1 theybf.us.intellitxt.com
@@ -46057,6 +46076,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 warnerbros.112.2o7.net
 127.0.0.1 warnerbrosads.112.2o7.net
 127.0.0.1 warnerbrothersrecords.112.2o7.net
+127.0.0.1 warning-message.com
 127.0.0.1 warp.crystalad.com
 127.0.0.1 warp.ly
 127.0.0.1 warp.prnewswire.co.uk
@@ -46598,6 +46618,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 window.nixnet.cz
 127.0.0.1 window1.com
 127.0.0.1 windows-defender.con.sh
+127.0.0.1 windows-tech-help.com
 127.0.0.1 windows7news.uk.intellitxt.com
 127.0.0.1 windowsbbs.us.intellitxt.com
 127.0.0.1 windowsitpro.us.intellitxt.com
@@ -46924,6 +46945,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wwv4ez0n.com
 127.0.0.1 www-banner.chat.ru
 127.0.0.1 www-beta.statcounter.com
+127.0.0.1 www-cm.com
 127.0.0.1 www-google-analytics.l.google.com
 127.0.0.1 www-old.hugetraffic.com
 127.0.0.1 www-old.nastydollars.com
@@ -47349,6 +47371,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.adsplay.in
 127.0.0.1 www.adspoll.com
 127.0.0.1 www.adspserving.com
+127.0.0.1 www.adsserving.net
 127.0.0.1 www.adstogo.com
 127.0.0.1 www.adstreams.org
 127.0.0.1 www.adsuperstar.com
@@ -47412,6 +47435,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.adv-adserver.com
 127.0.0.1 www.adv-italiana.com
 127.0.0.1 www.adv.co.il
+127.0.0.1 www.adv679854.ru
 127.0.0.1 www.advaliant.com
 127.0.0.1 www.advancedad.com
 127.0.0.1 www.advancesrl.eu
@@ -52121,6 +52145,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.wtp101.com
 127.0.0.1 www.wundercounter.com
 127.0.0.1 www.wwivwbox.de
+127.0.0.1 www.www-cm.com
 127.0.0.1 www.www.microsoft.com.org
 127.0.0.1 www.wwwcartoonetwork.com
 127.0.0.1 www.wwwdiscounthotel.com
