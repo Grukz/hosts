@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53309 ad serving and malware domains.
+# Currently blocking 53316 ad serving and malware domains.
 #
-# Date Generated: Apr 12 2015
+# Date Generated: Apr 13 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -19298,6 +19298,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 codeads.com
 127.0.0.1 codebacktowork2.tk
 127.0.0.1 codecpackriver.eu
+127.0.0.1 codedtunes.zapto.org
 127.0.0.1 codeine.ourtablets.com
 127.0.0.1 codenew.impresionesweb.com
 127.0.0.1 coder3862004.cjb.net
@@ -25735,6 +25736,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fwxyd.ru
 127.0.0.1 fx.gtop.ro
 127.0.0.1 fx.gtopstats.com
+127.0.0.1 fx45.pp.ru
 127.0.0.1 fxclix.com
 127.0.0.1 fxj.realsecuredredirect.com
 127.0.0.1 fxlayer.net
@@ -26560,6 +26562,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gofugyourself.us.intellitxt.com
 127.0.0.1 gogetgorgeous.com
 127.0.0.1 goggle.com
+127.0.0.1 gogotest123.com
 127.0.0.1 gogousenet.com
 127.0.0.1 goi.com
 127.0.0.1 goingplatinum.com
@@ -32674,7 +32677,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 miami.ero-advertising.com
 127.0.0.1 miarroba.com
 127.0.0.1 micardiss.ql.st
-127.0.0.1 michaelkorareviews.com
 127.0.0.1 micheal766.info
 127.0.0.1 michelle-laird.us
 127.0.0.1 micraamber.net
@@ -36980,6 +36982,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 proranktracker.com
 127.0.0.1 prorodeosportmed.com
 127.0.0.1 prosieben01.webtrekk.net
+127.0.0.1 prosp2015.com
 127.0.0.1 protect-x.com
 127.0.0.1 protection.ALpolice.com
 127.0.0.1 protection.ASpolice.com
@@ -37926,6 +37929,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 reg.coolsavings.com
 127.0.0.1 reg20.ubermedia.com
 127.0.0.1 regalcigs.go2cloud.org
+127.0.0.1 regame.su
 127.0.0.1 regclean.com
 127.0.0.1 regdfh.info
 127.0.0.1 regenbog.ivwbox.de
@@ -40354,6 +40358,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 smf.spring-tns.net
 127.0.0.1 smfgroup.cjb.net
 127.0.0.1 smibs.112.2o7.net
+127.0.0.1 smiilingmii.com
 127.0.0.1 smile-angel.com
 127.0.0.1 smile.modchipstore.com
 127.0.0.1 smilepop.com
@@ -46402,6 +46407,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 webtracking.touchclarity.com
 127.0.0.1 webtraffic.se
 127.0.0.1 webtraffic.ttinet.com
+127.0.0.1 webtrafficllc.co
 127.0.0.1 webtraxx.de
 127.0.0.1 webtrekk.com
 127.0.0.1 webtrekk.de
@@ -52055,6 +52061,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.webstats4u.com
 127.0.0.1 www.webtistic.com
 127.0.0.1 www.webtrackerplus.com
+127.0.0.1 www.webtrafficllc.co
 127.0.0.1 www.webtraxs.com
 127.0.0.1 www.webtrends.com
 127.0.0.1 www.webtrends.net
