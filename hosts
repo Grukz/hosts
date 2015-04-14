@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53316 ad serving and malware domains.
+# Currently blocking 53313 ad serving and malware domains.
 #
-# Date Generated: Apr 13 2015
+# Date Generated: Apr 14 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26312,6 +26312,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gfk-de.sensic.net
 127.0.0.1 gflinks.industrybrains.com
 127.0.0.1 gft2.de
+127.0.0.1 gfuel-alternative-energy.co.za
 127.0.0.1 gfx.infomine.com
 127.0.0.1 gfx.webmasterprofitcenter.com
 127.0.0.1 gfx3.avn.com
@@ -26562,7 +26563,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gofugyourself.us.intellitxt.com
 127.0.0.1 gogetgorgeous.com
 127.0.0.1 goggle.com
-127.0.0.1 gogotest123.com
 127.0.0.1 gogousenet.com
 127.0.0.1 goi.com
 127.0.0.1 goingplatinum.com
@@ -36982,7 +36982,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 proranktracker.com
 127.0.0.1 prorodeosportmed.com
 127.0.0.1 prosieben01.webtrekk.net
-127.0.0.1 prosp2015.com
 127.0.0.1 protect-x.com
 127.0.0.1 protection.ALpolice.com
 127.0.0.1 protection.ASpolice.com
@@ -40358,7 +40357,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 smf.spring-tns.net
 127.0.0.1 smfgroup.cjb.net
 127.0.0.1 smibs.112.2o7.net
-127.0.0.1 smiilingmii.com
 127.0.0.1 smile-angel.com
 127.0.0.1 smile.modchipstore.com
 127.0.0.1 smilepop.com
@@ -44880,7 +44878,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 undefined.vindicosuite.com
 127.0.0.1 underclick.ru
 127.0.0.1 undertonenetworks.com
-127.0.0.1 unefrecomputese.com
 127.0.0.1 unfurled.com
 127.0.0.1 uni.ivwbox.de
 127.0.0.1 unica.com
