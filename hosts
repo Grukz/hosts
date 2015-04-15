@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53313 ad serving and malware domains.
+# Currently blocking 53312 ad serving and malware domains.
 #
-# Date Generated: Apr 14 2015
+# Date Generated: Apr 15 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -17086,7 +17086,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.woopic.com
 127.0.0.1 c.wrating.com
 127.0.0.1 c.x.oanda.com
-127.0.0.1 c.xkcd.com
 127.0.0.1 c.za.msn.com
 127.0.0.1 c.zeroredirect1.com
 127.0.0.1 c0.amazingcounters.com
