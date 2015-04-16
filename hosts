@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53312 ad serving and malware domains.
+# Currently blocking 53318 ad serving and malware domains.
 #
-# Date Generated: Apr 15 2015
+# Date Generated: Apr 16 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -12186,6 +12186,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 alaskanairline.com
 127.0.0.1 albanytimesunion.122.2o7.net
 127.0.0.1 albanytimesunion.com
+127.0.0.1 albenoon.com
 127.0.0.1 albertarodeo.com
 127.0.0.1 albinoblacksheep.us.intellitxt.com
 127.0.0.1 albionmedical.com
@@ -27563,6 +27564,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 html.imeem.overture.com
 127.0.0.1 html.knbc.com
 127.0.0.1 html.nbc10.com
+127.0.0.1 html.orange-idea.com
 127.0.0.1 html.overture.com
 127.0.0.1 html.wnbc.com
 127.0.0.1 html5adkit.plusmo.s3.amazonaws.com
@@ -33554,6 +33556,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nanostats.nanopress.it
 127.0.0.1 naomi-thorn.us
 127.0.0.1 napi.lanistaads.com
+127.0.0.1 naritamemorial.com
 127.0.0.1 narrow.azenergyforum.com
 127.0.0.1 narwhal.hitbox.com
 127.0.0.1 nasacort.1.p2l.info
@@ -39943,6 +39946,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 shauna-lefevre.us
 127.0.0.1 shawnewspapers.112.2o7.net
 127.0.0.1 shayla-haygood.us
+127.0.0.1 shbcasesores.mx
 127.0.0.1 shc-rebates.com
 127.0.0.1 shebudgets.us.intellitxt.com
 127.0.0.1 shedad.com
@@ -42671,6 +42675,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tenmagazines.us.intellitxt.com
 127.0.0.1 tennae880interyield.jmp9.com
 127.0.0.1 tennessean.us.intellitxt.com
+127.0.0.1 tennomewerto.ru
 127.0.0.1 tenuate.1.p2l.info
 127.0.0.1 tenzero.com
 127.0.0.1 tenzing.fmpub.net
@@ -51921,6 +51926,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.valueclick.com
 127.0.0.1 www.valueclickmedia.com
 127.0.0.1 www.valuesponsor.com
+127.0.0.1 www.vanca.com
 127.0.0.1 www.vanessa-cohn.us
 127.0.0.1 www.vayavicio.com
 127.0.0.1 www.vectormarketing.com
