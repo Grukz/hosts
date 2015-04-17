@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53318 ad serving and malware domains.
+# Currently blocking 53317 ad serving and malware domains.
 #
-# Date Generated: Apr 16 2015
+# Date Generated: Apr 17 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -19321,6 +19321,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 coke.nuggad.net
 127.0.0.1 col.eum-appdynamics.com
 127.0.0.1 col.mobileads.msn.com
+127.0.0.1 coldcreekauction.com
 127.0.0.1 coldfireblue.net
 127.0.0.1 coldfusion.affiliateshop.com
 127.0.0.1 colette-connell.us
@@ -29171,7 +29172,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 j.flxpxl.com
 127.0.0.1 j.kissinsights.com
 127.0.0.1 j.maxmind.com
-127.0.0.1 j.mp
 127.0.0.1 j.ophan.co.uk
 127.0.0.1 j.sahcdn.com
 127.0.0.1 j.theadsnet.com
@@ -49704,7 +49704,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.iwvwbox.de
 127.0.0.1 www.iwwbox.de
 127.0.0.1 www.iyvwbox.de
-127.0.0.1 www.j.mp
 127.0.0.1 www.jade-aultman.us
 127.0.0.1 www.jadina-counter.de
 127.0.0.1 www.jag.vmsn.de
