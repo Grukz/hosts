@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53317 ad serving and malware domains.
+# Currently blocking 53298 ad serving and malware domains.
 #
-# Date Generated: Apr 17 2015
+# Date Generated: Apr 18 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -5878,7 +5878,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adhitzads.com
 127.0.0.1 adhood.com
 127.0.0.1 adhost.com
-127.0.0.1 adhostcenter.com
 127.0.0.1 adhostingsolutions.com
 127.0.0.1 adhr.hit.gemius.pl
 127.0.0.1 adhref.pl
@@ -8499,6 +8498,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.videosz.com
 127.0.0.1 ads.vidsense.com
 127.0.0.1 ads.viewlondon.co.uk
+127.0.0.1 ads.viewx.co.uk
 127.0.0.1 ads.vimg.net
 127.0.0.1 ads.vintageporntubenet.com
 127.0.0.1 ads.vipcams.com
@@ -11664,6 +11664,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aeroads.net
 127.0.0.1 aeropostale.resultspage.com
 127.0.0.1 aesp.adatom.com
+127.0.0.1 aestheticlasercentre.co.za
 127.0.0.1 aetrk.com
 127.0.0.1 aetv.112.2o7.net
 127.0.0.1 af-ad.co.uk
@@ -12542,7 +12543,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 an.z5x.net
 127.0.0.1 anad.tacoda.net
 127.0.0.1 anaerobicdigestion.com
-127.0.0.1 anahtars.com
 127.0.0.1 anal-adult-video.com
 127.0.0.1 analitics.in
 127.0.0.1 analiticwebexperience.com
@@ -13504,7 +13504,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 asanixcorp.com
 127.0.0.1 asasas.eu
 127.0.0.1 asb.tynt.com
-127.0.0.1 ascottconsultants.com.ph
 127.0.0.1 asd.tynt.com
 127.0.0.1 asd.vicentelopez.us
 127.0.0.1 aserve.directorym.com
@@ -15670,7 +15669,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 beauty.finaltips.com
 127.0.0.1 beautyden.us.intellitxt.com
 127.0.0.1 beautysafari.com
-127.0.0.1 beauzimmerman.nl
 127.0.0.1 bebo.crwdcntrl.net
 127.0.0.1 becausebabes.go2cloud.org
 127.0.0.1 becl23.b2.gns.co.il
@@ -16129,7 +16127,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bn.premiumhdv.com
 127.0.0.1 bn.profiwin.de
 127.0.0.1 bn.xp1.ru4.com
-127.0.0.1 bnasseri.com
 127.0.0.1 bnbaz.eb2a.com
 127.0.0.1 bnex.com
 127.0.0.1 bnk30livejs.112.2o7.net
@@ -19322,7 +19319,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 col.eum-appdynamics.com
 127.0.0.1 col.mobileads.msn.com
 127.0.0.1 coldcreekauction.com
-127.0.0.1 coldfireblue.net
 127.0.0.1 coldfusion.affiliateshop.com
 127.0.0.1 colette-connell.us
 127.0.0.1 collect.evisitanalyst.com
@@ -22450,7 +22446,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 didrex.1.p2l.info
 127.0.0.1 didtal.com
 127.0.0.1 didtheyreadit.com
-127.0.0.1 dierendal.nl
 127.0.0.1 diet-pills.hut1.ru
 127.0.0.1 diet.rodale.com
 127.0.0.1 dietoftoday.ca.pn
@@ -27538,7 +27533,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 hruner.com
 127.0.0.1 hs-sites.com
 127.0.0.1 hs.interpolls.com
-127.0.0.1 hsandvik.no
 127.0.0.1 hsb-canada.com
 127.0.0.1 hsbc.tt.omtrdc.net
 127.0.0.1 hsbconline.ca
@@ -29380,7 +29374,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 jk.chapm.com
 127.0.0.1 jk.revolvermaps.com
 127.0.0.1 jkazaa.cjt1.net
-127.0.0.1 jkcadeiras.com.br
 127.0.0.1 jkearns.freestats.com
 127.0.0.1 jkontherun.us.intellitxt.com
 127.0.0.1 jks.jp
@@ -29864,7 +29857,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 knigge.webtrekk.net
 127.0.0.1 knight.economist.com
 127.0.0.1 knowyourmobile.uk.intellitxt.com
-127.0.0.1 kodak.lutsk.ua
 127.0.0.1 koeln.ivwbox.de
 127.0.0.1 koelnrsc.ivwbox.de
 127.0.0.1 kohls.tt.omtrdc.net
@@ -30145,7 +30137,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 lc.livefyre.com
 127.0.0.1 lc17.prod.livefyre.com
 127.0.0.1 lcbcad.co.uk
-127.0.0.1 lcrincorporadora.com.br
 127.0.0.1 lcs.livedoor.net
 127.0.0.1 lcs.naver.com
 127.0.0.1 lct.salesforce.com
@@ -30247,7 +30238,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 level3com.d2.sc.omtrdc.net
 127.0.0.1 levelrate.de
 127.0.0.1 leveragemarketing.112.2o7.net
-127.0.0.1 levintrading.com
 127.0.0.1 levitra.1.p2l.info
 127.0.0.1 levitra.3.p2l.info
 127.0.0.1 levitra.4.p2l.info
@@ -31090,7 +31080,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 luwyou.com
 127.0.0.1 luxcart.ro
 127.0.0.1 luxemil.com
-127.0.0.1 luxgl.com.ua
 127.0.0.1 luxup.ru
 127.0.0.1 luycos.com
 127.0.0.1 lv.adocean.pl
@@ -33683,7 +33672,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 neo.go.sonobi.com
 127.0.0.1 neobux.com
 127.0.0.1 neocounter.neoworx-blog-tools.net
-127.0.0.1 neocounter.net
 127.0.0.1 neodatagroup-eu-prod-1.neodatagroup.com
 127.0.0.1 neoffic.com
 127.0.0.1 neogenadro.hit.gemius.pl
@@ -35236,7 +35224,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 opt-n.net
 127.0.0.1 opt.hit.gemius.pl
 127.0.0.1 opt.leadbolt.com
-127.0.0.1 opticafullvision.net
 127.0.0.1 opticalnetworks.com
 127.0.0.1 optiker-michelmann.de
 127.0.0.1 optilogus.com
@@ -35725,7 +35712,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pap-partner.flirtfair.de
 127.0.0.1 pap.zalando.de
 127.0.0.1 papamamandoudouetmoi.com
-127.0.0.1 papatonys.com
 127.0.0.1 papayamobile.com
 127.0.0.1 paperg.com
 127.0.0.1 papi.slideme.org
@@ -36973,7 +36959,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 promotools.vpscash.nl
 127.0.0.1 promotools3.globalmailer.com
 127.0.0.1 promotools4.globalmailer.com
-127.0.0.1 promozia.de
 127.0.0.1 prompt.zangocash.com
 127.0.0.1 promptleads.go2cloud.org
 127.0.0.1 pronetadvertising.com
@@ -38226,6 +38211,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ribbon.india.com
 127.0.0.1 ricasad.sx
 127.0.0.1 rich-agent.s3.amazonaws.com
+127.0.0.1 rich11ds2015sqr.ru
 127.0.0.1 richelle-crandell.us
 127.0.0.1 richfind.com
 127.0.0.1 richmails.com
@@ -38292,7 +38278,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 rmgparcelforcecom.112.2o7.net
 127.0.0.1 rmgroyalmailcom.112.2o7.net
 127.0.0.1 rmm1u.checkm8.com
-127.0.0.1 rmofminota.com
 127.0.0.1 rmpanelzone.research-int.com
 127.0.0.1 rms.admeta.com
 127.0.0.1 rmsi.nuggad.net
@@ -39009,7 +38994,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 safepay2.interactivebrands.com
 127.0.0.1 safetracgr.com
 127.0.0.1 safety.amw.com
-127.0.0.1 sageanalyst.net
 127.0.0.1 sagedigital.checkm8.com
 127.0.0.1 saksfifthavenue.122.2o7.net
 127.0.0.1 salem02.webtrekk.net
@@ -41909,7 +41893,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 support.sweepstakes.com
 127.0.0.1 supportnet.de.intellitxt.com
 127.0.0.1 supremeadsonline.com
-127.0.0.1 supremearena.fr
 127.0.0.1 suptullog.com
 127.0.0.1 sureads.com
 127.0.0.1 surebaby.us.intellitxt.com
@@ -42365,6 +42348,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 taloussanomat.linkpulse.com
 127.0.0.1 talsa.spring-tns.net
 127.0.0.1 tamara-buchman.us
+127.0.0.1 tambira.in
 127.0.0.1 tamiflu-in-canada.asian-flu-vaccine.com
 127.0.0.1 tamiflu-no-prescription.asian-flu-vaccine.com
 127.0.0.1 tamiflu-purchase.asian-flu-vaccine.com
@@ -44122,7 +44106,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 treasuretrooper.com
 127.0.0.1 tredirect.com
 127.0.0.1 tree-pixel-log.s3.amazonaws.com
-127.0.0.1 treetopsbestcondo.com
 127.0.0.1 trehomanyself.com
 127.0.0.1 trekblue.com
 127.0.0.1 trekdata.com
@@ -47933,6 +47916,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.brightshare.com
 127.0.0.1 www.brigitte-burtch.us
 127.0.0.1 www.brilliantdigital.com
+127.0.0.1 www.bringbackuzo.in
 127.0.0.1 www.brittni-olson.us
 127.0.0.1 www.broadcastpc.tv
 127.0.0.1 www.broadspring.com
@@ -48215,7 +48199,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.cogtree.com
 127.0.0.1 www.coinurl.com
 127.0.0.1 www.coinvisitor.com
-127.0.0.1 www.colegiuldeadministratie.ro
 127.0.0.1 www.colette-connell.us
 127.0.0.1 www.collect.mentad.com
 127.0.0.1 www.coloritpak.by
@@ -49098,7 +49081,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.geovisites.com
 127.0.0.1 www.geoworldonline.com
 127.0.0.1 www.geraldine-arpin.us
-127.0.0.1 www.gesund-fit.ch
 127.0.0.1 www.get-amazing-results.com
 127.0.0.1 www.get-answers-fast.com
 127.0.0.1 www.get-information.com
@@ -49421,7 +49403,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ideaworks.com
 127.0.0.1 www.idirect.com
 127.0.0.1 www.idritracker.com
-127.0.0.1 www.iemcandia.org
 127.0.0.1 www.ientry.com
 127.0.0.1 www.ientrymail.com
 127.0.0.1 www.ientrynetwork.net
@@ -49731,6 +49712,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.jennie-underhill.us
 127.0.0.1 www.jerrica-godinez.us
 127.0.0.1 www.jersey-offer.com
+127.0.0.1 www.jesscleland.co.za
 127.0.0.1 www.jessie-canizales.us
 127.0.0.1 www.jessika-ahrens.us
 127.0.0.1 www.jessy-abrego.us
@@ -50738,7 +50720,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.plug-media.com
 127.0.0.1 www.plus500.com
 127.0.0.1 www.pmediatrack.com
-127.0.0.1 www.pneumatica.com.ua
 127.0.0.1 www.po.st
 127.0.0.1 www.poesiadelsud.it
 127.0.0.1 www.poffet.net
@@ -50788,6 +50769,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.postmasterbannernet.com
 127.0.0.1 www.postmasterdirect.com
 127.0.0.1 www.postnewsads.com
+127.0.0.1 www.poulsondrilling.com
 127.0.0.1 www.powerlinks.com
 127.0.0.1 www.powerofads.com
 127.0.0.1 www.poxudeli.ru
@@ -51633,7 +51615,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.tiffanie-machin.us
 127.0.0.1 www.tiffany-santee.us
 127.0.0.1 www.tigerloads.com
-127.0.0.1 www.timewaver-vertrieb.ch
 127.0.0.1 www.tina-skiles.us
 127.0.0.1 www.tinbuadserv.com
 127.0.0.1 www.tinka.ru
