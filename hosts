@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53305 ad serving and malware domains.
+# Currently blocking 53277 ad serving and malware domains.
 #
-# Date Generated: Apr 19 2015
+# Date Generated: Apr 20 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2622,6 +2622,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 actionflash.com
 127.0.0.1 actionscript.us.intellitxt.com
 127.0.0.1 actionsplash.com
+127.0.0.1 actionteaser.ru
 127.0.0.1 activate.winsoftware.com
 127.0.0.1 active-advertising.com
 127.0.0.1 active.cache.el-mundo.net
@@ -2669,6 +2670,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad-blaster.com
 127.0.0.1 ad-board.com
 127.0.0.1 ad-cdn.technoratimedia.com
+127.0.0.1 ad-center.com
 127.0.0.1 ad-clicks.com
 127.0.0.1 ad-clix.com
 127.0.0.1 ad-dc2.adtech.de
@@ -10977,6 +10979,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 advancedwebpromotions.com
 127.0.0.1 advancedxpdefender.com
 127.0.0.1 advancetec.co.uk
+127.0.0.1 advancets.org
 127.0.0.1 advancing-technology.com
 127.0.0.1 advantageglobalmarketing.com
 127.0.0.1 advantageresearch.com
@@ -11697,6 +11700,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aff.kinkondemand.com
 127.0.0.1 aff.letsbonus.com
 127.0.0.1 aff.lmgtfy.com
+127.0.0.1 aff.lottobooker.com
 127.0.0.1 aff.marathonbet.com
 127.0.0.1 aff.naughtyconnect.com
 127.0.0.1 aff.nextdating.com
@@ -24264,6 +24268,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 extreembilisim.com
 127.0.0.1 extreme-dm.com
 127.0.0.1 extremeoverclocking.us.intellitxt.com
+127.0.0.1 extremesports.kz
 127.0.0.1 extremetech.us.intellitxt.com
 127.0.0.1 extremetimer.com
 127.0.0.1 extremetopical.com
@@ -30066,48 +30071,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 laut.ivwbox.de
 127.0.0.1 lavoce.justclick.ru
 127.0.0.1 law-enforcement-ocr.bahosss.ru
-127.0.0.1 lax04s08-in-f1.1e100.net
-127.0.0.1 lax04s08-in-f10.1e100.net
-127.0.0.1 lax04s08-in-f11.1e100.net
-127.0.0.1 lax04s08-in-f12.1e100.net
-127.0.0.1 lax04s08-in-f13.1e100.net
-127.0.0.1 lax04s08-in-f14.1e100.net
-127.0.0.1 lax04s08-in-f15.1e100.net
-127.0.0.1 lax04s08-in-f16.1e100.net
-127.0.0.1 lax04s08-in-f17.1e100.net
-127.0.0.1 lax04s08-in-f18.1e100.net
-127.0.0.1 lax04s08-in-f19.1e100.net
-127.0.0.1 lax04s08-in-f2.1e100.net
-127.0.0.1 lax04s08-in-f20.1e100.net
-127.0.0.1 lax04s08-in-f3.1e100.net
-127.0.0.1 lax04s08-in-f4.1e100.net
-127.0.0.1 lax04s08-in-f5.1e100.net
-127.0.0.1 lax04s08-in-f6.1e100.net
-127.0.0.1 lax04s08-in-f7.1e100.net
-127.0.0.1 lax04s08-in-f8.1e100.net
-127.0.0.1 lax04s08-in-f9.1e100.net
-127.0.0.1 lax04s09-in-f1.1e100.net
-127.0.0.1 lax04s09-in-f10.1e100.net
-127.0.0.1 lax04s09-in-f11.1e100.net
-127.0.0.1 lax04s09-in-f12.1e100.net
-127.0.0.1 lax04s09-in-f13.1e100.net
-127.0.0.1 lax04s09-in-f14.1e100.net
-127.0.0.1 lax04s09-in-f15.1e100.net
-127.0.0.1 lax04s09-in-f16.1e100.net
-127.0.0.1 lax04s09-in-f17.1e100.net
-127.0.0.1 lax04s09-in-f18.1e100.net
-127.0.0.1 lax04s09-in-f19.1e100.net
-127.0.0.1 lax04s09-in-f2.1e100.net
-127.0.0.1 lax04s09-in-f20.1e100.net
-127.0.0.1 lax04s09-in-f3.1e100.net
-127.0.0.1 lax04s09-in-f4.1e100.net
-127.0.0.1 lax04s09-in-f5.1e100.net
-127.0.0.1 lax04s09-in-f6.1e100.net
-127.0.0.1 lax04s09-in-f7.1e100.net
-127.0.0.1 lax04s09-in-f8.1e100.net
-127.0.0.1 lax04s09-in-f9.1e100.net
 127.0.0.1 lax1.ib.adnxs.com
-127.0.0.1 lax17s02-in-f0.1e100.net
 127.0.0.1 laxnws.112.2o7.net
 127.0.0.1 laxprs.112.2o7.net
 127.0.0.1 laxpsd.112.2o7.net
@@ -30608,6 +30572,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lnads.osdn.com
 127.0.0.1 lnkgo.com
 127.0.0.1 lnkgt.com
+127.0.0.1 lnshrq.com
 127.0.0.1 lnx.lu
 127.0.0.1 lo.ljkeefeco.com
 127.0.0.1 lo2.me
@@ -33396,6 +33361,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mypoints.com
 127.0.0.1 mypopup.ir
 127.0.0.1 mypowermall.com
+127.0.0.1 myquickprints.com
 127.0.0.1 myrating.ljseek.com
 127.0.0.1 mysavings.directtrack.com
 127.0.0.1 myscoop-tracking.googlecode.com
@@ -39956,6 +39922,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 shinystat.lvlar.com
 127.0.0.1 shinystat.shiny.it
 127.0.0.1 shirley-rivet.us
+127.0.0.1 shirokane-coffee.jp
 127.0.0.1 shlinks.industrybrains.com
 127.0.0.1 shonda-nowicki.us
 127.0.0.1 shop.adition.com
@@ -42568,6 +42535,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 teameda.net
 127.0.0.1 teamtalk.uk.intellitxt.com
 127.0.0.1 teaserjs.info
+127.0.0.1 teasermedia.net
 127.0.0.1 teatac4bath.com
 127.0.0.1 tecchan.ivwbox.de
 127.0.0.1 tecchannel.de.intellitxt.com
@@ -47113,6 +47081,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.acs3.com
 127.0.0.1 www.action.ientry.net
 127.0.0.1 www.actiondesk.com
+127.0.0.1 www.actionteaser.ru
 127.0.0.1 www.active-advertising.com
 127.0.0.1 www.actonsoftware.com
 127.0.0.1 www.actvtrack.com
@@ -47432,6 +47401,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.advaliant.com
 127.0.0.1 www.advancedad.com
 127.0.0.1 www.advancesrl.eu
+127.0.0.1 www.advancets.org
 127.0.0.1 www.advcombination.com
 127.0.0.1 www.advconversion.com
 127.0.0.1 www.adventertainment.it
@@ -49180,6 +49150,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.gostats.ir
 127.0.0.1 www.gostats.pl
 127.0.0.1 www.gostats.ro
+127.0.0.1 www.gostats.ru
 127.0.0.1 www.gostats.vn
 127.0.0.1 www.gotlaughs.com
 127.0.0.1 www.gotphaze.com
@@ -51536,6 +51507,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.tdms.saglik.gov.tr
 127.0.0.1 www.tdstats.com
 127.0.0.1 www.te81.net
+127.0.0.1 www.teasermedia.net
 127.0.0.1 www.tecnomaqperu.com
 127.0.0.1 www.teenbookmark.com
 127.0.0.1 www.teenhost.net
