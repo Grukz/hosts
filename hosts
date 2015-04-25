@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53442 ad serving and malware domains.
+# Currently blocking 53463 ad serving and malware domains.
 #
-# Date Generated: Apr 23 2015
+# Date Generated: Apr 25 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -6141,6 +6141,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 admanager2.broadbandpublisher.com
 127.0.0.1 admanager3.collegepublisher.com
 127.0.0.1 admanmail.com
+127.0.0.1 admantic.ru
 127.0.0.1 admarket.cz
 127.0.0.1 admarket.entireweb.com
 127.0.0.1 admarketplace.com
@@ -13611,6 +13612,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 associatedcontent.112.2o7.net
 127.0.0.1 associateprograms.com
 127.0.0.1 associatesexports.com
+127.0.0.1 associeta.com
 127.0.0.1 associmage.match.com
 127.0.0.1 associmg.com
 127.0.0.1 ast.adiquity.com
@@ -15999,6 +16001,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bizban.net
 127.0.0.1 bizbor.popunder.ru
 127.0.0.1 bizjournals.112.2o7.net
+127.0.0.1 bizographics.com
 127.0.0.1 bizopprewards.com
 127.0.0.1 bizrate.com
 127.0.0.1 bizsolutions.strands.com
@@ -16942,6 +16945,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 byet.org
 127.0.0.1 byot.adultrevenueservice.com
 127.0.0.1 bytecenter.com
+127.0.0.1 bytes.darktech.org
 127.0.0.1 byubroadcast.112.2o7.net
 127.0.0.1 bzresults.122.2o7.net
 127.0.0.1 c-71-63-136-200.hsd1.mn.comcast.net
@@ -17521,6 +17525,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 canottowa.112.2o7.net
 127.0.0.1 canshowcase.112.2o7.net
 127.0.0.1 cantire.122.2o7.net
+127.0.0.1 canvas-advert.ru
 127.0.0.1 canvas-ping.conduit-data.com
 127.0.0.1 canvas-usage-v2.conduit-data.com
 127.0.0.1 canwest.112.207.net
@@ -23084,6 +23089,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dy.testnet.nl
 127.0.0.1 dycpc40hvg4ki.cloudfront.net
 127.0.0.1 dyl3p6so5yozo.cloudfront.net
+127.0.0.1 dymocars.com
 127.0.0.1 dyn.keepa.com
 127.0.0.1 dyn.naiadsystems.com
 127.0.0.1 dynad.website.bg
@@ -26100,6 +26106,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 geniuspresentation.com
 127.0.0.1 genmay.us.intellitxt.com
 127.0.0.1 genorithm.com
+127.0.0.1 genshop.co.in
 127.0.0.1 genteatsss.com
 127.0.0.1 geo-errserv.btrll.com
 127.0.0.1 geo.cliphunter.com
@@ -28696,7 +28703,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 infoweb-cinema.tk
 127.0.0.1 infoweb-coolinfo.tk
 127.0.0.1 infoworldmediagroup.112.2o7.net
-127.0.0.1 infra-ad.com
 127.0.0.1 infrastrategy.122.2o7.net
 127.0.0.1 infratotalduicom.122.2o7.net
 127.0.0.1 ingameads.gameloft.com
@@ -34130,6 +34136,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 npdor.go2cloud.org
 127.0.0.1 npp-mehzavod.ru
 127.0.0.1 npvos.com
+127.0.0.1 nqcc.eu
 127.0.0.1 nrads.1host.co.il
 127.0.0.1 nrg.checkm8.com
 127.0.0.1 nrgdigital.checkm8.com
@@ -35597,6 +35604,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 p.addthis.com
 127.0.0.1 p.adframesrc.com
 127.0.0.1 p.admob.com
+127.0.0.1 p.adpdx.com
 127.0.0.1 p.adsymptotic.com
 127.0.0.1 p.ato.mx
 127.0.0.1 p.blkz2x.com
@@ -39076,6 +39084,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 safepay2.interactivebrands.com
 127.0.0.1 safetracgr.com
 127.0.0.1 safety.amw.com
+127.0.0.1 sageanalyst.net
 127.0.0.1 sagedigital.checkm8.com
 127.0.0.1 saksfifthavenue.122.2o7.net
 127.0.0.1 salem02.webtrekk.net
@@ -42656,6 +42665,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 teamtalk.uk.intellitxt.com
 127.0.0.1 teaserjs.info
 127.0.0.1 teasermedia.net
+127.0.0.1 teasernet.com
 127.0.0.1 teatac4bath.com
 127.0.0.1 tecchan.ivwbox.de
 127.0.0.1 tecchannel.de.intellitxt.com
@@ -43121,6 +43131,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tizer.adv.vz.ru
 127.0.0.1 tizer8.net
 127.0.0.1 tizermy.net
+127.0.0.1 tizernaya-reklama.ru
 127.0.0.1 tizers.net
 127.0.0.1 tj.phpwind.net
 127.0.0.1 tjs.maxiget.com
@@ -47354,6 +47365,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.adlogix.com
 127.0.0.1 www.admailtiser.com
 127.0.0.1 www.adman.gr
+127.0.0.1 www.admantic.ru
 127.0.0.1 www.admarket.cz
 127.0.0.1 www.admarketplace.net
 127.0.0.1 www.admarvel.com
@@ -47775,6 +47787,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.assistline.com.tr
 127.0.0.1 www.assoc-amazon.com
 127.0.0.1 www.assoc-amazon.de
+127.0.0.1 www.associeta.com
 127.0.0.1 www.associmg.com
 127.0.0.1 www.astalavista.us
 127.0.0.1 www.astoplist.com
@@ -48103,6 +48116,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.candi-nolen.us
 127.0.0.1 www.candi-parman.us
 127.0.0.1 www.candythumbs.com
+127.0.0.1 www.canvas-advert.ru
 127.0.0.1 www.capath.com
 127.0.0.1 www.caphyon-analytics.com
 127.0.0.1 www.car-truck-boat-bonuspath.com
@@ -48203,6 +48217,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.chrystal-hollins.us
 127.0.0.1 www.chrystal-stoudt.us
 127.0.0.1 www.chunkypig.com
+127.0.0.1 www.cimo.org
 127.0.0.1 www.cinthya-hanks.us
 127.0.0.1 www.ciqugasox.cn
 127.0.0.1 www.cityads.com
@@ -48595,6 +48610,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.destinationurl.com
 127.0.0.1 www.detroithardcore.com
 127.0.0.1 www.developpement-photo.net
+127.0.0.1 www.dexknows.biz
 127.0.0.1 www.dgmaustralia.com
 127.0.0.1 www.dia-traffic.com
 127.0.0.1 www.dialerplatform.com
@@ -51130,6 +51146,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.riskymail4free.com
 127.0.0.1 www.risoftsystems.com
 127.0.0.1 www.ristoromontebasso.it
+127.0.0.1 www.riverwalktrader.co.za
 127.0.0.1 www.rivwbox.de
 127.0.0.1 www.rk400.com
 127.0.0.1 www.rkdms.com
@@ -51658,6 +51675,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.tdstats.com
 127.0.0.1 www.te81.net
 127.0.0.1 www.teasermedia.net
+127.0.0.1 www.teasernet.com
 127.0.0.1 www.tecnomaqperu.com
 127.0.0.1 www.teenbookmark.com
 127.0.0.1 www.teenhost.net
@@ -51714,6 +51732,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.thesearchster.com
 127.0.0.1 www.thesexcinema.com
 127.0.0.1 www.thesocialsexnetwork.com
+127.0.0.1 www.thesparkmachine.com
 127.0.0.1 www.thespywaredetective.com
 127.0.0.1 www.thesurfshield.com
 127.0.0.1 www.theteenxxx.com
@@ -51754,6 +51773,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.titanads4.com
 127.0.0.1 www.titanads5.com
 127.0.0.1 www.tivwbox.de
+127.0.0.1 www.tizernaya-reklama.ru
 127.0.0.1 www.tkqlhce.com
 127.0.0.1 www.tlvmedia.com
 127.0.0.1 www.tns-counter.ru
@@ -53390,6 +53410,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 zk9.zeroredirect1.com
 127.0.0.1 zkic.com
 127.0.0.1 zl.zeroredirect1.com
+127.0.0.1 zlothonline.info
 127.0.0.1 zm.zeroredirect1.com
 127.0.0.1 zmedia.com
 127.0.0.1 zn.zeroredirect1.com
