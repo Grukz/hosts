@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53463 ad serving and malware domains.
+# Currently blocking 53464 ad serving and malware domains.
 #
-# Date Generated: Apr 25 2015
+# Date Generated: Apr 26 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -22196,6 +22196,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dejavu-now.tk
 127.0.0.1 dejavu.mercadolivre.com.br
 127.0.0.1 dejavu.mlapps.com
+127.0.0.1 dejoostes.co.za
 127.0.0.1 del1.phillyburbs.com
 127.0.0.1 delaponitan.pw
 127.0.0.1 delawareonline.us.intellitxt.com
@@ -30622,6 +30623,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 liveviewer.ez.no
 127.0.0.1 livezila.namoroevangelicos.com
 127.0.0.1 livingat.ivwbox.de
+127.0.0.1 livinglounges.su
 127.0.0.1 livingnet.adtech.de
 127.0.0.1 livingsocial.sp1.convertro.com
 127.0.0.1 livrariaonline.net
@@ -43014,7 +43016,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 thinktarget.com
 127.0.0.1 thinlaptoprewards.com
 127.0.0.1 thinstall.abetterinternet.com
-127.0.0.1 third.crabdance.com
 127.0.0.1 thirdparty.fmpub.net
 127.0.0.1 thirdpartycdn.lumovies.com
 127.0.0.1 thirdworld.magnify.net
