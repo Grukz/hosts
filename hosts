@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53464 ad serving and malware domains.
+# Currently blocking 53485 ad serving and malware domains.
 #
-# Date Generated: Apr 26 2015
+# Date Generated: Apr 27 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1458,6 +1458,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 5.eventiduepuntozero.com
 127.0.0.1 5.googlenews.xorg.pl
 127.0.0.1 5.ptp22.com
+127.0.0.1 5.thumbs.hexagram.com
 127.0.0.1 50.6.87.194.dynamic.dol.ru
 127.0.0.1 505.mylongtail.com
 127.0.0.1 506.xg4ken.com
@@ -1875,6 +1876,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.faireagle.com
 127.0.0.1 a.fandango.com
 127.0.0.1 a.farlex.com
+127.0.0.1 a.fashiocdn.com
 127.0.0.1 a.findarticles.com
 127.0.0.1 a.flashtalking.com
 127.0.0.1 a.flurry.com
@@ -1912,6 +1914,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.klaviyo.com
 127.0.0.1 a.komoona.com
 127.0.0.1 a.law.com
+127.0.0.1 a.lazyswipe.com
 127.0.0.1 a.ligatus.com
 127.0.0.1 a.ligatus.de
 127.0.0.1 a.lingospot.com
@@ -13096,6 +13099,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.kiip.me
 127.0.0.1 api.kissmetrics.com
 127.0.0.1 api.lanistaads.com
+127.0.0.1 api.lazyswipe.com
 127.0.0.1 api.linkz.net
 127.0.0.1 api.magmamobile.com
 127.0.0.1 api.mixpanel.com
@@ -16683,7 +16687,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 brothersoft.us.intellitxt.com
 127.0.0.1 browngas.hopfeed.com
 127.0.0.1 browntrkn.com
-127.0.0.1 browsecheck.com
 127.0.0.1 browser-message.com
 127.0.0.1 browseraccelerator.com
 127.0.0.1 browsertest.web.aol.com
@@ -16970,6 +16973,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.allegrostatic.pl
 127.0.0.1 c.am10.ru
 127.0.0.1 c.am11.ru
+127.0.0.1 c.am15.net
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 c.aol.com
 127.0.0.1 c.apple.com
@@ -18040,6 +18044,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.vipleague.se
 127.0.0.1 cdn.viralmint.com
 127.0.0.1 cdn.visiblemeasures.com
+127.0.0.1 cdn.vlexokrako.com
 127.0.0.1 cdn.voscast.com
 127.0.0.1 cdn.w55c.net
 127.0.0.1 cdn.wg.uproxx.com
@@ -18102,6 +18107,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn1sitescout.edgesuite.net
 127.0.0.1 cdn2-ref.landing.comcontent.net
 127.0.0.1 cdn2.ad-center.com
+127.0.0.1 cdn2.adbrau.com
 127.0.0.1 cdn2.adexprt.com
 127.0.0.1 cdn2.ads.datinggold.com
 127.0.0.1 cdn2.adsdk.com
@@ -21972,6 +21978,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 datab01.dus.local.vmsn.de
 127.0.0.1 database.registrysmart.com
 127.0.0.1 database.revmob.com
+127.0.0.1 datablish.org
 127.0.0.1 datacapture.serving-sys.com
 127.0.0.1 datag.polo.com
 127.0.0.1 datais.ads.targetnet.com
@@ -23393,6 +23400,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 edge.bnmla.com
 127.0.0.1 edge.bredg.com
 127.0.0.1 edge.jeetyetmedia.com
+127.0.0.1 edge.mb.gammae.com
 127.0.0.1 edge.metroleads.com
 127.0.0.1 edge.quantserve.com
 127.0.0.1 edge.reporo.net
@@ -30273,6 +30281,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lenovo.tt.omtrdc.net
 127.0.0.1 leo94dhgfyw-df87fb.tk
 127.0.0.1 leon10.5gbfree.com
+127.0.0.1 lepresitge.com
 127.0.0.1 lerelais.com
 127.0.0.1 lertoworldline.ru
 127.0.0.1 lesbian-erotica.hitbox.com
@@ -30632,6 +30641,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 liza-kyler.us
 127.0.0.1 lizette-stickler.us
 127.0.0.1 ljostrade.go2cloud.org
+127.0.0.1 ljteas.com
 127.0.0.1 lkb.berlinermedienvertrieb.de
 127.0.0.1 ll.a.hulu.com
 127.0.0.1 ll.atdmt.com
@@ -31827,6 +31837,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mazdaworld.us.intellitxt.com
 127.0.0.1 mb.5.p2l.info
 127.0.0.1 mb.datingadzone.com
+127.0.0.1 mb.gammae.com
 127.0.0.1 mb.hockeybuzz.com
 127.0.0.1 mb.marathonbet.com
 127.0.0.1 mb.zam.com
@@ -36463,6 +36474,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pl.yumenetworks.com
 127.0.0.1 pl1.yumenetworks.com
 127.0.0.1 pl105423.putags.com
+127.0.0.1 pl105715.ooecyaauiz.com
 127.0.0.1 pl105716.nquchhfyex.com
 127.0.0.1 pl1567.bntags.com
 127.0.0.1 pl4277.putags.com
@@ -38179,6 +38191,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 request.issuu.com
 127.0.0.1 res-x.com
 127.0.0.1 res.adplus.co.id
+127.0.0.1 res.lazyswipe.com
 127.0.0.1 res.levexis.com
 127.0.0.1 res3.feedsportal.com
 127.0.0.1 res81.weissdecisions.com
@@ -42241,6 +42254,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 t.myvisualiq.net
 127.0.0.1 t.neodatagroup.com
 127.0.0.1 t.nrelate.com
+127.0.0.1 t.nxus.mobi
 127.0.0.1 t.offerx.co.uk
 127.0.0.1 t.omkt.co
 127.0.0.1 t.p.mybuys.com
@@ -45724,6 +45738,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vktr073.net
 127.0.0.1 vladtv.us.intellitxt.com
 127.0.0.1 vlbalash.justclick.ru
+127.0.0.1 vlexokrako.com
 127.0.0.1 vlog.leadformix.com
 127.0.0.1 vlogic.ak-networks.com
 127.0.0.1 vm3.parabol.object.bg
@@ -45858,6 +45873,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 w.p.mybuys.com
 127.0.0.1 w.plugrush.com
 127.0.0.1 w.prize44.com
+127.0.0.1 w.sharethis.com
 127.0.0.1 w.tr553.com
 127.0.0.1 w.uimserv.net
 127.0.0.1 w.usabilla.com
@@ -46221,6 +46237,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wcf.m.shopathome.com
 127.0.0.1 wctrack.go2cloud.org
 127.0.0.1 wd-edge.sharethis.com
+127.0.0.1 wd.sharethis.com
 127.0.0.1 wda.com
 127.0.0.1 wdads.sx.atl.publicus.com
 127.0.0.1 wdata.ero-advertising.com
@@ -46822,7 +46839,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 wordwatch.go2cloud.org
 127.0.0.1 work-offer.com
 127.0.0.1 workflowboard.com
-127.0.0.1 workflowhardware.com
 127.0.0.1 workingonline.com
 127.0.0.1 workopolis.122.2o7.net
 127.0.0.1 worksbest.freeservers.com
@@ -47181,6 +47197,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.7metasearch.com
 127.0.0.1 www.7search.com
 127.0.0.1 www.805m.com
+127.0.0.1 www.83nsdjqqo1cau183xz.com
 127.0.0.1 www.863c4c0c521.se
 127.0.0.1 www.888-it.com
 127.0.0.1 www.888.com
@@ -48415,6 +48432,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.cortesidesign.com
 127.0.0.1 www.cortoonnetwork.com
 127.0.0.1 www.cosmeticscentre.uk.com
+127.0.0.1 www.count.im
 127.0.0.1 www.count24.de
 127.0.0.1 www.counted.de
 127.0.0.1 www.counter-gratis.com
@@ -48571,6 +48589,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.data-eroadvertising.com
 127.0.0.1 www.data-jpn.com
 127.0.0.1 www.data.ero-advertising.com
+127.0.0.1 www.datablish.org
 127.0.0.1 www.dataforce.net
 127.0.0.1 www.datanotary.com
 127.0.0.1 www.datatech.es
@@ -50141,6 +50160,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.livewebstats.dk
 127.0.0.1 www.livewell.net
 127.0.0.1 www.livwbox.de
+127.0.0.1 www.ljteas.com
 127.0.0.1 www.llnwd.net
 127.0.0.1 www.lloogg.com
 127.0.0.1 www.lmlttrack.com
@@ -51073,6 +51093,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.recreativ.ru
 127.0.0.1 www.redcounter.net
 127.0.0.1 www.redemptionengine.com
+127.0.0.1 www.redir04mail.com
 127.0.0.1 www.redirectedvisitors.com
 127.0.0.1 www.redroomnetwork.com
 127.0.0.1 www.redsheriff.com
