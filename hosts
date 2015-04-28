@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53485 ad serving and malware domains.
+# Currently blocking 53488 ad serving and malware domains.
 #
-# Date Generated: Apr 27 2015
+# Date Generated: Apr 28 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -17420,6 +17420,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cache.trafficmp.com
 127.0.0.1 cache.unicast.com
 127.0.0.1 cache.unicast.com.edgesuite.net
+127.0.0.1 cache.usabilla.com
 127.0.0.1 cache.winhundred.com
 127.0.0.1 cache.worldfriends.tv
 127.0.0.1 cache01.bob.local.vmsn.de
@@ -45163,6 +45164,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 usa.nedstat.com
 127.0.0.1 usa.nedstat.net
 127.0.0.1 usabilitytesten.nl
+127.0.0.1 usabilla.com
 127.0.0.1 usachoice.net
 127.0.0.1 usads.futurenet.nl
 127.0.0.1 usads.vibrantmedia.com
@@ -52054,6 +52056,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.urpo.com
 127.0.0.1 www.us-choicevalue.com
 127.0.0.1 www.us-topsites.com
+127.0.0.1 www.usabilla.com
 127.0.0.1 www.usaenterprise.com
 127.0.0.1 www.usarevenue.com
 127.0.0.1 www.usatravel-specials.com
