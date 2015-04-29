@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53488 ad serving and malware domains.
+# Currently blocking 53490 ad serving and malware domains.
 #
-# Date Generated: Apr 28 2015
+# Date Generated: Apr 29 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -16685,6 +16685,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 brooke-sheahan.us
 127.0.0.1 brothersmt2.tk
 127.0.0.1 brothersoft.us.intellitxt.com
+127.0.0.1 brownblogs.org
 127.0.0.1 browngas.hopfeed.com
 127.0.0.1 browntrkn.com
 127.0.0.1 browser-message.com
@@ -18513,6 +18514,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cityadslink.com
 127.0.0.1 cityadspix.com
 127.0.0.1 citycash2.blogspot.com
+127.0.0.1 citycentergroup.co.in
 127.0.0.1 citygrid.com
 127.0.0.1 citymasterplan.nairobi.go.ke
 127.0.0.1 citymediamagazin.hu
@@ -23098,7 +23100,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dy.testnet.nl
 127.0.0.1 dycpc40hvg4ki.cloudfront.net
 127.0.0.1 dyl3p6so5yozo.cloudfront.net
-127.0.0.1 dymocars.com
 127.0.0.1 dyn.keepa.com
 127.0.0.1 dyn.naiadsystems.com
 127.0.0.1 dynad.website.bg
@@ -27113,6 +27114,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hdmoviesinc.com
 127.0.0.1 hdplugindownload.com
 127.0.0.1 hdv-studio.si
+127.0.0.1 hdytrading.org.in
 127.0.0.1 heals.msgfocus.com
 127.0.0.1 health-beauty-rewardpath.com
 127.0.0.1 health-beauty-savingblvd.com
