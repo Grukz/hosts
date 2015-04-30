@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53490 ad serving and malware domains.
+# Currently blocking 53498 ad serving and malware domains.
 #
-# Date Generated: Apr 29 2015
+# Date Generated: Apr 30 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1543,6 +1543,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 607.http602.com
 127.0.0.1 60pictures.com
 127.0.0.1 61.6.87.194.dynamic.dol.ru
+127.0.0.1 6159.genieessp.com
 127.0.0.1 6165.rapidforum.com
 127.0.0.1 62.6.87.194.dynamic.dol.ru
 127.0.0.1 6266.570204.primosearch.com
@@ -11660,6 +11661,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adzonk.com
 127.0.0.1 adzouk.com
 127.0.0.1 adzservice.theday.com
+127.0.0.1 ae-gb.mgid.com
 127.0.0.1 ae.adserver.yahoo.com
 127.0.0.1 ae.amgdgt.com
 127.0.0.1 ae.excite.com
@@ -17043,6 +17045,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.maccosmetics.com
 127.0.0.1 c.mdnhinc.com
 127.0.0.1 c.medialytics.com
+127.0.0.1 c.mgid.com
 127.0.0.1 c.microsoft.com
 127.0.0.1 c.mobpartner.mobi
 127.0.0.1 c.moreover.com
@@ -23795,6 +23798,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 emediate.dk
 127.0.0.1 emediate.eu
 127.0.0.1 emediate.se
+127.0.0.1 emekonline.tk
 127.0.0.1 emeza-ch01.webtrekk.net
 127.0.0.1 emeza-com01.webtrekk.net
 127.0.0.1 emeza-de01.webtrekk.net
@@ -27895,6 +27899,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 iadsdk.apple.com
 127.0.0.1 iadtools.cimedia.com
 127.0.0.1 iae.hosei.ac.jp
+127.0.0.1 ialaddin.genieesspv.jp
 127.0.0.1 ialchemnteryield.jmp9.com
 127.0.0.1 ialchemynteryield.jmp9.com
 127.0.0.1 ialchenteryield.jmp9.com
@@ -29250,6 +29255,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 iyogi.demdex.net
 127.0.0.1 iyvwbox.de
 127.0.0.1 izitracking.izimailing.com
+127.0.0.1 izmiredakayaci.net
 127.0.0.1 izozo.buyyourbtc.com
 127.0.0.1 izzonet.go2cloud.org
 127.0.0.1 j-ad.dominiosfree.net
@@ -45019,6 +45025,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 universityherald.us.intellitxt.com
 127.0.0.1 unlck.net
 127.0.0.1 unlim-app.tk
+127.0.0.1 unlimitedbeakthough.com
 127.0.0.1 uno.wbrotator.biz
 127.0.0.1 unrulymedia.com
 127.0.0.1 unstat.baidu.com
@@ -53382,6 +53389,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 zeroredirect.com
 127.0.0.1 zeroredirect1.com
 127.0.0.1 zetatrk.com
+127.0.0.1 zetes.vdsinside.com
 127.0.0.1 zettapetta.com
 127.0.0.1 zeus.developershed.com
 127.0.0.1 zeus.guvencelikimalat.com
