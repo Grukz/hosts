@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53496 ad serving and malware domains.
+# Currently blocking 53512 ad serving and malware domains.
 #
-# Date Generated: May 01 2015
+# Date Generated: May 02 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -10425,7 +10425,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserving.cpminventory.com
 127.0.0.1 adserving.cpxadroit.com
 127.0.0.1 adserving.cpxinteractive.com
-127.0.0.1 adserving.eleven-agency.com
 127.0.0.1 adserving.favorit-network.com
 127.0.0.1 adserving.flagcpc.com
 127.0.0.1 adserving.liveuniversenetwork.com
@@ -13674,7 +13673,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 atlaseducation.aavalue.com
 127.0.0.1 atlassian.122.2o7.net
 127.0.0.1 atomicleads.go2cloud.org
-127.0.0.1 atopsites.com
 127.0.0.1 atpco.ur.gcion.com
 127.0.0.1 atrack.allposters.com
 127.0.0.1 atrack.art.com
@@ -13953,6 +13951,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 b.huffingtonpost.de
 127.0.0.1 b.inbox.lv
 127.0.0.1 b.kavanga.ru
+127.0.0.1 b.limit.cn.com
 127.0.0.1 b.liquidustv.com
 127.0.0.1 b.localpages.com
 127.0.0.1 b.monetate.net
@@ -15972,6 +15971,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bins.lop.com
 127.0.0.1 binsservicesonline.info
 127.0.0.1 bio-air-technologies.com
+127.0.0.1 biocircle.co.za
 127.0.0.1 biokovoholidays.com
 127.0.0.1 biopharmastore.com
 127.0.0.1 biosmagazine.uk.intellitxt.com
@@ -18473,7 +18473,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cialis.ourtablets.com
 127.0.0.1 ciao.de.intellitxt.com
 127.0.0.1 ciao.ivwbox.de
-127.0.0.1 ciaoclick.com
 127.0.0.1 ciaocom.122.2o7.net
 127.0.0.1 ciaoshopcouk.122.2o7.net
 127.0.0.1 ciaoshopde.122.2o7.net
@@ -21881,6 +21880,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dal.d.la
 127.0.0.1 dal2.voxcloud.cedexis.com
 127.0.0.1 dal9hkyfi0m0n.cloudfront.net
+127.0.0.1 damamaty.tk
 127.0.0.1 damavandkuh.com
 127.0.0.1 damnimcute.us.intellitxt.com
 127.0.0.1 damxx.com
@@ -23827,6 +23827,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 encrypted.reporo.net
 127.0.0.1 encyclocentral.us.intellitxt.com
 127.0.0.1 endow.com
+127.0.0.1 enedra-shop.gr
 127.0.0.1 energyon.ivwbox.de
 127.0.0.1 enetwork.ncbuy.com
 127.0.0.1 enews.bfast.com
@@ -25012,6 +25013,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fotolog.crwdcntrl.net
 127.0.0.1 foundguide.com
 127.0.0.1 foundmoney.com
+127.0.0.1 fourth.su
 127.0.0.1 fourthgearmedia.go2cloud.org
 127.0.0.1 foxamw.112.2o7.net
 127.0.0.1 foxcom.112.2o7.net
@@ -27021,6 +27023,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hai2u.com
 127.0.0.1 hair-dos.resourcesarchive.com
 127.0.0.1 hairboutique.us.intellitxt.com
+127.0.0.1 hairg.biz
 127.0.0.1 hakerzy.net
 127.0.0.1 hal9000.redintelligence.net
 127.0.0.1 halc.iadvize.com
@@ -29707,6 +29710,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jumcna.cjt1.net
 127.0.0.1 jump.ewoss.net
 127.0.0.1 jump.omnitarget.com
+127.0.0.1 jump1ng.net
 127.0.0.1 jumptap.com
 127.0.0.1 junbi-tracker.com
 127.0.0.1 junecleeland.com
@@ -29826,6 +29830,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kczambians.com
 127.0.0.1 kddi.122.2o7.net
 127.0.0.1 kds.ero-advertising.com
+127.0.0.1 kedaivapor.com
 127.0.0.1 keemy.butlerelectricsupply.com
 127.0.0.1 keen.io
 127.0.0.1 keepaneyeadmk.hit.gemius.pl
@@ -30348,6 +30353,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 liftopia.go2cloud.org
 127.0.0.1 ligatus.com
 127.0.0.1 ligatus.de
+127.0.0.1 lightedpages.com
 127.0.0.1 lighthouse2k.com
 127.0.0.1 lightningcast.net
 127.0.0.1 lightspeedcash.com
@@ -32908,6 +32914,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 mngiyhnat.112.2o7.net
 127.0.0.1 mngiyrkdr.112.2o7.net
 127.0.0.1 mno.tns-cs.net
+127.0.0.1 mno1.hairg.biz
+127.0.0.1 mno2.hairg.biz
+127.0.0.1 mno3.hairg.biz
+127.0.0.1 mno4.hairg.biz
 127.0.0.1 mnstat.com
 127.0.0.1 mntr.babcdn.com
 127.0.0.1 mo.5.p2l.info
@@ -35727,6 +35737,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pads1.go2cloud.org
 127.0.0.1 padsdel.cdnads.com
 127.0.0.1 padv.co.il
+127.0.0.1 paf.su
 127.0.0.1 page-not-found.net
 127.0.0.1 page-x.com
 127.0.0.1 pagead.googlesyndication.com
@@ -44486,6 +44497,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tumri.net
 127.0.0.1 tunmedia.tns-cs.net
 127.0.0.1 turdgasm.com
+127.0.0.1 turkeyhotelnoslafas.su
 127.0.0.1 turn.com
 127.0.0.1 turn.nexac.com
 127.0.0.1 turnerapac.d1.sc.omtrdc.net
@@ -47187,6 +47199,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.4ivwbox.de
 127.0.0.1 www.4qsurvey.com
 127.0.0.1 www.5000freebanners.com
+127.0.0.1 www.500web.gr
 127.0.0.1 www.51.com
 127.0.0.1 www.51yes.com
 127.0.0.1 www.5ivwbox.de
@@ -49378,6 +49391,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.gxplugin.com
 127.0.0.1 www.hab3n.trackvoluum.com
 127.0.0.1 www.hai2u.com
+127.0.0.1 www.hairg.biz
 127.0.0.1 www.hakanla.com
 127.0.0.1 www.hakerzy.net
 127.0.0.1 www.haley-seeber.us
@@ -49464,6 +49478,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.hitstats.co.uk
 127.0.0.1 www.hittrack.org
 127.0.0.1 www.hittracker.org
+127.0.0.1 www.hitwebcounter.com
 127.0.0.1 www.hitwise.co.uk
 127.0.0.1 www.hitx.net
 127.0.0.1 www.hivwbox.de
@@ -50099,6 +50114,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.liana-millican.us
 127.0.0.1 www.liczniki.org
 127.0.0.1 www.lifeforminc.com
+127.0.0.1 www.lightedpages.com
 127.0.0.1 www.lijit.com
 127.0.0.1 www.likebtn.com
 127.0.0.1 www.likeportal.com
