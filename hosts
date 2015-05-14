@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 53524 ad serving and malware domains.
+# Currently blocking 53532 ad serving and malware domains.
 #
-# Date Generated: May 13 2015
+# Date Generated: May 14 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -16800,6 +16800,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 burstmedia.com
 127.0.0.1 bus-offer.com
 127.0.0.1 buscamundo.com
+127.0.0.1 buseneujob2.ru
 127.0.0.1 business-made-fun.com
 127.0.0.1 business-rewardpath.com
 127.0.0.1 business.ivwbox.de
@@ -24420,6 +24421,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 f37.smaato.net
 127.0.0.1 f38.smaato.net
 127.0.0.1 f39.smaato.net
+127.0.0.1 f3r33.fr
 127.0.0.1 f40.smaato.net
 127.0.0.1 f41.smaato.net
 127.0.0.1 f42.smaato.net
@@ -29536,6 +29538,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jonathanleger.com
 127.0.0.1 jorel.radfellas.com
 127.0.0.1 josephine-youngberg.us
+127.0.0.1 josephseng.in
 127.0.0.1 joshtest1.evsuite.com
 127.0.0.1 josie-deltoro.us
 127.0.0.1 josip-stadler.org
@@ -38467,6 +38470,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 roosevelt.gjbig.com
 127.0.0.1 root.dns.bz
 127.0.0.1 rootzwiki.us.intellitxt.com
+127.0.0.1 roqart.co.za
 127.0.0.1 rose.ixbt.com
 127.0.0.1 rosettastone.tt.omtrdc.net
 127.0.0.1 roshanavar.com
@@ -38557,6 +38561,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rsgauge10.com
 127.0.0.1 rsgde.adocean.pl
 127.0.0.1 rsh.ivwbox.de
+127.0.0.1 rsimotion.com
 127.0.0.1 rsiuk.co.uk
 127.0.0.1 rsmrttracking.com
 127.0.0.1 rss.buysellads.com
@@ -41955,6 +41960,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stx9.sextracker.com
 127.0.0.1 stxbans.sextracker.com
 127.0.0.1 styleblazer.us.intellitxt.com
+127.0.0.1 styletechnologyinnovation.com
 127.0.0.1 stylincom.112.2o7.net
 127.0.0.1 su.addthis.com
 127.0.0.1 su600.com
@@ -46448,6 +46454,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 webhitsdirect.com
 127.0.0.1 webhosting-ads.home.pl
 127.0.0.1 webhosting.hut1.ru
+127.0.0.1 webhostingmanagment.ru
 127.0.0.1 webindicator.siteheart.com
 127.0.0.1 webiq-cdn.appspot.com
 127.0.0.1 webiq-warp.appspot.com
@@ -47823,6 +47830,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.arkinsoftware.in
 127.0.0.1 www.armor2net.com
 127.0.0.1 www.armstrongsystems.bizland.com
+127.0.0.1 www.aroma-relife.com
 127.0.0.1 www.art-music-rewardpath.com
 127.0.0.1 www.art-offer.com
 127.0.0.1 www.art-offer.net
