@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71062 ad serving and malware domains.
+# Currently blocking 71061 ad serving and malware domains.
 #
-# Date Generated: May 15 2015
+# Date Generated: May 16 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1433,7 +1433,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 4affiliate.net
 127.0.0.1 4allfree.com
 127.0.0.1 4anners.ero-advertising.com
-127.0.0.1 4btc.cc
 127.0.0.1 4c28d6.r.axf8.net
 127.0.0.1 4click.biz
 127.0.0.1 4d5.net
@@ -19677,6 +19676,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.immobilienscout24.de
 127.0.0.1 ads.imposibil.ro
 127.0.0.1 ads.inbox.lv
+127.0.0.1 ads.incgamers.com
 127.0.0.1 ads.incmd03.com
 127.0.0.1 ads.incmd09.com
 127.0.0.1 ads.incmd10.com
@@ -20574,7 +20574,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.sjc.struq.com
 127.0.0.1 ads.skelbiu.lt
 127.0.0.1 ads.skinected.com
-127.0.0.1 ads.skins.be
 127.0.0.1 ads.skupe.net
 127.0.0.1 ads.skyhookwireless.com
 127.0.0.1 ads.sl.interpals.net
@@ -20864,7 +20863,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.videosz.com
 127.0.0.1 ads.vidsense.com
 127.0.0.1 ads.viewlondon.co.uk
-127.0.0.1 ads.viewx.co.uk
 127.0.0.1 ads.vimg.net
 127.0.0.1 ads.vintageporntubenet.com
 127.0.0.1 ads.vipcams.com
@@ -47874,7 +47872,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ng.virgul.com
 127.0.0.1 ng3.ads.warnerbros.com
 127.0.0.1 ngacm.com
-127.0.0.1 ngadcenter.net
 127.0.0.1 ngadclient.hearme.com
 127.0.0.1 ngads.go.com
 127.0.0.1 ngads.smartage.com
@@ -56009,6 +56006,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sunbond-kossan.com
 127.0.0.1 suncom.112.2o7.net
 127.0.0.1 suncountryair.com
+127.0.0.1 sundayhips.info
 127.0.0.1 sunglobal.112.2o7.net
 127.0.0.1 sunidaytravel.co.uk
 127.0.0.1 sunlux.net
@@ -70744,6 +70742,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 yieldmanager.com
 127.0.0.1 yieldmanager.net
 127.0.0.1 yieldmgr.com
+127.0.0.1 yieldtraffic.com
 127.0.0.1 ying.hitbox.com
 127.0.0.1 yivwbox.de
 127.0.0.1 yj.moatads.com
