@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71509 ad serving and malware domains.
+# Currently blocking 71521 ad serving and malware domains.
 #
-# Date Generated: May 17 2015
+# Date Generated: May 18 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -28440,6 +28440,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bat.bing.com
 127.0.0.1 bat.r.msn.com
 127.0.0.1 batcoroadlinescorporation.com
+127.0.0.1 batteriesinsight.co.za
 127.0.0.1 battleon.directtrack.com
 127.0.0.1 baublebar.sp1.convertro.com
 127.0.0.1 bavners2.ero-advertising.com
@@ -28671,6 +28672,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bestmusic.2cnt.net
 127.0.0.1 bestoffer.su
 127.0.0.1 bestoffers.activeshopper.com
+127.0.0.1 bestorican.com
 127.0.0.1 bestprizedraw.com
 127.0.0.1 bestproduct.in
 127.0.0.1 bestrxcanada.com
@@ -35863,6 +35865,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 d.serve-sys.com
 127.0.0.1 d.shareaholic.com
 127.0.0.1 d.skimresources.com
+127.0.0.1 d.sspcash.adxcore.com
 127.0.0.1 d.tailtarget.com
 127.0.0.1 d.tds.adlabs.ru
 127.0.0.1 d.thanksearch.com
@@ -44369,6 +44372,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kyrsu.frost-electric-supply.com
 127.0.0.1 kz.js.need2find.com
 127.0.0.1 kz.search.need2find.com
+127.0.0.1 l-sspcash.adxcore.com
 127.0.0.1 l.5min.com
 127.0.0.1 l.addthiscdn.com
 127.0.0.1 l.advertstream.com
@@ -44475,6 +44479,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 latin3.directtrack.com
 127.0.0.1 latinoreview.us.intellitxt.com
 127.0.0.1 latinpost.us.intellitxt.com
+127.0.0.1 latribune.electronicpromotions2015.com
 127.0.0.1 launch.adserver.yahoo.com
 127.0.0.1 launch.zugo.com
 127.0.0.1 launch1.co
@@ -45388,6 +45393,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lp.downloadquick.net
 127.0.0.1 lp.empire.goodgamestudios.com
 127.0.0.1 lp.ezdownloadpro.info
+127.0.0.1 lp.jeux-lk.com
 127.0.0.1 lp.koramgame.com
 127.0.0.1 lp.lol55.com
 127.0.0.1 lp.longtailvideo.com
@@ -45829,6 +45835,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 macgamefiles.us.intellitxt.com
 127.0.0.1 machine.cu.ma
 127.0.0.1 machine.fairfaxbm.co.nz
+127.0.0.1 mackeeperapp.mackeeper.com
 127.0.0.1 mackeeperapp1.zeobit.com
 127.0.0.1 mackenzie-brand.us
 127.0.0.1 macmegasite.us.intellitxt.com
@@ -47725,6 +47732,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 myaffiliateprogram.com
 127.0.0.1 myao.adocean.pl
 127.0.0.1 myap.liveperson.com
+127.0.0.1 myasiantv.gsspcln.jp
 127.0.0.1 mybb.ero-advertising.com
 127.0.0.1 mybip.go2cloud.org
 127.0.0.1 mybloglog.com
@@ -53135,6 +53143,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 s.ppjol.net
 127.0.0.1 s.rankdirectory.org
 127.0.0.1 s.renren.com
+127.0.0.1 s.rev2pub.com
 127.0.0.1 s.sa.aol.com
 127.0.0.1 s.sharethis.com
 127.0.0.1 s.shopify.com
@@ -55399,6 +55408,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sso.canada.com
 127.0.0.1 sso.conduit.com
 127.0.0.1 ssp.adriver.ru
+127.0.0.1 sspcash.adxcore.com
 127.0.0.1 ssprings.rotator.hadj7.adjuggler.net
 127.0.0.1 sss828.welovecpa.com
 127.0.0.1 sstatic.etracker.com
@@ -57184,6 +57194,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 techclicks.net
 127.0.0.1 techdatti.ru
 127.0.0.1 techeblog.us.intellitxt.com
+127.0.0.1 techemeka.work
 127.0.0.1 techexpress.home.mindspring.com
 127.0.0.1 techfonthk.com
 127.0.0.1 techgadgets.in.intellitxt.com
@@ -70968,6 +70979,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 xch.directrev.com
 127.0.0.1 xchange.ro
 127.0.0.1 xclicks.net
+127.0.0.1 xclones.in.net
 127.0.0.1 xcnn.com
 127.0.0.1 xcr-286.com
 127.0.0.1 xeanon.com
