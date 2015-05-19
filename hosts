@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71521 ad serving and malware domains.
+# Currently blocking 71523 ad serving and malware domains.
 #
-# Date Generated: May 18 2015
+# Date Generated: May 19 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -31726,6 +31726,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 careers.112.2o7.net
 127.0.0.1 careers.canwestad.net
 127.0.0.1 caren-jerry.us
+127.0.0.1 careprop.co.za
 127.0.0.1 cari-miguel.us
 127.0.0.1 carina-galaviz.us
 127.0.0.1 carina-lacey.us
@@ -68046,6 +68047,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.kompass-intl.com
 127.0.0.1 www.kontera.com
 127.0.0.1 www.konversation.com
+127.0.0.1 www.korbitec.com
 127.0.0.1 www.kosmetycznysklep.pl
 127.0.0.1 www.kosoft-ads.com
 127.0.0.1 www.kpicentral.com
