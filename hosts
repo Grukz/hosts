@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71525 ad serving and malware domains.
+# Currently blocking 71524 ad serving and malware domains.
 #
-# Date Generated: May 20 2015
+# Date Generated: May 21 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -23429,6 +23429,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adsrvmedia.com
 127.0.0.1 adsrvr.com
 127.0.0.1 adsrvr.org
+127.0.0.1 adss.ad-maven.com
 127.0.0.1 adss.hookupbucks.com
 127.0.0.1 adss.yahoo.com
 127.0.0.1 adsserving.net
@@ -31922,6 +31923,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.2app.lk
 127.0.0.1 cdn.2xbpub.com
 127.0.0.1 cdn.8digits.com
+127.0.0.1 cdn.ad-maven.com
 127.0.0.1 cdn.ad.maist.jp
 127.0.0.1 cdn.ad4game.com
 127.0.0.1 cdn.adbooth.com
@@ -55115,7 +55117,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 spade.twitch.tv
 127.0.0.1 spads.yamx.com
 127.0.0.1 spamfighter.112.2o7.net
-127.0.0.1 spamheros.info
 127.0.0.1 spamnuker.com
 127.0.0.1 spamwatchs.info
 127.0.0.1 spanel.gem.pl
@@ -55646,7 +55647,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 stat1.z-stat.com
 127.0.0.1 stat1322-toolbarueries-google.ru
 127.0.0.1 stat2.cybermonitor.com
-127.0.0.1 stat2060-toolbarueries-google.com
 127.0.0.1 stat24.com
 127.0.0.1 stat24.meta.ua
 127.0.0.1 stat3.cybermonitor.com
@@ -56461,7 +56461,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sunbond-kossan.com
 127.0.0.1 suncom.112.2o7.net
 127.0.0.1 suncountryair.com
-127.0.0.1 sundayhips.info
 127.0.0.1 sunglobal.112.2o7.net
 127.0.0.1 sunidaytravel.co.uk
 127.0.0.1 sunlux.net
