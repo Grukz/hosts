@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71524 ad serving and malware domains.
+# Currently blocking 71526 ad serving and malware domains.
 #
-# Date Generated: May 21 2015
+# Date Generated: May 22 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18720,7 +18720,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adlt.hit.gemius.pl
 127.0.0.1 adlure.net
 127.0.0.1 adlv.hit.gemius.pl
-127.0.0.1 adm.ad.asap-asp.net
 127.0.0.1 adm.fwmrm.net
 127.0.0.1 adm.leju.sina.com.cn
 127.0.0.1 adm.shacknews.com
@@ -31661,6 +31660,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 campaigns2.outerinfo.com
 127.0.0.1 campaigntracking01.com
 127.0.0.1 campamento.queenscamp.com
+127.0.0.1 campialibertatii.ro
 127.0.0.1 cams.enjoy.be
 127.0.0.1 cams.spacash.com
 127.0.0.1 camsiteonline.wiredcircular.com
@@ -44059,6 +44059,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 justwtchaffiliatecom.ipage.com
 127.0.0.1 jutcom.com
 127.0.0.1 jutiagroup.us.intellitxt.com
+127.0.0.1 juwanto.com
 127.0.0.1 jvwbox.de
 127.0.0.1 jvz5.com
 127.0.0.1 jvz7.com
@@ -69187,6 +69188,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.rhtag.com
 127.0.0.1 www.riccardochinnici.it
 127.0.0.1 www.richelle-crandell.us
+127.0.0.1 www.richjono.org
 127.0.0.1 www.rickrolling.com
 127.0.0.1 www.rightmedia.com
 127.0.0.1 www.rightmedia.net
