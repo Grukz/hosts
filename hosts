@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71526 ad serving and malware domains.
+# Currently blocking 71530 ad serving and malware domains.
 #
-# Date Generated: May 22 2015
+# Date Generated: May 23 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -22952,7 +22952,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserver.gamigo.de
 127.0.0.1 adserver.garden.com
 127.0.0.1 adserver.garden.nl
-127.0.0.1 adserver.gb2.motorpresse.de
 127.0.0.1 adserver.gb3.motorpresse.de
 127.0.0.1 adserver.gb5.motorpresse.de
 127.0.0.1 adserver.gecce.com
@@ -23323,6 +23322,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adsmart.net
 127.0.0.1 adsmart.ru
 127.0.0.1 adsmatters.go2cloud.org
+127.0.0.1 adsmeans.com
 127.0.0.1 adsmile.biz
 127.0.0.1 adsmile.go2cloud.org
 127.0.0.1 adsmobi.com
@@ -31776,6 +31776,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cash.neweramediaworks.com
 127.0.0.1 cash4banner.de
 127.0.0.1 cash4creatives.com
+127.0.0.1 cash4files.com
 127.0.0.1 cash4members.com
 127.0.0.1 cash4popup.de
 127.0.0.1 cash4views.de
@@ -36497,7 +36498,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 delivery-s3.adswizz.com
 127.0.0.1 delivery.3rdads.com
 127.0.0.1 delivery.a.switchadhub.com
-127.0.0.1 delivery.acm.org
 127.0.0.1 delivery.adnetwork.vn
 127.0.0.1 delivery.ads-creativesyndicator.com
 127.0.0.1 delivery.ads-littlestarmedia.co.uk
@@ -37601,7 +37601,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 eastsideboxing.us.intellitxt.com
 127.0.0.1 easy-web-stats.com
 127.0.0.1 easy.adpowerzone.com
-127.0.0.1 easyad.info
 127.0.0.1 easyadservice.com
 127.0.0.1 easyadvertonline.com
 127.0.0.1 easyhitcounters.com
@@ -39102,6 +39101,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fips.uimserv.net
 127.0.0.1 fireally.net
 127.0.0.1 firecash.org
+127.0.0.1 firecpa.com
 127.0.0.1 firehouse651.com
 127.0.0.1 firehunt.com
 127.0.0.1 firetrck.com
@@ -50961,6 +50961,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pm.sofortficken.com
 127.0.0.1 pm.swingerdatenbank.com
 127.0.0.1 pm.tittendating.com
+127.0.0.1 pm.w55c.net
 127.0.0.1 pm.web.com
 127.0.0.1 pmads.valuead.com
 127.0.0.1 pmediatrack.com
@@ -58046,6 +58047,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 track.clariad.com
 127.0.0.1 track.clickcabintracker.com
 127.0.0.1 track.clickon.co.il
+127.0.0.1 track.clicksbandit.com
 127.0.0.1 track.clicksor.com
 127.0.0.1 track.cliqrr.com
 127.0.0.1 track.cmllk1.info
@@ -65523,6 +65525,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.adsmarket.co.il
 127.0.0.1 www.adsmarketgroup.com
 127.0.0.1 www.adsmarketlatam.com
+127.0.0.1 www.adsmeans.com
 127.0.0.1 www.adsniper.ru
 127.0.0.1 www.adsoftware.com
 127.0.0.1 www.adsoogle.com
@@ -66183,6 +66186,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.casalemedia.com
 127.0.0.1 www.casamama.nl
 127.0.0.1 www.cash4downloads.com
+127.0.0.1 www.cash4files.com
 127.0.0.1 www.cash4members.com
 127.0.0.1 www.cash4webmaster.de
 127.0.0.1 www.cashassociate.com
@@ -67033,6 +67037,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.fineclicks.com
 127.0.0.1 www.firebanner.com
 127.0.0.1 www.firecash.org
+127.0.0.1 www.firecpa.com
 127.0.0.1 www.firetrck.com
 127.0.0.1 www.firstbookmark.com
 127.0.0.1 www.firstload.com
@@ -69188,7 +69193,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.rhtag.com
 127.0.0.1 www.riccardochinnici.it
 127.0.0.1 www.richelle-crandell.us
-127.0.0.1 www.richjono.org
 127.0.0.1 www.rickrolling.com
 127.0.0.1 www.rightmedia.com
 127.0.0.1 www.rightmedia.net
