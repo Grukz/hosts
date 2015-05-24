@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71530 ad serving and malware domains.
+# Currently blocking 71533 ad serving and malware domains.
 #
-# Date Generated: May 23 2015
+# Date Generated: May 24 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -24891,6 +24891,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ahh-teens.com
 127.0.0.1 ahhhah.com
 127.0.0.1 ahl.info.mateinfo.com
+127.0.0.1 ahmedashid.com
 127.0.0.1 ahmm.com
 127.0.0.1 ahomedia.zxfactory.nl
 127.0.0.1 ahomepcsafety.com
@@ -40063,6 +40064,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fun.lbn.ru
 127.0.0.1 funchill.com
 127.0.0.1 functional-business.com
+127.0.0.1 fundib.org
 127.0.0.1 fungamesmobile.com
 127.0.0.1 funklicks.com
 127.0.0.1 funkyd.2cnt.net
@@ -53508,6 +53510,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 safety.amw.com
 127.0.0.1 sageanalyst.net
 127.0.0.1 sagedigital.checkm8.com
+127.0.0.1 saglikportali.net
 127.0.0.1 saksfifthavenue.122.2o7.net
 127.0.0.1 salem02.webtrekk.net
 127.0.0.1 sales.liveperson.net
