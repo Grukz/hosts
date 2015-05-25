@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71533 ad serving and malware domains.
+# Currently blocking 71532 ad serving and malware domains.
 #
-# Date Generated: May 24 2015
+# Date Generated: May 25 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -36103,7 +36103,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dadegid.ru
 127.0.0.1 dadparty.com
 127.0.0.1 dads.new.digg.com
-127.0.0.1 dadubule1.co.in
 127.0.0.1 daea.ero-advertising.com
 127.0.0.1 daggr.adsxgm.com
 127.0.0.1 daia.ero-advertising.com
