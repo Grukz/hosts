@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71533 ad serving and malware domains.
+# Currently blocking 71539 ad serving and malware domains.
 #
-# Date Generated: May 26 2015
+# Date Generated: May 27 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2650,6 +2650,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aahtech.com
 127.0.0.1 aakro.nl
 127.0.0.1 aalbc.advertserve.com
+127.0.0.1 aall88.com
 127.0.0.1 aamhi.com
 127.0.0.1 aams1.aim4media.com
 127.0.0.1 aan.amazon.com
@@ -38529,6 +38530,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 exadwese.us
 127.0.0.1 examinercom.122.2o7.net
 127.0.0.1 examnotes.us.intellitxt.com
+127.0.0.1 example.com
 127.0.0.1 examplequestionsurvey.com
 127.0.0.1 examquestionsite.com
 127.0.0.1 excelpractic.justclick.ru
@@ -46999,6 +47001,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 metrics1.pricegrabber.com
 127.0.0.1 metrics2.nokia.com
 127.0.0.1 metrics2.pricegrabber.com
+127.0.0.1 metrika.yandex.ru
 127.0.0.1 metriweb.be
 127.0.0.1 metrixlablw.customers.luna.net
 127.0.0.1 metro.uk.intellitxt.com
@@ -47661,6 +47664,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 multipops.com
 127.0.0.1 munaluchibridal.munaluchibridema.netdna-cdn.com
 127.0.0.1 munchkin.marketo.net
+127.0.0.1 mundocccam.com
 127.0.0.1 munin2.superfish.com
 127.0.0.1 munky.com
 127.0.0.1 murbil.hostei.com
@@ -54969,6 +54973,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 smtp.performancerevenues.com
 127.0.0.1 smtp.yeahmobi.com
 127.0.0.1 smtp.zedo.com
+127.0.0.1 smwbikeclub.com
 127.0.0.1 smwww.112.2o7.net
 127.0.0.1 sn-gzzx.com
 127.0.0.1 sn.baventures.com
@@ -67549,6 +67554,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.hotranks.com
 127.0.0.1 www.hotspotshield.com
 127.0.0.1 www.howtotroll.org
+127.0.0.1 www.hsgrentacar.com
 127.0.0.1 www.ht-tracking01.com
 127.0.0.1 www.htmate2.com
 127.0.0.1 www.html-email-marketing.com
