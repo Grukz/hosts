@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71550 ad serving and malware domains.
+# Currently blocking 71555 ad serving and malware domains.
 #
-# Date Generated: May 29 2015
+# Date Generated: May 30 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -21006,6 +21006,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.sjc.struq.com
 127.0.0.1 ads.skelbiu.lt
 127.0.0.1 ads.skinected.com
+127.0.0.1 ads.skins.be
 127.0.0.1 ads.skupe.net
 127.0.0.1 ads.skyhookwireless.com
 127.0.0.1 ads.sl.interpals.net
@@ -21295,6 +21296,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.videosz.com
 127.0.0.1 ads.vidsense.com
 127.0.0.1 ads.viewlondon.co.uk
+127.0.0.1 ads.viewx.co.uk
 127.0.0.1 ads.vimg.net
 127.0.0.1 ads.vintageporntubenet.com
 127.0.0.1 ads.vipcams.com
@@ -26491,7 +26493,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 astin.edu.my
 127.0.0.1 astrocash.org
 127.0.0.1 astroportal.de.intellitxt.com
-127.0.0.1 astrowhiscinam.com
 127.0.0.1 astrowo.ivwbox.de
 127.0.0.1 astw.adgear.com
 127.0.0.1 asutra.org
@@ -32605,7 +32606,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 chiemgau.ivwbox.de
 127.0.0.1 childhe.com
 127.0.0.1 chillout.real.com
-127.0.0.1 china-kiahua.com
 127.0.0.1 china.inmobi.com
 127.0.0.1 chinaads.net
 127.0.0.1 chinacache.cedexis.com
@@ -43367,7 +43367,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 it.best-top.biz
 127.0.0.1 it.erosadv.com
 127.0.0.1 italianacademyfoundation.org
-127.0.0.1 itbannerexchange.com
 127.0.0.1 itc.2081.blueseek.com
 127.0.0.1 itcg3.c5369.blueseek.com
 127.0.0.1 itcompany.com
@@ -45018,7 +45017,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 load.s3.amazonaws.com
 127.0.0.1 load.scanscout.com
 127.0.0.1 load.sumome.com
-127.0.0.1 loadedupdates.com
 127.0.0.1 loader.engage.gsfn.us
 127.0.0.1 loader.topadvert.ru
 127.0.0.1 loadeu.exelator.com
@@ -46722,6 +46720,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 metrica.yandex.by
 127.0.0.1 metrica.yandex.com
 127.0.0.1 metrica.yandex.com.tr
+127.0.0.1 metrica.yandex.com.ua
 127.0.0.1 metrica.yandex.kz
 127.0.0.1 metrica.yandex.ru
 127.0.0.1 metrica.yandex.ua
@@ -47008,6 +47007,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 metrika.yandex.by
 127.0.0.1 metrika.yandex.com
 127.0.0.1 metrika.yandex.com.tr
+127.0.0.1 metrika.yandex.com.ua
 127.0.0.1 metrika.yandex.kz
 127.0.0.1 metrika.yandex.ru
 127.0.0.1 metrika.yandex.ua
@@ -49624,7 +49624,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 openinternetexchange.org
 127.0.0.1 openmarket.com
 127.0.0.1 opensoftwareupdate.com
+127.0.0.1 openstat.com
 127.0.0.1 openstat.net
+127.0.0.1 openstat.ru
 127.0.0.1 opentable.tt.omtrdc.net
 127.0.0.1 opentracker.net
 127.0.0.1 openvn.com
@@ -52160,6 +52162,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 rate.opinionlab.com
 127.0.0.1 rate.ru
 127.0.0.1 rates.insureship.com
+127.0.0.1 rating.openstat.com
+127.0.0.1 rating.openstat.ru
 127.0.0.1 ratings.lycos.com
 127.0.0.1 ravel-rewardpath.com
 127.0.0.1 ravenstonedigital.go2cloud.org
@@ -53963,6 +53967,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 secimage.adtech.de
 127.0.0.1 secimage.adtech.fr
 127.0.0.1 secimage.adtech.us
+127.0.0.1 second-ch.com
 127.0.0.1 secondwww.com
 127.0.0.1 secoptim.com
 127.0.0.1 secretgrowth-00866.us
@@ -55127,7 +55132,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sp.ltassrv.com.s3.amazonaws.com
 127.0.0.1 sp1.convertro.com
 127.0.0.1 spa-elaj.com
-127.0.0.1 spa.snap.com
 127.0.0.1 spacash.com
 127.0.0.1 space.us.intellitxt.com
 127.0.0.1 spacerusa13.ddns.net
@@ -66840,6 +66844,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.elaine-hamdan.us
 127.0.0.1 www.eleadstracker.com
 127.0.0.1 www.electricroms.com
+127.0.0.1 www.electrolimeira.com.br
 127.0.0.1 www.electronic-group.com
 127.0.0.1 www.electronics-bonuspath.com
 127.0.0.1 www.electronics-offer.net
@@ -69892,7 +69897,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.topconsumergifts.com
 127.0.0.1 www.topdate.net
 127.0.0.1 www.topdemaroc.com
-127.0.0.1 www.topfotosun.com
 127.0.0.1 www.toplist.cz
 127.0.0.1 www.toplist.sk
 127.0.0.1 www.toplistim.com
@@ -71017,6 +71021,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 xenical.1.p2l.info
 127.0.0.1 xenical.3.p2l.info
 127.0.0.1 xenical.4.p2l.info
+127.0.0.1 xenithmngt.com.sg
 127.0.0.1 xenium.tintel.nl
 127.0.0.1 xeontopa.com
 127.0.0.1 xerox.elicitapp.com
