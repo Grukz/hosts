@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71555 ad serving and malware domains.
+# Currently blocking 71558 ad serving and malware domains.
 #
-# Date Generated: May 30 2015
+# Date Generated: May 31 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2763,6 +2763,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 absolutelyfreemovies.com
 127.0.0.1 absolutelyric.com
 127.0.0.1 absolutethumbs.net
+127.0.0.1 abtegelwerken.nl
 127.0.0.1 abtracker.adultbouncer.com
 127.0.0.1 abuebu.com
 127.0.0.1 abum.axelsfun.com
@@ -37392,6 +37393,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dws.reporting.dnitv.com
 127.0.0.1 dwtracking.sdo.com
 127.0.0.1 dwxmyiyf7jg6.cloudfront.net
+127.0.0.1 dx-mexico.com
 127.0.0.1 dx.steelhousemedia.com
 127.0.0.1 dx5qvhwg92mjd.cloudfront.net
 127.0.0.1 dx6.52z.com
@@ -53967,7 +53969,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 secimage.adtech.de
 127.0.0.1 secimage.adtech.fr
 127.0.0.1 secimage.adtech.us
-127.0.0.1 second-ch.com
 127.0.0.1 secondwww.com
 127.0.0.1 secoptim.com
 127.0.0.1 secretgrowth-00866.us
@@ -56553,6 +56554,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 surfline.112.2o7.net
 127.0.0.1 surfmatch.com
 127.0.0.1 surfmusik-adserver.de
+127.0.0.1 surifun.tv
 127.0.0.1 surplus-suppliers.com
 127.0.0.1 survey.112.2o7.net
 127.0.0.1 survey.122.2o7.net
@@ -69168,6 +69170,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.reformal.ru
 127.0.0.1 www.regdefense.com
 127.0.0.1 www.regflow.com
+127.0.0.1 www.reginarica.org
 127.0.0.1 www.registrarads.com
 127.0.0.1 www.registrydefender.com
 127.0.0.1 www.registrydefenderplatinum.com
