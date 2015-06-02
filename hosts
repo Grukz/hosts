@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71558 ad serving and malware domains.
+# Currently blocking 71549 ad serving and malware domains.
 #
-# Date Generated: Jun 01 2015
+# Date Generated: Jun 02 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -29434,7 +29434,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bossout.com
 127.0.0.1 bostoncommonpress.112.2o7.net
 127.0.0.1 bostonsubwayoffer.com
-127.0.0.1 bot-lab.tk
 127.0.0.1 botbuddy.dumpset1.x10host.com
 127.0.0.1 botd.wordpress.com
 127.0.0.1 botd2.wordpress.com
@@ -32616,7 +32615,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 chip.met.vgwort.de
 127.0.0.1 chip.pl.intellitxt.com
 127.0.0.1 chip.popmarker.com
-127.0.0.1 chipchip001.tk
 127.0.0.1 chisi.hsb-vps.co.uk
 127.0.0.1 chitika.net
 127.0.0.1 chkpt.zdnet.com
@@ -36374,7 +36372,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dd.connextra.com
 127.0.0.1 dd.myapp.com
 127.0.0.1 ddd.gouwuke.cn
-127.0.0.1 ddh76egyug7ds.tk
 127.0.0.1 ddi2.com
 127.0.0.1 ddos.bob.local.vmsn.de
 127.0.0.1 ddos.con.local.vmsn.de
@@ -36972,7 +36969,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dmexco.adition.com
 127.0.0.1 dmg.digitaltarget.ru
 127.0.0.1 dmgt.grapeshot.co.uk
-127.0.0.1 dmjcrown.tk
 127.0.0.1 dmm.tt.omtrdc.net
 127.0.0.1 dmp.theadex.com
 127.0.0.1 dmpnetwork.go2cloud.org
@@ -40036,7 +40032,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ftp.doubleclick.com
 127.0.0.1 ftp.doubleclick.net
 127.0.0.1 ftp.dus.vmsn.de
-127.0.0.1 ftp.ficacci.it
 127.0.0.1 ftp.flyfishusa.com
 127.0.0.1 ftp.kissmetrics.com
 127.0.0.1 ftp.leadbolt.com
@@ -44056,7 +44051,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 justns.com
 127.0.0.1 justrelevant.com
 127.0.0.1 justsaywow.com
-127.0.0.1 justservers.tk
 127.0.0.1 justwebads.com
 127.0.0.1 justwtchaffiliatecom.ipage.com
 127.0.0.1 jutcom.com
@@ -45344,7 +45338,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 londonescortslist.net
 127.0.0.1 londonleatherusa.com
 127.0.0.1 londonprivaterentals.standard.co.uk
-127.0.0.1 longgad.tk
 127.0.0.1 longhornblogs.us.intellitxt.com
 127.0.0.1 longtraffic.com
 127.0.0.1 loni-burnett.us
@@ -52771,7 +52764,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 rivasearchpage.com
 127.0.0.1 riverdeep.112.2o7.net
 127.0.0.1 rivwbox.de
-127.0.0.1 rjlandscapingltd.com
 127.0.0.1 rk.revolvermaps.com
 127.0.0.1 rk400.com
 127.0.0.1 rkaffiliates.go2cloud.org
@@ -54749,7 +54741,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 skipperlogistics.com
 127.0.0.1 skocz.pl
 127.0.0.1 sky-connect.adinfuse.com
-127.0.0.1 sky-pitch.com
 127.0.0.1 sky.2cnt.net
 127.0.0.1 sky.adinfuse.com
 127.0.0.1 sky.estat.com
@@ -56554,7 +56545,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 surfline.112.2o7.net
 127.0.0.1 surfmatch.com
 127.0.0.1 surfmusik-adserver.de
-127.0.0.1 surifun.tv
 127.0.0.1 surplus-suppliers.com
 127.0.0.1 survey.112.2o7.net
 127.0.0.1 survey.122.2o7.net
@@ -56723,6 +56713,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 system.picreel.com
 127.0.0.1 systemhelpr.com
 127.0.0.1 systemmonitoring.badgeville.com
+127.0.0.1 systemscfg.olympe.in
 127.0.0.1 systemscheckusa.com
 127.0.0.1 systemsconners.wha.la
 127.0.0.1 systweak.com
@@ -64817,6 +64808,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 winneronline.com
 127.0.0.1 winrar-soft.ru
 127.0.0.1 winscoft.com
+127.0.0.1 winsetupcostotome.easthamvacations.info
 127.0.0.1 winsspeeder.info
 127.0.0.1 winter.metacafe.com
 127.0.0.1 winterrowd.us.intellitxt.com
@@ -65004,7 +64996,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 wss-gw-1.hitbox.com
 127.0.0.1 wss-gw-3.hitbox.com
 127.0.0.1 wss.hbpl.co.uk
-127.0.0.1 wsskbdkfdjdnb.tk
 127.0.0.1 wsspeed.com
 127.0.0.1 wsstatic.govmetric.com
 127.0.0.1 wsw.ero-advertising.com
@@ -70065,7 +70056,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.tubgirl.org
 127.0.0.1 www.tudoparablogs2.hpg.com.br
 127.0.0.1 www.tumri.net
-127.0.0.1 www.tundebaba.tk
 127.0.0.1 www.turdgasm.com
 127.0.0.1 www.turkeyrank.com
 127.0.0.1 www.tutop.com
@@ -70203,6 +70193,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.vml-127.com
 127.0.0.1 www.vmsn.de
 127.0.0.1 www.voicefive.com
+127.0.0.1 www.volleyball-doppeldorf.de
 127.0.0.1 www.vomitgirl.org
 127.0.0.1 www.voodooparking.com
 127.0.0.1 www.vroll.net
