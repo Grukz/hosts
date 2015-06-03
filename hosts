@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71549 ad serving and malware domains.
+# Currently blocking 71555 ad serving and malware domains.
 #
-# Date Generated: Jun 02 2015
+# Date Generated: Jun 03 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -29372,6 +29372,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 boldchat.com
 127.0.0.1 bolde02.webtrekk.net
 127.0.0.1 boldride.us.intellitxt.com
+127.0.0.1 bolerakopsoa.pw
 127.0.0.1 bolero.wemfbox.ch
 127.0.0.1 boloz.com
 127.0.0.1 bolt.us.intellitxt.com
@@ -36611,6 +36612,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 depl.imixserver.com
 127.0.0.1 deplayer.net
 127.0.0.1 depo.realist.gen.tr
+127.0.0.1 depolakoeasre.pw
 127.0.0.1 depopen.imixserver.com
 127.0.0.1 depopex.imixserver.com
 127.0.0.1 deposito.traffic-advance.net
@@ -36748,6 +36750,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 didrex.1.p2l.info
 127.0.0.1 didtal.com
 127.0.0.1 didtheyreadit.com
+127.0.0.1 dienatur.net
 127.0.0.1 diet-pills.hut1.ru
 127.0.0.1 diet.rodale.com
 127.0.0.1 dietoftoday.ca.pn
@@ -48247,6 +48250,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 newads.cmpnet.com
 127.0.0.1 newadserver.interfree.it
 127.0.0.1 newantivirusdownload.com
+127.0.0.1 newarrival446573.com
 127.0.0.1 newbe122.homestead.com
 127.0.0.1 newbestsellers.justclick.ru
 127.0.0.1 newbie.com
@@ -50943,6 +50947,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pleshkov.justclick.ru
 127.0.0.1 plethoramobile.com
 127.0.0.1 plex.r.worldssl.net
+127.0.0.1 pllysvaatteiden.rvexecutives.com
 127.0.0.1 plocia.com
 127.0.0.1 pls.webtype.com
 127.0.0.1 plsdrct2.me
@@ -54127,6 +54132,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 selina-krouse.us
 127.0.0.1 selina-scarlett.us
 127.0.0.1 selina-wimmer.us
+127.0.0.1 sell-store.com
 127.0.0.1 sellads.eu
 127.0.0.1 sellfy.com
 127.0.0.1 sellpic.in
