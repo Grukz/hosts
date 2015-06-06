@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71453 ad serving and malware domains.
+# Currently blocking 71458 ad serving and malware domains.
 #
-# Date Generated: Jun 05 2015
+# Date Generated: Jun 06 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -21050,7 +21050,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.sportsblog.com
 127.0.0.1 ads.springclick.com
 127.0.0.1 ads.sprintrade.com
-127.0.0.1 ads.sprotiv.org
 127.0.0.1 ads.sptimes.com
 127.0.0.1 ads.spymac.net
 127.0.0.1 ads.srax.com
@@ -25015,6 +25014,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 akril.com
 127.0.0.1 aksb-a.akamaihd.net
 127.0.0.1 aksoftware.com
+127.0.0.1 akstha.com.np
 127.0.0.1 aktif.haberx.com
 127.0.0.1 aktrack.pubmatic.com
 127.0.0.1 akway.com
@@ -33405,7 +33405,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cmpglobalvista.112.2o7.net
 127.0.0.1 cmps.mt50ad.com
 127.0.0.1 cmpsmarter-downloader.maynemyltf.netdna-cdn.com
-127.0.0.1 cmpstar.com
 127.0.0.1 cms-pixel.crowdreport.com
 127.0.0.1 cms.abmr.net
 127.0.0.1 cms.ad2click.nl
@@ -33522,6 +33521,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 co.5.p2l.info
 127.0.0.1 co.dcclan.co.uk
 127.0.0.1 co8vd.cn
+127.0.0.1 coach-inc.pl
 127.0.0.1 coachingminceur.go2cloud.org
 127.0.0.1 coadvertise.com
 127.0.0.1 coaha.frenchgerlemanelectric.com
@@ -40617,7 +40617,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 getdirect.ru
 127.0.0.1 getexceptional.com
 127.0.0.1 getfreebl.com
-127.0.0.1 getfreecounter.com
 127.0.0.1 getimpressed.com
 127.0.0.1 getiton.com
 127.0.0.1 getlinksinaseconds.com
@@ -44777,7 +44776,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 link4u.de
 127.0.0.1 linkadd.de
 127.0.0.1 linkads.de
-127.0.0.1 linkbucks.net
 127.0.0.1 linkbuddies.com
 127.0.0.1 linkconnector.com
 127.0.0.1 linkcorp.net
@@ -49217,6 +49215,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 oddbanner.bet-at-home.com
 127.0.0.1 oddcast.com
 127.0.0.1 odin.goo.mx
+127.0.0.1 odontototal.com.br
 127.0.0.1 odzb5nkp.com
 127.0.0.1 oe24.oewabox.at
 127.0.0.1 oekotest.ivwbox.de
@@ -51237,6 +51236,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 printdirectorylinks.com
 127.0.0.1 printdirectorylistings.com
 127.0.0.1 printmail.biz
+127.0.0.1 prinzkel.eu
 127.0.0.1 prisacom.112.2o7.net
 127.0.0.1 priscilla-rush.us
 127.0.0.1 prishla.info
@@ -53607,6 +53607,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 scores-brataudit.2cnt.net
 127.0.0.1 scores01.2cnt.net
 127.0.0.1 scores02.2cnt.net
+127.0.0.1 scotchmalstrade.in
 127.0.0.1 scottishhillracing.co.uk
 127.0.0.1 scottishstuff-online.com
 127.0.0.1 scottrade.112.2o7.net
@@ -54586,6 +54587,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 simpleshop.vn
 127.0.0.1 simpli.fi
 127.0.0.1 simplusx.website
+127.0.0.1 simplymanas.co.za
 127.0.0.1 simyo.adclear.net
 127.0.0.1 sin.ero-advertising.com
 127.0.0.1 sin1.g.adnxs.com
@@ -55598,6 +55600,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stat24.meta.ua
 127.0.0.1 stat3.cybermonitor.com
 127.0.0.1 stat4.edev.at
+127.0.0.1 stat778-toolbarueries-google.com
 127.0.0.1 statcounter.com
 127.0.0.1 statdb.pressflex.com
 127.0.0.1 stathat.com
@@ -57433,6 +57436,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 therichkids.com
 127.0.0.1 thesearchagency.net
 127.0.0.1 thesearchworks.com
+127.0.0.1 thesimplecomplex.co.uk
 127.0.0.1 theslice.go2cloud.org
 127.0.0.1 thespywaredetective.com
 127.0.0.1 thestar.122.2o7.net
@@ -67239,6 +67243,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.girlgamesbanner.com
 127.0.0.1 www.girlsofvs.com
 127.0.0.1 www.givwbox.de
+127.0.0.1 www.gkmexico.com
 127.0.0.1 www.gladys-lapierre.us
 127.0.0.1 www.gladys-theriot.us
 127.0.0.1 www.gladys-viola.us
