@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71458 ad serving and malware domains.
+# Currently blocking 71463 ad serving and malware domains.
 #
-# Date Generated: Jun 06 2015
+# Date Generated: Jun 07 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -28962,7 +28962,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 blog.intext.ero-advertising.com
 127.0.0.1 blog.ivwbox.de
 127.0.0.1 blog.kexp.com
-127.0.0.1 blog.kosai-city.net
 127.0.0.1 blog.leadbolt.com
 127.0.0.1 blog.mobpartner.com
 127.0.0.1 blog.qualaroo.com
@@ -31822,6 +31821,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 catoonetwork.com
 127.0.0.1 catrg.peer39.net
 127.0.0.1 catrina-mcrae.us
+127.0.0.1 catsmith.co.uk
 127.0.0.1 cavemancircus.us.intellitxt.com
 127.0.0.1 cb.adprofile.net
 127.0.0.1 cb.amazingcounters.com
@@ -38824,7 +38824,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 fast.telstra.demdex.net
 127.0.0.1 fast.torontostar.demdex.net
 127.0.0.1 fast.twc.demdex.net
-127.0.0.1 fast.wistia.net
 127.0.0.1 fastad.beepworld.de
 127.0.0.1 fastads.swiftnews.com
 127.0.0.1 fastadvert.com
@@ -41134,6 +41133,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 greatcpm.com
 127.0.0.1 greatoffers.aavalue.com
 127.0.0.1 gredinatib.org
+127.0.0.1 green-qube.com
 127.0.0.1 green.erne.co
 127.0.0.1 green.virtual-nights.com
 127.0.0.1 greenlightmedia.go2cloud.org
@@ -43786,6 +43786,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jodi-abrams.us
 127.0.0.1 jody-leal.us
 127.0.0.1 joe.freelogs.com
+127.0.0.1 joeandjesscomicstrip.com
 127.0.0.1 joefriday1.hopfeed.com
 127.0.0.1 joejdbjrmrkklfnmf.usr.me
 127.0.0.1 joepussy.tk
@@ -52734,6 +52735,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rms.admeta.com
 127.0.0.1 rmsi.nuggad.net
 127.0.0.1 rmsurveys.research-int.com
+127.0.0.1 rmv.so
 127.0.0.1 rnbdirt.us.intellitxt.com
 127.0.0.1 rncgopcom.122.2o7.net
 127.0.0.1 rnd.yxo.ru
@@ -53607,7 +53609,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 scores-brataudit.2cnt.net
 127.0.0.1 scores01.2cnt.net
 127.0.0.1 scores02.2cnt.net
-127.0.0.1 scotchmalstrade.in
 127.0.0.1 scottishhillracing.co.uk
 127.0.0.1 scottishstuff-online.com
 127.0.0.1 scottrade.112.2o7.net
@@ -54646,6 +54647,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sj3.lenta.ru
 127.0.0.1 sj4.lenta.ru
 127.0.0.1 sjc-g007.us.intellitxt.com
+127.0.0.1 sjcvaleguia.com.br
 127.0.0.1 sjguild.com
 127.0.0.1 sjs.bizographics.com
 127.0.0.1 sk.5.p2l.info
@@ -55600,7 +55602,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 stat24.meta.ua
 127.0.0.1 stat3.cybermonitor.com
 127.0.0.1 stat4.edev.at
-127.0.0.1 stat778-toolbarueries-google.com
 127.0.0.1 statcounter.com
 127.0.0.1 statdb.pressflex.com
 127.0.0.1 stathat.com
@@ -57133,6 +57134,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 teameda.comcastbiz.net
 127.0.0.1 teameda.net
 127.0.0.1 teamtalk.uk.intellitxt.com
+127.0.0.1 teamtalker.net
 127.0.0.1 teaserjs.info
 127.0.0.1 teasermedia.net
 127.0.0.1 teasernet.com
@@ -57154,6 +57156,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 techgage.us.intellitxt.com
 127.0.0.1 techguy.us.intellitxt.com
 127.0.0.1 techimo.us.intellitxt.com
+127.0.0.1 techmag.space
 127.0.0.1 techmarkaffi.go2cloud.org
 127.0.0.1 technauticmarinewindows.co.uk
 127.0.0.1 technewsworld.us.intellitxt.com
@@ -59484,6 +59487,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 uno.wbrotator.biz
 127.0.0.1 unrulymedia.com
 127.0.0.1 unstat.baidu.com
+127.0.0.1 unsubscribe.rmv.so
 127.0.0.1 untd.com
 127.0.0.1 unwashedsound.com
 127.0.0.1 uole.ad.uol.com.br
@@ -69147,6 +69151,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.rkdms.com
 127.0.0.1 www.rlcdn.com
 127.0.0.1 www.rmbn.ru
+127.0.0.1 www.rmv.so
 127.0.0.1 www.roars.com
 127.0.0.1 www.robotadserver.com
 127.0.0.1 www.robotreplay.com
