@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71463 ad serving and malware domains.
+# Currently blocking 71464 ad serving and malware domains.
 #
-# Date Generated: Jun 07 2015
+# Date Generated: Jun 08 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -48387,6 +48387,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nmtracking.netflix.com
 127.0.0.1 nmtricity.112.2o7.net
 127.0.0.1 nmyork.112.2o7.net
+127.0.0.1 nnagazin.ru
 127.0.0.1 nners.ero-advertising.com
 127.0.0.1 nnlb.go2cloud.org
 127.0.0.1 no-stress.justclick.ru
@@ -67587,7 +67588,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.imrworldwide.com.au
 127.0.0.1 www.inboxpounds.co.uk
 127.0.0.1 www.inboxpounds.com
-127.0.0.1 www.inc.com
 127.0.0.1 www.incentaclick.com
 127.0.0.1 www.incentive-scene.com
 127.0.0.1 www.incentivegateway.com
@@ -70136,6 +70136,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.wap.co.il
 127.0.0.1 www.wapdollar.in
 127.0.0.1 www.wapplanet.org
+127.0.0.1 www.warpservice.ro
 127.0.0.1 www.watch24.com
 127.0.0.1 www.wave4you.de
 127.0.0.1 www.wdm29.com
