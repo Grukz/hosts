@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71464 ad serving and malware domains.
+# Currently blocking 71465 ad serving and malware domains.
 #
-# Date Generated: Jun 08 2015
+# Date Generated: Jun 09 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -35710,6 +35710,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cunda.122.2o7.net
 127.0.0.1 cupidplc.go2cloud.org
 127.0.0.1 cupomkinghost.com.br
+127.0.0.1 cupongames.in
 127.0.0.1 cur.lv
 127.0.0.1 curate.nestedmedia.com
 127.0.0.1 cursecom.ivwbox.de
@@ -54014,7 +54015,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 seduction-zone.com
 127.0.0.1 see.hit.gemius.pl
 127.0.0.1 seekbang.com
-127.0.0.1 seeq.com
+127.0.0.1 seeq.com.invalid
 127.0.0.1 seervicee.info
 127.0.0.1 seet10.jino.ru
 127.0.0.1 seethisinaction.com
@@ -55115,7 +55116,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 speedlicks.ero-advertising.com
 127.0.0.1 speedtrap.shopdirect.com
 127.0.0.1 speedtv.us.intellitxt.com
-127.0.0.1 speedycraetor.com
 127.0.0.1 speedynewsclips.com
 127.0.0.1 speeuclicks.ero-advertising.com
 127.0.0.1 spekband.com
@@ -56272,6 +56272,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stern.ivwbox.de
 127.0.0.1 stern.met.vgwort.de
 127.0.0.1 sternvtest.2cnt.net
+127.0.0.1 stevengoldston.com
 127.0.0.1 stf.terra.com.br
 127.0.0.1 stg.widget.crowdignite.com
 127.0.0.1 sticker.yadro.ru
