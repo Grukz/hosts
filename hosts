@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71465 ad serving and malware domains.
+# Currently blocking 71464 ad serving and malware domains.
 #
-# Date Generated: Jun 09 2015
+# Date Generated: Jun 10 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -35710,7 +35710,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cunda.122.2o7.net
 127.0.0.1 cupidplc.go2cloud.org
 127.0.0.1 cupomkinghost.com.br
-127.0.0.1 cupongames.in
 127.0.0.1 cur.lv
 127.0.0.1 curate.nestedmedia.com
 127.0.0.1 cursecom.ivwbox.de
@@ -53513,6 +53512,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 savings-galleria.com
 127.0.0.1 savings-specials.com
 127.0.0.1 savings-time.com
+127.0.0.1 savoie-email.com
 127.0.0.1 savurew.bastroporalsurgery.com
 127.0.0.1 sax.sina.com.cn
 127.0.0.1 saxobutlereagle.122.2o7.net
@@ -57686,7 +57686,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 toofanshadid.com
 127.0.0.1 toolbar.adperium.com
 127.0.0.1 toolbar.aol.com
-127.0.0.1 toolbar.corotext.com
 127.0.0.1 toolbar.drsnsrch.com
 127.0.0.1 toolbar.isearch.com
 127.0.0.1 toolbar.pickoftheweb.com
