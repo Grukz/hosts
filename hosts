@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71464 ad serving and malware domains.
+# Currently blocking 71470 ad serving and malware domains.
 #
-# Date Generated: Jun 10 2015
+# Date Generated: Jun 11 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -21313,6 +21313,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.vs.com
 127.0.0.1 ads.vserv.mobi
 127.0.0.1 ads.w3hoster.de
+127.0.0.1 ads.waframedia1.com
 127.0.0.1 ads.waiads.com
 127.0.0.1 ads.wamba.com
 127.0.0.1 ads.wanadooregie.com
@@ -32214,6 +32215,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.trafficexchangelist.com
 127.0.0.1 cdn.trafficforce.com
 127.0.0.1 cdn.traffichunt.com
+127.0.0.1 cdn.trafficstars.com
 127.0.0.1 cdn.triggertag.gorillanation.com
 127.0.0.1 cdn.trkclk.net
 127.0.0.1 cdn.tt.omtrdc.net
@@ -33501,6 +33503,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cnt.tmefekt.pl
 127.0.0.1 cnt.tokyo-porn-tube.com
 127.0.0.1 cnt.tokyo-tube.com
+127.0.0.1 cnt.trafficstars.com
 127.0.0.1 cnt.trafficvalet.com
 127.0.0.1 cnt.tyxo.bg
 127.0.0.1 cnt.winkal.com
@@ -36410,7 +36413,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 debbie-clifton.us
 127.0.0.1 debnb.imixserver.com
 127.0.0.1 debnt.imixserver.com
-127.0.0.1 debr.mspaceads.com
 127.0.0.1 debra-strom.us
 127.0.0.1 debservers.pw
 127.0.0.1 debsfunpages.com
@@ -36438,7 +36440,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 definitelyfind.com
 127.0.0.1 defloration.zvca.com
 127.0.0.1 defshop01.webtrekk.net
-127.0.0.1 dehp.mspaceads.com
 127.0.0.1 deinglaube.com
 127.0.0.1 deirdre-dahl.us
 127.0.0.1 deirdre-houchens.us
@@ -36601,7 +36602,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 deposito.trafficredlight.net
 127.0.0.1 depositphotos.go2cloud.org
 127.0.0.1 der-wallstreet-trick.eu
-127.0.0.1 derdb.mspaceads.com
 127.0.0.1 derekhail.us.intellitxt.com
 127.0.0.1 derigina.justclick.ru
 127.0.0.1 derkeiler.com
@@ -36656,6 +36656,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dev.sfbg.com
 127.0.0.1 dev.skyhookwireless.com
 127.0.0.1 dev.splio.fr
+127.0.0.1 dev.springboardplatform.com
 127.0.0.1 dev.statesman.cimedia.com
 127.0.0.1 dev.targetpoint.com
 127.0.0.1 dev.trafficforce.com
@@ -42405,6 +42406,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 im2.smartadserver.com
 127.0.0.1 ima3vpaid.appspot.com
 127.0.0.1 imads.ero-advertising.com
+127.0.0.1 imads.integral-marketing.com
 127.0.0.1 imads.rediff.com
 127.0.0.1 imadworks.rediff.com
 127.0.0.1 image-circul.tk
@@ -44118,6 +44120,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kelly-longo.us
 127.0.0.1 kelsie-streeter.us
 127.0.0.1 kendra-mcgarry.us
+127.0.0.1 kendra.fr
 127.0.0.1 kentsucks.youcanoptout.com
 127.0.0.1 keri-maye.us
 127.0.0.1 keri-riel.us
@@ -55198,6 +55201,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 spoxcom.ivwbox.de
 127.0.0.1 spravki-online.hit.bg
 127.0.0.1 sprfetch.about.com
+127.0.0.1 springboardplatform.com
 127.0.0.1 springclick-ads.s3.amazonaws.com
 127.0.0.1 springclick.com
 127.0.0.1 springer02.webtrekk.net
@@ -55809,6 +55813,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.tracking202.com
 127.0.0.1 static.tradetracker.net
 127.0.0.1 static.trafficjunky.net
+127.0.0.1 static.trafficstars.com
 127.0.0.1 static.uk.addynamo.com
 127.0.0.1 static.unister-adservices.com
 127.0.0.1 static.uolcontent.com
@@ -69527,6 +69532,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.sports-offer.net
 127.0.0.1 www.sports-premiumblvd.com
 127.0.0.1 www.spotsniper.ru
+127.0.0.1 www.springboardplatform.com
 127.0.0.1 www.spris.com
 127.0.0.1 www.sptag.com
 127.0.0.1 www.spunkycash.com
