@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71470 ad serving and malware domains.
+# Currently blocking 71469 ad serving and malware domains.
 #
-# Date Generated: Jun 11 2015
+# Date Generated: Jun 12 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -15674,7 +15674,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad.naver.com
 127.0.0.1 ad.net-activities.com
 127.0.0.1 ad.netcommunities.com
-127.0.0.1 ad.netdialogs.de
 127.0.0.1 ad.netgoo.com
 127.0.0.1 ad.network60.com
 127.0.0.1 ad.networkcpm.com
