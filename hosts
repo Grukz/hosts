@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71469 ad serving and malware domains.
+# Currently blocking 71462 ad serving and malware domains.
 #
-# Date Generated: Jun 12 2015
+# Date Generated: Jun 13 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -19662,7 +19662,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.datais.com
 127.0.0.1 ads.date.com
 127.0.0.1 ads.datinggold.com
-127.0.0.1 ads.datingyes.com
 127.0.0.1 ads.dazoot.ro
 127.0.0.1 ads.dbforums.com
 127.0.0.1 ads.ddj.com
@@ -21289,7 +21288,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.videosz.com
 127.0.0.1 ads.vidsense.com
 127.0.0.1 ads.viewlondon.co.uk
-127.0.0.1 ads.viewx.co.uk
 127.0.0.1 ads.vimg.net
 127.0.0.1 ads.vintageporntubenet.com
 127.0.0.1 ads.vipcams.com
@@ -26402,7 +26400,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 asg12.casalemedia.com
 127.0.0.1 asg13.casalemedia.com
 127.0.0.1 asham.tourstogo.us
-127.0.0.1 asharf.com
 127.0.0.1 ashely-felts.us
 127.0.0.1 ashleigh-shellenbarger.us
 127.0.0.1 ashly-legette.us
@@ -33406,6 +33403,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cmpglobalvista.112.2o7.net
 127.0.0.1 cmps.mt50ad.com
 127.0.0.1 cmpsmarter-downloader.maynemyltf.netdna-cdn.com
+127.0.0.1 cmpstar.com
 127.0.0.1 cms-pixel.crowdreport.com
 127.0.0.1 cms.abmr.net
 127.0.0.1 cms.ad2click.nl
@@ -42822,7 +42820,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 imp.partner2profit.com
 127.0.0.1 imp.tradedoubler.com
 127.0.0.1 impact.applifier.com
-127.0.0.1 impact.as
 127.0.0.1 impact.cossette-webpact.com
 127.0.0.1 impactmobile.com
 127.0.0.1 impacts.alliancehub.com
@@ -45891,7 +45888,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mailtrack.me
 127.0.0.1 mailtribune.112.2o7.net
 127.0.0.1 mailtribunecom.112.2o7.net
-127.0.0.1 mailusnow123.com
 127.0.0.1 main.abqjournal.netdna-cdn.com
 127.0.0.1 main.atdmt.com
 127.0.0.1 main.click-url.com
@@ -56649,7 +56645,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 system-kernel-disk-errorx001dsxx-microsoft-windows.55errors5353.net
 127.0.0.1 system.adquick.nl
 127.0.0.1 system.picreel.com
-127.0.0.1 systemdesigns.in
 127.0.0.1 systemhelpr.com
 127.0.0.1 systemmonitoring.badgeville.com
 127.0.0.1 systemscfg.olympe.in
@@ -65779,7 +65774,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.asn.com
 127.0.0.1 www.ass4all.com
 127.0.0.1 www.assculturaleincontri.it
-127.0.0.1 www.assistline.com.tr
 127.0.0.1 www.assoc-amazon.com
 127.0.0.1 www.assoc-amazon.de
 127.0.0.1 www.associeta.com
@@ -68000,7 +67994,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.kompass-intl.com
 127.0.0.1 www.kontera.com
 127.0.0.1 www.konversation.com
-127.0.0.1 www.korbitec.com
 127.0.0.1 www.kosmetycznysklep.pl
 127.0.0.1 www.kosoft-ads.com
 127.0.0.1 www.kpicentral.com
