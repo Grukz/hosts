@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71462 ad serving and malware domains.
+# Currently blocking 71465 ad serving and malware domains.
 #
-# Date Generated: Jun 13 2015
+# Date Generated: Jun 14 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -24534,6 +24534,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aff.lmgtfy.com
 127.0.0.1 aff.lottobooker.com
 127.0.0.1 aff.marathonbet.com
+127.0.0.1 aff.mclick.mobi
 127.0.0.1 aff.naughtyconnect.com
 127.0.0.1 aff.nextdating.com
 127.0.0.1 aff.nscash.com
@@ -44981,6 +44982,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 localmediabuying.com
 127.0.0.1 localytics.com
 127.0.0.1 locations.webinm.de
+127.0.0.1 lock.adtu.me
 127.0.0.1 lockergnome.us.intellitxt.com
 127.0.0.1 locktrk.com
 127.0.0.1 lodgelipika.in
@@ -58038,6 +58040,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 track.hulu.com
 127.0.0.1 track.idtargeting.com
 127.0.0.1 track.igg.com
+127.0.0.1 track.ilovecpa.com
 127.0.0.1 track.impactfive.com
 127.0.0.1 track.interracialtgirlsex.com
 127.0.0.1 track.ionicmedia.com
