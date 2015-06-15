@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71465 ad serving and malware domains.
+# Currently blocking 71471 ad serving and malware domains.
 #
-# Date Generated: Jun 14 2015
+# Date Generated: Jun 15 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -39155,6 +39155,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 flonase.1.p2l.info
 127.0.0.1 flonase.3.p2l.info
 127.0.0.1 flonase.4.p2l.info
+127.0.0.1 flondysar.info
 127.0.0.1 floppybank.com
 127.0.0.1 floridasmb.go2cloud.org
 127.0.0.1 floridat.app.ur.gcion.com
@@ -57246,6 +57247,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 terra.demdex.net
 127.0.0.1 terra.fp.oix.net
 127.0.0.1 terrazzo.bnex.com
+127.0.0.1 terrecoloree.ch
 127.0.0.1 terren.cntv.cn
 127.0.0.1 terri-camarena.us
 127.0.0.1 terri-macomber.us
@@ -63697,6 +63699,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vivaweb.org
 127.0.0.1 vivwbox.de
 127.0.0.1 viwbox.de
+127.0.0.1 vizedanismani.net
 127.0.0.1 viziomothersday.brandmovers.net
 127.0.0.1 vizisense.komli.net
 127.0.0.1 vizisense.net
@@ -65710,6 +65713,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.annemarie-gandara.us
 127.0.0.1 www.annette-christian.us
 127.0.0.1 www.annika-tolleson.us
+127.0.0.1 www.anno.ch
 127.0.0.1 www.annuaire-autosurf.com
 127.0.0.1 www.annuncio.com.do
 127.0.0.1 www.anonymousads.com
@@ -67379,6 +67383,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.hellen-baca.us
 127.0.0.1 www.helltraffic.com
 127.0.0.1 www.helpmedownload.com
+127.0.0.1 www.hengge.at
 127.0.0.1 www.hentaibanners.com
 127.0.0.1 www.hentaicashmachine.com
 127.0.0.1 www.hentaiclicks.com
@@ -70077,6 +70082,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.viewbix.com
 127.0.0.1 www.viglink.com
 127.0.0.1 www.vignette.com
+127.0.0.1 www.vigny.fr
 127.0.0.1 www.vikingtrck.com
 127.0.0.1 www.village-gabarrier.com
 127.0.0.1 www.vinceandjoesmarket.com
