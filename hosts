@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71473 ad serving and malware domains.
+# Currently blocking 71474 ad serving and malware domains.
 #
-# Date Generated: Jun 16 2015
+# Date Generated: Jun 17 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -28611,6 +28611,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bellglovemediapublishing.122.2o7.net
 127.0.0.1 bellserviceeng.112.2o7.net
 127.0.0.1 belointeractive.122.2o7.net
+127.0.0.1 belorus.tk
 127.0.0.1 beloysoff.ru
 127.0.0.1 belstat.be
 127.0.0.1 belstat.com
@@ -39155,7 +39156,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 flonase.1.p2l.info
 127.0.0.1 flonase.3.p2l.info
 127.0.0.1 flonase.4.p2l.info
-127.0.0.1 flondysar.info
 127.0.0.1 floppybank.com
 127.0.0.1 floridasmb.go2cloud.org
 127.0.0.1 floridat.app.ur.gcion.com
@@ -67643,6 +67643,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.intera-x.com
 127.0.0.1 www.interactivebrands.com
 127.0.0.1 www.interclick.com
+127.0.0.1 www.interfaithinfo.net
 127.0.0.1 www.internationaltraffic.info
 127.0.0.1 www.internetmedia.com.au
 127.0.0.1 www.internetpeace.com
