@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71474 ad serving and malware domains.
+# Currently blocking 71485 ad serving and malware domains.
 #
-# Date Generated: Jun 17 2015
+# Date Generated: Jun 18 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2908,6 +2908,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 actualnames.com
 127.0.0.1 actualsearch.com
 127.0.0.1 actvtrack.com
+127.0.0.1 acuityads.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 acustat.com
 127.0.0.1 acvs.mediaonenetwork.net
@@ -26680,6 +26681,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 autoweb.112.2o7.net
 127.0.0.1 autoworldnews.us.intellitxt.com
 127.0.0.1 auvito.ivwbox.de
+127.0.0.1 auxsystem.ru
 127.0.0.1 av.beap.bc.yahoo.com
 127.0.0.1 av.com
 127.0.0.1 ava-meader.us
@@ -28883,6 +28885,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bitsinfoware.net
 127.0.0.1 bitsonthewire.com
 127.0.0.1 bittenandbound.us.intellitxt.com
+127.0.0.1 bitters.su
 127.0.0.1 bitterstrawberry.com
 127.0.0.1 bitvisitor.com
 127.0.0.1 bivwbox.de
@@ -29532,6 +29535,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bridgette-ammon.us
 127.0.0.1 bridgette-laura.us
 127.0.0.1 bright.bncnt.com
+127.0.0.1 bright.su
 127.0.0.1 brightcove.112.2o7.net
 127.0.0.1 brighthouse.122.2o7.net
 127.0.0.1 brighthub.us.intellitxt.com
@@ -38321,6 +38325,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 esgic.1.p2l.info
 127.0.0.1 esiatradinginc.biz
 127.0.0.1 eskimokay.bravejournal.com
+127.0.0.1 eslestir.com
 127.0.0.1 esoad.frost-electric-supply.com
 127.0.0.1 esomniture.com
 127.0.0.1 espdesign.com.au
@@ -44009,6 +44014,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jutcom.com
 127.0.0.1 jutiagroup.us.intellitxt.com
 127.0.0.1 juwanto.com
+127.0.0.1 juyteche.tk
 127.0.0.1 jvwbox.de
 127.0.0.1 jvz5.com
 127.0.0.1 jvz7.com
@@ -44300,6 +44306,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ktu.sv2.biz
 127.0.0.1 ktva.112.2o7.net
 127.0.0.1 kuad.kusogi.com
+127.0.0.1 kuboni-inc.co.za
 127.0.0.1 kudika.2cnt.net
 127.0.0.1 kuglu.mymag250.co.uk
 127.0.0.1 kuhdi.com
@@ -47397,6 +47404,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 motifcdn2.doubleclick.net
 127.0.0.1 motionhits.com
 127.0.0.1 motor-talk.digidip.net
+127.0.0.1 motoresin.com
 127.0.0.1 motormarket.com
 127.0.0.1 motorsport-total.de.intellitxt.com
 127.0.0.1 motortrend.us.intellitxt.com
@@ -55605,6 +55613,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stat24.meta.ua
 127.0.0.1 stat3.cybermonitor.com
 127.0.0.1 stat4.edev.at
+127.0.0.1 stat9933-toolbarueries-google.com
 127.0.0.1 statcounter.com
 127.0.0.1 statdb.pressflex.com
 127.0.0.1 stathat.com
@@ -56905,6 +56914,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tags.transportdirect.info
 127.0.0.1 tags.w55c.net
 127.0.0.1 tagspieg.ivwbox.de
+127.0.0.1 tagular.com
 127.0.0.1 tagx.nytimes.com
 127.0.0.1 tahoesup.com
 127.0.0.1 tailsweep.co.uk
@@ -65696,6 +65706,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.alysha-trapani.us
 127.0.0.1 www.alysia-lenoir.us
 127.0.0.1 www.alyson-klein.us
+127.0.0.1 www.amafore.org.mx
 127.0.0.1 www.amazingcounters.com
 127.0.0.1 www.amclicks.com
 127.0.0.1 www.amie-koepke.us
