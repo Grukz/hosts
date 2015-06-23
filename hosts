@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71495 ad serving and malware domains.
+# Currently blocking 71501 ad serving and malware domains.
 #
-# Date Generated: Jun 22 2015
+# Date Generated: Jun 23 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -678,6 +678,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 1tubexxx.com
 127.0.0.1 1ua.cqcounter.com
 127.0.0.1 1uk.cqcounter.com
+127.0.0.1 1ul8dvwz0a.s.ad6media.fr
 127.0.0.1 1und1.ivwbox.de
 127.0.0.1 1und1internetag.d3.sc.omtrdc.net
 127.0.0.1 1under.ru
@@ -35518,6 +35519,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 creative.nscash.com
 127.0.0.1 creative.paypopup.com
 127.0.0.1 creative.rev2pub.com
+127.0.0.1 creative.speednetwork2.com
 127.0.0.1 creative.whi.co.nz
 127.0.0.1 creative.wwwpromoter.com
 127.0.0.1 creative.xtendmedia.com
@@ -35712,6 +35714,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cucdn.genesismedia.com
 127.0.0.1 cudacorp.com
 127.0.0.1 cuiland.info
+127.0.0.1 culifeup.com
 127.0.0.1 cum-sucking-sluts.com
 127.0.0.1 cumonamateurs.com
 127.0.0.1 cumshotvideos.com
@@ -35914,6 +35917,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 d1cerpgff739r9.cloudfront.net
 127.0.0.1 d1cl1sqtf3o420.cloudfront.net
 127.0.0.1 d1clfvuu2240eh.cloudfront.net
+127.0.0.1 d1dnmhdhg9vg1d.cloudfront.net
 127.0.0.1 d1eoo1tco6rr5e.cloudfront.net
 127.0.0.1 d1ey3fksimezm4.cloudfront.net
 127.0.0.1 d1fc8wv8zag5ca.cloudfront.net
@@ -53120,6 +53124,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 s.sharethis.com
 127.0.0.1 s.shopify.com
 127.0.0.1 s.skimresources.com
+127.0.0.1 s.speednetwork2.com
 127.0.0.1 s.ssacdn.com
 127.0.0.1 s.statistici.ro
 127.0.0.1 s.stats.wordpress.com
@@ -56394,6 +56399,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stx8.sextracker.com
 127.0.0.1 stx9.sextracker.com
 127.0.0.1 stxbans.sextracker.com
+127.0.0.1 style2.ad6.fr
 127.0.0.1 styleblazer.us.intellitxt.com
 127.0.0.1 stylincom.112.2o7.net
 127.0.0.1 su.addthis.com
