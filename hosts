@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71501 ad serving and malware domains.
+# Currently blocking 71508 ad serving and malware domains.
 #
-# Date Generated: Jun 23 2015
+# Date Generated: Jun 24 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25038,6 +25038,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 albionmedical.com
 127.0.0.1 albullansa.com
 127.0.0.1 albumgirl.com
+127.0.0.1 alchemistrywork.com
 127.0.0.1 alchemynteryield.jmp9.com
 127.0.0.1 alclick.com
 127.0.0.1 alcohol-treatment.gloses.net
@@ -44231,6 +44232,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 klick.retailerweb.net
 127.0.0.1 klick4u.de
 127.0.0.1 klicktel.ivwbox.de
+127.0.0.1 klientvbanke.ru
 127.0.0.1 klikadvertising.com
 127.0.0.1 klikbonus.com
 127.0.0.1 klikk.linkpulse.com
@@ -58730,6 +58732,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trendcounter.com
 127.0.0.1 trendmicroeuropa01.webtrekk.net
 127.0.0.1 trendnews.com
+127.0.0.1 trends.revcontent.com
 127.0.0.1 tresalacarta.2cnt.net
 127.0.0.1 treventuresonline.com
 127.0.0.1 trf.intuitwebsites.com
@@ -64813,6 +64816,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wmirk.ru
 127.0.0.1 wmost.com
 127.0.0.1 wmp-forumde.digidip.net
+127.0.0.1 wmpl-in.com
 127.0.0.1 wms-eu.amazon-adsystem.com
 127.0.0.1 wms-fe.amazon-adsystem.com
 127.0.0.1 wms-na.amazon-adsystem.com
@@ -68238,6 +68242,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.lyzgs.com
 127.0.0.1 www.lzjl.com
 127.0.0.1 www.m-barati.de
+127.0.0.1 www.m-miro.jp
 127.0.0.1 www.macaddictads.snv.futurenet.nl
 127.0.0.1 www.macombdisplayads.com
 127.0.0.1 www.madblast.com
@@ -68760,6 +68765,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.orgasms4free.com
 127.0.0.1 www.originalicons.com
 127.0.0.1 www.orquestanacaona.cult.cu
+127.0.0.1 www.ospsv.ch
 127.0.0.1 www.otherprofit.com
 127.0.0.1 www.othersonline.com
 127.0.0.1 www.otmsrv.com
@@ -69512,6 +69518,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.software-hq.net
 127.0.0.1 www.software4yoursuccess.com
 127.0.0.1 www.softwareclub.ws
+127.0.0.1 www.soldelplata.com.ar
 127.0.0.1 www.somanyhits.info
 127.0.0.1 www.someonewhocares.com
 127.0.0.1 www.sondra-donalson.us
