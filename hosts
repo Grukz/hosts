@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71508 ad serving and malware domains.
+# Currently blocking 71513 ad serving and malware domains.
 #
-# Date Generated: Jun 24 2015
+# Date Generated: Jun 25 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -22766,6 +22766,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserve.splicetoday.com
 127.0.0.1 adserve.viaarena.com
 127.0.0.1 adserve5.nikkeibp.co.jp
+127.0.0.1 adserveonline.com
 127.0.0.1 adserver-2.ig.com.br
 127.0.0.1 adserver-3.ig.com.br
 127.0.0.1 adserver-4.ig.com.br
@@ -23567,6 +23568,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adtrack.right-ads.com
 127.0.0.1 adtrack.trafficwave.net
 127.0.0.1 adtrack.voicestar.com
+127.0.0.1 adtrack1.pl
 127.0.0.1 adtracker.inmobi.com
 127.0.0.1 adtracker.meinungsstudie.de
 127.0.0.1 adtracking.vinden.nl
@@ -37061,6 +37063,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dooweb.us
 127.0.0.1 doradcazabrze.pl
 127.0.0.1 doratopelase.pw
+127.0.0.1 dorobad.in
 127.0.0.1 dorothy-carrero.us
 127.0.0.1 dos.velek.com
 127.0.0.1 dos.wearethenest.com.au
@@ -49947,7 +49950,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ox-s.e-card.bg
 127.0.0.1 ox-socialimg.bidsystem.com
 127.0.0.1 ox.ac.onthehub.com
-127.0.0.1 ox.ac.uk
 127.0.0.1 ox.affiliation-int.com
 127.0.0.1 ox.appnext.com
 127.0.0.1 ox.comventure.de
@@ -51300,6 +51302,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 prod-d.openx.com
 127.0.0.1 prod-js.aws.y-track.com
 127.0.0.1 prod-services.interactiveone.com
+127.0.0.1 prod.ipav.xyz
 127.0.0.1 prod01.jag.vmsn.de
 127.0.0.1 prod02.jag.vmsn.de
 127.0.0.1 prod03.jag.vmsn.de
@@ -65473,6 +65476,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.adsentra.com
 127.0.0.1 www.adseo.net
 127.0.0.1 www.adserv01.ru
+127.0.0.1 www.adserveonline.com
 127.0.0.1 www.adserver-espnet.sportszone.net
 127.0.0.1 www.adserver.brandilitynetwork.de
 127.0.0.1 www.adserver.co.il
@@ -65536,6 +65540,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.adtlgc.com
 127.0.0.1 www.adtoll.com
 127.0.0.1 www.adtoolsinc.com
+127.0.0.1 www.adtrack1.pl
 127.0.0.1 www.adtrade.net
 127.0.0.1 www.adtrade.ro
 127.0.0.1 www.adtrader.com
