@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 71475 ad serving and malware domains.
 #
-# Date Generated: Jun 26 2015
+# Date Generated: Jun 27 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -21288,7 +21288,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.videosz.com
 127.0.0.1 ads.vidsense.com
 127.0.0.1 ads.viewlondon.co.uk
-127.0.0.1 ads.viewx.co.uk
 127.0.0.1 ads.vimg.net
 127.0.0.1 ads.vintageporntubenet.com
 127.0.0.1 ads.vipcams.com
@@ -28991,7 +28990,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 blogultram.com
 127.0.0.1 blogvertising.pl
 127.0.0.1 blogwerk.wemfbox.ch
-127.0.0.1 blomkastra12.com
 127.0.0.1 bloodguru.net
 127.0.0.1 blowfish.hitbox.com
 127.0.0.1 blowsearch.com
@@ -37970,7 +37968,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 eitbglobal.ojdinteractiva.com
 127.0.0.1 eiv.baidu.com
 127.0.0.1 eivwbox.de
-127.0.0.1 ejconstruction.net
 127.0.0.1 ejs.hitbox.com
 127.0.0.1 ejs.moatads.com
 127.0.0.1 ekads.com
@@ -44607,6 +44604,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lib6.libstat.com
 127.0.0.1 liberty.gedads.com
 127.0.0.1 libie.justclick.ru
+127.0.0.1 librationgacrux.alishazyrowski.com
 127.0.0.1 libs.coremetrics.com
 127.0.0.1 libs.de.coremetrics.com
 127.0.0.1 libstat.com
@@ -46365,7 +46363,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 media17.fastclick.net
 127.0.0.1 media18.fastclick.net
 127.0.0.1 media19.fastclick.net
-127.0.0.1 media1first.com
 127.0.0.1 media2.adshuffle.com
 127.0.0.1 media2.carpediem.fr
 127.0.0.1 media2.fastclick.net
@@ -55313,6 +55310,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ss.hitbox.com
 127.0.0.1 ss.linksynergy.com
 127.0.0.1 ss.mtree.com
+127.0.0.1 ss.symcd.com
 127.0.0.1 ss.tiscali.com
 127.0.0.1 ss.tiscali.it
 127.0.0.1 ss.webring.com
@@ -64745,6 +64743,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 winteryield.jmp9.com
 127.0.0.1 wintotal.de.intellitxt.com
 127.0.0.1 wintricksbanner.googlepages.com
+127.0.0.1 wio.es
 127.0.0.1 wiregirl.us.intellitxt.com
 127.0.0.1 wireless.ign.us.intellitxt.com
 127.0.0.1 wirelessforums.us.intellitxt.com
@@ -71186,6 +71185,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 youcunts.com
 127.0.0.1 youfck.com
 127.0.0.1 yougube.com
+127.0.0.1 youngsters.mesomoor.com
 127.0.0.1 your-free-iphone.com
 127.0.0.1 your-gift-zone.com
 127.0.0.1 your.365advert.com
