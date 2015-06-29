@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71478 ad serving and malware domains.
+# Currently blocking 71484 ad serving and malware domains.
 #
-# Date Generated: Jun 28 2015
+# Date Generated: Jun 29 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -31607,6 +31607,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 caggsm-img.appads.com
 127.0.0.1 cait-ruggieri.us
 127.0.0.1 caitlin-spry.us
+127.0.0.1 caitlingunning.co.za
 127.0.0.1 caitlyn-peet.us
 127.0.0.1 calendar.adition.com
 127.0.0.1 calendar.apptornado.com
@@ -32528,6 +32529,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 chartbeat.download.akamai.com
 127.0.0.1 chartbeat.net
 127.0.0.1 chartboost.com
+127.0.0.1 chaseunlocked.com
 127.0.0.1 chasity-oceguera.us
 127.0.0.1 chastity-stoltenberg.us
 127.0.0.1 chat.888.com
@@ -36971,6 +36973,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dna2.mookie1.com
 127.0.0.1 dna3.mookie1.com
 127.0.0.1 dnads.directnic.com
+127.0.0.1 dnalabs.cm
 127.0.0.1 dnb.doubleclick.net
 127.0.0.1 dneprliga.justclick.ru
 127.0.0.1 dnetshelter3.d.chango.com
@@ -38051,6 +38054,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 emailing.wildcard.fr
 127.0.0.1 emailproductreview.com
 127.0.0.1 emailretargeting.com
+127.0.0.1 emailsclient.com
 127.0.0.1 emailserving.com
 127.0.0.1 emailworks.go2cloud.org
 127.0.0.1 emap.admedia.net
@@ -43797,6 +43801,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jokedollars.com
 127.0.0.1 jokep.com
 127.0.0.1 jolene-mclin.us
+127.0.0.1 jomo.in.ua
 127.0.0.1 jonathanleger.com
 127.0.0.1 jorel.radfellas.com
 127.0.0.1 josephine-youngberg.us
@@ -47074,6 +47079,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 migpay.com
 127.0.0.1 mii-image.adjuggler.com
 127.0.0.1 miildoos.ru
+127.0.0.1 mikek.in
 127.0.0.1 milbglobal.112.2o7.net
 127.0.0.1 mildred-patrick.us
 127.0.0.1 milesaway.oracle.cpa.clicksure.com
