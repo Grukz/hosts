@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 71484 ad serving and malware domains.
 #
-# Date Generated: Jun 29 2015
+# Date Generated: Jun 30 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -36973,7 +36973,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dna2.mookie1.com
 127.0.0.1 dna3.mookie1.com
 127.0.0.1 dnads.directnic.com
-127.0.0.1 dnalabs.cm
 127.0.0.1 dnb.doubleclick.net
 127.0.0.1 dneprliga.justclick.ru
 127.0.0.1 dnetshelter3.d.chango.com
@@ -44622,6 +44621,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 life.imagepix.org
 127.0.0.1 lifeisgoodwhenu2.info
 127.0.0.1 lifemediahouse1.onlinewelten.com
+127.0.0.1 lifescience.sysu.edu.cn
 127.0.0.1 lifescript.us.intellitxt.com
 127.0.0.1 lifeserv.com
 127.0.0.1 lifestyles.pp.ru
