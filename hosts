@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71484 ad serving and malware domains.
+# Currently blocking 71485 ad serving and malware domains.
 #
-# Date Generated: Jun 30 2015
+# Date Generated: Jul 01 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -24413,6 +24413,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adwitty.com
 127.0.0.1 adwolf.eu
 127.0.0.1 adword2301.go2cloud.org
+127.0.0.1 adwords-shoping.ru
 127.0.0.1 adwords.google.com
 127.0.0.1 adwords.google.lloymlincs.com
 127.0.0.1 adwords.immortalnight.com
@@ -38581,6 +38582,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 expo-max.com
 127.0.0.1 exponential.com
 127.0.0.1 export.newscube.de
+127.0.0.1 expremium.com.br
 127.0.0.1 express-submit.de
 127.0.0.1 express.ivwbox.de
 127.0.0.1 express.uk.intellitxt.com
@@ -47079,7 +47081,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 migpay.com
 127.0.0.1 mii-image.adjuggler.com
 127.0.0.1 miildoos.ru
-127.0.0.1 mikek.in
 127.0.0.1 milbglobal.112.2o7.net
 127.0.0.1 mildred-patrick.us
 127.0.0.1 milesaway.oracle.cpa.clicksure.com
