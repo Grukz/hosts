@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 71864 ad serving and malware domains.
 #
-# Date Generated: Jul 08 2015
+# Date Generated: Jul 09 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -32683,7 +32683,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 chartbeat.download.akamai.com
 127.0.0.1 chartbeat.net
 127.0.0.1 chartboost.com
-127.0.0.1 chaseunlocked.com
 127.0.0.1 chasity-oceguera.us
 127.0.0.1 chastity-stoltenberg.us
 127.0.0.1 chat.888.com
@@ -37832,6 +37831,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 eclkmpbn.com
 127.0.0.1 eclkmpsa.com
 127.0.0.1 eclkspbn.com
+127.0.0.1 ecobags.co.za
 127.0.0.1 ecomadserver.com
 127.0.0.1 ecomcon.go2cloud.org
 127.0.0.1 ecommerce.go2cloud.org
@@ -41070,7 +41070,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 go.straightresults.com
 127.0.0.1 go.tendatta.com
 127.0.0.1 go.theadsnet.com
-127.0.0.1 go.theregister.com
 127.0.0.1 go.toutapp.com
 127.0.0.1 go.trackgold.net
 127.0.0.1 go.trafficshop.com
@@ -45647,6 +45646,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 luckytds.ru
 127.0.0.1 luckytidy.info
 127.0.0.1 lucoilosa.ru
+127.0.0.1 lucoilosa2.ru
 127.0.0.1 luggage-tv.com
 127.0.0.1 luggagecast.com
 127.0.0.1 luggagepreview.com
