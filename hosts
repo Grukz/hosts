@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71864 ad serving and malware domains.
+# Currently blocking 71851 ad serving and malware domains.
 #
-# Date Generated: Jul 09 2015
+# Date Generated: Jul 10 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2659,6 +2659,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aalbc.advertserve.com
 127.0.0.1 aall88.com
 127.0.0.1 aamhi.com
+127.0.0.1 aamlng.com
 127.0.0.1 aams1.aim4media.com
 127.0.0.1 aan.amazon.com
 127.0.0.1 aaotr.com
@@ -15512,7 +15513,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad.extrabanner.com
 127.0.0.1 ad.ezcybersearch.com
 127.0.0.1 ad.ezmob.com
-127.0.0.1 ad.f1cd.ru
 127.0.0.1 ad.family.go.com
 127.0.0.1 ad.favod.net
 127.0.0.1 ad.fi.doubleclick.net
@@ -25375,6 +25375,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 alwaysfreeporno.com
 127.0.0.1 alwaysgirls.com
 127.0.0.1 alwaysgirls.net
+127.0.0.1 alwifaq.ly
 127.0.0.1 alymail.com
 127.0.0.1 alyon.net
 127.0.0.1 alyse-bolster.us
@@ -29718,6 +29719,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 brook-durante.us
 127.0.0.1 brook-rosen.us
 127.0.0.1 brooke-sheahan.us
+127.0.0.1 brosa.co.za
 127.0.0.1 brothersmt2.tk
 127.0.0.1 brothersoft.us.intellitxt.com
 127.0.0.1 brownblogs.org
@@ -31538,6 +31540,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c2mtrack01.track.c2m00b.net
 127.0.0.1 c2path.com
 127.0.0.1 c2s-openrtb.liverail.com
+127.0.0.1 c2si.com.ar
 127.0.0.1 c3.amazingcounters.com
 127.0.0.1 c3.gostats.com
 127.0.0.1 c3.gostats.de
@@ -32038,7 +32041,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ccas.clearchannel.com
 127.0.0.1 ccc00.opinionlab.com
 127.0.0.1 ccc01.opinionlab.com
-127.0.0.1 ccperiodistas.es
 127.0.0.1 ccran.com
 127.0.0.1 ccrbudgetca.112.2o7.net
 127.0.0.1 ccrgaviscom.112.2o7.net
@@ -32730,7 +32732,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 chelsey-benes.us
 127.0.0.1 chelsey-lessard.us
 127.0.0.1 chemgas.com
-127.0.0.1 chenshe-design.com
 127.0.0.1 cheri-bruening.us
 127.0.0.1 cherie-mutchler.us
 127.0.0.1 cherish-wehr.us
@@ -32764,7 +32765,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 chkpt.zdnet.com
 127.0.0.1 chktrk.ifario.us
 127.0.0.1 chlcotrk.com
-127.0.0.1 chobephotography.com
 127.0.0.1 chocoservices.ru
 127.0.0.1 choice.demdex.net
 127.0.0.1 choicedealz.com
@@ -33441,7 +33441,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 clubmed.112.2o7.net
 127.0.0.1 clubmillionswow.cn
 127.0.0.1 clubmom.122.2o7.net
-127.0.0.1 clubpatinlacavada.com
 127.0.0.1 clubxtacy.com
 127.0.0.1 cluper.net
 127.0.0.1 cluster-03.topbucks.com
@@ -40777,7 +40776,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 geoweb.e-kolay.net
 127.0.0.1 geraldine-arpin.us
 127.0.0.1 german-linkindex.de
-127.0.0.1 gestiondt.ca
 127.0.0.1 get-access.host.sk
 127.0.0.1 get-amazing-results.com
 127.0.0.1 get-answers-fast.com
@@ -43964,7 +43962,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 jkazaa.cjt1.net
 127.0.0.1 jkearns.freestats.com
 127.0.0.1 jkontherun.us.intellitxt.com
-127.0.0.1 jks.jp
 127.0.0.1 jl29jd25sm24mc29.com
 127.0.0.1 jlinks.industrybrains.com
 127.0.0.1 jlyse.net
@@ -44627,7 +44624,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 lan.freeze.com
 127.0.0.1 lan.ringtone.com
 127.0.0.1 land-create.com
-127.0.0.1 landee.cn.com
 127.0.0.1 landing.adhall.com
 127.0.0.1 landing.appia.com
 127.0.0.1 landing.dealply.com
@@ -49705,7 +49701,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 onestatfree.com
 127.0.0.1 onet.hit.gemius.pl
 127.0.0.1 onet.hit.stat.pl
-127.0.0.1 onetimeoffer.org
 127.0.0.1 onetoone.112.2o7.net
 127.0.0.1 oneund.ru
 127.0.0.1 onewaylinkexchange.net
@@ -59310,7 +59305,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tvn.adocean.pl
 127.0.0.1 tvn.hit.gemius.pl
 127.0.0.1 tvn2.adocean.pl
-127.0.0.1 tvoidoktor24.ru
 127.0.0.1 tvoy-mir.justclick.ru
 127.0.0.1 tvseriesfinale.us.intellitxt.com
 127.0.0.1 tvshowslist.com
@@ -64542,7 +64536,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 warp2search.us.intellitxt.com
 127.0.0.1 warriorinjapan.hostjava.net
 127.0.0.1 warsport.timesink.com
-127.0.0.1 warszawa-bg.com
 127.0.0.1 wasabi.mine.nu
 127.0.0.1 wasc.homedepot.com
 127.0.0.1 waserazer.pw
@@ -65193,7 +65186,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 worldnetdaily.us.intellitxt.com
 127.0.0.1 worldnowboston.112.2o7.net
 127.0.0.1 worldprofitassociates.com
-127.0.0.1 worldrecipeblogs.com
 127.0.0.1 worldsite.ws
 127.0.0.1 worldtravelguide.uk.intellitxt.com
 127.0.0.1 worldusa.com
@@ -66921,7 +66913,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.cytron.com
 127.0.0.1 www.d03x2011.com
 127.0.0.1 www.d1.c6.b3.a0.top.list.ru
-127.0.0.1 www.d13ad.com
 127.0.0.1 www.d16.net
 127.0.0.1 www.da-ads.com
 127.0.0.1 www.dacounter.com
@@ -67044,7 +67035,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.domamil.cz
 127.0.0.1 www.domdex.com
 127.0.0.1 www.donkeymails.com
-127.0.0.1 www.donor-kursk.ru
 127.0.0.1 www.donotwatch.org
 127.0.0.1 www.dontwatch.us
 127.0.0.1 www.doris-imhoff.us
@@ -68045,7 +68035,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ipm.upel.edu.ve
 127.0.0.1 www.ipqualityscore.com
 127.0.0.1 www.ipstat.com
-127.0.0.1 www.ipuppies.co.uk
 127.0.0.1 www.iranwebads.com
 127.0.0.1 www.ireel.com
 127.0.0.1 www.irepdeliver.com
@@ -69242,7 +69231,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.plasmatvreward.com
 127.0.0.1 www.platinscience.com
 127.0.0.1 www.platinumbucks.com
-127.0.0.1 www.platinumgolfscotland.co.uk
 127.0.0.1 www.playertraffic.com
 127.0.0.1 www.plocia.com
 127.0.0.1 www.plug-media.com
@@ -70647,7 +70635,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.wivwbox.de
 127.0.0.1 www.wizteen.com
 127.0.0.1 www.wmsonic.com
-127.0.0.1 www.womenonaging.com
 127.0.0.1 www.woolyboys.com
 127.0.0.1 www.wopnersoft.com
 127.0.0.1 www.wordplaywhiz.com
