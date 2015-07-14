@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71858 ad serving and malware domains.
+# Currently blocking 71863 ad serving and malware domains.
 #
-# Date Generated: Jul 13 2015
+# Date Generated: Jul 14 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -40405,6 +40405,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gaonline.ivwbox.de
 127.0.0.1 gap.112.2o7.net
 127.0.0.1 gapl.hit.gemius.pl
+127.0.0.1 gappconsultores.com
 127.0.0.1 gar-tech.com
 127.0.0.1 garbo.2cnt.net
 127.0.0.1 garden.ngadcenter.net
@@ -47743,6 +47744,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 msgtag.com
 127.0.0.1 msgui.go2cloud.org
 127.0.0.1 mshakers.rotator.hadj7.adjuggler.net
+127.0.0.1 mshelp247.weebly.com
 127.0.0.1 msimg.com
 127.0.0.1 msmobiles.de.intellitxt.com
 127.0.0.1 msn-cdn.effectivemeasure.net
@@ -47997,6 +47999,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mygiftcardcenter.com
 127.0.0.1 mygiftresource.com
 127.0.0.1 myglobalsearch.com
+127.0.0.1 mygoodness.in.ua
 127.0.0.1 mygosecure.com
 127.0.0.1 mygreatrewards.com
 127.0.0.1 myhitbox.com
@@ -48176,6 +48179,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nanostats.nanopress.it
 127.0.0.1 naomi-thorn.us
 127.0.0.1 napi.lanistaads.com
+127.0.0.1 naresusexports.com
 127.0.0.1 naritamemorial.com
 127.0.0.1 narrow.azenergyforum.com
 127.0.0.1 narwhal.hitbox.com
@@ -68834,6 +68838,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.mrpeter.it
 127.0.0.1 www.ms-mvp.org
 127.0.0.1 www.msgtag.com
+127.0.0.1 www.mshelp247.weebly.com
 127.0.0.1 www.msn4adults.com
 127.0.0.1 www.msnapps.net
 127.0.0.1 www.msnhome.com
