@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71863 ad serving and malware domains.
+# Currently blocking 71862 ad serving and malware domains.
 #
-# Date Generated: Jul 14 2015
+# Date Generated: Jul 15 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -35870,7 +35870,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cucdn.genesismedia.com
 127.0.0.1 cudacorp.com
 127.0.0.1 cuiland.info
-127.0.0.1 culifeup.com
 127.0.0.1 cum-sucking-sluts.com
 127.0.0.1 cumonamateurs.com
 127.0.0.1 cumshotvideos.com
@@ -36422,6 +36421,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dav-webdesign.virtualave.net
 127.0.0.1 dava.ero-advertising.com
 127.0.0.1 daversion4.digitalbrandsinc.netdna-cdn.com
+127.0.0.1 davewalshphoto.com
 127.0.0.1 dawa.ero-advertising.com
 127.0.0.1 dawnframing.com
 127.0.0.1 daylogs.com
@@ -40588,6 +40588,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 geniuspresentation.com
 127.0.0.1 genmay.us.intellitxt.com
 127.0.0.1 genmjob.ru
+127.0.0.1 genmjob3.ru
 127.0.0.1 genorithm.com
 127.0.0.1 genshop.co.in
 127.0.0.1 genteatsss.com
@@ -48284,6 +48285,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 neber.112.2o7.net
 127.0.0.1 nebnr.112.2o7.net
 127.0.0.1 ned.itv.com
+127.0.0.1 nederveencosmetics.nl
 127.0.0.1 nedstat.co.uk
 127.0.0.1 nedstat.com
 127.0.0.1 nedstat.net
@@ -55624,7 +55626,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ss.hitbox.com
 127.0.0.1 ss.linksynergy.com
 127.0.0.1 ss.mtree.com
-127.0.0.1 ss.symcd.com
 127.0.0.1 ss.tiscali.com
 127.0.0.1 ss.tiscali.it
 127.0.0.1 ss.webring.com
@@ -57981,7 +57982,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tns-cs.net
 127.0.0.1 tns-gallup.dk
 127.0.0.1 tns.simba.taobao.com
-127.0.0.1 tnserver.tk
 127.0.0.1 tntclix.co.uk
 127.0.0.1 tnttv.112.2o7.net
 127.0.0.1 toads.osdn.com
@@ -65158,7 +65158,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 wmirk.ru
 127.0.0.1 wmost.com
 127.0.0.1 wmp-forumde.digidip.net
-127.0.0.1 wmpl-in.com
 127.0.0.1 wms-eu.amazon-adsystem.com
 127.0.0.1 wms-fe.amazon-adsystem.com
 127.0.0.1 wms-na.amazon-adsystem.com
