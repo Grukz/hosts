@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71862 ad serving and malware domains.
+# Currently blocking 71865 ad serving and malware domains.
 #
-# Date Generated: Jul 15 2015
+# Date Generated: Jul 16 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25296,6 +25296,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 allyes.com
 127.0.0.1 allyoucanink.com
 127.0.0.1 almarketing.net
+127.0.0.1 almazdental.ru
 127.0.0.1 alog.umeng.co
 127.0.0.1 alog.umeng.com
 127.0.0.1 alogin.linksynergy.com
@@ -29071,6 +29072,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 blastro.us.intellitxt.com
 127.0.0.1 blatant8jh.info
 127.0.0.1 blatfee.ero-advertising.com
+127.0.0.1 blazerworld.net
 127.0.0.1 bleepingcomputer.us.intellitxt.com
 127.0.0.1 blekko.com
 127.0.0.1 blenz-me.net
@@ -31844,6 +31846,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 capecodonlinecom.112.2o7.net
 127.0.0.1 capital.count.brat-online.ro
 127.0.0.1 capital.nuggad.net
+127.0.0.1 capitallfundsinvestment.com
 127.0.0.1 cappa.pl
 127.0.0.1 caprewards.go2cloud.org
 127.0.0.1 car-donation.shengen.ru
@@ -55815,6 +55818,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 start.sextracker.com
 127.0.0.1 start.xxxcounter.com
 127.0.0.1 startapp.com
+127.0.0.1 startapp.go2cloud.org
 127.0.0.1 starterdir.ru
 127.0.0.1 startpagina.metriweb.be
 127.0.0.1 startpunt.nu.site-id.nl
@@ -67359,7 +67363,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.firecash.org
 127.0.0.1 www.firecpa.com
 127.0.0.1 www.firetrck.com
-127.0.0.1 www.firnrohr-automation.de
 127.0.0.1 www.firstbookmark.com
 127.0.0.1 www.firstload.com
 127.0.0.1 www.firstlook.com
