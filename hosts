@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71867 ad serving and malware domains.
+# Currently blocking 71864 ad serving and malware domains.
 #
-# Date Generated: Jul 17 2015
+# Date Generated: Jul 18 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -33565,7 +33565,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cmpglobalvista.112.2o7.net
 127.0.0.1 cmps.mt50ad.com
 127.0.0.1 cmpsmarter-downloader.maynemyltf.netdna-cdn.com
-127.0.0.1 cmpstar.com
 127.0.0.1 cms-pixel.crowdreport.com
 127.0.0.1 cms.abmr.net
 127.0.0.1 cms.ad2click.nl
@@ -46375,7 +46374,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 maxmedia.sgaonline.com
 127.0.0.1 maxserving.com
 127.0.0.1 maxspeedcdn.com
-127.0.0.1 maxthingo.in
 127.0.0.1 maxtracker.net
 127.0.0.1 maxtrust.ru
 127.0.0.1 maxvr.112.2o7.net
@@ -57310,7 +57308,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 target.zedo.com
 127.0.0.1 targetclick.com
 127.0.0.1 targeting.adwebster.com
-127.0.0.1 targetingnow.com
 127.0.0.1 targetnet.com
 127.0.0.1 targetpoint.com
 127.0.0.1 targetspot.com
