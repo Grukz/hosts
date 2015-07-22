@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71870 ad serving and malware domains.
+# Currently blocking 71873 ad serving and malware domains.
 #
-# Date Generated: Jul 21 2015
+# Date Generated: Jul 22 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -28757,7 +28757,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 belstat.nl
 127.0.0.1 benchbrands.com
 127.0.0.1 benchmarkconsultant.com
-127.0.0.1 benedictemaindiaux.com
 127.0.0.1 benhancement.gohip.com
 127.0.0.1 benimreklam.com
 127.0.0.1 berater.adition.com
@@ -39283,6 +39282,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 firstload.com
 127.0.0.1 firstlook.com
 127.0.0.1 firstmediahub.com
+127.0.0.1 firstmethodistslc.org
 127.0.0.1 firstname.com
 127.0.0.1 firstshowing.us.intellitxt.com
 127.0.0.1 fishadz.pressflex.net
@@ -43766,7 +43766,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 j.zeroredirect.com
 127.0.0.1 j.zeroredirect1.com
 127.0.0.1 j.zeroredirect2.com
-127.0.0.1 j2m-communication.com
 127.0.0.1 j4.signclck.com
 127.0.0.1 ja.revolvermaps.com
 127.0.0.1 jabu.popunder.ru
@@ -48526,6 +48525,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 newtopsites.com
 127.0.0.1 newtreechess.ru
 127.0.0.1 newusnews.justclick.ru
+127.0.0.1 newversionpdun.in.net
 127.0.0.1 newwayscanner.info
 127.0.0.1 newworldiq.com
 127.0.0.1 newyork.cbslocal.us.intellitxt.com
@@ -52569,6 +52569,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 red03.as-us.falkag.net
 127.0.0.1 red04.as-eu.falkag.net
 127.0.0.1 red04.as-us.falkag.net
+127.0.0.1 red422.com
 127.0.0.1 redbalcony.us.intellitxt.com
 127.0.0.1 redcounter.net
 127.0.0.1 redcourtside.com
@@ -52698,6 +52699,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 reichelt02.webtrekk.net
 127.0.0.1 reimbergit.com.br
 127.0.0.1 reina-petty.us
+127.0.0.1 reinofm.org
 127.0.0.1 reinvigorate.net
 127.0.0.1 reishus.de
 127.0.0.1 reisprei.ivwbox.de
@@ -69463,6 +69465,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.recorded-email.com
 127.0.0.1 www.recreation-leisure-rewardpath.com
 127.0.0.1 www.recreativ.ru
+127.0.0.1 www.red422.com
 127.0.0.1 www.redcounter.net
 127.0.0.1 www.redemptionengine.com
 127.0.0.1 www.redir04mail.com
