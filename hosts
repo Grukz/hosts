@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71873 ad serving and malware domains.
+# Currently blocking 71877 ad serving and malware domains.
 #
-# Date Generated: Jul 22 2015
+# Date Generated: Jul 23 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -31220,7 +31220,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 buzzreferrals.go2cloud.org
 127.0.0.1 bvalit.justclick.ru
 127.0.0.1 bvalphaserver.com
+127.0.0.1 bvsrv.adk2x.com
 127.0.0.1 bw.ads.t-online.de
+127.0.0.1 bwatcher.com
 127.0.0.1 bwin90.com
 127.0.0.1 bwp.download.com
 127.0.0.1 bwp.findarticles.com
@@ -37902,6 +37904,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ee02gws.advertising.com
 127.0.0.1 ee02hmq.advertising.com
 127.0.0.1 ee12gp4.advertising.com
+127.0.0.1 ee8f928b71ed0dc6033231fa0943d9f5.adsk2.co
 127.0.0.1 eeb06878.qqc.co
 127.0.0.1 eecky.butlerelectricsupply.com
 127.0.0.1 eedclicks.ero-advertising.com
@@ -46820,7 +46823,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 megastats.com
 127.0.0.1 megastore.bnex.com
 127.0.0.1 megasurfin.com
-127.0.0.1 megatoure.com
 127.0.0.1 megawerbung.de
 127.0.0.1 mehdi.carpediem.fr
 127.0.0.1 meiluziai.info
@@ -65202,6 +65204,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 worldgymperu.com
 127.0.0.1 worldnetdaily.us.intellitxt.com
 127.0.0.1 worldnowboston.112.2o7.net
+127.0.0.1 worldof.travel
 127.0.0.1 worldprofitassociates.com
 127.0.0.1 worldsite.ws
 127.0.0.1 worldtravelguide.uk.intellitxt.com
@@ -70922,6 +70925,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www2.arielrebel.com
 127.0.0.1 www2.autopartswarehouse.com
 127.0.0.1 www2.bannerspace.com
+127.0.0.1 www2.bubblesmedia.ru
 127.0.0.1 www2.burstnet.com
 127.0.0.1 www2.buttonware.net
 127.0.0.1 www2.click-fr.com
