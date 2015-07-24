@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71877 ad serving and malware domains.
+# Currently blocking 71887 ad serving and malware domains.
 #
-# Date Generated: Jul 23 2015
+# Date Generated: Jul 24 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -38649,7 +38649,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 evepdcharleston.112.2o7.net
 127.0.0.1 evepdeagledev.112.2o7.net
 127.0.0.1 evergage.com
-127.0.0.1 everisgarden.com
 127.0.0.1 everydaygays.com
 127.0.0.1 everydayhealth.demdex.net
 127.0.0.1 everyfreegift.com
@@ -43760,6 +43759,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 j.admob.com
 127.0.0.1 j.clickdensity.com
 127.0.0.1 j.flxpxl.com
+127.0.0.1 j.gs
 127.0.0.1 j.kissinsights.com
 127.0.0.1 j.maxmind.com
 127.0.0.1 j.ophan.co.uk
@@ -55964,6 +55964,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.addinto.com
 127.0.0.1 static.addtoany.com
 127.0.0.1 static.addynamo.net
+127.0.0.1 static.adf.ly
 127.0.0.1 static.adfarm1.adition.com
 127.0.0.1 static.adk2.com
 127.0.0.1 static.adman.gr
@@ -56024,6 +56025,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.crowdscience.com
 127.0.0.1 static.csbew.com
 127.0.0.1 static.de.euserv.adaos-ads.net
+127.0.0.1 static.directrev.com
 127.0.0.1 static.doubleclick.com
 127.0.0.1 static.doubleclick.net
 127.0.0.1 static.doubleclick.net.12022.9038.302br.net
@@ -57505,6 +57507,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 techguy.us.intellitxt.com
 127.0.0.1 techimo.us.intellitxt.com
 127.0.0.1 techmag.space
+127.0.0.1 techmaha.pw
 127.0.0.1 techmarkaffi.go2cloud.org
 127.0.0.1 technauticmarinewindows.co.uk
 127.0.0.1 technewsworld.us.intellitxt.com
@@ -59059,6 +59062,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trendmicroeuropa01.webtrekk.net
 127.0.0.1 trendnews.com
 127.0.0.1 trends.revcontent.com
+127.0.0.1 trendz365.com
 127.0.0.1 tresalacarta.2cnt.net
 127.0.0.1 treventuresonline.com
 127.0.0.1 trf.intuitwebsites.com
@@ -65706,6 +65710,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.adexcite.com
 127.0.0.1 www.adexit.com
 127.0.0.1 www.adexm.com
+127.0.0.1 www.adf.ly
 127.0.0.1 www.adfest.com
 127.0.0.1 www.adfirmative.com
 127.0.0.1 www.adfluence.net
@@ -68215,6 +68220,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.iwvwbox.de
 127.0.0.1 www.iwwbox.de
 127.0.0.1 www.iyvwbox.de
+127.0.0.1 www.j.gs
 127.0.0.1 www.jade-aultman.us
 127.0.0.1 www.jadina-counter.de
 127.0.0.1 www.jag.vmsn.de
@@ -68729,6 +68735,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.melissa-kirksey.us
 127.0.0.1 www.melissa-ruggles.us
 127.0.0.1 www.mellissa-lack.us
+127.0.0.1 www.mellovesjustin.com
 127.0.0.1 www.meltwater.com
 127.0.0.1 www.meltwaternews.com
 127.0.0.1 www.memopumpkin.com
@@ -69452,6 +69459,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.rapleaf.com
 127.0.0.1 www.ravel-rewardpath.com
 127.0.0.1 www.rayesboiler.com
+127.0.0.1 www.rea.co.ke
 127.0.0.1 www.readnotify.com
 127.0.0.1 www.real-marketing.com
 127.0.0.1 www.realcastmedia.com
@@ -70700,6 +70708,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.wysistat.com
 127.0.0.1 www.x-park.net
 127.0.0.1 www.x0.nl
+127.0.0.1 www.x19network.com
 127.0.0.1 www.xbn.ru
 127.0.0.1 www.xcelltech.com
 127.0.0.1 www.xclicks.net
@@ -71268,6 +71277,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 x17online.us.intellitxt.com
 127.0.0.1 x18.ifdef.jp
 127.0.0.1 x19.ifdef.jp
+127.0.0.1 x19network.com
 127.0.0.1 x2.ifdef.jp
 127.0.0.1 x2.vindicosuite.com
 127.0.0.1 x2.xclicks.net
