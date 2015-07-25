@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71887 ad serving and malware domains.
+# Currently blocking 71888 ad serving and malware domains.
 #
-# Date Generated: Jul 24 2015
+# Date Generated: Jul 25 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -57319,6 +57319,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 target.zedo.com
 127.0.0.1 targetclick.com
 127.0.0.1 targeting.adwebster.com
+127.0.0.1 targetingnow.com
 127.0.0.1 targetnet.com
 127.0.0.1 targetpoint.com
 127.0.0.1 targetspot.com
