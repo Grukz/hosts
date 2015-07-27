@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71888 ad serving and malware domains.
+# Currently blocking 71889 ad serving and malware domains.
 #
-# Date Generated: Jul 26 2015
+# Date Generated: Jul 27 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26454,6 +26454,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 artuframe.bfast.com
 127.0.0.1 artwork.aim4media.com
 127.0.0.1 aru.index.hu
+127.0.0.1 arvision.com.co
 127.0.0.1 arx.us.miva.com
 127.0.0.1 arztzeit.ivwbox.de
 127.0.0.1 as.5.p2l.info
@@ -26675,6 +26676,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 atgratis.com
 127.0.0.1 athena-ads.wikia.com
 127.0.0.1 athena-dirksen.us
+127.0.0.1 atikercambodia.com
 127.0.0.1 atinternet.com
 127.0.0.1 ativan.ourtablets.com
 127.0.0.1 atkins.vo.llnwd.net
@@ -48189,7 +48191,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 nanostats.nanopress.it
 127.0.0.1 naomi-thorn.us
 127.0.0.1 napi.lanistaads.com
-127.0.0.1 naresusexports.com
 127.0.0.1 naritamemorial.com
 127.0.0.1 narrow.azenergyforum.com
 127.0.0.1 narwhal.hitbox.com
