@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 71889 ad serving and malware domains.
+# Currently blocking 71897 ad serving and malware domains.
 #
-# Date Generated: Jul 27 2015
+# Date Generated: Jul 28 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1893,6 +1893,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a-search.biz
 127.0.0.1 a-zo.com
 127.0.0.1 a.0day.kiev.ua
+127.0.0.1 a.1nimo.com
 127.0.0.1 a.abnad.net
 127.0.0.1 a.abv.bg
 127.0.0.1 a.ad-sys.com
@@ -48128,6 +48129,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 n0.adshostnet.com
 127.0.0.1 n0cgi.distributed.net
 127.0.0.1 n1.adshostnet.com
+127.0.0.1 n1.nedstatbasic.net
 127.0.0.1 n10.adshostnet.com
 127.0.0.1 n149adserv.com
 127.0.0.1 n2.adshostnet.com
@@ -52216,6 +52218,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 qz.informs.com
 127.0.0.1 r.254a.com
 127.0.0.1 r.254a.comjs.moatads.com
+127.0.0.1 r.369dl.com
 127.0.0.1 r.4at1.com
 127.0.0.1 r.ace.advertising.com
 127.0.0.1 r.ad6media.fr
@@ -55748,6 +55751,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 st4.xhamster.com
 127.0.0.1 st5.surf-town.net
 127.0.0.1 sta.ifeng.com
+127.0.0.1 stabil.co.th
 127.0.0.1 stabx.net
 127.0.0.1 stacia-jose.us
 127.0.0.1 stacia-ware.us
@@ -59070,6 +59074,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trf.intuitwebsites.com
 127.0.0.1 trg.peer39.net
 127.0.0.1 trgde.adocean.pl
+127.0.0.1 trhzc.com
 127.0.0.1 triad.technorati.com
 127.0.0.1 triadmedianetwork.com
 127.0.0.1 trial-collector.snplow.com
@@ -70349,6 +70354,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.trendsonline.biz
 127.0.0.1 www.trendsonline.me
 127.0.0.1 www.trendsonline.mobi
+127.0.0.1 www.trhzc.com
 127.0.0.1 www.tribalfusion.com
 127.0.0.1 www.trimbot.com
 127.0.0.1 www.trips.com
@@ -70758,6 +70764,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.yeahmobi.com
 127.0.0.1 www.yehuam.com
 127.0.0.1 www.yenilist.com
+127.0.0.1 www.yepdigital.adk2x.com
 127.0.0.1 www.yeppyepp.co.il
 127.0.0.1 www.yesadvertising.com
 127.0.0.1 www.yesno.co.il
@@ -71543,6 +71550,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 yellostrom.webtrekk.net
 127.0.0.1 yellowcameras.wanroymotors.com
 127.0.0.1 yellspain.112.2o7.net
+127.0.0.1 yepdigital.adk2x.com
 127.0.0.1 yepdigital.go2cloud.org
 127.0.0.1 yeppyepp.co.il
 127.0.0.1 yesads.com
