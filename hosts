@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 72074 ad serving and malware domains.
+# Currently blocking 72079 ad serving and malware domains.
 #
-# Date Generated: Sep 10 2015
+# Date Generated: Sep 11 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26314,6 +26314,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 apple-trusted.com
 127.0.0.1 applebox.co.id
 127.0.0.1 appleglobal.112.2o7.net
+127.0.0.1 applestore.com-mobile.gift
 127.0.0.1 applestoreus.112.2o7.net
 127.0.0.1 applets.sulekha.com
 127.0.0.1 application.bfast.com
@@ -29578,6 +29579,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 boogu.barginginfrance.net
 127.0.0.1 book-mark.net
 127.0.0.1 bookclub-offer.com
+127.0.0.1 bookcorps.com
 127.0.0.1 bookedspace.com
 127.0.0.1 bookmarksync.com
 127.0.0.1 bookofkisl.com
@@ -35848,7 +35850,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cs.traffichold.com
 127.0.0.1 cs1.adxpansion.com
 127.0.0.1 cs1.livetex.ru
-127.0.0.1 cs1.wpc.v0cdn.net
 127.0.0.1 cs10.livetex.ru
 127.0.0.1 cs11.livetex.ru
 127.0.0.1 cs12.livetex.ru
@@ -44384,6 +44385,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 karina-bolds.us
 127.0.0.1 karla-law.us
 127.0.0.1 karoline-fortin.us
+127.0.0.1 kaspa777.in
 127.0.0.1 kaspersky.122.2o7.net
 127.0.0.1 kaspersky.com32.info
 127.0.0.1 kasperthreatpostprod.112.2o7.net
@@ -48226,6 +48228,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 n.pay-click.ru
 127.0.0.1 n.pcads.ru
 127.0.0.1 n.targetbtracker.com
+127.0.0.1 n.targetdtracker.com
 127.0.0.1 n.thestar.com
 127.0.0.1 n.uimserv.net
 127.0.0.1 n.zeroredirect.com
@@ -58378,6 +58381,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com.proxy.c9w.net
 127.0.0.1 tpcnc.googlesyndication.com
+127.0.0.1 tpintershipping.com
 127.0.0.1 tpl1.realtracker.com
 127.0.0.1 tpl2.realtracker.com
 127.0.0.1 tpnads.com
@@ -66591,6 +66595,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.bonnie-schrecengost.us
 127.0.0.1 www.bonzi.com
 127.0.0.1 www.bookclub-offer.com
+127.0.0.1 www.bookcorps.com
 127.0.0.1 www.books-media-edu-premiumblvd.com
 127.0.0.1 www.books-media-edu-rewardempire.com
 127.0.0.1 www.books-media-rewardpath.com
