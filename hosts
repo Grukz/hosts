@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 72168 ad serving and malware domains.
+# Currently blocking 72169 ad serving and malware domains.
 #
-# Date Generated: Sep 14 2015
+# Date Generated: Sep 15 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -39752,6 +39752,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fr.85.clickintext.net
 127.0.0.1 fr.a2dfp.net
 127.0.0.1 fr.adserver.yahoo.com
+127.0.0.1 fr.apple.com-services-assistance-recuperations-des-comptes.com
 127.0.0.1 fr.cim.clickintext.net
 127.0.0.1 fr.classic.clickintext.net
 127.0.0.1 fr.nedstat.net
@@ -44621,7 +44622,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 kids-in-sandbox.com
 127.0.0.1 kidsinsandbox.info
 127.0.0.1 kidstrustorphanage.com
-127.0.0.1 kikimyall.us
 127.0.0.1 kiks.yandex.ru
 127.0.0.1 kikuzip.com
 127.0.0.1 kiley-beeman.us
@@ -71954,6 +71954,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 z.zeroredirect1.com
 127.0.0.1 z.zeroredirect2.com
 127.0.0.1 z0.extreme-dm.com
+127.0.0.1 z0bu.dynu.com
 127.0.0.1 z1.adserver.com
 127.0.0.1 z1.extreme-dm.com
 127.0.0.1 z1.zedo.com
