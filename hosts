@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 72169 ad serving and malware domains.
+# Currently blocking 72172 ad serving and malware domains.
 #
-# Date Generated: Sep 15 2015
+# Date Generated: Sep 16 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1908,6 +1908,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 USApolice.com
 127.0.0.1 ___id___.c.mystat-in.net
 127.0.0.1 _thums.ero-advertising.com
+127.0.0.1 a-0001.a-msedge.net
 127.0.0.1 a-ads.com
 127.0.0.1 a-counter.com.ua
 127.0.0.1 a-counter.kiev.ua
@@ -36934,6 +36935,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 delivery7.trafficjunky.net
 127.0.0.1 delivery8.trafficjunky.net
 127.0.0.1 delivery9.trafficjunky.net
+127.0.0.1 deliverymailsysytem.co.uk
 127.0.0.1 dellinc.tt.omtrdc.net
 127.0.0.1 deloo.de
 127.0.0.1 delshikandco.com
@@ -37957,6 +37959,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 eads.nl
 127.0.0.1 eads.org
 127.0.0.1 eaeacom.112.2o7.net
+127.0.0.1 eafyfsuh.net
 127.0.0.1 eagamesuk.112.2o7.net
 127.0.0.1 eaglemiles.112.2o7.net
 127.0.0.1 eajmp.com
@@ -43992,7 +43995,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 j.admob.com
 127.0.0.1 j.clickdensity.com
 127.0.0.1 j.flxpxl.com
-127.0.0.1 j.gs
 127.0.0.1 j.kissinsights.com
 127.0.0.1 j.maxmind.com
 127.0.0.1 j.ophan.co.uk
@@ -58757,6 +58759,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 track.websiteceo.com
 127.0.0.1 track.webtrekk.de
 127.0.0.1 track.webtrekk.net
+127.0.0.1 track.webwindows.co.uk
 127.0.0.1 track.wesell.co.il
 127.0.0.1 track.wildblue.com
 127.0.0.1 track.written.com
@@ -65990,7 +65993,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.adexcite.com
 127.0.0.1 www.adexit.com
 127.0.0.1 www.adexm.com
-127.0.0.1 www.adf.ly
 127.0.0.1 www.adfest.com
 127.0.0.1 www.adfirmative.com
 127.0.0.1 www.adfluence.net
@@ -67392,6 +67394,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.eadexchange.com
 127.0.0.1 www.eads.com
 127.0.0.1 www.eaffiliateinc.com
+127.0.0.1 www.eafyfsuh.net
 127.0.0.1 www.eajmp.com
 127.0.0.1 www.earnmygift.com
 127.0.0.1 www.earnpointsandgifts.com
@@ -68495,7 +68498,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.iwvwbox.de
 127.0.0.1 www.iwwbox.de
 127.0.0.1 www.iyvwbox.de
-127.0.0.1 www.j.gs
 127.0.0.1 www.jade-aultman.us
 127.0.0.1 www.jadina-counter.de
 127.0.0.1 www.jag.vmsn.de
@@ -68612,6 +68614,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.kazaalite.pl
 127.0.0.1 www.kcta.or.kr
 127.0.0.1 www.kdukvh.com
+127.0.0.1 www.kebeicofitting.com
 127.0.0.1 www.keen.io
 127.0.0.1 www.keisha-kimes.us
 127.0.0.1 www.kelley-eggert.us
