@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 72172 ad serving and malware domains.
+# Currently blocking 72233 ad serving and malware domains.
 #
-# Date Generated: Sep 16 2015
+# Date Generated: Sep 18 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -262,6 +262,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 0stats.com
 127.0.0.1 0x.x.gg
 127.0.0.1 1-2-free.com
+127.0.0.1 1-atraffickim.tf
 127.0.0.1 1-se.com
 127.0.0.1 1.9797aiai.com
 127.0.0.1 1.adbrite.com
@@ -279,6 +280,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 1.ptp22.com
 127.0.0.1 1.quicktrkr.com
 127.0.0.1 10-million-hits.com
+127.0.0.1 10-trafficimj.tf
 127.0.0.1 10.6.87.194.dynamic.dol.ru
 127.0.0.1 10.im.cz
 127.0.0.1 10.ptp22.com
@@ -343,6 +345,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 10minresume.com
 127.0.0.1 10pg.scl5fyd.info
 127.0.0.1 10xhellometro.112.2o7.net
+127.0.0.1 11-atraasikim.tf
 127.0.0.1 11.6.87.194.dynamic.dol.ru
 127.0.0.1 11.lamarianella.info
 127.0.0.1 11.ptp22.com
@@ -383,6 +386,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 119xpg.go2cloud.org
 127.0.0.1 11alivenews.com
 127.0.0.1 11zz.com
+127.0.0.1 12-tgaffickvcmb.tf
 127.0.0.1 12.ptp22.com
 127.0.0.1 120.6.87.194.dynamic.dol.ru
 127.0.0.1 120.duba.net
@@ -446,6 +450,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 12877.hittail.com
 127.0.0.1 129.6.87.194.dynamic.dol.ru
 127.0.0.1 12place.com
+127.0.0.1 13-ctscfficim.tf
 127.0.0.1 13.6.87.194.dynamic.dol.ru
 127.0.0.1 13.ptp22.com
 127.0.0.1 130.6.87.194.dynamic.dol.ru
@@ -465,6 +470,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 138.6.87.194.dynamic.dol.ru
 127.0.0.1 139.6.87.194.dynamic.dol.ru
 127.0.0.1 139mm.com
+127.0.0.1 14-traffgficimhd.tf
 127.0.0.1 14.6.87.194.dynamic.dol.ru
 127.0.0.1 14.ca.enwebsearch.com
 127.0.0.1 14.ptp22.com
@@ -486,6 +492,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 148.6.87.194.dynamic.dol.ru
 127.0.0.1 148.xg4ken.com
 127.0.0.1 149.6.87.194.dynamic.dol.ru
+127.0.0.1 15-etrafficim.tf
 127.0.0.1 15.6.87.194.dynamic.dol.ru
 127.0.0.1 15.ptp22.com
 127.0.0.1 150.6.87.194.dynamic.dol.ru
@@ -510,6 +517,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 15minlt.adocean.pl
 127.0.0.1 15view.atdmt.com.319.6000.302br.net
 127.0.0.1 15x.net
+127.0.0.1 16-taficimf.tf
 127.0.0.1 16.6.87.194.dynamic.dol.ru
 127.0.0.1 16.ptp22.com
 127.0.0.1 160.6.87.194.dynamic.dol.ru
@@ -540,6 +548,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 169.6.87.194.dynamic.dol.ru
 127.0.0.1 1695693.r.msn.com
 127.0.0.1 1695842.r.msn.com
+127.0.0.1 17-gtrahgficim.tf
 127.0.0.1 17.6.87.194.dynamic.dol.ru
 127.0.0.1 17.ptp22.com
 127.0.0.1 17.sharedsource.org
@@ -560,6 +569,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 179.6.87.194.dynamic.dol.ru
 127.0.0.1 17b4-7817-18f7-3abd.reporo.net
 127.0.0.1 17money.com
+127.0.0.1 18-trafdsfgficimg.tf
 127.0.0.1 18.6.87.194.dynamic.dol.ru
 127.0.0.1 18.ptp22.com
 127.0.0.1 18.sharedsource.org
@@ -580,6 +590,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 1846.bitterstrawberry.com
 127.0.0.1 185.6.87.194.dynamic.dol.ru
 127.0.0.1 186.6.87.194.dynamic.dol.ru
+127.0.0.1 1866809.securefastserver.com
 127.0.0.1 1867.stats.misstrends.com
 127.0.0.1 187.6.87.194.dynamic.dol.ru
 127.0.0.1 188.6.87.194.dynamic.dol.ru
@@ -587,6 +598,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 18clicks.com
 127.0.0.1 18dd.net
 127.0.0.1 18dmm.com
+127.0.0.1 19-itraaffifm.tf
 127.0.0.1 19.6.87.194.dynamic.dol.ru
 127.0.0.1 19.ptp22.com
 127.0.0.1 19.sharedsource.org
@@ -693,6 +705,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 2-easy.com
 127.0.0.1 2-seek.com
 127.0.0.1 2-spyware.com
+127.0.0.1 2-traffickimb.tf
 127.0.0.1 2-vinstaller.com
 127.0.0.1 2.adbrite.com
 127.0.0.1 2.che-ka.com
@@ -702,6 +715,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 2.ptp22.com
 127.0.0.1 2.rubanners.com
 127.0.0.1 2.s09.flagcounter.com
+127.0.0.1 20-trafficidmj.tf
 127.0.0.1 20-yrs-1.info
 127.0.0.1 20.ptp22.com
 127.0.0.1 20.sharedsource.org
@@ -1004,6 +1018,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 20forfree.com
 127.0.0.1 20minde.wemfbox.ch
 127.0.0.1 20popup.com
+127.0.0.1 21-tdsrafficimf.tf
 127.0.0.1 210.6.87.194.dynamic.dol.ru
 127.0.0.1 21011-1061.popunder.loading-delivery1.com
 127.0.0.1 211.6.87.194.dynamic.dol.ru
@@ -1027,6 +1042,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 2196503.fls.doubleclick.net
 127.0.0.1 21jewelry.com
 127.0.0.1 21v6m.realsecuredredirect.com
+127.0.0.1 22-gyudrafasicim.tf
 127.0.0.1 22.sharedsource.org
 127.0.0.1 220.6.87.194.dynamic.dol.ru
 127.0.0.1 220.count.brat-online.ro
@@ -1073,6 +1089,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 23837.hittail.com
 127.0.0.1 239.6.87.194.dynamic.dol.ru
 127.0.0.1 2398.bitterstrawberry.com
+127.0.0.1 24-ibczafficim.tf
 127.0.0.1 2400.bitterstrawberry.com
 127.0.0.1 24290.9170.302br.net
 127.0.0.1 24293.9170.302br.net
@@ -1109,6 +1126,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 24x7.soliday.org
 127.0.0.1 24x7adservice.com
 127.0.0.1 24x7live.net
+127.0.0.1 25-trafbvicimj.tf
 127.0.0.1 25057.hittail.com
 127.0.0.1 2507573.fls.doubleclick.net
 127.0.0.1 25171.bank65.mi.ads.mp.mydas.mobi
@@ -1203,6 +1221,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 2vie.catdmt.omc.324.6000.302br.net
 127.0.0.1 2wnpf.tld.cc
 127.0.0.1 2younger.com
+127.0.0.1 3-ctrafficim.tf
 127.0.0.1 3-day-diet.com
 127.0.0.1 3.2cnt.net
 127.0.0.1 3.adbrite.com
@@ -1322,6 +1341,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 3wregie.ezakus.net
 127.0.0.1 3xtraffic.com
 127.0.0.1 4-counter.com
+127.0.0.1 4-trafficimd.tf
 127.0.0.1 4-v.net
 127.0.0.1 4-wheelers.com
 127.0.0.1 4.6.87.194.dynamic.dol.ru
@@ -1475,6 +1495,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 4wheeldrives.com
 127.0.0.1 4x3zy4ql-l8bu4n1j.netdna-ssl.com
 127.0.0.1 4x4review.us.intellitxt.com
+127.0.0.1 5-etrafficim.tf
 127.0.0.1 5.6.87.194.dynamic.dol.ru
 127.0.0.1 5.attilacrm.com
 127.0.0.1 5.estasiatica.com
@@ -1556,6 +1577,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 5starvideos.com
 127.0.0.1 5thfinger.com
 127.0.0.1 6-forum.de
+127.0.0.1 6-trafficimf.tf
 127.0.0.1 6.6.87.194.dynamic.dol.ru
 127.0.0.1 6.bbnface.com
 127.0.0.1 6.bbnfaces.net
@@ -1637,6 +1659,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 6pg.ryf3hgf.info
 127.0.0.1 6pjddrtt7.com
 127.0.0.1 6r2uvllu.com
+127.0.0.1 7-gtrafficim.tf
 127.0.0.1 7.6.87.194.dynamic.dol.ru
 127.0.0.1 7.ptp22.com
 127.0.0.1 7.rotator.wigetmedia.com
@@ -1729,6 +1752,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 7x.cc
 127.0.0.1 7x7.ruwe.net
 127.0.0.1 7x70ministrysarashouse.com
+127.0.0.1 8-trafficimg.tf
 127.0.0.1 8.6.87.194.dynamic.dol.ru
 127.0.0.1 8.dramafeverw2.appspot.com
 127.0.0.1 8.ptp22.com
@@ -1782,6 +1806,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 8ivwbox.de
 127.0.0.1 8nude.com
 127.0.0.1 8vwbox.de
+127.0.0.1 9-itrafficim.tf
 127.0.0.1 9.6.87.194.dynamic.dol.ru
 127.0.0.1 9.ecounter.org
 127.0.0.1 9.ptp22.com
@@ -1910,6 +1935,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 _thums.ero-advertising.com
 127.0.0.1 a-0001.a-msedge.net
 127.0.0.1 a-ads.com
+127.0.0.1 a-atraffickim.tf
 127.0.0.1 a-counter.com.ua
 127.0.0.1 a-counter.kiev.ua
 127.0.0.1 a-fast.com
@@ -2969,6 +2995,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad-annex.com
 127.0.0.1 ad-apac.doubleclick.net
 127.0.0.1 ad-audit.tubemogul.com
+127.0.0.1 ad-balancer.at
 127.0.0.1 ad-balancer.net
 127.0.0.1 ad-beast.com
 127.0.0.1 ad-blaster.com
@@ -18418,7 +18445,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adexpansion.com
 127.0.0.1 adexperts.com
 127.0.0.1 adexplosion.com
-127.0.0.1 adexpose.com
 127.0.0.1 adexprt.com
 127.0.0.1 adexprt.me
 127.0.0.1 adexprts.com
@@ -18707,6 +18733,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adition.de
 127.0.0.1 adition.net
 127.0.0.1 aditor.go2cloud.org
+127.0.0.1 adizio.com
 127.0.0.1 adj1.thruport.com
 127.0.0.1 adj10.thruport.com
 127.0.0.1 adj11.thruport.com
@@ -18803,6 +18830,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adlead.com
 127.0.0.1 adleads.com
 127.0.0.1 adleague.go2cloud.org
+127.0.0.1 adledge.com
 127.0.0.1 adlegend.com
 127.0.0.1 adlermode.com
 127.0.0.1 adlet.voice2page.com
@@ -18990,6 +19018,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 admp.sanoma.fi
 127.0.0.1 admperformance.go2cloud.org
 127.0.0.1 adms.physorg.com
+127.0.0.1 admtpmp127.adsk2.co
 127.0.0.1 admulti.com
 127.0.0.1 admunds.com
 127.0.0.1 adn.blinkx.com
@@ -22799,6 +22828,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adscampaign.net
 127.0.0.1 adscendmedia.com
 127.0.0.1 adscholar.com
+127.0.0.1 adscience.nl
 127.0.0.1 adsclick.org
 127.0.0.1 adsclick.qq.com
 127.0.0.1 adscontent.indiatimes.com
@@ -22908,6 +22938,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adservant.guj.de
 127.0.0.1 adserve.adtoll.com
 127.0.0.1 adserve.advertising.com
+127.0.0.1 adserve.ams.rhythmxchange.com
 127.0.0.1 adserve.bizrate.com
 127.0.0.1 adserve.canadawidemagazines.com
 127.0.0.1 adserve.city-ad.com
@@ -23493,6 +23524,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adsmobi.com
 127.0.0.1 adsmobil.go2cloud.org
 127.0.0.1 adsmoon.com
+127.0.0.1 adsnative.com
 127.0.0.1 adsnet.vpnboxil.com
 127.0.0.1 adsnetworksa.go2cloud.org
 127.0.0.1 adsnew.gsmarena.com
@@ -25468,6 +25500,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 amazinggreentechshop.com
 127.0.0.1 amazingindian.com
 127.0.0.1 amazingvacationhotels.com
+127.0.0.1 amazon-adsystem.com
 127.0.0.1 amazonmerchants.122.2o7.net
 127.0.0.1 amazonshopbop.122.2o7.net
 127.0.0.1 amber-arendt.us
@@ -27003,6 +27036,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 azz.badazz.org
 127.0.0.1 b-1st.com
 127.0.0.1 b-online.de
+127.0.0.1 b-traffickimb.tf
 127.0.0.1 b.abnad.net
 127.0.0.1 b.admedia.com
 127.0.0.1 b.admob.com
@@ -31452,6 +31486,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c-71-63-136-200.hsd1.mn.comcast.net
 127.0.0.1 c-c-c-inc.com
 127.0.0.1 c-col.com
+127.0.0.1 c-ctrafficim.tf
 127.0.0.1 c-evt.moatads.com
 127.0.0.1 c-on-text.com
 127.0.0.1 c.91wan.com
@@ -36194,6 +36229,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 czproxy8.cz
 127.0.0.1 d-cache.microad.jp
 127.0.0.1 d-track.send.microad.jp
+127.0.0.1 d-trafficimd.tf
 127.0.0.1 d.101m3.com
 127.0.0.1 d.254a.com
 127.0.0.1 d.abnad.net
@@ -36515,6 +36551,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 daimlerag.122.2o7.net
 127.0.0.1 daimlerag.d2.sc.omtrdc.net
 127.0.0.1 dajungle.com
+127.0.0.1 dakic-ia-300.com
 127.0.0.1 dal.d.la
 127.0.0.1 dal2.voxcloud.cedexis.com
 127.0.0.1 dal9hkyfi0m0n.cloudfront.net
@@ -37872,6 +37909,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 e-communications.insidebandwidth.com
 127.0.0.1 e-debtconsolidation.com
 127.0.0.1 e-dot.hut1.ru
+127.0.0.1 e-etrafficim.tf
 127.0.0.1 e-hosting.hut1.ru
 127.0.0.1 e-hpaces.ero-advertising.com
 127.0.0.1 e-kasa.w8w.pl
@@ -39033,6 +39071,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 extrovert.122.2o7.net
 127.0.0.1 eyeblaster.com
 127.0.0.1 eyereact.eyereturn.com
+127.0.0.1 eyereturn.com
+127.0.0.1 eyeviewads.com
 127.0.0.1 eyewond.hs.llnwd.net
 127.0.0.1 eyewonder.com
 127.0.0.1 ez-poll.superstats.com
@@ -39053,6 +39093,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 f-kotek.com
 127.0.0.1 f-nod1.adsniper.ru
 127.0.0.1 f-nod2.adsniper.ru
+127.0.0.1 f-trafficimf.tf
 127.0.0.1 f.about.com
 127.0.0.1 f.admob.com
 127.0.0.1 f.aduwant.com
@@ -40523,6 +40564,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fyvzz.survey7.adsservingtwig.xyz
 127.0.0.1 g-f5fun.count.brat-online.ro
 127.0.0.1 g-f5news.count.brat-online.ro
+127.0.0.1 g-gtrafficim.tf
 127.0.0.1 g-i2.com
 127.0.0.1 g-pixel.invitemedia.com
 127.0.0.1 g-protv.count.brat-online.ro
@@ -41705,6 +41747,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gyodundena.hotmail.ru
 127.0.0.1 gyros.es
 127.0.0.1 h-afnetwww.adshuffle.com
+127.0.0.1 h-trafficimg.tf
 127.0.0.1 h.admob.com
 127.0.0.1 h.atdmt.com
 127.0.0.1 h.cliphunter.com
@@ -42478,6 +42521,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 i-clicks.net
 127.0.0.1 i-growth.com
 127.0.0.1 i-hacked.us.intellitxt.com
+127.0.0.1 i-itrafficim.tf
 127.0.0.1 i-lookup.com
 127.0.0.1 i-mobile.co.jp
 127.0.0.1 i-xzone.com
@@ -42743,6 +42787,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 idritracker.com
 127.0.0.1 idspaces.ero-advertising.com
 127.0.0.1 idsync.rlcdn.com
+127.0.0.1 idtargeting.com
 127.0.0.1 idvisitor.click2houston.com
 127.0.0.1 idvisitor.clickondetroit.com
 127.0.0.1 idvisitor.clickorlando.com
@@ -43989,6 +44034,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 izozo.buyyourbtc.com
 127.0.0.1 izzonet.go2cloud.org
 127.0.0.1 j-ad.dominiosfree.net
+127.0.0.1 j-trafficimj.tf
 127.0.0.1 j.2004cms.com
 127.0.0.1 j.2525ocean.com
 127.0.0.1 j.adlooxtracking.com
@@ -43997,6 +44043,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 j.flxpxl.com
 127.0.0.1 j.kissinsights.com
 127.0.0.1 j.maxmind.com
+127.0.0.1 j.mp
 127.0.0.1 j.ophan.co.uk
 127.0.0.1 j.pioneeringad.com
 127.0.0.1 j.sahcdn.com
@@ -44478,6 +44525,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jwpltx.com
 127.0.0.1 jxliu.com
 127.0.0.1 jzclick.soso.com
+127.0.0.1 k-gtralficim.tf
 127.0.0.1 k.admob.com
 127.0.0.1 k.collective-media.net
 127.0.0.1 k.h.a.d.free.fr
@@ -44701,6 +44749,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 koeln.ivwbox.de
 127.0.0.1 koelnrsc.ivwbox.de
 127.0.0.1 kohls.tt.omtrdc.net
+127.0.0.1 komoona.com
 127.0.0.1 kompasads.com
 127.0.0.1 kon.hit.gemius.pl
 127.0.0.1 kona.kontera.com
@@ -44799,6 +44848,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kz.js.need2find.com
 127.0.0.1 kz.search.need2find.com
 127.0.0.1 l-sspcash.adxcore.com
+127.0.0.1 l-trafhicimg.tf
 127.0.0.1 l.5min.com
 127.0.0.1 l.addthiscdn.com
 127.0.0.1 l.admob.com
@@ -45944,6 +45994,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lz.mainentrypoint.com
 127.0.0.1 lzjl.com
 127.0.0.1 lzonline.ivwbox.de
+127.0.0.1 m-itrafficim.tf
 127.0.0.1 m.2mdn.net
 127.0.0.1 m.ad6media.fr
 127.0.0.1 m.adbridge.de
@@ -47954,6 +48005,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mproxy.banner.linksynergy.com
 127.0.0.1 mprptrk.com
 127.0.0.1 mpsnare.iesnare.com
+127.0.0.1 mpstat.us
 127.0.0.1 mpv.sandai.net
 127.0.0.1 mpxxtrk.com
 127.0.0.1 mqs.ioam.de
@@ -48340,6 +48392,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 myyjaosta.spring-tns.net
 127.0.0.1 mz28ismn.com
 127.0.0.1 mzweb.ivwbox.de
+127.0.0.1 n-nrafficimj.tf
 127.0.0.1 n-tv.de.intellitxt.com
 127.0.0.1 n-tv.met.vgwort.de
 127.0.0.1 n.ad-back.net
@@ -49238,6 +49291,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nztv.prod.untd.com
 127.0.0.1 nzz.d3.sc.omtrdc.net
 127.0.0.1 nzz.wemfbox.ch
+127.0.0.1 o-itrafficim.tf
 127.0.0.1 o-oe.com
 127.0.0.1 o.addthis.com
 127.0.0.1 o.adgear.com
@@ -50474,6 +50528,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ozzysixsixsix.web.fc2.com
 127.0.0.1 p-alpha.ooo.al
 127.0.0.1 p-log.ykimg.com
+127.0.0.1 p-tfafficimg.tf
 127.0.0.1 p.37lai.com
 127.0.0.1 p.ace.advertising.com
 127.0.0.1 p.acxiom-online.com
@@ -50936,6 +50991,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 perf.overture.com
 127.0.0.1 perf.weborama.fr
 127.0.0.1 perfect-privacy.postaffiliatepro.com
+127.0.0.1 perfectaudience.com
 127.0.0.1 perfectgirls.net
 127.0.0.1 perfectionautorepairs.com
 127.0.0.1 perfiliate.com
@@ -52333,6 +52389,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pxlctl.as.com
 127.0.0.1 pxlctl.elpais.com
 127.0.0.1 pxses.smowtion.com
+127.0.0.1 q-itrafficim.tf
 127.0.0.1 q.addthis.com
 127.0.0.1 q.admob.com
 127.0.0.1 q.azcentral.com
@@ -52449,6 +52506,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 qy.corrmedic.ru
 127.0.0.1 qyrix.go2cloud.org
 127.0.0.1 qz.informs.com
+127.0.0.1 r-trdfficimj.tf
 127.0.0.1 r.254a.com
 127.0.0.1 r.254a.comjs.moatads.com
 127.0.0.1 r.369dl.com
@@ -52724,6 +52782,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 re.rutan.org
 127.0.0.1 re.try9.com
 127.0.0.1 reachjunction.com
+127.0.0.1 reactx.com
 127.0.0.1 readersdigest.tt.omtrdc.net
 127.0.0.1 readserver.cachefly.net
 127.0.0.1 readserver.net
@@ -53564,6 +53623,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 s-adserver.sandbox.cxad.cxense.com
 127.0.0.1 s-assets.tp-cdn.com
 127.0.0.1 s-e-arch.com
+127.0.0.1 s-gtrafficim.tf
 127.0.0.1 s-jsonp.moatads.com
 127.0.0.1 s-yoolk-banner-assets.yoolk.com
 127.0.0.1 s-yoolk-billboard-assets.yoolk.com
@@ -56878,6 +56938,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stg.widget.crowdignite.com
 127.0.0.1 stichtingmain.nl
 127.0.0.1 sticker.yadro.ru
+127.0.0.1 stickyadstv.com
 127.0.0.1 stimme.ivwbox.de
 127.0.0.1 stimul-m.com.ua
 127.0.0.1 stir.semilo.com
@@ -57264,6 +57325,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 t-online.de.intellitxt.com
 127.0.0.1 t-orf.2cnt.net
 127.0.0.1 t-orf.oewabox.at
+127.0.0.1 t-srafficimg.tf
 127.0.0.1 t-staging.powerreviews.com
 127.0.0.1 t.254a.com
 127.0.0.1 t.9gag.com
@@ -58232,7 +58294,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tk.graphinsider.com
 127.0.0.1 tk3.sbc60.com
 127.0.0.1 tkweb.baidu.com
-127.0.0.1 tlauren.com
 127.0.0.1 tlvmedia.adk2.co
 127.0.0.1 tlvmedia.com
 127.0.0.1 tm.tradetracker.net
