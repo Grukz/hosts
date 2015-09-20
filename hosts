@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 72368 ad serving and malware domains.
+# Currently blocking 72375 ad serving and malware domains.
 #
-# Date Generated: Sep 19 2015
+# Date Generated: Sep 20 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -678,6 +678,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 1src.us.intellitxt.com
 127.0.0.1 1st-fuss.com
 127.0.0.1 1st-media.com
+127.0.0.1 1st.technology
 127.0.0.1 1stfind.com
 127.0.0.1 1stmovieclub.com
 127.0.0.1 1stmovieclub.net
@@ -18234,6 +18235,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adbenefit.go2cloud.org
 127.0.0.1 adbest.com
 127.0.0.1 adbest.net
+127.0.0.1 adbg.hit.gemius.pl
 127.0.0.1 adbid.pl
 127.0.0.1 adbility.com
 127.0.0.1 adbit.co
@@ -39693,6 +39695,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 floridat.app.ur.gcion.com
 127.0.0.1 florineff.ql.st
 127.0.0.1 flower-online.petrovka.info
+127.0.0.1 flower.bg
 127.0.0.1 flowers-offer.com
 127.0.0.1 flowgo.com
 127.0.0.1 flowleadsmedia.go2cloud.org
@@ -42640,6 +42643,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 i.securecontactinfo.com
 127.0.0.1 i.simpli.fi
 127.0.0.1 i.smartwebads.com
+127.0.0.1 i.static.zaplata.bg
 127.0.0.1 i.tapit.com
 127.0.0.1 i.tfag.de
 127.0.0.1 i.theuseful.com
@@ -45140,6 +45144,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 leann-faulk.us
 127.0.0.1 leanne-atwood.us
 127.0.0.1 leanne-rolen.us
+127.0.0.1 leanoisgo.com
 127.0.0.1 leapfind.com
 127.0.0.1 learn.doubleclick.net
 127.0.0.1 learning-offer.com
@@ -51100,7 +51105,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 petrenko.biz
 127.0.0.1 pets.finaltips.com
 127.0.0.1 petsmovies.com
-127.0.0.1 pexinzerty.net
 127.0.0.1 pezrphjl.com
 127.0.0.1 pf.tradedoubler.com
 127.0.0.1 pfa.levexis.com
@@ -53058,7 +53062,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 regame.su
 127.0.0.1 regenbog.ivwbox.de
 127.0.0.1 regflow.com
-127.0.0.1 regidom.net
 127.0.0.1 regie.espace-plus.net
 127.0.0.1 regie.oopt.fr
 127.0.0.1 regiepublicitairecpm.com
@@ -55656,6 +55659,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 snoobi.com
 127.0.0.1 snowplow-collector.sugarops.com
 127.0.0.1 snwmedia.adk2x.com
+127.0.0.1 snyderkatie.com
 127.0.0.1 soa.adition.com
 127.0.0.1 soadev.adition.com
 127.0.0.1 soaold.adition.com
@@ -57134,6 +57138,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 su.addthis.com
 127.0.0.1 su600.com
 127.0.0.1 suads.sulekha.com
+127.0.0.1 suavalds.com
 127.0.0.1 sub.beirinckx.be
 127.0.0.1 sub.hablum.info
 127.0.0.1 sub.uniust.info
@@ -66687,6 +66692,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.b1d.org
 127.0.0.1 www.b23.ru
 127.0.0.1 www.b3d.com
+127.0.0.1 www.babekar.com
 127.0.0.1 www.baciotti.com
 127.0.0.1 www.backsim.ru
 127.0.0.1 www.backtype.com
@@ -67336,6 +67342,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.cpmleader.com
 127.0.0.1 www.cpmprofit.com
 127.0.0.1 www.cpmterra.com
+127.0.0.1 www.cpro.moscow
 127.0.0.1 www.cpv2tracking.com
 127.0.0.1 www.cpx24.com
 127.0.0.1 www.cpxcenter.com
