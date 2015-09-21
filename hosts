@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 72375 ad serving and malware domains.
+# Currently blocking 72379 ad serving and malware domains.
 #
-# Date Generated: Sep 20 2015
+# Date Generated: Sep 21 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -27235,6 +27235,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 balanced.gtsadsdistributed.com
 127.0.0.1 baleron.com
 127.0.0.1 balleralert.us.intellitxt.com
+127.0.0.1 ballitoautobody.co.za
 127.0.0.1 ballsack.org
 127.0.0.1 bam-1.nr-data.net
 127.0.0.1 bam-2.nr-data.net
@@ -32948,6 +32949,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 championbft.com
 127.0.0.1 chanalytics.merchantadvantage.com
 127.0.0.1 changduk26.com
+127.0.0.1 changeexchange4.ru
 127.0.0.1 chango.com
 127.0.0.1 channel4.2cnt.net
 127.0.0.1 channel4.com.112.2o7.net
@@ -43642,6 +43644,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 instant-access.sex-explorer.com
 127.0.0.1 instantbuzz.com
 127.0.0.1 instantmadness.com
+127.0.0.1 instinctiveads.com
 127.0.0.1 instore-audience.pb.adition.com
 127.0.0.1 instruminahui.edu.ec
 127.0.0.1 insurance-rewardpath.com
@@ -55659,7 +55662,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 snoobi.com
 127.0.0.1 snowplow-collector.sugarops.com
 127.0.0.1 snwmedia.adk2x.com
-127.0.0.1 snyderkatie.com
 127.0.0.1 soa.adition.com
 127.0.0.1 soadev.adition.com
 127.0.0.1 soaold.adition.com
@@ -57699,6 +57701,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tangomedia.112.2o7.net
 127.0.0.1 tanieaukcje.com
 127.0.0.1 taniezakupy.pl
+127.0.0.1 tanthanhdanh.vn
 127.0.0.1 tantrack.info
 127.0.0.1 tanzanite.infomine.com
 127.0.0.1 taobao.lylwc.com
@@ -67049,6 +67052,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.chainsawoffer.com
 127.0.0.1 www.champrank.de
 127.0.0.1 www.changeexchange.ru
+127.0.0.1 www.changeexchange2.ru
 127.0.0.1 www.chango.com
 127.0.0.1 www.chartbeat.com
 127.0.0.1 www.chartboost.com
@@ -68485,6 +68489,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.inspectorclick.com
 127.0.0.1 www.instafinder.com
 127.0.0.1 www.instantbuzz.com
+127.0.0.1 www.instinctiveads.com
 127.0.0.1 www.insurance-rewardpath.com
 127.0.0.1 www.intaii.com
 127.0.0.1 www.integrate.com
@@ -71289,7 +71294,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.youyield.com
 127.0.0.1 www.ypmadserver.com
 127.0.0.1 www.ypmate.com
-127.0.0.1 www.ypu.edu.tw
 127.0.0.1 www.yrals.com
 127.0.0.1 www.ysbweb.com
 127.0.0.1 www.ysearchus.com
