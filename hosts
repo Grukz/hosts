@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 72379 ad serving and malware domains.
+# Currently blocking 72393 ad serving and malware domains.
 #
-# Date Generated: Sep 21 2015
+# Date Generated: Sep 22 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2249,6 +2249,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.netmng.com
 127.0.0.1 a.networkworld.com
 127.0.0.1 a.ns.inbox.lv
+127.0.0.1 a.o333o.com
 127.0.0.1 a.oceansalive.org
 127.0.0.1 a.oix.com
 127.0.0.1 a.oix.net
@@ -32583,6 +32584,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.nprove.com
 127.0.0.1 cdn.nsimg.net
 127.0.0.1 cdn.nvero.net
+127.0.0.1 cdn.o333o.com
 127.0.0.1 cdn.oggifinogi.com
 127.0.0.1 cdn.onescreen.net
 127.0.0.1 cdn.onlinecountdowns.com
@@ -32976,6 +32978,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 chastity-stoltenberg.us
 127.0.0.1 chat.888.com
 127.0.0.1 chat.adspaces.ero-advertising.com
+127.0.0.1 chat.altacom.it
 127.0.0.1 chat.ero-advertising.com
 127.0.0.1 chat.ezula.com
 127.0.0.1 chat.zedo.com
@@ -37525,6 +37528,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 domdex.com
 127.0.0.1 domefocrisis.ru
 127.0.0.1 domifondery.com
+127.0.0.1 domifondery3d.com
 127.0.0.1 dominionenterprises.112.2o7.net
 127.0.0.1 dominoziele.pw
 127.0.0.1 dompark.dadapro.com
@@ -38777,6 +38781,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 eroadvertising.net
 127.0.0.1 eroadvertising.nl
 127.0.0.1 eroadvertising.org
+127.0.0.1 eroanalysis.com
 127.0.0.1 erofan.com
 127.0.0.1 eroov.iptvdeals.com
 127.0.0.1 eroshere.net
@@ -48739,6 +48744,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nethit-free.nl
 127.0.0.1 netidentity.com
 127.0.0.1 netincap.com
+127.0.0.1 netingsteams.com
 127.0.0.1 netlinktrack.com
 127.0.0.1 netmarketeur.com
 127.0.0.1 netmarketing2004.com
@@ -55520,6 +55526,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 slimxxxtubeyza.ddns.name
 127.0.0.1 slinse.com
 127.0.0.1 slivoratikam.pw
+127.0.0.1 slot.sub-zero.it
 127.0.0.1 slovakia.hit.gemius.pl
 127.0.0.1 sls.go2cloud.org
 127.0.0.1 sls.update.microsoft.com.akadns.net
@@ -57181,6 +57188,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sunopenoffice.112.2o7.net
 127.0.0.1 suo.lp.mydas.mobi
 127.0.0.1 sup.adfox.ru
+127.0.0.1 super-iphone-shop.ru
 127.0.0.1 superadmin.adition.com
 127.0.0.1 superbrewards.com
 127.0.0.1 supercars.us.intellitxt.com
@@ -58450,6 +58458,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 tom01.ixn.local.vmsn.de
 127.0.0.1 tom2.int.vmsn.de
 127.0.0.1 tomalinoalambres.com.ar
+127.0.0.1 tommysbookmarks.com
+127.0.0.1 tommysbookmarks.net
 127.0.0.1 tomorrownewstoday.com
 127.0.0.1 toms.us.intellitxt.com
 127.0.0.1 tomsforumz.us.intellitxt.com
@@ -58605,6 +58615,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 topstat.ru
 127.0.0.1 topstats.com
 127.0.0.1 topstats.net
+127.0.0.1 topsurvey-offers.com
 127.0.0.1 toptechreviews.us.intellitxt.com
 127.0.0.1 toptenreviews.us.intellitxt.com
 127.0.0.1 toptrafficsource.com
@@ -60895,6 +60906,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 video1.adprimemedia.com
 127.0.0.1 video1.fastclick.net
 127.0.0.1 videoads.theonion.com
+127.0.0.1 videobox.com
 127.0.0.1 videobug.net
 127.0.0.1 videoclick.ru
 127.0.0.1 videocodezone.us.intellitxt.com
@@ -66240,6 +66252,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.adnet.biz
 127.0.0.1 www.adnet.com
 127.0.0.1 www.adnet.de
+127.0.0.1 www.adnetworkperformance.com
 127.0.0.1 www.adnxs1.com
 127.0.0.1 www.adobee.com
 127.0.0.1 www.adobetag.com
@@ -66679,7 +66692,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.avwbox.de
 127.0.0.1 www.aweber.com
 127.0.0.1 www.awesomevipoffers.com
-127.0.0.1 www.awin1.com
 127.0.0.1 www.awin2.com
 127.0.0.1 www.awltovhc.com
 127.0.0.1 www.awm-help.com
@@ -67608,6 +67620,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ebaybanner.com
 127.0.0.1 www.ebonybymail.com
 127.0.0.1 www.ebtmarketing.com
+127.0.0.1 www.eclkmpsa.com
 127.0.0.1 www.ecoleprincessedeliege.be
 127.0.0.1 www.econda-monitor.de
 127.0.0.1 www.eddie-theriot.us
@@ -67687,6 +67700,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.eroadvertising.com
 127.0.0.1 www.eroadvertising.info
 127.0.0.1 www.eroadvertising.nl
+127.0.0.1 www.eroanalysis.com
 127.0.0.1 www.erodynamics.nl
 127.0.0.1 www.erostracker.com
 127.0.0.1 www.erostracker.net
