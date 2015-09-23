@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 72393 ad serving and malware domains.
+# Currently blocking 72390 ad serving and malware domains.
 #
-# Date Generated: Sep 22 2015
+# Date Generated: Sep 23 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26891,6 +26891,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aurora-wilhelm.us
 127.0.0.1 aurora.starpartner.com
 127.0.0.1 aus.laola1.tv
+127.0.0.1 ausecureppt.com
 127.0.0.1 auslieferung.commindo-media-ressourcen.de
 127.0.0.1 auspice.augur.io
 127.0.0.1 australiapost.122.2o7.net
@@ -26953,7 +26954,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 aveconomic.trailswest.org
 127.0.0.1 avenfeld.com
 127.0.0.1 avenuea.com
-127.0.0.1 avg.com32.info
 127.0.0.1 avgtechnologies.112.2o7.net
 127.0.0.1 avidnewssource.com
 127.0.0.1 avidtrak.com
@@ -33240,6 +33240,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 class-act-clicks.com
 127.0.0.1 class.heraldnet.com
 127.0.0.1 classic.mbn.com.ua
+127.0.0.1 classicalbitu.com
 127.0.0.1 classicallyabsurdphotography.com
 127.0.0.1 classicjack.com
 127.0.0.1 classicspeedway.com
@@ -39761,7 +39762,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 folloyu.com
 127.0.0.1 fondazioneciampi.org
 127.0.0.1 fonecta.leiki.com
-127.0.0.1 fongyeh.com.tw
 127.0.0.1 foo.cosmocode.de
 127.0.0.1 foo.freelogs.com
 127.0.0.1 food-drink-bonuspath.com
@@ -42404,7 +42404,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 hotel-las-vegas.gloses.net
 127.0.0.1 hotelavalon.org
 127.0.0.1 hotelscom.122.2o7.net
-127.0.0.1 hoteltqm.com
 127.0.0.1 hotfacesitting.com
 127.0.0.1 hotgiftzone.com
 127.0.0.1 hothardware.us.intellitxt.com
@@ -44378,6 +44377,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 join1.winhundred.com
 127.0.0.1 join2.winhundred.com
 127.0.0.1 join4free.com
+127.0.0.1 joistbal.com
 127.0.0.1 jokedollars.com
 127.0.0.1 jokep.com
 127.0.0.1 jolene-mclin.us
@@ -44654,7 +44654,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 karla-law.us
 127.0.0.1 karoline-fortin.us
 127.0.0.1 kaspersky.122.2o7.net
-127.0.0.1 kaspersky.com32.info
 127.0.0.1 kasperthreatpostprod.112.2o7.net
 127.0.0.1 kassandra-chick.us
 127.0.0.1 kassandra-ronan.us
@@ -44693,7 +44692,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 keen.io
 127.0.0.1 keepaneyeadmk.hit.gemius.pl
 127.0.0.1 keepaneyemk.adocean.pl
-127.0.0.1 keertan.org
 127.0.0.1 kefu.duba.net
 127.0.0.1 keisu.eproof.com
 127.0.0.1 keisu02.eproof.com
@@ -45255,6 +45253,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 likethis.mbosoft.com
 127.0.0.1 likethislist.biz
 127.0.0.1 liliana-prokop.us
+127.0.0.1 lilishop.ro
 127.0.0.1 lily-mcnamara.us
 127.0.0.1 limg.adspirit.de
 127.0.0.1 limitlessoffers.go2cloud.org
@@ -48032,7 +48031,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 motifcdn2.doubleclick.net
 127.0.0.1 motionhits.com
 127.0.0.1 motor-talk.digidip.net
-127.0.0.1 motoresin.com
 127.0.0.1 motormarket.com
 127.0.0.1 motorsport-total.de.intellitxt.com
 127.0.0.1 motortrend.us.intellitxt.com
@@ -48744,7 +48742,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 nethit-free.nl
 127.0.0.1 netidentity.com
 127.0.0.1 netincap.com
-127.0.0.1 netingsteams.com
 127.0.0.1 netlinktrack.com
 127.0.0.1 netmarketeur.com
 127.0.0.1 netmarketing2004.com
