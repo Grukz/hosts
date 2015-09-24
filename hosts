@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 72390 ad serving and malware domains.
 #
-# Date Generated: Sep 23 2015
+# Date Generated: Sep 24 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26891,7 +26891,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 aurora-wilhelm.us
 127.0.0.1 aurora.starpartner.com
 127.0.0.1 aus.laola1.tv
-127.0.0.1 ausecureppt.com
 127.0.0.1 auslieferung.commindo-media-ressourcen.de
 127.0.0.1 auspice.augur.io
 127.0.0.1 australiapost.122.2o7.net
@@ -38591,6 +38590,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 emediate.eu
 127.0.0.1 emediate.se
 127.0.0.1 emekonline.tk
+127.0.0.1 emeonlineinc.com
 127.0.0.1 emeza-ch01.webtrekk.net
 127.0.0.1 emeza-com01.webtrekk.net
 127.0.0.1 emeza-de01.webtrekk.net
@@ -39255,6 +39255,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 f8b2b9.su
 127.0.0.1 f935-2e8e-c7df-392d.reporo.net
 127.0.0.1 fabar.outwar.com
+127.0.0.1 facbereau.tk
 127.0.0.1 facebook-repto1040s2.ahlamountada.com
 127.0.0.1 facebookinc.122.2o7.net
 127.0.0.1 faceboook-replyei0ki.montadalitihad.com
@@ -44377,7 +44378,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 join1.winhundred.com
 127.0.0.1 join2.winhundred.com
 127.0.0.1 join4free.com
-127.0.0.1 joistbal.com
 127.0.0.1 jokedollars.com
 127.0.0.1 jokep.com
 127.0.0.1 jolene-mclin.us
@@ -57226,6 +57226,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 support.sweepstakes.com
 127.0.0.1 supportnet.de.intellitxt.com
 127.0.0.1 supremeadsonline.com
+127.0.0.1 supremedoc.com
 127.0.0.1 suptullog.com
 127.0.0.1 sureads.com
 127.0.0.1 surebaby.us.intellitxt.com
@@ -66704,7 +66705,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.b1d.org
 127.0.0.1 www.b23.ru
 127.0.0.1 www.b3d.com
-127.0.0.1 www.babekar.com
 127.0.0.1 www.baciotti.com
 127.0.0.1 www.backsim.ru
 127.0.0.1 www.backtype.com
