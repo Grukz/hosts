@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 72533 ad serving and malware domains.
+# Currently blocking 72538 ad serving and malware domains.
 #
-# Date Generated: Oct 07 2015
+# Date Generated: Oct 08 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -19027,6 +19027,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 admp.sanoma.fi
 127.0.0.1 admperformance.go2cloud.org
 127.0.0.1 adms.physorg.com
+127.0.0.1 admtpmp123.com
+127.0.0.1 admtpmp124.com
 127.0.0.1 admtpmp127.adsk2.co
 127.0.0.1 admulti.com
 127.0.0.1 admunds.com
@@ -19166,6 +19168,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adplus.co.id
 127.0.0.1 adplus.goo.mx
 127.0.0.1 adplus.yonhapnews.co.kr
+127.0.0.1 adplxmd.com
 127.0.0.1 adpoolnet.net
 127.0.0.1 adpop.theglobe.net
 127.0.0.1 adportal.advertisingnemesis.com
@@ -25111,6 +25114,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ah-ha.com
 127.0.0.1 ah-me.com
 127.0.0.1 ah.pricegrabber.com
+127.0.0.1 ahalogy.com
 127.0.0.1 ahbn1.hitbox.com
 127.0.0.1 ahbn2.hitbox.com
 127.0.0.1 ahbn3.hitbox.com
@@ -32911,6 +32915,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cengagecsinfosec.112.2o7.net
 127.0.0.1 cent.adbureau.net
 127.0.0.1 center-vip.com
+127.0.0.1 centerium.eu
 127.0.0.1 centerpoint.hitbox.com
 127.0.0.1 centertrk.com
 127.0.0.1 centik.justclick.ru
@@ -34140,7 +34145,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 com.shc-rebates.com
 127.0.0.1 comadverts.bcmpweb.co.nz
 127.0.0.1 comagic.ru
-127.0.0.1 combers-uk.com
 127.0.0.1 combine.urbanairship.com
 127.0.0.1 comcast.112.2o7.net
 127.0.0.1 comcast.demdex.net
@@ -36727,6 +36731,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 data.ppn-ad-cdn.populis.com
 127.0.0.1 data.publishflow.com
 127.0.0.1 data.queryly.com
+127.0.0.1 data.quithappenbetting.com
 127.0.0.1 data.redhelper.ru
 127.0.0.1 data.replacingobservedlose.info
 127.0.0.1 data.ritzcarlton.com
@@ -41199,6 +41204,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 get.mycounter.ua
 127.0.0.1 get.netscape.com
 127.0.0.1 get.qualaroo.com
+127.0.0.1 get.quithappenbetting.com
 127.0.0.1 get.replacingobservedlose.info
 127.0.0.1 get.rubyroyal.com
 127.0.0.1 get.sad9876.info
@@ -42821,6 +42827,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 iar.worthathousandwords.com
 127.0.0.1 ias.hitbox.com
 127.0.0.1 ias2.hitbox.com
+127.0.0.1 iasds01.com
 127.0.0.1 iaspromotes.com
 127.0.0.1 iavwbox.de
 127.0.0.1 ib.3lift.com
@@ -49145,7 +49152,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 nonesuppgookkoler.su
 127.0.0.1 nonsi.csheaven.com
 127.0.0.1 nonstopeddanceraz.su
-127.0.0.1 nony.pw
 127.0.0.1 noobgirls.com
 127.0.0.1 noonepa.tk
 127.0.0.1 noowho.com
@@ -49390,7 +49396,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 nvk.realsecuredredirect.com
 127.0.0.1 nvtrak.com
 127.0.0.1 nw.ads.doko.jp
-127.0.0.1 nwab.pw
 127.0.0.1 nwhomecare.co.uk
 127.0.0.1 nwidget.networkedblogs.com
 127.0.0.1 nws.naltis.com
