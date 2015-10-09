@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 72538 ad serving and malware domains.
+# Currently blocking 72558 ad serving and malware domains.
 #
-# Date Generated: Oct 08 2015
+# Date Generated: Oct 09 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -27250,6 +27250,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 balabass.peerserver.com
 127.0.0.1 balakin.popunder.ru
 127.0.0.1 balanced.gtsadsdistributed.com
+127.0.0.1 balcaolocal.com
 127.0.0.1 baleron.com
 127.0.0.1 balleralert.us.intellitxt.com
 127.0.0.1 ballsack.org
@@ -28861,6 +28862,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 beatyhousesupporte.su
 127.0.0.1 beauty.finaltips.com
 127.0.0.1 beautyden.us.intellitxt.com
+127.0.0.1 beautyessentials.com.au
 127.0.0.1 beautysafari.com
 127.0.0.1 bebo.crwdcntrl.net
 127.0.0.1 becausebabes.go2cloud.org
@@ -33818,6 +33820,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cm.cmt.overture.com
 127.0.0.1 cm.comedycentral.overture.com
 127.0.0.1 cm.de.overture.com
+127.0.0.1 cm.dpclk.com
 127.0.0.1 cm.emarbox.com
 127.0.0.1 cm.eu.guardian.overture.com
 127.0.0.1 cm.eyereturn.com
@@ -36102,6 +36105,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cs.exposedontape.com
 127.0.0.1 cs.go.affec.tv
 127.0.0.1 cs.luckyorange.net
+127.0.0.1 cs.meltdsp.com
 127.0.0.1 cs.montrealplus.ca
 127.0.0.1 cs.prd.msys.playstation.net
 127.0.0.1 cs.sexcounter.com
@@ -37835,6 +37839,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ds.serving-sys.com
 127.0.0.1 ds1.onet.pl
 127.0.0.1 dsa.csdata1.com
+127.0.0.1 dsct1.com
 127.0.0.1 dserver.hw.net
 127.0.0.1 dsgretaillimited.tt.omtrdc.net
 127.0.0.1 dsm.doubleclick.net
@@ -38751,6 +38756,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 enn.advertserve.com
 127.0.0.1 enoratraffic.com
 127.0.0.1 enpresse.1.p2l.info
+127.0.0.1 enquete-annuelle.info
 127.0.0.1 enquisite.com
 127.0.0.1 enrichment.moportals.com
 127.0.0.1 enscl.com
@@ -46311,6 +46317,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 m3.webstats.motigo.com
 127.0.0.1 m3.za.2mdn.net
 127.0.0.1 m4.ae.2mdn.net
+127.0.0.1 m4.afs.googleadservices.com
 127.0.0.1 m4.au.2mdn.net
 127.0.0.1 m4.be.2mdn.net
 127.0.0.1 m4.br.2mdn.net
@@ -47796,6 +47803,13 @@ ff02::2 ip6-allrouters
 127.0.0.1 milyondolar.com
 127.0.0.1 mim.io
 127.0.0.1 mimage.opentext.com
+127.0.0.1 mimageads.googleadservices.com
+127.0.0.1 mimageads1.googleadservices.com
+127.0.0.1 mimageads2.googleadservices.com
+127.0.0.1 mimageads4.googleadservices.com
+127.0.0.1 mimageads6.googleadservices.com
+127.0.0.1 mimageads8.googleadservices.com
+127.0.0.1 mimageads9.googleadservices.com
 127.0.0.1 mimg-snv.mediaplex.com
 127.0.0.1 mimicrice.com
 127.0.0.1 mindstormstudio.ro
@@ -48007,6 +48021,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mobooka.hasoffers.com
 127.0.0.1 mobpartner.com
 127.0.0.1 mobpartner.mobi
+127.0.0.1 mobscan.info
 127.0.0.1 mobscout-stage.dus.vmsn.de
 127.0.0.1 mobscout.dus.vmsn.de
 127.0.0.1 mobstac.com
@@ -48157,7 +48172,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mp.twitch.tv
 127.0.0.1 mp3.zonebg.com
 127.0.0.1 mp3playersource.com
-127.0.0.1 mpc1.in
+127.0.0.1 mpartner.googleadservices.com
 127.0.0.1 mpire.112.2o7.net
 127.0.0.1 mplayerdownloader.com
 127.0.0.1 mpm.payback.de
@@ -48808,7 +48823,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 netaffiliation.com
 127.0.0.1 netagent.cz
 127.0.0.1 netbanner.com
-127.0.0.1 netcafeii.in
 127.0.0.1 netclickstats.com
 127.0.0.1 netcologne-01.webtrekk.net
 127.0.0.1 netcomm.spinbox.net
@@ -50447,6 +50461,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 orbitz.tt.omtrdc.net
 127.0.0.1 orbowlada.strefa.pl
 127.0.0.1 orca.qubitproducts.com
+127.0.0.1 orcamentosegurosaude.com
 127.0.0.1 order-hydrocodone.polybuild.ru
 127.0.0.1 order-phentermine.polybuild.ru
 127.0.0.1 order-valium.polybuild.ru
@@ -51498,6 +51513,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pixel.crosspixel.net
 127.0.0.1 pixel.despegar.com
 127.0.0.1 pixel.everesttech.net
+127.0.0.1 pixel.eversttech.net
 127.0.0.1 pixel.facebook.com
 127.0.0.1 pixel.fanbridge.com
 127.0.0.1 pixel.fetchback.com
@@ -52127,6 +52143,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 promo.pimproll.com
 127.0.0.1 promo.selbstaendig20.12227.digistore24.com
 127.0.0.1 promo.sensationalcash.com
+127.0.0.1 promo.streaming-illimite.net
 127.0.0.1 promo.twistyscash.com
 127.0.0.1 promo.ulust.com
 127.0.0.1 promo.webmasterprofitcenter.com
@@ -58418,6 +58435,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 thoughtfully-free.com
 127.0.0.1 thoughtsmedia.us.intellitxt.com
 127.0.0.1 threadwatch.us.intellitxt.com
+127.0.0.1 threefrom.com
 127.0.0.1 thruport.com
 127.0.0.1 thumb.ero-advertising.com
 127.0.0.1 thumbads.ero-advertising.com
@@ -59047,6 +59065,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 track.trademail.fr
 127.0.0.1 track.trafficholder.com
 127.0.0.1 track.trafiz.net
+127.0.0.1 track.turboyourpc.com
 127.0.0.1 track.umeng.com
 127.0.0.1 track.untd.com
 127.0.0.1 track.v2.sslsecure1.com
@@ -67715,6 +67734,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.drsnsrch.com
 127.0.0.1 www.drtserver.com
 127.0.0.1 www.drugs-cheap.com
+127.0.0.1 www.dsct1.com
 127.0.0.1 www.dsmmadvantage.com
 127.0.0.1 www.dsnextgen.com
 127.0.0.1 www.dsnr.net
