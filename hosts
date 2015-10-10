@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 72558 ad serving and malware domains.
+# Currently blocking 72573 ad serving and malware domains.
 #
-# Date Generated: Oct 09 2015
+# Date Generated: Oct 10 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -23641,6 +23641,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adsrvr.com
 127.0.0.1 adsrvr.org
 127.0.0.1 adss.ad-maven.com
+127.0.0.1 adss.comeadvertisewithus.com
 127.0.0.1 adss.hookupbucks.com
 127.0.0.1 adss.yahoo.com
 127.0.0.1 adsserving.net
@@ -34462,6 +34463,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 corba.adtech.fr
 127.0.0.1 corba.adtech.us
 127.0.0.1 cordo-55.com
+127.0.0.1 cordobapersonal.com
 127.0.0.1 core.ad20.net
 127.0.0.1 core.adprotected.com
 127.0.0.1 core.adproxy2.com
@@ -36729,6 +36731,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 data.kataweb.it
 127.0.0.1 data.lizads.com
 127.0.0.1 data.marketgid.com
+127.0.0.1 data.mb8e17f12.website
 127.0.0.1 data.mobclix.com
 127.0.0.1 data.neuroxmedia.com
 127.0.0.1 data.perion.com
@@ -39118,6 +39121,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 exits2.webquest.net
 127.0.0.1 exitsplash.s3.amazonaws.com
 127.0.0.1 exitstitial.gopher.com
+127.0.0.1 exity.info
 127.0.0.1 exityield.advertise.com
 127.0.0.1 exkn0md6fh.qsdgi.com
 127.0.0.1 exmapro.go2cloud.org
@@ -41205,6 +41209,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 get.hitbox.com
 127.0.0.1 get.inetbar.com
 127.0.0.1 get.lingospot.com
+127.0.0.1 get.mb8e17f12.website
 127.0.0.1 get.mirando.de
 127.0.0.1 get.mycounter.com.ua
 127.0.0.1 get.mycounter.ua
@@ -44460,6 +44465,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 joshtest1.evsuite.com
 127.0.0.1 josie-deltoro.us
 127.0.0.1 josip-stadler.org
+127.0.0.1 journal-des-bourses.com
 127.0.0.1 journalism.uk.smarttargetting.com
 127.0.0.1 journalregistercompany.122.2o7.net
 127.0.0.1 jowworldwide.oo3.co
@@ -46488,6 +46494,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 machine.fairfaxbm.co.nz
 127.0.0.1 mackeeperapp.mackeeper.com
 127.0.0.1 mackeeperapp1.zeobit.com
+127.0.0.1 mackeeperapp3.mackeeper.com
 127.0.0.1 mackenzie-brand.us
 127.0.0.1 macmegasite.us.intellitxt.com
 127.0.0.1 macnewsworld.us.intellitxt.com
@@ -47806,8 +47813,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 mimageads.googleadservices.com
 127.0.0.1 mimageads1.googleadservices.com
 127.0.0.1 mimageads2.googleadservices.com
+127.0.0.1 mimageads3.googleadservices.com
 127.0.0.1 mimageads4.googleadservices.com
+127.0.0.1 mimageads5.googleadservices.com
 127.0.0.1 mimageads6.googleadservices.com
+127.0.0.1 mimageads7.googleadservices.com
 127.0.0.1 mimageads8.googleadservices.com
 127.0.0.1 mimageads9.googleadservices.com
 127.0.0.1 mimg-snv.mediaplex.com
@@ -54712,6 +54722,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 seavideo-ak.espn.go.com
 127.0.0.1 seawood.org
 127.0.0.1 seb.d1.sc.omtrdc.net
+127.0.0.1 sebar.thand.info
 127.0.0.1 sebcotrk.com
 127.0.0.1 sebeadmin.justclick.ru
 127.0.0.1 sec.hit.gemius.pl
@@ -55047,6 +55058,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 servedby.precisionclick.com
 127.0.0.1 servedby.proxena-adserver.com
 127.0.0.1 servedby.revcontent.com
+127.0.0.1 servedby.reviveservers.com
 127.0.0.1 servedby.studads.com
 127.0.0.1 servedby.valuead.com
 127.0.0.1 servedby1.advertising.com
@@ -57617,6 +57629,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 t.mookie1.com
 127.0.0.1 t.mplxtms.com
 127.0.0.1 t.mtagmonetizationa.com
+127.0.0.1 t.mtagmonetizationb.com
 127.0.0.1 t.myfuncards.com
 127.0.0.1 t.myvisualiq.net
 127.0.0.1 t.neodatagroup.com
@@ -58435,7 +58448,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 thoughtfully-free.com
 127.0.0.1 thoughtsmedia.us.intellitxt.com
 127.0.0.1 threadwatch.us.intellitxt.com
-127.0.0.1 threefrom.com
 127.0.0.1 thruport.com
 127.0.0.1 thumb.ero-advertising.com
 127.0.0.1 thumbads.ero-advertising.com
@@ -69377,6 +69389,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.megacounter.de
 127.0.0.1 www.megan-farrier.us
 127.0.0.1 www.megan-stagner.us
+127.0.0.1 www.megapopads.com
 127.0.0.1 www.megapornbucks.com
 127.0.0.1 www.megapowersearch.com
 127.0.0.1 www.megastats.com
@@ -69400,6 +69413,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.metacount.com
 127.0.0.1 www.metareward.com
 127.0.0.1 www.metavertising.com
+127.0.0.1 www.methodcasino2015.com
 127.0.0.1 www.metricsimage.com
 127.0.0.1 www.mfsuite.com
 127.0.0.1 www.mgcash.com
@@ -70045,6 +70059,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.pulsix.com
 127.0.0.1 www.punishtube.com
 127.0.0.1 www.puppykibble.com
+127.0.0.1 www.pureadexchange.com
 127.0.0.1 www.purplehorses.net
 127.0.0.1 www.pussybabes.net
 127.0.0.1 www.pussyharem.com
