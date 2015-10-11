@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 72573 ad serving and malware domains.
+# Currently blocking 72581 ad serving and malware domains.
 #
-# Date Generated: Oct 10 2015
+# Date Generated: Oct 11 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -27235,6 +27235,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 backup02.dus.local.vmsn.de
 127.0.0.1 backups.crittercism.com
 127.0.0.1 baden24.ivwbox.de
+127.0.0.1 badenhallfishery.com
 127.0.0.1 badge.stumbleupon.com
 127.0.0.1 badges.instagram.com
 127.0.0.1 badoink.com
@@ -40433,6 +40434,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 france.bpath.com
 127.0.0.1 francesca-fleetwood.us
 127.0.0.1 francesca-studer.us
+127.0.0.1 frangopoulosproperty.com
 127.0.0.1 frank1.ddf.al
 127.0.0.1 frantic.com
 127.0.0.1 frapost.ivwbox.de
@@ -45260,6 +45262,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lenovo.tt.omtrdc.net
 127.0.0.1 leo94dhgfyw-df87fb.tk
 127.0.0.1 leon10.5gbfree.com
+127.0.0.1 leonardoilgenio.it
 127.0.0.1 lerelais.com
 127.0.0.1 lertoworldline.ru
 127.0.0.1 lesbian-erotica.hitbox.com
@@ -45570,6 +45573,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 live.ivwbox.de
 127.0.0.1 live.logaholic.com
 127.0.0.1 live.monitus.net
+127.0.0.1 live.rads.msn.com
 127.0.0.1 live.sekindo.com
 127.0.0.1 live.sex-explorer.com
 127.0.0.1 live1.logaholic.com
@@ -48785,7 +48789,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 nedstatbasic.net
 127.0.0.1 nedstatpro.net
 127.0.0.1 nedstats.xs4all.nl
-127.0.0.1 neease.com
 127.0.0.1 need.2mng.com
 127.0.0.1 needadvertising.com
 127.0.0.1 nefib.tourstogo.us
@@ -52728,6 +52731,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 r.ads.zynga.com
 127.0.0.1 r.adserver01.de
 127.0.0.1 r.aol.com
+127.0.0.1 r.apina.biz
 127.0.0.1 r.bbci.co.uk
 127.0.0.1 r.bid4keywords.com
 127.0.0.1 r.casalemedia.com
@@ -54781,6 +54785,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 secure.expressdelivery.biz
 127.0.0.1 secure.fastclick.net
 127.0.0.1 secure.fhserve.com
+127.0.0.1 secure.flashtalking.com
 127.0.0.1 secure.footprint.net
 127.0.0.1 secure.fortuneaffiliates.com
 127.0.0.1 secure.gaug.es
@@ -54966,6 +54971,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 serve.williamhill.com
 127.0.0.1 serve.williamhill.it
 127.0.0.1 serve.williamhillcasino.com.27688.9216.302br.net
+127.0.0.1 servecontent.net
 127.0.0.1 servedby.adcombination.com
 127.0.0.1 servedby.adsdumpo.com
 127.0.0.1 servedby.adsfactor.net
@@ -55339,6 +55345,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 shlinks.industrybrains.com
 127.0.0.1 shoac.mymag250.co.uk
 127.0.0.1 shonda-nowicki.us
+127.0.0.1 shop-lehonda.biz
 127.0.0.1 shop.adition.com
 127.0.0.1 shop.gnezdo.ru
 127.0.0.1 shop.kauffes.de
@@ -65844,6 +65851,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 womenslabour.org
 127.0.0.1 womo.corrmedic.ru
 127.0.0.1 won.images.streamray.com
+127.0.0.1 wonderlandads.com
 127.0.0.1 wondoads.de
 127.0.0.1 woolyboys.com
 127.0.0.1 woopra.com
