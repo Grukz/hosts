@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 72581 ad serving and malware domains.
+# Currently blocking 72591 ad serving and malware domains.
 #
-# Date Generated: Oct 11 2015
+# Date Generated: Oct 12 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26385,6 +26385,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 apple-trusted.com
 127.0.0.1 applebox.co.id
 127.0.0.1 appleglobal.112.2o7.net
+127.0.0.1 appleitl.rewards-bonanza-2.com
 127.0.0.1 applestore.com-mobile.gift
 127.0.0.1 applestoreus.112.2o7.net
 127.0.0.1 applets.sulekha.com
@@ -29069,6 +29070,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bidsystem.adknowledge.com
 127.0.0.1 bidsystem.com
 127.0.0.1 bidtraffic.com
+127.0.0.1 bidtrk.com
 127.0.0.1 bidvertiser.com
 127.0.0.1 bielertb.wemfbox.ch
 127.0.0.1 bien-vivre-en-sarladais.com
@@ -29150,7 +29152,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 biowebb-data.s3.amazonaws.com
 127.0.0.1 birta.stats.is
 127.0.0.1 birth-control.1.p2l.info
-127.0.0.1 bismilliahk.com
 127.0.0.1 bist.ailsg.com
 127.0.0.1 bit-tech.uk.intellitxt.com
 127.0.0.1 bit.do
@@ -33393,6 +33394,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 click.monstracking.com
 127.0.0.1 click.mp3.com
 127.0.0.1 click.mrrage.com
+127.0.0.1 click.mvc19.com
 127.0.0.1 click.mz.simba.taobao.com
 127.0.0.1 click.netpondcash.com
 127.0.0.1 click.news2.v3.email-publisher.com
@@ -34023,6 +34025,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cntdy.mobi
 127.0.0.1 cnteryield.jmp9.com
 127.0.0.1 cntr.adrime.com
+127.0.0.1 cntrck.com
 127.0.0.1 cntv.wrating.com
 127.0.0.1 cnzz.com
 127.0.0.1 cnzz.mmstat.com
@@ -44271,6 +44274,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jbeet.cjt1.net
 127.0.0.1 jbit.cjt1.net
 127.0.0.1 jbonlinemedia-electronics.t.domdex.com
+127.0.0.1 jbrotrk.com
 127.0.0.1 jbugk.com
 127.0.0.1 jc.revolvermaps.com
 127.0.0.1 jcarter.spinbox.net
@@ -44451,6 +44455,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 joejdbjrmrkklfnmf.usr.me
 127.0.0.1 joepussy.tk
 127.0.0.1 joetec.net
+127.0.0.1 johmetalinc.pw
 127.0.0.1 johnchow.us.intellitxt.com
 127.0.0.1 johnlewis.112.2o7.net
 127.0.0.1 join.whitegfs.com
@@ -45232,6 +45237,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 leads.ohecampus.com
 127.0.0.1 leadsynaptic.go2jump.org
 127.0.0.1 leadtracking.plumvoice.com
+127.0.0.1 leadzupc.com
 127.0.0.1 leagleconsulting.com
 127.0.0.1 leaitworldprod.112.2o7.net
 127.0.0.1 leann-faulk.us
@@ -47391,6 +47397,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 metrica.yandex.kz
 127.0.0.1 metrica.yandex.ru
 127.0.0.1 metrica.yandex.ua
+127.0.0.1 metricology.com
 127.0.0.1 metrics-api.librato.com
 127.0.0.1 metrics.aarp.org
 127.0.0.1 metrics.accuweather.com
@@ -51203,6 +51210,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 perfectionautorepairs.com
 127.0.0.1 perfiliate.com
 127.0.0.1 performance.affiliaxe.com
+127.0.0.1 performancerevenue.com
 127.0.0.1 performancerevenues.com
 127.0.0.1 performances.bestofmedia.com
 127.0.0.1 performancing.com
@@ -55345,7 +55353,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 shlinks.industrybrains.com
 127.0.0.1 shoac.mymag250.co.uk
 127.0.0.1 shonda-nowicki.us
-127.0.0.1 shop-lehonda.biz
 127.0.0.1 shop.adition.com
 127.0.0.1 shop.gnezdo.ru
 127.0.0.1 shop.kauffes.de
@@ -59471,6 +59478,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trackingoffer.net
 127.0.0.1 trackingsoft.com
 127.0.0.1 trackingstatalytics.com
+127.0.0.1 trackinguk2.com
 127.0.0.1 tracklead.net
 127.0.0.1 trackmysales.com
 127.0.0.1 tracknet.twyn.com
@@ -69422,6 +69430,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.metareward.com
 127.0.0.1 www.metavertising.com
 127.0.0.1 www.methodcasino2015.com
+127.0.0.1 www.metricology.com
 127.0.0.1 www.metricsimage.com
 127.0.0.1 www.mfsuite.com
 127.0.0.1 www.mgcash.com
@@ -70960,6 +70969,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.trackingclick.net
 127.0.0.1 www.trackingindahouse.com
 127.0.0.1 www.trackingstatalytics.com
+127.0.0.1 www.trackinguk2.com
 127.0.0.1 www.tracklead.net
 127.0.0.1 www.tracknewsletter.com
 127.0.0.1 www.trackvoluum.com
