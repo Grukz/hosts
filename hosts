@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 72591 ad serving and malware domains.
+# Currently blocking 72593 ad serving and malware domains.
 #
-# Date Generated: Oct 12 2015
+# Date Generated: Oct 13 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -32960,6 +32960,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cfg.myglobalsearch.com
 127.0.0.1 cfg.mywebsearch.com
 127.0.0.1 cfrfa.112.2o7.net
+127.0.0.1 cfs.u-ad.info
 127.0.0.1 cftrack.idownload.com
 127.0.0.1 cg-global.maxymiser.com
 127.0.0.1 cgi.declicnet.com
@@ -54271,6 +54272,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 saaronl.ivwbox.de
 127.0.0.1 saas.appoxee.com
 127.0.0.1 saas.seewhy.com
+127.0.0.1 sab.org.cn
 127.0.0.1 sabela.com
 127.0.0.1 sabin.free.fr
 127.0.0.1 sabre.com
