@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 72612 ad serving and malware domains.
+# Currently blocking 72651 ad serving and malware domains.
 #
-# Date Generated: Oct 19 2015
+# Date Generated: Oct 20 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2216,6 +2216,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.iogous.com
 127.0.0.1 a.itpro.co.uk
 127.0.0.1 a.jumptap.com
+127.0.0.1 a.kat.cr
 127.0.0.1 a.kat.ph
 127.0.0.1 a.kerg.net
 127.0.0.1 a.kickass.to
@@ -2309,6 +2310,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.ucoz.ru
 127.0.0.1 a.unanimis.co.uk
 127.0.0.1 a.update.51edm.net
+127.0.0.1 a.varanymatrix.link
 127.0.0.1 a.vartoken.com
 127.0.0.1 a.venetian.com
 127.0.0.1 a.visadd.com
@@ -2763,11 +2765,13 @@ ff02::2 ip6-allrouters
 127.0.0.1 abbyssh.freestats.com
 127.0.0.1 abc-ads.com
 127.0.0.1 abc-search.net
+127.0.0.1 abc.apportium.com
 127.0.0.1 abc.bnex.com
 127.0.0.1 abc.checkm8.com
 127.0.0.1 abc.doublegear.com
 127.0.0.1 abc.hearst.co.uk
 127.0.0.1 abc.limaction.com
+127.0.0.1 abc.mobile-10.com
 127.0.0.1 abc801.cn
 127.0.0.1 abcadult.net
 127.0.0.1 abccampaignaudit.co.uk
@@ -18912,6 +18916,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 admaster.com.cn
 127.0.0.1 admaster.de
 127.0.0.1 admaster.heyos.com
+127.0.0.1 admaster.union.ucweb.com
 127.0.0.1 admatch-syndication.mochila.com
 127.0.0.1 admatcher.videostrip.com
 127.0.0.1 admaven.adk2x.com
@@ -21154,6 +21159,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.seriouswheels.com
 127.0.0.1 ads.servebom.com
 127.0.0.1 ads.servesharp.net
+127.0.0.1 ads.sex.com
 127.0.0.1 ads.sexandsubmission.com
 127.0.0.1 ads.sexforums.com
 127.0.0.1 ads.sexier.com
@@ -21170,6 +21176,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.shizmoo.com
 127.0.0.1 ads.shoppingads.com
 127.0.0.1 ads.shopstyle.com
+127.0.0.1 ads.shorte.st
 127.0.0.1 ads.shoutfile.com
 127.0.0.1 ads.shovtvnet.com
 127.0.0.1 ads.showbizspy.com
@@ -27059,6 +27066,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 az361816.vo.msecnd.net
 127.0.0.1 az413505.vo.msecnd.net
 127.0.0.1 az512334.vo.msecnd.net
+127.0.0.1 az708531.vo.msecnd.net
 127.0.0.1 az7t8.com
 127.0.0.1 azads.net
 127.0.0.1 azalead.com
@@ -32149,6 +32157,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 capitallfundsinvestment.com
 127.0.0.1 cappa.pl
 127.0.0.1 caprewards.go2cloud.org
+127.0.0.1 capture.trackjs.com
 127.0.0.1 car-donation.shengen.ru
 127.0.0.1 car-insurance.inshurance-from.com
 127.0.0.1 car-loan.shengen.ru
@@ -32470,6 +32479,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.contentspread.net
 127.0.0.1 cdn.cpmstar.com
 127.0.0.1 cdn.cpnscdn.com
+127.0.0.1 cdn.cpsoft86.com
 127.0.0.1 cdn.creative.medialytics.com
 127.0.0.1 cdn.crowdignite.com
 127.0.0.1 cdn.crowdtwist.com
@@ -34125,6 +34135,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 collector.leaddyno.com
 127.0.0.1 collector.newsx.cc
 127.0.0.1 collector.nextguide.tv
+127.0.0.1 collector.shorte.st
 127.0.0.1 collector.statowl.com
 127.0.0.1 collector.stats.webs.com
 127.0.0.1 collector.tescocompare.com
@@ -34306,6 +34317,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 consent.webmasterplan.com
 127.0.0.1 console.popupsponsor.com
 127.0.0.1 console.revmob.com
+127.0.0.1 consolefiles.info
 127.0.0.1 consors.ivwbox.de
 127.0.0.1 constance-polen.us
 127.0.0.1 consumer-org.com
@@ -36019,6 +36031,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 creative.adbooth.net
 127.0.0.1 creative.admtpmp123.com
 127.0.0.1 creative.admtpmp124.com
+127.0.0.1 creative.admtpmp127.com
 127.0.0.1 creative.adonion.com
 127.0.0.1 creative.adshuffle.com
 127.0.0.1 creative.ak.facebook.com
@@ -36356,6 +36369,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 d.castplatform.com
 127.0.0.1 d.chango.com
 127.0.0.1 d.cntv.cn
+127.0.0.1 d.cpsoft86.com
 127.0.0.1 d.delivery45.com
 127.0.0.1 d.delivery47.com
 127.0.0.1 d.delivery49.com
@@ -37475,6 +37489,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dlmag.us.intellitxt.com
 127.0.0.1 dlmagnetdl.maynemyltf.netdna-cdn.com
 127.0.0.1 dls.nicdls.com
+127.0.0.1 dltags.com
 127.0.0.1 dltrk.com
 127.0.0.1 dlupv9uqtjlie.cloudfront.net
 127.0.0.1 dlv.ad-serving.co
@@ -37692,6 +37707,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 download-123.cn
 127.0.0.1 download-archiver.ru
 127.0.0.1 download-everything.com
+127.0.0.1 download-performance.com
 127.0.0.1 download.007guard.com
 127.0.0.1 download.35mb.com
 127.0.0.1 download.56.com
@@ -37784,6 +37800,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dqs001.adtech.us
 127.0.0.1 dr.adservinginternational.com
 127.0.0.1 dr.soso.com
+127.0.0.1 dr8pk6ovub897.cloudfront.net
 127.0.0.1 dra.amazon-adsystem.com
 127.0.0.1 draftstreet.sitescoutadserver.com
 127.0.0.1 dragon1.visits.lt
@@ -38239,6 +38256,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ecoverage.go2cloud.org
 127.0.0.1 ecpm.adbooth.com
 127.0.0.1 ecpm.com
+127.0.0.1 ecpmrocks.com
 127.0.0.1 ecs.demdex.net
 127.0.0.1 ecs1.engageya.com
 127.0.0.1 ectestlampsplus1.112.2o7.net
@@ -41514,6 +41532,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 go.underclick.ru
 127.0.0.1 go.voice2page.com
 127.0.0.1 go.vrvm.com
+127.0.0.1 go.wastedpushdevelop.info
 127.0.0.1 go.wbsadsdel.com
 127.0.0.1 go.webrewardstream.com
 127.0.0.1 go.wsockd.com
@@ -42554,7 +42573,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 hswmedia.122.2o7.net
 127.0.0.1 ht-tracking01.com
 127.0.0.1 ht.pornhub.com
+127.0.0.1 ht.redtube.com
 127.0.0.1 ht.tidaltv.com.10089.9022.302br.net
+127.0.0.1 ht.tube8.com
+127.0.0.1 ht.youporn.com
 127.0.0.1 htc_frisbee.com
 127.0.0.1 htinua.justclick.ru
 127.0.0.1 htm.freelogs.com
@@ -45135,6 +45157,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 latinoreview.us.intellitxt.com
 127.0.0.1 latinpost.us.intellitxt.com
 127.0.0.1 latribune.electronicpromotions2015.com
+127.0.0.1 lau1.slot.union.ucweb.com
 127.0.0.1 launch.adserver.yahoo.com
 127.0.0.1 launch.zugo.com
 127.0.0.1 launch1.co
@@ -46500,6 +46523,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ma74-r.analytics.edgesuite.net
 127.0.0.1 ma76-c.analytics.edgesuite.net
 127.0.0.1 ma76-r.analytics.edgesuite.net
+127.0.0.1 mabping.chartbeat.net
 127.0.0.1 mac-protection.info
 127.0.0.1 mac-system-alert.com
 127.0.0.1 macaddictads.snv.futurenet.com
@@ -48080,6 +48104,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 mollie-patino.us
 127.0.0.1 mom.freelogs.com
 127.0.0.1 mommyish.us.intellitxt.com
+127.0.0.1 mon.0f8.cdnfarm18.com
+127.0.0.1 mon.2os.cdnfarm18.com
+127.0.0.1 mon.2yf.cdnfarm18.com
+127.0.0.1 mon.cdnfarm18.com
 127.0.0.1 monarchslo.com
 127.0.0.1 mondoads.s3.amazonaws.com
 127.0.0.1 mondrian.twyn.com
@@ -51628,8 +51656,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 pl105423.putags.com
 127.0.0.1 pl105715.ooecyaauiz.com
 127.0.0.1 pl105716.nquchhfyex.com
+127.0.0.1 pl109299.puhtml.com
 127.0.0.1 pl112153.puhtml.com
+127.0.0.1 pl130464.puhtml.com
 127.0.0.1 pl1567.bntags.com
+127.0.0.1 pl3700.puhtml.com
 127.0.0.1 pl4277.putags.com
 127.0.0.1 pl4759.aoqneyvmaz.com
 127.0.0.1 pl4851.putags.com
@@ -52700,6 +52731,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 qualigo.de
 127.0.0.1 qualigo.net
 127.0.0.1 qualimed.ivwbox.de
+127.0.0.1 qualityclickcontrol.com
 127.0.0.1 qualityindustrialcoatings.com
 127.0.0.1 qualitylegion.com
 127.0.0.1 qualityporn.biz
@@ -57692,6 +57724,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 t.trrker.com
 127.0.0.1 t.unbounce.com
 127.0.0.1 t.update.moatads.com
+127.0.0.1 t.varioususa.info
 127.0.0.1 t.vimeo.com
 127.0.0.1 t.webtracker.jp
 127.0.0.1 t.wowanalytics.co.uk
@@ -59560,6 +59593,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 traffic.sexpillguru.com
 127.0.0.1 traffic.shareaholic.com
 127.0.0.1 traffic.tcmagnet.com
+127.0.0.1 traffic.trafficposse.com
 127.0.0.1 traffic.velvet.hu
 127.0.0.1 traffic.webtrafficagents.com
 127.0.0.1 traffic4you.de
@@ -67453,6 +67487,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.connectlinking9.com
 127.0.0.1 www.connexionsecure.com
 127.0.0.1 www.connextra.com
+127.0.0.1 www.consolefiles.info
 127.0.0.1 www.consumer-org.com
 127.0.0.1 www.consumeralternatives.org
 127.0.0.1 www.consumergiftcenter.com
@@ -67737,6 +67772,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.divx.it
 127.0.0.1 www.djugoogs.com
 127.0.0.1 www.dl-plugin.com
+127.0.0.1 www.dltags.com
 127.0.0.1 www.dmtracker.com
 127.0.0.1 www.dmtracking01.com
 127.0.0.1 www.dnps.com
@@ -67761,6 +67797,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.doubleclick.net.my
 127.0.0.1 www.dowdenphotography.com
 127.0.0.1 www.down1oads.com
+127.0.0.1 www.download-performance.com
 127.0.0.1 www.download4now.pw
 127.0.0.1 www.downloadboost.com
 127.0.0.1 www.downloadcounter.de
@@ -67831,6 +67868,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.eclkmpsa.com
 127.0.0.1 www.ecoleprincessedeliege.be
 127.0.0.1 www.econda-monitor.de
+127.0.0.1 www.ecpmrocks.com
 127.0.0.1 www.eddie-theriot.us
 127.0.0.1 www.eden21.net
 127.0.0.1 www.edge.quantserve.com
@@ -70118,6 +70156,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.qualaroo.com
 127.0.0.1 www.qualigo.de
 127.0.0.1 www.qualigo.net
+127.0.0.1 www.qualityclickcontrol.com
 127.0.0.1 www.qualitylegion.com
 127.0.0.1 www.qualitysoftware13.com
 127.0.0.1 www.quantcount.com
