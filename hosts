@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 72651 ad serving and malware domains.
+# Currently blocking 72649 ad serving and malware domains.
 #
-# Date Generated: Oct 20 2015
+# Date Generated: Oct 21 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -34516,7 +34516,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 coriolis.accuweather.com
 127.0.0.1 corm.hit.gemius.pl
 127.0.0.1 cornflakes.pathfinder.com
-127.0.0.1 corp.sts.microsoft.com
 127.0.0.1 corpext.msitadfs.glbdns2.microsoft.com
 127.0.0.1 corporate.crakmedia.com
 127.0.0.1 corrie-deloney.us
@@ -44511,7 +44510,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 jp.admob.com
 127.0.0.1 jp1.sb01.com
 127.0.0.1 jpdk.nuggad.net
-127.0.0.1 jpgewe.org
 127.0.0.1 jpirate.cjt1.net
 127.0.0.1 jpmedia.go2cloud.org
 127.0.0.1 jppol.nuggad.net
