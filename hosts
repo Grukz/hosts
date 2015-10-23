@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 72795 ad serving and malware domains.
+# Currently blocking 72820 ad serving and malware domains.
 #
-# Date Generated: Oct 22 2015
+# Date Generated: Oct 23 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -425,7 +425,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 123keno.com
 127.0.0.1 123mania.com
 127.0.0.1 123p29404.sbvr.com
-127.0.0.1 123pagerank.com
 127.0.0.1 123search.com
 127.0.0.1 123sesso.com
 127.0.0.1 123specialgifts.com
@@ -618,6 +617,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 19500.hittail.com
 127.0.0.1 19533.hittail.com
 127.0.0.1 196.6.87.194.dynamic.dol.ru
+127.0.0.1 196179102.log.optimizely.com
 127.0.0.1 197.6.87.194.dynamic.dol.ru
 127.0.0.1 198.6.87.194.dynamic.dol.ru
 127.0.0.1 199.6.87.194.dynamic.dol.ru
@@ -1282,6 +1282,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 343.bitterstrawberry.com
 127.0.0.1 3463.hittail.com
 127.0.0.1 34673.hittail.com
+127.0.0.1 3480025.log.optimizely.com
 127.0.0.1 34j.com
 127.0.0.1 35.6.87.194.dynamic.dol.ru
 127.0.0.1 3501113.fls.doubleclick.net
@@ -18406,6 +18407,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 addbonus.com
 127.0.0.1 addbtest.timesink.com
 127.0.0.1 addealing.com
+127.0.0.1 addebris.link
 127.0.0.1 addelivery.thestreet.com
 127.0.0.1 adderall.ourtablets.com
 127.0.0.1 adderallxr.freespaces.com
@@ -21005,6 +21007,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.pornfuror.com
 127.0.0.1 ads.pornmarathon.com
 127.0.0.1 ads.pornoitalicum.com
+127.0.0.1 ads.pornolaan.com
 127.0.0.1 ads.pornoreich.com
 127.0.0.1 ads.pornotouze.com
 127.0.0.1 ads.portlandmercury.com
@@ -25387,6 +25390,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 alliance.adbureau.net
 127.0.0.1 allie-cunha.us
 127.0.0.1 allie-hobdy.us
+127.0.0.1 alliedairduct.com
 127.0.0.1 allinsearch.net
 127.0.0.1 allinternal.com
 127.0.0.1 allinternetbusiness.com
@@ -29821,6 +29825,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bobgwtmp.vmsn.de
 127.0.0.1 bobtv.ivwbox.de
 127.0.0.1 bodisparking.com
+127.0.0.1 bodybuilding-com.112.2o7.net
 127.0.0.1 boersego-ads.de
 127.0.0.1 boerseon.ivwbox.de
 127.0.0.1 boingdragon.com
@@ -31388,6 +31393,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 buildonlinetests.com
 127.0.0.1 buildtraffic.com
 127.0.0.1 buildtrafficx.com
+127.0.0.1 builfico.de
 127.0.0.1 buja.org.il
 127.0.0.1 buket7.justclick.ru
 127.0.0.1 bukisa.us.intellitxt.com
@@ -31729,6 +31735,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.total-media.net
 127.0.0.1 c.tr.msn.com
 127.0.0.1 c.tracking.gamigoads.com
+127.0.0.1 c.trffrcmrd.com
 127.0.0.1 c.tw.msn.com
 127.0.0.1 c.uarating.com
 127.0.0.1 c.uk.msn.com
@@ -32707,6 +32714,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.satgreera.com
 127.0.0.1 cdn.scarabresearch.com
 127.0.0.1 cdn.search.aol.com
+127.0.0.1 cdn.segment.com
 127.0.0.1 cdn.segment.io
 127.0.0.1 cdn.shorte.st
 127.0.0.1 cdn.siftscience.com
@@ -32721,6 +32729,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.static.youmiad.com
 127.0.0.1 cdn.static.zdbb.net
 127.0.0.1 cdn.staticstor.com
+127.0.0.1 cdn.stdmbl.com
 127.0.0.1 cdn.stroeerdigitalmedia.de
 127.0.0.1 cdn.superloofy.com
 127.0.0.1 cdn.syn.verticalacuity.com
@@ -33490,6 +33499,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 click.trafikkfondet.no
 127.0.0.1 click.tv.repubblica.it
 127.0.0.1 click.tz.simba.taobao.com
+127.0.0.1 click.union.ucweb.com
 127.0.0.1 click.vgnett.no
 127.0.0.1 click.wrating.com
 127.0.0.1 click.xxxofferz.com
@@ -33713,6 +33723,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 clicshop.com
 127.0.0.1 clictrafic.com
 127.0.0.1 clicz.com
+127.0.0.1 clien.info
 127.0.0.1 clien.net
 127.0.0.1 client-verify.adtricity.com
 127.0.0.1 client.browseraccelerator.com
@@ -36529,6 +36540,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 d1yu5hbtu8mng9.cloudfront.net
 127.0.0.1 d1z2jf7jlzjs58.cloudfront.net
 127.0.0.1 d1zatounuylvwg.cloudfront.net
+127.0.0.1 d1zgderxoe1a.cloudfront.net
 127.0.0.1 d2.2-01-29be-0006.cdx.cedexis.net
 127.0.0.1 d2.advertserve.com
 127.0.0.1 d2.zedo.com
@@ -37567,6 +37579,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dmm.tt.omtrdc.net
 127.0.0.1 dmp.adform.net
 127.0.0.1 dmp.gravity4.com
+127.0.0.1 dmp.springserve.com
 127.0.0.1 dmp.theadex.com
 127.0.0.1 dmpnetwork.go2cloud.org
 127.0.0.1 dmros.ysm.yahoo.com
@@ -38161,6 +38174,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 e2.zedo.com
 127.0.0.1 e24dp.tns-cs.net
 127.0.0.1 e250a.track4.com
+127.0.0.1 e2yth.tv
 127.0.0.1 e32e0c3c972d179cd1d0-1847ac4c91d55b307d162b6d5ad07fe3.r71.cf2.rackcdn.com
 127.0.0.1 e35fbf.t.axf8.net
 127.0.0.1 e3f364.r.axf8.net
@@ -39960,6 +39974,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 form-cdn.pardot.com
 127.0.0.1 formalyzer.com
 127.0.0.1 formessengers.com
+127.0.0.1 forms.ontraport.com
 127.0.0.1 foroushi.net
 127.0.0.1 forrestersurveys.com
 127.0.0.1 forskning.tns-cs.net
@@ -40529,6 +40544,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 frangopoulosproperty.com
 127.0.0.1 frank1.ddf.al
 127.0.0.1 frantic.com
+127.0.0.1 frantro.de
 127.0.0.1 frapost.ivwbox.de
 127.0.0.1 fratz.oewabox.at
 127.0.0.1 freakads.com
@@ -42522,6 +42538,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hoptopboy.com
 127.0.0.1 hopurl.org
 127.0.0.1 horizon.mashable.com
+127.0.0.1 horizon.sailthru.com
 127.0.0.1 horizont.ivwbox.de
 127.0.0.1 hornytraffic.com
 127.0.0.1 horoscope.us.intellitxt.com
@@ -49058,6 +49075,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 netzip.com
 127.0.0.1 netzmarkt.ivwbox.de
 127.0.0.1 netzwelt.digidip.net
+127.0.0.1 neuberchile.com
 127.0.0.1 neudesicmediagroup.com
 127.0.0.1 neueoz.ivwbox.de
 127.0.0.1 neumashop.cl
@@ -52917,6 +52935,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 r.sex-toplista.zy.pl
 127.0.0.1 r.sharethis.com
 127.0.0.1 r.skimresources.com
+127.0.0.1 r.trffrcmrd.com
 127.0.0.1 r.turn.com
 127.0.0.1 r.twimg.com
 127.0.0.1 r.uimserv.net
@@ -56853,7 +56872,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.scanscout.com
 127.0.0.1 static.serving-sys.com.47157.9349.302br.net
 127.0.0.1 static.sex-explorer.com
-127.0.0.1 static.shorte.st
 127.0.0.1 static.skimlinks.com
 127.0.0.1 static.slfpu.com
 127.0.0.1 static.smni.com
@@ -57786,6 +57804,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 t.medialytics.com
 127.0.0.1 t.menepe.com
 127.0.0.1 t.mobilediva.com
+127.0.0.1 t.mobitrk.com
 127.0.0.1 t.mookie1.com
 127.0.0.1 t.mplxtms.com
 127.0.0.1 t.mtagmonetizationa.com
@@ -59790,6 +59809,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trans20120430.getjar.com
 127.0.0.1 transact-can.cedexis.com
 127.0.0.1 transact.justclick.ru
+127.0.0.1 transfermarkt01.wt-eu02.net
 127.0.0.1 transition.adtrgt.com
 127.0.0.1 transparty.net
 127.0.0.1 transpert-online.ru
@@ -59908,6 +59928,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trk.rrcpm.com
 127.0.0.1 trk.sele.co
 127.0.0.1 trk.tidaltv.com
+127.0.0.1 trk.trafficposse.com
 127.0.0.1 trk.vaultrk.com
 127.0.0.1 trk.vidible.tv
 127.0.0.1 trk.vindicosuite.com
@@ -59987,6 +60008,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ts777.com
 127.0.0.1 tsms-ad.tsms.com
 127.0.0.1 tsmtrk.com
+127.0.0.1 tsog8.redirectvoluum.com
 127.0.0.1 tste.ivillage.com
 127.0.0.1 tste.mcclatchyinteractive.com
 127.0.0.1 tste.startribune.com
@@ -60657,6 +60679,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 unsubscribe.rmv.so
 127.0.0.1 untd.com
 127.0.0.1 unwashedsound.com
+127.0.0.1 uobsoe.com
 127.0.0.1 uole.ad.uol.com.br
 127.0.0.1 uolfreeservers.112.2o7.net
 127.0.0.1 uoljunocom2.112.2o7.net
@@ -66959,6 +66982,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.apparel-offer.com
 127.0.0.1 www.apparelncs.com
 127.0.0.1 www.appflood.com
+127.0.0.1 www.appfoxes.com
 127.0.0.1 www.appia.com
 127.0.0.1 www.applelounge.com
 127.0.0.1 www.applicationcontenttag.com
@@ -68400,6 +68424,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.fucktubenetwork.com
 127.0.0.1 www.full-edition.info
 127.0.0.1 www.fullarmorstudios.com
+127.0.0.1 www.fullqurandownload.com
 127.0.0.1 www.fulltraffic.net
 127.0.0.1 www.fun-hits.de
 127.0.0.1 www.fun-town.com
