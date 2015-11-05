@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 72341 ad serving and malware domains.
+# Currently blocking 72342 ad serving and malware domains.
 #
-# Date Generated: Nov 04 2015
+# Date Generated: Nov 05 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -21019,6 +21019,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.primaryclick.com
 127.0.0.1 ads.primeinteractive.net
 127.0.0.1 ads.primissima.it
+127.0.0.1 ads.printscr.com
 127.0.0.1 ads.prisacom.com
 127.0.0.1 ads.privatefeeds.com
 127.0.0.1 ads.prnt.sc
