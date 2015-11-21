@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 72554 ad serving and malware domains.
+# Currently blocking 72557 ad serving and malware domains.
 #
-# Date Generated: Nov 20 2015
+# Date Generated: Nov 21 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -20688,7 +20688,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.nexage.com
 127.0.0.1 ads.ngenuity.com
 127.0.0.1 ads.nicovideo.jp
-127.0.0.1 ads.nigella.com
 127.0.0.1 ads.ninemsn.com
 127.0.0.1 ads.ninemsn.com.au
 127.0.0.1 ads.ninemsn.net
@@ -21251,7 +21250,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.smartclicks.net
 127.0.0.1 ads.smartdevicemedia.com
 127.0.0.1 ads.smartfeedads.com
-127.0.0.1 ads.smartshopping.co.uk
 127.0.0.1 ads.smartshoppingads.de
 127.0.0.1 ads.smartstream.tv
 127.0.0.1 ads.smowtion.com
@@ -39207,6 +39205,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 extntechnologies.us.intellitxt.com
 127.0.0.1 extra.wavecdn.net
 127.0.0.1 extra33.com
+127.0.0.1 extractorandburner.com
 127.0.0.1 extranet.ilius.net
 127.0.0.1 extreembilisim.com
 127.0.0.1 extreme-dm.com
@@ -55419,6 +55418,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 silveragesoftware.com
 127.0.0.1 silverlites-company.ru
 127.0.0.1 silverlitescompany.ru
+127.0.0.1 silverpush.com
 127.0.0.1 silvia-maffei.us
 127.0.0.1 sim.thetrafficstat.net
 127.0.0.1 simba.6.cn
@@ -66262,6 +66262,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ad-up.com
 127.0.0.1 www.ad-visor.com
 127.0.0.1 www.ad-words.ru
+127.0.0.1 www.ad-x.co.uk
 127.0.0.1 www.ad-z.de
 127.0.0.1 www.ad.admitad.com
 127.0.0.1 www.ad.denguru.com
@@ -66991,6 +66992,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.blasphemysfhs.info
 127.0.0.1 www.blatant8jh.info
 127.0.0.1 www.blenz-me.net
+127.0.0.1 www.blinkgroup.com
 127.0.0.1 www.blkget6.com
 127.0.0.1 www.blog-hits.com
 127.0.0.1 www.blogads.com
@@ -70458,6 +70460,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.silver-path.com
 127.0.0.1 www.silveragesoftware.com
 127.0.0.1 www.silvercash.com
+127.0.0.1 www.silverpush.com
 127.0.0.1 www.silvia-maffei.us
 127.0.0.1 www.simona-stanford.us
 127.0.0.1 www.simonsearch.com
