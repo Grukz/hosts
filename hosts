@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 72514 ad serving and malware domains.
+# Currently blocking 72516 ad serving and malware domains.
 #
-# Date Generated: Nov 26 2015
+# Date Generated: Nov 27 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -52260,6 +52260,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 proudclick.com
 127.0.0.1 provexia.com
 127.0.0.1 providence.voxmedia.com
+127.0.0.1 prowoodsrl.it
 127.0.0.1 proxad.net
 127.0.0.1 proximityads.flipcorp.com
 127.0.0.1 proxy.blogads.com
@@ -67159,6 +67160,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.cbpassiveincome.com
 127.0.0.1 www.cbproads.com
 127.0.0.1 www.cbsmarket.com
+127.0.0.1 www.cc-isobus.com
 127.0.0.1 www.ccbill.com
 127.0.0.1 www.ccbillcs.com
 127.0.0.1 www.ccbilleu.com
