@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 73959 ad serving and malware domains.
+# Currently blocking 73960 ad serving and malware domains.
 #
-# Date Generated: Dec 01 2015
+# Date Generated: Dec 02 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -37332,7 +37332,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dc.sify.com
 127.0.0.1 dc.tremormedia.com
 127.0.0.1 dc.webtrends.com
-127.0.0.1 dc2.netcdn.org
 127.0.0.1 dc4d4996bc86498d8959-7dc0216bc6cc2f4ed239035dfc17235b.r83.cf3.rackcdn.com
 127.0.0.1 dc56.s290.meetrics.net
 127.0.0.1 dc61.s290.meetrics.net
@@ -45691,6 +45690,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 khoangiengthutiep.com
 127.0.0.1 khvx.secoptim.com
 127.0.0.1 ki6fu.voluumtrk.com
+127.0.0.1 kick-dieburg.de
 127.0.0.1 kicker.ivwbox.de
 127.0.0.1 kids-fashion.dk
 127.0.0.1 kids-in-sandbox.com
@@ -70712,6 +70712,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.mbkwbar.com
 127.0.0.1 www.mbotvisit.com
 127.0.0.1 www.mcpatrack.tv
+127.0.0.1 www.mcs-selection.it
 127.0.0.1 www.mcsqd.com
 127.0.0.1 www.mcssl.com
 127.0.0.1 www.me404.net
