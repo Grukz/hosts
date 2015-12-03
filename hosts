@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 73960 ad serving and malware domains.
+# Currently blocking 73967 ad serving and malware domains.
 #
-# Date Generated: Dec 02 2015
+# Date Generated: Dec 03 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -55594,6 +55594,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sandbox.outbrain.com
 127.0.0.1 sandokan66.no-ip.info
 127.0.0.1 sandra-tester.us
+127.0.0.1 saner.com.au
 127.0.0.1 santacruzsentinel.112.2o7.net
 127.0.0.1 santacruzsentinelcom.112.2o7.net
 127.0.0.1 santacruzsuspension.com
@@ -56116,6 +56117,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 secure3.marketengines.com
 127.0.0.1 secure6.platinumbucks.com
 127.0.0.1 secureads.ft.com
+127.0.0.1 securecont.net
 127.0.0.1 securecontactinfo.com
 127.0.0.1 securedliveuploads.com
 127.0.0.1 securedownload01.net
@@ -58621,6 +58623,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sun3xani.justclick.ru
 127.0.0.1 suncom.112.2o7.net
 127.0.0.1 suncountryair.com
+127.0.0.1 sundarbantourpackages.com
 127.0.0.1 sunglobal.112.2o7.net
 127.0.0.1 sunidaytravel.co.uk
 127.0.0.1 sunlux.net
@@ -59443,6 +59446,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 teeth.co.jp
 127.0.0.1 tei.fivemillionfriends.com
 127.0.0.1 tekadrian.xyz
+127.0.0.1 tekcharles.xyz
 127.0.0.1 tekjoe.space
 127.0.0.1 teknosurf3.com
 127.0.0.1 tel.geenstijl.nl
@@ -59750,6 +59754,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 thoughtfully-free.com
 127.0.0.1 thoughtsmedia.us.intellitxt.com
 127.0.0.1 threadwatch.us.intellitxt.com
+127.0.0.1 threivetrack.com
 127.0.0.1 thruport.com
 127.0.0.1 thumb.ero-advertising.com
 127.0.0.1 thumbads.ero-advertising.com
@@ -72086,6 +72091,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.sweetsforfree.com
 127.0.0.1 www.swiftad.com
 127.0.0.1 www.swimsuitnetwork.com
+127.0.0.1 www.syes.eu
 127.0.0.1 www.sylacauga.net
 127.0.0.1 www.symbiosting.com
 127.0.0.1 www.syncaccess.net
@@ -72689,6 +72695,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.widgettool.net
 127.0.0.1 www.wigetmedia.com
 127.0.0.1 www.wigglewoo.com
+127.0.0.1 www.wiiux.de
 127.0.0.1 www.wildarcade.com
 127.0.0.1 www.wilddreams.info
 127.0.0.1 www.wildmistress.com
