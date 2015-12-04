@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 73967 ad serving and malware domains.
+# Currently blocking 73975 ad serving and malware domains.
 #
-# Date Generated: Dec 03 2015
+# Date Generated: Dec 04 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18051,6 +18051,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad49m.adk2.co
 127.0.0.1 ad4ever.com
 127.0.0.1 ad4game.com
+127.0.0.1 ad4games.com
 127.0.0.1 ad4m.adk2.co
 127.0.0.1 ad4mat.co.uk
 127.0.0.1 ad4mat.de
@@ -29209,6 +29210,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 becounted.baja.com
 127.0.0.1 bee-ads.com
 127.0.0.1 beead.co.uk
+127.0.0.1 beemasewakendra.com
 127.0.0.1 beertraffic.biz
 127.0.0.1 beespace.com.ua
 127.0.0.1 begun.ru
@@ -32763,7 +32765,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.addelive.com
 127.0.0.1 cdn.adengage.com
 127.0.0.1 cdn.adengine.org
-127.0.0.1 cdn.adf.ly
 127.0.0.1 cdn.adfoc.us
 127.0.0.1 cdn.adgear.com
 127.0.0.1 cdn.adigniter.org
@@ -41436,6 +41437,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 games-toys-free.com
 127.0.0.1 games-toys-rewardpath.com
 127.0.0.1 games.uzoogle.com
+127.0.0.1 gamescpc.com
 127.0.0.1 gamesindustry.uk.intellitxt.com
 127.0.0.1 gamesites100.net
 127.0.0.1 gamesites200.com
@@ -46245,6 +46247,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 liliana-prokop.us
 127.0.0.1 lilishop.ro
 127.0.0.1 lily-mcnamara.us
+127.0.0.1 limecdn.kz
 127.0.0.1 limg.adspirit.de
 127.0.0.1 limitlessoffers.go2cloud.org
 127.0.0.1 lin31.metriweb.be
@@ -56117,7 +56120,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 secure3.marketengines.com
 127.0.0.1 secure6.platinumbucks.com
 127.0.0.1 secureads.ft.com
-127.0.0.1 securecont.net
 127.0.0.1 securecontactinfo.com
 127.0.0.1 securedliveuploads.com
 127.0.0.1 securedownload01.net
@@ -57821,7 +57823,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.addinto.com
 127.0.0.1 static.addtoany.com
 127.0.0.1 static.addynamo.net
-127.0.0.1 static.adf.ly
 127.0.0.1 static.adfarm1.adition.com
 127.0.0.1 static.adk2.com
 127.0.0.1 static.adman.gr
@@ -57963,6 +57964,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.mediav.com
 127.0.0.1 static.meteorsolutions.com
 127.0.0.1 static.mlt01.com
+127.0.0.1 static.mmotraffic.com
 127.0.0.1 static.mobilecore.com
 127.0.0.1 static.ndoverdrive.net
 127.0.0.1 static.nectarads.com
@@ -58554,6 +58556,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stts.rbc.ru
 127.0.0.1 stua.hit.gemius.pl
 127.0.0.1 stubhub.122.2o7.net
+127.0.0.1 studentscompanion.in
 127.0.0.1 studio.doubleclick.com
 127.0.0.1 studio.doubleclick.net
 127.0.0.1 studivz.adfarm1.adition.com
@@ -61249,6 +61252,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tv.sohu.com
 127.0.0.1 tv2dk.nuggad.net
 127.0.0.1 tv2no.linkpulse.com
+127.0.0.1 tv4chan.com
 127.0.0.1 tv4play-se.c.richmetrics.com
 127.0.0.1 tvfanatic.us.intellitxt.com
 127.0.0.1 tvguide.112.2o7.net
@@ -67642,6 +67646,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ad.tgdaily.com
 127.0.0.1 www.ad.tomshardware.com
 127.0.0.1 www.ad.twitchguru.com
+127.0.0.1 www.ad2games.com
+127.0.0.1 www.ad4games.com
 127.0.0.1 www.ad4mat.at
 127.0.0.1 www.ad4mat.ch
 127.0.0.1 www.ad4mat.de
@@ -69594,6 +69600,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.games-toys-bonuspath.com
 127.0.0.1 www.games-toys-free.com
 127.0.0.1 www.games-toys-rewardpath.com
+127.0.0.1 www.gamescpc.com
 127.0.0.1 www.gamevance.com
 127.0.0.1 www.gamevui24.com
 127.0.0.1 www.gamingblast.com
@@ -72433,6 +72440,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.turkeyrank.com
 127.0.0.1 www.tutop.com
 127.0.0.1 www.tuttosessogratis.org
+127.0.0.1 www.tv4chan.com
 127.0.0.1 www.tvnews.or.kr
 127.0.0.1 www.tvshowslist.com
 127.0.0.1 www.tvsquad.com
