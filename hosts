@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 73975 ad serving and malware domains.
+# Currently blocking 73987 ad serving and malware domains.
 #
-# Date Generated: Dec 04 2015
+# Date Generated: Dec 05 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25526,6 +25526,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aktif.haberx.com
 127.0.0.1 aktrack.pubmatic.com
 127.0.0.1 akvoi.voluumtrk.com
+127.0.0.1 akwaokuko.net.in
 127.0.0.1 akway.com
 127.0.0.1 akz.imgfarm.com
 127.0.0.1 al.5.p2l.info
@@ -27216,6 +27217,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aurora.starpartner.com
 127.0.0.1 aus.laola1.tv
 127.0.0.1 auslieferung.commindo-media-ressourcen.de
+127.0.0.1 ausoposicom.com
 127.0.0.1 auspice.augur.io
 127.0.0.1 aussiemethod.com
 127.0.0.1 australiapost.122.2o7.net
@@ -43753,6 +43755,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ig.fp.oix.net
 127.0.0.1 ig.insightgrit.com
 127.0.0.1 igagh.tourstogo.us
+127.0.0.1 igbagbo1.ru
 127.0.0.1 igmarauders.isotx.com
 127.0.0.1 ign.us.intellitxt.com
 127.0.0.1 igninetwork.go2cloud.org
@@ -47582,6 +47585,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mama128.valuehost.ru
 127.0.0.1 mamamia.au.intellitxt.com
 127.0.0.1 mamilade.oewabox.at
+127.0.0.1 maminoleinc.tk
 127.0.0.1 man-street.tk
 127.0.0.1 manage001.adtech.de
 127.0.0.1 manage001.adtech.fr
@@ -49516,7 +49520,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mypopup.ir
 127.0.0.1 mypowermall.com
 127.0.0.1 myprivateemails.com
-127.0.0.1 myrating.ljseek.com
 127.0.0.1 mysavings.directtrack.com
 127.0.0.1 myscoop-tracking.googlecode.com
 127.0.0.1 myscreen.com
@@ -52780,7 +52783,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 plasmatvreward.com
 127.0.0.1 platads.com
 127.0.0.1 platform.communicatorcorp.com
+127.0.0.1 platform.linkedin.com
 127.0.0.1 platform.revenuestreet.com
+127.0.0.1 platform.stumbleupon.com
+127.0.0.1 platform.tumblr.com
+127.0.0.1 platform.twitter.com
 127.0.0.1 platincasino.postaffiliatepro.com
 127.0.0.1 platinet-pl.com
 127.0.0.1 platinum-casino.ru
@@ -59796,6 +59803,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tigershark.adultadworld.com
 127.0.0.1 tigertext.com
 127.0.0.1 til.go2cloud.org
+127.0.0.1 tiles.services.mozilla.com
 127.0.0.1 tim-eckhoff.us
 127.0.0.1 timebus2.112.2o7.net
 127.0.0.1 timecom.112.2o7.net
@@ -61254,6 +61262,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tv2no.linkpulse.com
 127.0.0.1 tv4chan.com
 127.0.0.1 tv4play-se.c.richmetrics.com
+127.0.0.1 tvas-c.pw
 127.0.0.1 tvfanatic.us.intellitxt.com
 127.0.0.1 tvguide.112.2o7.net
 127.0.0.1 tvinfo.ivwbox.de
@@ -68519,6 +68528,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.cartonetwork.com
 127.0.0.1 www.cartoonnrtwork.com
 127.0.0.1 www.cartoonpornguide.com
+127.0.0.1 www.carvoeiro.com
 127.0.0.1 www.casalemedia.com
 127.0.0.1 www.casamama.nl
 127.0.0.1 www.cash-duck.com
@@ -69682,6 +69692,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.gmagictrk.com
 127.0.0.1 www.gmcjjh.org
 127.0.0.1 www.gmtracker.com
+127.0.0.1 www.gngeexchange2.ru
 127.0.0.1 www.gns-consola.com
 127.0.0.1 www.go-free-gifts.com
 127.0.0.1 www.go.by
@@ -72401,6 +72412,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.trhzc.com
 127.0.0.1 www.tribalfusion.com
 127.0.0.1 www.trimbot.com
+127.0.0.1 www.trinamic.com
 127.0.0.1 www.trips.com
 127.0.0.1 www.trisha-meikle.us
 127.0.0.1 www.trivia2mobile.com
