@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74004 ad serving and malware domains.
+# Currently blocking 74012 ad serving and malware domains.
 #
-# Date Generated: Dec 09 2015
+# Date Generated: Dec 10 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26687,6 +26687,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 applab-sdk.amazon.com
 127.0.0.1 apple-protection.info
 127.0.0.1 apple-trusted.com
+127.0.0.1 apple.com-safetyalert.com
 127.0.0.1 applebox.co.id
 127.0.0.1 appleglobal.112.2o7.net
 127.0.0.1 appleitl.rewards-bonanza-2.com
@@ -27031,7 +27032,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 assets.omniture.com
 127.0.0.1 assets.oomz.de
 127.0.0.1 assets.percentmobile.com
-127.0.0.1 assets.pinterest.com
 127.0.0.1 assets.popmarker.com
 127.0.0.1 assets.scan.me
 127.0.0.1 assets.servedby-buysellads.com
@@ -29294,7 +29294,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bestoffers.activeshopper.com
 127.0.0.1 bestonlinesurveysforpay.com
 127.0.0.1 bestorican.com
-127.0.0.1 bestparty.com.mx
 127.0.0.1 bestprizedraw.com
 127.0.0.1 bestproduct.in
 127.0.0.1 bestscannerever.com
@@ -39410,6 +39409,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 err.chicappa.jp
 127.0.0.1 err.lolipop.jp
 127.0.0.1 err.spring-tns.net
+127.0.0.1 err1.9939118.info
+127.0.0.1 err2.9939118.info
+127.0.0.1 err3.9939118.info
 127.0.0.1 errdoc.gabia.net
 127.0.0.1 error.000webhost.com
 127.0.0.1 error.2cnt.net
@@ -42654,6 +42656,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hapjes-maken.eu
 127.0.0.1 happydiscountspecials.com
 127.0.0.1 happynewage.com
+127.0.0.1 happynewyearold.co
 127.0.0.1 happytofind.com
 127.0.0.1 harconsumer.112.2o7.net
 127.0.0.1 hardcore.xxxcounter.com
@@ -47752,6 +47755,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mastertarget.ru
 127.0.0.1 mastertracks.be
 127.0.0.1 masterzonex.com
+127.0.0.1 mat-update.be
 127.0.0.1 mata.ero-advertising.com
 127.0.0.1 match.admailtiser.com
 127.0.0.1 match.adsrvr.org
@@ -52466,6 +52470,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 phoenix.ivwbox.de
 127.0.0.1 phoenix.untd.com
 127.0.0.1 phoenixads.co.in
+127.0.0.1 phoenixtsi.com
 127.0.0.1 phone-calling-card.exnet.su
 127.0.0.1 phonearena.us.intellitxt.com
 127.0.0.1 phoneboxexperiment.com
@@ -54118,6 +54123,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rainbowcolours.me.uk
 127.0.0.1 rainbowdisplays.com
 127.0.0.1 rainbowmedia.122.2o7.net
+127.0.0.1 raindt.com
 127.0.0.1 rainmaker.digitalbrandsinc.netdna-cdn.com
 127.0.0.1 raiss.voluumtrk.com
 127.0.0.1 rakuten.112.2o7.net
@@ -57157,6 +57163,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 softcash.biz
 127.0.0.1 softclick.com.br
 127.0.0.1 softcore.xxxcounter.com
+127.0.0.1 softextrain64.com
 127.0.0.1 softlayer.d1.sc.omtrdc.net
 127.0.0.1 softlayertechnologie.tt.omtrdc.net
 127.0.0.1 softlinkers.popunder.ru
@@ -58817,6 +58824,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sx.z0rz.com
 127.0.0.1 sxtracking.com
 127.0.0.1 sydney-steil.us
+127.0.0.1 sydneyboatlicence.com
 127.0.0.1 symantec.tt.omtrdc.net
 127.0.0.1 symbian-freak.us.intellitxt.com
 127.0.0.1 symbianone.us.intellitxt.com
