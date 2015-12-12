@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74015 ad serving and malware domains.
+# Currently blocking 74021 ad serving and malware domains.
 #
-# Date Generated: Dec 11 2015
+# Date Generated: Dec 12 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -34157,6 +34157,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 clixtk.com
 127.0.0.1 clixtrac.com
 127.0.0.1 clixzen1.go2cloud.org
+127.0.0.1 clk.77978.xn--q9jyb4c
+127.0.0.1 clk.8mm.shiksha
 127.0.0.1 clk.about.com
 127.0.0.1 clk.aboxdeal.com
 127.0.0.1 clk.addmt.com
@@ -38637,7 +38639,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 eads.org
 127.0.0.1 eaeacom.112.2o7.net
 127.0.0.1 eafl3.voluumtrk.com
-127.0.0.1 eafyfsuh.net
 127.0.0.1 eagamesuk.112.2o7.net
 127.0.0.1 eaglemiles.112.2o7.net
 127.0.0.1 eajmp.com
@@ -42123,6 +42124,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 go.cz.bbelements.com
 127.0.0.1 go.delnapb.com
 127.0.0.1 go.eu.bbelements.com
+127.0.0.1 go.everli-killz.xyz
 127.0.0.1 go.evolutionmedia.bbelements.com
 127.0.0.1 go.feedxfeed.com
 127.0.0.1 go.gba.bbelements.com
@@ -43801,6 +43803,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 iiiyr.voluumtrk.com
 127.0.0.1 iivwbox.de
 127.0.0.1 ijdkc.voluumtrk.com
+127.0.0.1 ijoe.xyz
 127.0.0.1 ijrgl.voluumtrk.com
 127.0.0.1 ijsl1.voluumtrk.com
 127.0.0.1 ijvwbox.de
@@ -57238,6 +57241,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 soundbeat.go2cloud.org
 127.0.0.1 soundcomputers.net
 127.0.0.1 soundslam.us.intellitxt.com
+127.0.0.1 soundstrategyaccounts.com.au
 127.0.0.1 sourmath.com
 127.0.0.1 sousay.info
 127.0.0.1 southafricaguesthouseaccommodation.com
@@ -59484,6 +59488,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tei.fivemillionfriends.com
 127.0.0.1 tekadrian.xyz
 127.0.0.1 tekcharles.xyz
+127.0.0.1 tekchuks.xyz
 127.0.0.1 tekjoe.space
 127.0.0.1 teknosurf3.com
 127.0.0.1 tel.geenstijl.nl
@@ -68133,6 +68138,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.anrdoezrs.net
 127.0.0.1 www.antaraimedia.com
 127.0.0.1 www.antarasystems.com
+127.0.0.1 www.antibasic.ga
 127.0.0.1 www.anticarredodolomiti.com
 127.0.0.1 www.anticlown.com
 127.0.0.1 www.antitoolbar.com
@@ -69161,7 +69167,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.eadexchange.com
 127.0.0.1 www.eads.com
 127.0.0.1 www.eaffiliateinc.com
-127.0.0.1 www.eafyfsuh.net
 127.0.0.1 www.eajmp.com
 127.0.0.1 www.earnify.com
 127.0.0.1 www.earnmygift.com
@@ -70831,6 +70836,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.mia-fricks.us
 127.0.0.1 www.microsoft2010.com
 127.0.0.1 www.midaddle.com
+127.0.0.1 www.midaskay.in
 127.0.0.1 www.midkotatraffic.net
 127.0.0.1 www.mightymagoo.com
 127.0.0.1 www.migpay.com
@@ -71414,6 +71420,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.premiumholidayoffers.com
 127.0.0.1 www.premiumproductsonline.com
 127.0.0.1 www.premiumsmail.net
+127.0.0.1 www.presidentialemail.in
 127.0.0.1 www.pressurespot.com
 127.0.0.1 www.prevent-asian-flu.com
 127.0.0.1 www.prfelectrical.com.au
@@ -73891,7 +73898,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 zenithperformance.go2cloud.org
 127.0.0.1 zenkreka.com
 127.0.0.1 zentastic.com
-127.0.0.1 zenzuu.com
 127.0.0.1 zerezas.com
 127.0.0.1 zeroclick.sendori.com
 127.0.0.1 zeroredirect.com
