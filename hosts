@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74021 ad serving and malware domains.
+# Currently blocking 74020 ad serving and malware domains.
 #
-# Date Generated: Dec 12 2015
+# Date Generated: Dec 13 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -70836,7 +70836,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.mia-fricks.us
 127.0.0.1 www.microsoft2010.com
 127.0.0.1 www.midaddle.com
-127.0.0.1 www.midaskay.in
 127.0.0.1 www.midkotatraffic.net
 127.0.0.1 www.mightymagoo.com
 127.0.0.1 www.migpay.com
