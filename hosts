@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74020 ad serving and malware domains.
+# Currently blocking 74026 ad serving and malware domains.
 #
-# Date Generated: Dec 13 2015
+# Date Generated: Dec 14 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -37222,6 +37222,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 data.quithappenbetting.com
 127.0.0.1 data.redhelper.ru
 127.0.0.1 data.replacingobservedlose.info
+127.0.0.1 data.retainguaninefluorite.info
 127.0.0.1 data.ritzcarlton.com
 127.0.0.1 data.webads.co.nz
 127.0.0.1 data0.bell.ca
@@ -41877,6 +41878,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 get.qualaroo.com
 127.0.0.1 get.quithappenbetting.com
 127.0.0.1 get.replacingobservedlose.info
+127.0.0.1 get.retainguaninefluorite.info
 127.0.0.1 get.rubyroyal.com
 127.0.0.1 get.sad9876.info
 127.0.0.1 get.slotocash.com
@@ -51092,6 +51094,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 offer.alibaba.com
 127.0.0.1 offerannex.go2cloud.org
 127.0.0.1 offerdeliver.com
+127.0.0.1 offerfactory.click
 127.0.0.1 offerforge.com
 127.0.0.1 offermatica.com
 127.0.0.1 offeroptimizer.com
@@ -51108,6 +51111,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 offersquared.go2cloud.org
 127.0.0.1 offersquest.directtrack.com
 127.0.0.1 offerssyndication.appspot.com
+127.0.0.1 offertunity.click
 127.0.0.1 offervisionnetwork.go2cloud.org
 127.0.0.1 offerx.co.uk
 127.0.0.1 office.ad1.ru
@@ -68850,6 +68854,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.cortesidesign.com
 127.0.0.1 www.cortoonnetwork.com
 127.0.0.1 www.cosmeticscentre.uk.com
+127.0.0.1 www.costoffuel.co.uk
 127.0.0.1 www.count.im
 127.0.0.1 www.count24.de
 127.0.0.1 www.counted.de
@@ -72179,6 +72184,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.tdms.saglik.gov.tr
 127.0.0.1 www.tdstats.com
 127.0.0.1 www.te81.net
+127.0.0.1 www.teahaz-ajandek.hu
 127.0.0.1 www.teasermedia.net
 127.0.0.1 www.teasernet.com
 127.0.0.1 www.teenbookmark.com
