@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74026 ad serving and malware domains.
+# Currently blocking 74035 ad serving and malware domains.
 #
-# Date Generated: Dec 14 2015
+# Date Generated: Dec 15 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25939,7 +25939,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 anad.tacoda.net
 127.0.0.1 anaerobicdigestion.com
 127.0.0.1 anahtars.com
-127.0.0.1 anakwoci.com
 127.0.0.1 anal-adult-video.com
 127.0.0.1 anali.org
 127.0.0.1 analitics.in
@@ -26748,6 +26747,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 apptornado.com
 127.0.0.1 apptv.com
 127.0.0.1 appular.com
+127.0.0.1 appytown.com.au
 127.0.0.1 appzzzarehere.com
 127.0.0.1 april-blackburn.us
 127.0.0.1 april-leclaire.us
@@ -36521,6 +36521,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 crm.3dots.co.il
 127.0.0.1 crm.pinion.gg
 127.0.0.1 crmbuyer.us.intellitxt.com
+127.0.0.1 crosserbike.com
 127.0.0.1 crosspixel.demdex.net
 127.0.0.1 crosspromotion.ubi.com
 127.0.0.1 crowdcontrol.lotame.com
@@ -37610,7 +37611,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dentairemalin.com
 127.0.0.1 denver.cbslocal.us.intellitxt.com
 127.0.0.1 denverpost.112.2o7.net
-127.0.0.1 deolegistronf.com
 127.0.0.1 depesche01.webtrekk.net
 127.0.0.1 depici.2cnt.net
 127.0.0.1 depilflash.tv
@@ -40294,6 +40294,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 firstmediahub.com
 127.0.0.1 firstname.com
 127.0.0.1 firstshowing.us.intellitxt.com
+127.0.0.1 firstwetakemanhat.com
 127.0.0.1 fishadz.pressflex.net
 127.0.0.1 fishclix.com
 127.0.0.1 fishsnifferee-thefishsniffer.netdna-ssl.com
@@ -44760,6 +44761,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 isg08.casalemedia.com
 127.0.0.1 isg09.casalemedia.com
 127.0.0.1 ishare.metric.rediff.com
+127.0.0.1 isi.ac.id
 127.0.0.1 islamicmarketing.net
 127.0.0.1 islenpiding.hotmail.ru
 127.0.0.1 ism2trk.com
@@ -45832,6 +45834,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 konstantin.freespaces.com
 127.0.0.1 kontaktanzeigen-fotos.de
 127.0.0.1 kontera.com
+127.0.0.1 koocash.com
 127.0.0.1 kootil.com
 127.0.0.1 kople.voluumtrk.com
 127.0.0.1 kori-stimson.us
@@ -48831,6 +48834,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 minyanville.checkm8.com
 127.0.0.1 miov5.voluumtrk.com
 127.0.0.1 miracema.rj.gov.br
+127.0.0.1 miracleworld1.com
 127.0.0.1 mirageads.net
 127.0.0.1 mirandolasrl.it
 127.0.0.1 mirgadaniy.justclick.ru
@@ -62260,6 +62264,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 venetian.evyy.net
 127.0.0.1 ventivmedia.com
 127.0.0.1 venture.boulevards.com
+127.0.0.1 ventureabove.com
 127.0.0.1 venus.goclick.com
 127.0.0.1 verdict.abc.go.com
 127.0.0.1 vericlick.com
@@ -69141,6 +69146,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.dropdeadugly.com
 127.0.0.1 www.drowle.com
 127.0.0.1 www.drsnsrch.com
+127.0.0.1 www.drteachme.com
 127.0.0.1 www.drtserver.com
 127.0.0.1 www.drugs-cheap.com
 127.0.0.1 www.dsct1.com
@@ -69714,6 +69720,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.girlgamesbanner.com
 127.0.0.1 www.girlsofvs.com
 127.0.0.1 www.givwbox.de
+127.0.0.1 www.gjewellery.com
 127.0.0.1 www.gladys-lapierre.us
 127.0.0.1 www.gladys-theriot.us
 127.0.0.1 www.gladys-viola.us
@@ -70466,6 +70473,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.kompass-intl.com
 127.0.0.1 www.kontera.com
 127.0.0.1 www.konversation.com
+127.0.0.1 www.koocash.com
 127.0.0.1 www.kosmetycznysklep.pl
 127.0.0.1 www.kosoft-ads.com
 127.0.0.1 www.kpicentral.com
@@ -72574,6 +72582,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.veely.com
 127.0.0.1 www.velmedia.net
 127.0.0.1 www.venturead.com
+127.0.0.1 www.veronaspine.com
 127.0.0.1 www.vertadnet.com
 127.0.0.1 www.veruta.com
 127.0.0.1 www.veryfastsearch.com
