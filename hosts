@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74038 ad serving and malware domains.
+# Currently blocking 74043 ad serving and malware domains.
 #
-# Date Generated: Dec 16 2015
+# Date Generated: Dec 17 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -34823,6 +34823,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 content.zemanta.com
 127.0.0.1 contentabc.com
 127.0.0.1 contentcache-a.akamaihd.net
+127.0.0.1 contentclick.akamaized.net
 127.0.0.1 contentd.fundsforngos.org
 127.0.0.1 contentlockingnetworks.com
 127.0.0.1 contents.sex-explorer.com
@@ -43608,6 +43609,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ialnteryield.jmp9.com
 127.0.0.1 iamagameaddict.com
 127.0.0.1 iamnotageek.us.intellitxt.com
+127.0.0.1 iamthewinnerhere.com
 127.0.0.1 ianteryield.jmp9.com
 127.0.0.1 iapref.orange.fr
 127.0.0.1 iapref.wanadoo.fr
@@ -59974,6 +59976,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tom01.ixn.local.vmsn.de
 127.0.0.1 tom2.int.vmsn.de
 127.0.0.1 tomalinoalambres.com.ar
+127.0.0.1 tomloncar.com.au
 127.0.0.1 tommysbookmarks.com
 127.0.0.1 tommysbookmarks.net
 127.0.0.1 tomorrownewstoday.com
@@ -60830,6 +60833,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trackingsoft.com
 127.0.0.1 trackingstatalytics.com
 127.0.0.1 trackinguk2.com
+127.0.0.1 trackit.skyhighctr.com
 127.0.0.1 tracklead.net
 127.0.0.1 trackmysales.com
 127.0.0.1 tracknet.twyn.com
@@ -67012,6 +67016,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 whabi.csheaven.com
 127.0.0.1 whainteryield.jmp9.com
 127.0.0.1 whaleads.com
+127.0.0.1 whatdidyaysay.com
 127.0.0.1 whatifholdings.go2cloud.org
 127.0.0.1 whatinteryield.jmp9.com
 127.0.0.1 whatismyip.akamai.com
