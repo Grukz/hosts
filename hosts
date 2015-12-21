@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74628 ad serving and malware domains.
+# Currently blocking 74632 ad serving and malware domains.
 #
-# Date Generated: Dec 20 2015
+# Date Generated: Dec 21 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -23252,6 +23252,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserver-5.ig.com.br
 127.0.0.1 adserver-a-frr.adtech.de
 127.0.0.1 adserver-espnet.sportszone.net
+127.0.0.1 adserver-images.adikteev.com
 127.0.0.1 adserver-live.yoc.mobi
 127.0.0.1 adserver-static1.iweb.cortica.com
 127.0.0.1 adserver-voice-online.co.uk
@@ -25535,6 +25536,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ako.cc
 127.0.0.1 akril.com
 127.0.0.1 aksb-a.akamaihd.net
+127.0.0.1 aksdk-images.adikteev.com
 127.0.0.1 aksoftware.com
 127.0.0.1 aktif.haberx.com
 127.0.0.1 aktrack.pubmatic.com
@@ -25689,6 +25691,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 allteenmodel.com
 127.0.0.1 allteenvideo.com
 127.0.0.1 alltereg0.ru
+127.0.0.1 allterrainadventures.co.uk
 127.0.0.1 alltheinternet.com
 127.0.0.1 alltheweb.ru
 127.0.0.1 alltraff.cn
@@ -30746,6 +30749,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bobgw02.con.local.vmsn.de
 127.0.0.1 bobgwtmp.vmsn.de
 127.0.0.1 bobtv.ivwbox.de
+127.0.0.1 bocaautocenters.com
 127.0.0.1 bodisparking.com
 127.0.0.1 bodybuilding-com.112.2o7.net
 127.0.0.1 boersego-ads.de
