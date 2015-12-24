@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74960 ad serving and malware domains.
+# Currently blocking 74968 ad serving and malware domains.
 #
-# Date Generated: Dec 23 2015
+# Date Generated: Dec 24 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -27013,7 +27013,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 arm2pie.com
 127.0.0.1 armanix.white.prohosting.com
 127.0.0.1 armsart.com
-127.0.0.1 arnaudnicolas.fr
 127.0.0.1 arnmp.voluumtrk.com
 127.0.0.1 arnoldlanecars.co.uk
 127.0.0.1 arrowtec.go2cloud.org
@@ -27376,7 +27375,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 aurora.starpartner.com
 127.0.0.1 aus.laola1.tv
 127.0.0.1 auslieferung.commindo-media-ressourcen.de
-127.0.0.1 ausoposicom.com
 127.0.0.1 auspice.augur.io
 127.0.0.1 aussiemethod.com
 127.0.0.1 australiapost.122.2o7.net
@@ -44432,6 +44430,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 idcounter.com
 127.0.0.1 iddiction.com
 127.0.0.1 idea21.org
+127.0.0.1 ideaconsultora.com.ar
 127.0.0.1 idearc.tt.omtrdc.net
 127.0.0.1 identads.com
 127.0.0.1 ideoclick.com
@@ -53131,6 +53130,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pepelacer.computingservices123.com
 127.0.0.1 pepelacer.memeletrica.com
 127.0.0.1 pepipo.com
+127.0.0.1 pepol.flaviocastro.eu
 127.0.0.1 pepperjamnetwork.com
 127.0.0.1 per-nunker.dk
 127.0.0.1 percentmobile.com
@@ -68967,6 +68967,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.agkn.com
 127.0.0.1 www.agmtrk.com
 127.0.0.1 www.agnstaging.com
+127.0.0.1 www.agrimont.cz
 127.0.0.1 www.aim4media.com
 127.0.0.1 www.airpush.com
 127.0.0.1 www.aivwbox.de
@@ -69141,6 +69142,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.awin2.com
 127.0.0.1 www.awltovhc.com
 127.0.0.1 www.awmads.com
+127.0.0.1 www.ax-electronic.de
 127.0.0.1 www.axf8.net
 127.0.0.1 www.axill.com
 127.0.0.1 www.axill.in
@@ -71386,6 +71388,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ladyclicks.ru
 127.0.0.1 www.ladylust.com
 127.0.0.1 www.lajourneeducommercedeproximite.fr
+127.0.0.1 www.lambrusco.it
 127.0.0.1 www.lapoo.net
 127.0.0.1 www.laptopreportcard.com
 127.0.0.1 www.laptoprewards.com
@@ -71603,6 +71606,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.mandy-lauzon.us
 127.0.0.1 www.manga-erotico.com
 127.0.0.1 www.mangayhentai.com
+127.0.0.1 www.mangiamando.com
 127.0.0.1 www.manuelu.com
 127.0.0.1 www.maple-team.com
 127.0.0.1 www.mapmyuser.com
@@ -72611,6 +72615,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.scanspyware.net
 127.0.0.1 www.scarlett-lorenzo.us
 127.0.0.1 www.scenicreflections.com
+127.0.0.1 www.schillinger-beregnungsanlagen.de
+127.0.0.1 www.schluckspecht.com
 127.0.0.1 www.schwarz-weisses.de
 127.0.0.1 www.schwule-boys-nackt.cxa.de
 127.0.0.1 www.scoreadate.com
@@ -73706,6 +73712,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.wivwbox.de
 127.0.0.1 www.wizteen.com
 127.0.0.1 www.wmsonic.com
+127.0.0.1 www.wohnmoebel-blog.de
 127.0.0.1 www.woolyboys.com
 127.0.0.1 www.wopnersoft.com
 127.0.0.1 www.wordplaywhiz.com
@@ -74820,6 +74827,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ze1.zeroredirect1.com
 127.0.0.1 zeads.com
 127.0.0.1 zebutal.1.p2l.info
+127.0.0.1 zeditsolutions.com.au
 127.0.0.1 zedo.com
 127.0.0.1 zedoadnetwork.com
 127.0.0.1 zedoadservices.com
