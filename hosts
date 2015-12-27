@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74968 ad serving and malware domains.
+# Currently blocking 74979 ad serving and malware domains.
 #
-# Date Generated: Dec 26 2015
+# Date Generated: Dec 27 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -29728,6 +29728,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bleepingcomputer.us.intellitxt.com
 127.0.0.1 blekko.com
 127.0.0.1 blenz-me.net
+127.0.0.1 blesslifelove.ru
 127.0.0.1 blethenmaine.112.2o7.net
 127.0.0.1 blickonl.wemfbox.ch
 127.0.0.1 bliga.oewabox.at
@@ -34306,6 +34307,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 choicetitle.net
 127.0.0.1 chokertraffic.com
 127.0.0.1 chosurvey.net
+127.0.0.1 chrisouimet.ca
 127.0.0.1 christianbusinessadvertising.com
 127.0.0.1 christie-hanlon.us
 127.0.0.1 christie-pearlman.us
@@ -38433,6 +38435,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 devel.superfish.com
 127.0.0.1 devel01.jag.vmsn.de
 127.0.0.1 developer.anscamobile.com
+127.0.0.1 developer.cdn.com.kz
 127.0.0.1 devfast.mediacharger.com
 127.0.0.1 devfw.imrworldwide.com
 127.0.0.1 deviantart.crwdcntrl.net
@@ -47790,6 +47793,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ltur.112.2o7.net
 127.0.0.1 ltur.ivwbox.de
 127.0.0.1 luchtenbergdecor.com.br
+127.0.0.1 lucianowebpeace.com
 127.0.0.1 lucibad.home.ro
 127.0.0.1 lucidmedia.com
 127.0.0.1 luckpacking.net
@@ -57488,6 +57492,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 shawnewspapers.112.2o7.net
 127.0.0.1 shayla-haygood.us
 127.0.0.1 shc-rebates.com
+127.0.0.1 shean76.net
 127.0.0.1 shebudgets.us.intellitxt.com
 127.0.0.1 shedad.com
 127.0.0.1 sheila-grosz.us
@@ -60139,6 +60144,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tawny-joiner.us
 127.0.0.1 taz.adspirit.de
 127.0.0.1 taz.ivwbox.de
+127.0.0.1 tazzatti.com
 127.0.0.1 tb.vmsn.de
 127.0.0.1 tb02.vmsn.de
 127.0.0.1 tb03.vmsn.de
@@ -60359,6 +60365,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 telecommand.telemetry.microsoft.com
 127.0.0.1 telecommand.telemetry.microsoft.com.nsatc.net
 127.0.0.1 telefloracom.112.2o7.net
+127.0.0.1 telefonfiyatlari.org
 127.0.0.1 telefonica.es.intellitxt.com
 127.0.0.1 telefonica.webnavegador.com.br
 127.0.0.1 telefonino.it.intellitxt.com
@@ -69517,6 +69524,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.cellphoneincentives.com
 127.0.0.1 www.cellphoneupdated.com
 127.0.0.1 www.cellularbeton.it
+127.0.0.1 www.cennoworld.com
 127.0.0.1 www.certified-email.com
 127.0.0.1 www.cetrk.com
 127.0.0.1 www.chainsawoffer.com
@@ -70659,6 +70667,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.googleadservices.com
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.googletagservices.com
+127.0.0.1 www.goooglesecurity.com
 127.0.0.1 www.gooool.com
 127.0.0.1 www.gopopup.com
 127.0.0.1 www.goreal.at
@@ -70779,6 +70788,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.hitboxwireless.com
 127.0.0.1 www.hitcounter.ru
 127.0.0.1 www.hitcountermaster.com
+127.0.0.1 www.hitekshop.vn
 127.0.0.1 www.hitexchange.net
 127.0.0.1 www.hitfarm.com
 127.0.0.1 www.hitmaster.de
@@ -72140,6 +72150,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.oxinads.com
 127.0.0.1 www.oxoads.com
 127.0.0.1 www.oxosurf.eu
+127.0.0.1 www.ozowarac.com
 127.0.0.1 www.p.de
 127.0.0.1 www.p3marketing.com
 127.0.0.1 www.pacificpoker.com
