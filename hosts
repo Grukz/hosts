@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 74979 ad serving and malware domains.
 #
-# Date Generated: Dec 27 2015
+# Date Generated: Dec 28 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -19553,7 +19553,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adpoolnet.net
 127.0.0.1 adpop.theglobe.net
 127.0.0.1 adportal.advertisingnemesis.com
-127.0.0.1 adpost.com
 127.0.0.1 adpowerzone.com
 127.0.0.1 adppv.com
 127.0.0.1 adprimemedia.com
@@ -26111,6 +26110,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 analytics.ad.daum.net
 127.0.0.1 analytics.admob.com
 127.0.0.1 analytics.adnetwork.vn
+127.0.0.1 analytics.adpost.org
 127.0.0.1 analytics.adspaces.ero-advertising.com
 127.0.0.1 analytics.amakings.com
 127.0.0.1 analytics.ambient-platform.com
