@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74979 ad serving and malware domains.
+# Currently blocking 74988 ad serving and malware domains.
 #
-# Date Generated: Dec 28 2015
+# Date Generated: Dec 29 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -29502,6 +29502,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 better-counter.com
 127.0.0.1 betterclips.com
 127.0.0.1 betterhg.112.2o7.net
+127.0.0.1 betterhomeandgardenideas.com
 127.0.0.1 bettermail.ca
 127.0.0.1 betterperformance.goldenopps.info
 127.0.0.1 betting-online.petrovka.info
@@ -45552,6 +45553,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 its-that-easy.com
 127.0.0.1 itsfree123.com
 127.0.0.1 itsptp.com
+127.0.0.1 itstock.hu
 127.0.0.1 ittoolbox.us.intellitxt.com
 127.0.0.1 itunes.mobpartner.mobi
 127.0.0.1 itunesdownloadstore.com
@@ -55358,6 +55360,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 renee-peacock.us
 127.0.0.1 renegademillionaire.go2cloud.org
 127.0.0.1 renova.1.p2l.info
+127.0.0.1 rent-a-lounge.ch
 127.0.0.1 rentblog.blogexplosion.com
 127.0.0.1 rentcom.112.2o7.net
 127.0.0.1 rentcom.tt.omtrdc.net
@@ -57888,6 +57891,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 smartdirect.com
 127.0.0.1 smarterrorpage.com
 127.0.0.1 smartfoodsglutenfree.kz
+127.0.0.1 smartguyit.com
 127.0.0.1 smarticon.geotrust.com
 127.0.0.1 smartify.org
 127.0.0.1 smartinit.webads.nl
@@ -58302,6 +58306,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 srch.startnow.com
 127.0.0.1 sre.zemanta.com
 127.0.0.1 srf.wemfbox.ch
+127.0.0.1 srimahaphotschool.com
 127.0.0.1 srng.net
 127.0.0.1 sro.giuseppemarotta.com
 127.0.0.1 sronline.ivwbox.de
@@ -68107,6 +68112,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 womo.corrmedic.ru
 127.0.0.1 won.images.streamray.com
 127.0.0.1 wonderlandads.com
+127.0.0.1 wonderph.com
 127.0.0.1 wondoads.de
 127.0.0.1 woolyboys.com
 127.0.0.1 woopra.com
@@ -72360,6 +72366,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.privatamateure.com
 127.0.0.1 www.privdog.com
 127.0.0.1 www.prizes.co.uk
+127.0.0.1 www.pro-media.gr
 127.0.0.1 www.pro-partners.nl
 127.0.0.1 www.pro.webstat.pl
 127.0.0.1 www.probabilidades.net
@@ -72919,6 +72926,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.soskin.eu
 127.0.0.1 www.soundstation.dk
 127.0.0.1 www.sourmath.com
+127.0.0.1 www.soyter.pl
 127.0.0.1 www.spacash.com
 127.0.0.1 www.spamnuker.com
 127.0.0.1 www.sparkimg.com
@@ -74636,6 +74644,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 yieldmanager.net
 127.0.0.1 yieldmgr.com
 127.0.0.1 yieldtraffic.com
+127.0.0.1 yigitakcali.com
 127.0.0.1 ying.hitbox.com
 127.0.0.1 yivwbox.de
 127.0.0.1 yj.moatads.com
