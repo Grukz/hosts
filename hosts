@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74988 ad serving and malware domains.
+# Currently blocking 74989 ad serving and malware domains.
 #
-# Date Generated: Dec 29 2015
+# Date Generated: Dec 30 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -46271,7 +46271,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 jupiter3.appads.com
 127.0.0.1 justcounter.com
 127.0.0.1 juste.ru
-127.0.0.1 justinherald.com
 127.0.0.1 justjared.crwdcntrl.net
 127.0.0.1 justjared.us.intellitxt.com
 127.0.0.1 justmovietrailers.us.intellitxt.com
@@ -69472,6 +69471,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.cartoonnrtwork.com
 127.0.0.1 www.cartoonpornguide.com
 127.0.0.1 www.carvoeiro.com
+127.0.0.1 www.casabrisadelestero.com
 127.0.0.1 www.casalemedia.com
 127.0.0.1 www.casamama.nl
 127.0.0.1 www.cash-duck.com
@@ -71406,6 +71406,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.lajourneeducommercedeproximite.fr
 127.0.0.1 www.lambrusco.it
 127.0.0.1 www.lapoo.net
+127.0.0.1 www.laprovinciadifermo.com
 127.0.0.1 www.laptopreportcard.com
 127.0.0.1 www.laptoprewards.com
 127.0.0.1 www.laptoprewardsgroup.com
