@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74989 ad serving and malware domains.
+# Currently blocking 74993 ad serving and malware domains.
 #
-# Date Generated: Dec 30 2015
+# Date Generated: Dec 31 2015
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -29581,6 +29581,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bigads.guj.de
 127.0.0.1 bigapple.contextuads.com
 127.0.0.1 bigasia.com
+127.0.0.1 bigbagtrever.com
 127.0.0.1 bigbangads.go2cloud.org
 127.0.0.1 bigbangmedia.com
 127.0.0.1 bigbanners.com
@@ -37125,6 +37126,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cr.loszona.com
 127.0.0.1 cr.tractionize.com
 127.0.0.1 cra-arc-gc-ca.noads.biz
+127.0.0.1 cra-arc.gc.ca.bioder.com.tr
 127.0.0.1 crackberry.us.intellitxt.com
 127.0.0.1 crackdb.com
 127.0.0.1 cracks.am
@@ -43488,6 +43490,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 healthclicks.co.uk
 127.0.0.1 healthgrades.112.2o7.net
 127.0.0.1 healthination.122.2o7.net
+127.0.0.1 healthybloodpressure.info
 127.0.0.1 heapanalytics.com
 127.0.0.1 hearme.com
 127.0.0.1 hearstcorp.checkm8.com
@@ -47878,6 +47881,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lzjl.com
 127.0.0.1 lzonline.ivwbox.de
 127.0.0.1 lzukp.voluumtrk.com
+127.0.0.1 lzxrz.net
 127.0.0.1 m-itrafficim.tf
 127.0.0.1 m.2mdn.net
 127.0.0.1 m.ad6media.fr
@@ -57077,7 +57081,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 selina-scarlett.us
 127.0.0.1 selina-wimmer.us
 127.0.0.1 sellads.eu
-127.0.0.1 sellfy.com
 127.0.0.1 sellpic.in
 127.0.0.1 sem.shopexplorer.com
 127.0.0.1 semengineers.com
@@ -60397,6 +60400,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tennae880interyield.jmp9.com
 127.0.0.1 tennessean.us.intellitxt.com
 127.0.0.1 tennis.oewabox.at
+127.0.0.1 tentospecom.com
 127.0.0.1 tenuate.1.p2l.info
 127.0.0.1 tenzero.com
 127.0.0.1 tenzing.fmpub.net
@@ -71597,6 +71601,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.lynsey-mabon.us
 127.0.0.1 www.lyzgs.com
 127.0.0.1 www.lzjl.com
+127.0.0.1 www.lzxrz.net
 127.0.0.1 www.m-barati.de
 127.0.0.1 www.macaddictads.snv.futurenet.nl
 127.0.0.1 www.macombdisplayads.com
@@ -72744,7 +72749,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.selfsurveys.com
 127.0.0.1 www.selina-krouse.us
 127.0.0.1 www.sellads.eu
-127.0.0.1 www.sellfy.com
 127.0.0.1 www.sellmeyourtraffic.com
 127.0.0.1 www.semrush.com
 127.0.0.1 www.send-safe.com
