@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74950 ad serving and malware domains.
+# Currently blocking 74953 ad serving and malware domains.
 #
-# Date Generated: Jan 02 2016
+# Date Generated: Jan 03 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -34108,6 +34108,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 celpics.info
 127.0.0.1 celtra.com
 127.0.0.1 cengagecsinfosec.112.2o7.net
+127.0.0.1 cennoworld.com
 127.0.0.1 cent.adbureau.net
 127.0.0.1 center-vip.com
 127.0.0.1 centerium.eu
@@ -52624,6 +52625,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 oz.valueclick.ne.jp
 127.0.0.1 ozertesa.com
 127.0.0.1 ozonemedia.adbureau.net
+127.0.0.1 ozowarac.com
 127.0.0.1 ozzhf.voluumtrk.com
 127.0.0.1 ozzysixsixsix.web.fc2.com
 127.0.0.1 p-alpha.ooo.al
@@ -69926,6 +69928,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.demandbase.com
 127.0.0.1 www.demdex.net
 127.0.0.1 www.demetria-tickle.us
+127.0.0.1 www.demexsoft.com
 127.0.0.1 www.depravedwhores.com
 127.0.0.1 www.dermadoctoraffiliates.com
 127.0.0.1 www.designbloxlive.com
