@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74917 ad serving and malware domains.
+# Currently blocking 74923 ad serving and malware domains.
 #
-# Date Generated: Jan 04 2016
+# Date Generated: Jan 05 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -42896,6 +42896,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 go.securelinktrack.com
 127.0.0.1 go.shareaholic.com
 127.0.0.1 go.sonobi.com
+127.0.0.1 go.spaceshipads.com
 127.0.0.1 go.startnow.com
 127.0.0.1 go.straightresults.com
 127.0.0.1 go.tendatta.com
@@ -46316,6 +46317,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kandace-fazio.us
 127.0.0.1 kandace-thomasson.us
 127.0.0.1 kandice-corn.us
+127.0.0.1 kanommaeoey.com
 127.0.0.1 kanoodle.com
 127.0.0.1 kansas.valueclick.com
 127.0.0.1 kantarmedia.guardian.co.uk
@@ -55016,6 +55018,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rd1.hitbox.com
 127.0.0.1 rd1.surfernetwork.com
 127.0.0.1 rd5d.com
+127.0.0.1 rddywd.com
 127.0.0.1 rdir.smartshoppingads.co.uk
 127.0.0.1 rds4k.voluumtrk.com
 127.0.0.1 rdsa2012.com
@@ -55236,6 +55239,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 register.leadbolt.com
 127.0.0.1 register.screensaver.com
 127.0.0.1 registercom.122.2o7.net
+127.0.0.1 registerdrivegoogle.sytes.net
 127.0.0.1 registration.livejasmin.com
 127.0.0.1 registrydefender.com
 127.0.0.1 registrydefenderplatinum.com
@@ -67467,6 +67471,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 web-olymp.ru
 127.0.0.1 web-sensations.com
 127.0.0.1 web-stat.com
+127.0.0.1 web-statistika-online.info
 127.0.0.1 web-t.9gag.com
 127.0.0.1 web-track.telekom-dienste.de
 127.0.0.1 web.acumenpi.com
@@ -72412,6 +72417,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.rapleaf.com
 127.0.0.1 www.ravel-rewardpath.com
 127.0.0.1 www.rbmut.science
+127.0.0.1 www.rddywd.com
 127.0.0.1 www.readnotify.com
 127.0.0.1 www.real-marketing.com
 127.0.0.1 www.realcastmedia.com
