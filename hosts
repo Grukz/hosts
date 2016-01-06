@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74923 ad serving and malware domains.
+# Currently blocking 74916 ad serving and malware domains.
 #
-# Date Generated: Jan 05 2016
+# Date Generated: Jan 06 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25695,7 +25695,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 alex.fileburst.com
 127.0.0.1 alexa-harrod.us
 127.0.0.1 alexa-sitestats.s3.amazonaws.com
-127.0.0.1 alexa.com
 127.0.0.1 alexander007.iframecash.biz
 127.0.0.1 alexanderinteriorsanddesign.com
 127.0.0.1 alexandra-magruder.us
@@ -33733,7 +33732,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.iqcontentplatform.de
 127.0.0.1 cdn.itrengia.com
 127.0.0.1 cdn.jdrinisocsachostdownload.com
-127.0.0.1 cdn.jsdelivr.net
 127.0.0.1 cdn.justonecookbook.com
 127.0.0.1 cdn.kikuzip.com
 127.0.0.1 cdn.kixer.com
@@ -45498,7 +45496,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 it.bannerout.com
 127.0.0.1 it.best-top.biz
 127.0.0.1 it.erosadv.com
-127.0.0.1 italianacademyfoundation.org
 127.0.0.1 itc.2081.blueseek.com
 127.0.0.1 itcg3.c5369.blueseek.com
 127.0.0.1 itcompany.com
@@ -53869,7 +53866,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ppcindo.com
 127.0.0.1 ppctracking.net
 127.0.0.1 ppctrck.com
-127.0.0.1 ppdfsdnfsdppg.ru
 127.0.0.1 ppp.voice2page.com
 127.0.0.1 pppads.com
 127.0.0.1 pptrk.com
@@ -67471,7 +67467,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 web-olymp.ru
 127.0.0.1 web-sensations.com
 127.0.0.1 web-stat.com
-127.0.0.1 web-statistika-online.info
 127.0.0.1 web-t.9gag.com
 127.0.0.1 web-track.telekom-dienste.de
 127.0.0.1 web.acumenpi.com
@@ -70578,7 +70573,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.global-access.com
 127.0.0.1 www.global-adsrv.com
 127.0.0.1 www.globalcharge.com
-127.0.0.1 www.globalspecialties.com
 127.0.0.1 www.globe7.com
 127.0.0.1 www.globirank.com
 127.0.0.1 www.glxgroup.com
@@ -73813,7 +73807,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.yourstartingpage.com
 127.0.0.1 www.yourstats.net
 127.0.0.1 www.yourxmasgifts.ru
-127.0.0.1 www.youtube-nocookie.com
 127.0.0.1 www.youyield.com
 127.0.0.1 www.ypmadserver.com
 127.0.0.1 www.ypmate.com
