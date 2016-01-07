@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74916 ad serving and malware domains.
+# Currently blocking 74921 ad serving and malware domains.
 #
-# Date Generated: Jan 06 2016
+# Date Generated: Jan 07 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -47876,6 +47876,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 m.mirmay.com
 127.0.0.1 m.mobilerevenu.com
 127.0.0.1 m.openv.tv
+127.0.0.1 m.pl.pornzone.tv
 127.0.0.1 m.porntourfr.3818.idhad.com
 127.0.0.1 m.quantcount.com
 127.0.0.1 m.quantserve.com
@@ -49549,6 +49550,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ministerio-publi.info
 127.0.0.1 mint.boingboing.net
 127.0.0.1 mint.good.is
+127.0.0.1 mintrace.com
 127.0.0.1 minyanville.checkm8.com
 127.0.0.1 miov5.voluumtrk.com
 127.0.0.1 miracema.rj.gov.br
@@ -49957,6 +49959,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ms.5.p2l.info
 127.0.0.1 ms.ligatus.com
 127.0.0.1 ms.onscroll.com
+127.0.0.1 ms.yandex.ru
 127.0.0.1 ms11.net
 127.0.0.1 ms49r.voluumtrk.com
 127.0.0.1 msalt.mysearch.com
@@ -62123,6 +62126,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tv2no.linkpulse.com
 127.0.0.1 tv4chan.com
 127.0.0.1 tv4play-se.c.richmetrics.com
+127.0.0.1 tvas-a.pw
 127.0.0.1 tvas-c.pw
 127.0.0.1 tvfanatic.us.intellitxt.com
 127.0.0.1 tvguide.112.2o7.net
@@ -74608,6 +74612,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 your-gift-zone.com
 127.0.0.1 your.365advert.com
 127.0.0.1 your.com
+127.0.0.1 your.dailytopdealz.com
 127.0.0.1 your.wishbone.com
 127.0.0.1 youradexchange.com
 127.0.0.1 youradslab.com
