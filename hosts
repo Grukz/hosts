@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74921 ad serving and malware domains.
+# Currently blocking 74923 ad serving and malware domains.
 #
-# Date Generated: Jan 07 2016
+# Date Generated: Jan 08 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -29111,6 +29111,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 banners98.hpg.com.br
 127.0.0.1 banners99.hpg.com.br
 127.0.0.1 bannersandpopups.com
+127.0.0.1 bannersbrasil.com.br
 127.0.0.1 bannerselect.com
 127.0.0.1 bannerserver.com
 127.0.0.1 bannersgomlm.buildreferrals.com
@@ -57558,6 +57559,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 signup.clicksor.com
 127.0.0.1 siliconaction.com
 127.0.0.1 siliconera.us.intellitxt.com
+127.0.0.1 siliverstersnewone.in
 127.0.0.1 silkmore.staffs.sch.uk
 127.0.0.1 silurian.cn
 127.0.0.1 silveragesoftware.com
