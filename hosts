@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74484 ad serving and malware domains.
+# Currently blocking 74487 ad serving and malware domains.
 #
-# Date Generated: Jan 13 2016
+# Date Generated: Jan 14 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -37788,6 +37788,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dashboard.qubitproducts.com
 127.0.0.1 dashboard.trafficforce.com
 127.0.0.1 dashboardnew.adcalls.nl
+127.0.0.1 dashlinen.testing-domain-live.co.uk
 127.0.0.1 dasoertl.ivwbox.de
 127.0.0.1 dastelef.ivwbox.de
 127.0.0.1 dat2.ero-advertising.com
@@ -44935,6 +44936,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 incisivemedia.112.2o7.net
 127.0.0.1 inclk.com
 127.0.0.1 include.reinvigorate.net
+127.0.0.1 inclusivediversity.co.uk
 127.0.0.1 incoctel.cl
 127.0.0.1 incoming.cloud-trax.com
 127.0.0.1 indepth-registration.net
@@ -69517,6 +69519,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.dianomi.com
 127.0.0.1 www.dianomioffers.co.uk
 127.0.0.1 www.dicarlotrack.com
+127.0.0.1 www.dicoz.fr
 127.0.0.1 www.did-it.com
 127.0.0.1 www.didata.bw
 127.0.0.1 www.didit.com
