@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74943 ad serving and malware domains.
+# Currently blocking 74946 ad serving and malware domains.
 #
-# Date Generated: Jan 20 2016
+# Date Generated: Jan 21 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -31002,6 +31002,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bpflx.voluumtrk.com
 127.0.0.1 bpm.tags.bigpondmedia.com
 127.0.0.1 bpmsza.com
+127.0.0.1 bppkbsulsel.com
 127.0.0.1 bps.beweb.com
 127.0.0.1 bps.tesial-tech.be
 127.0.0.1 bptracking.com
@@ -39776,6 +39777,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ei.cnzz.com
 127.0.0.1 ei.imbucurator-de-prost.com
 127.0.0.1 ei.rlcdn.com
+127.0.0.1 eielectronics.ie
 127.0.0.1 eightfoldlogic.com
 127.0.0.1 eileen-devore.us
 127.0.0.1 eileen-welk.us
@@ -56574,7 +56576,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 scimmiablu.altervista.org
 127.0.0.1 sclick.baidu.com
 127.0.0.1 scnt.rambler.ru
-127.0.0.1 scontent-lhr3-1.xx.fbcdn.net
 127.0.0.1 scopelight.com
 127.0.0.1 scorecard.wspisp.net
 127.0.0.1 scorecardresearch.com
@@ -60242,6 +60243,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 te.trb.com
 127.0.0.1 te.versiontracker.com
 127.0.0.1 te.wsls.com
+127.0.0.1 teachgalaxys.website
 127.0.0.1 teachscape.vo.llnwd.net
 127.0.0.1 tealium.hs.llnwd.net
 127.0.0.1 team4heat.net
@@ -66844,6 +66846,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vikingtrck.com
 127.0.0.1 villagevoicecollect.247realmedia.com
 127.0.0.1 villalecchi.com
+127.0.0.1 villamanati.com.mx
 127.0.0.1 ville-st-remy-sur-avre.fr
 127.0.0.1 vimage.com
 127.0.0.1 vimages.videoprofessor.com
@@ -69041,6 +69044,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.arbeitssuche-web.de
 127.0.0.1 www.arcadebanners.com
 127.0.0.1 www.archigate.it
+127.0.0.1 www.areadiprova.eu
 127.0.0.1 www.areasnap.com
 127.0.0.1 www.ariboo.com
 127.0.0.1 www.arielle-younkin.us
@@ -72566,7 +72570,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.rx-24h.com
 127.0.0.1 www.s2d6.com
 127.0.0.1 www.sa44.net
-127.0.0.1 www.sacanoveta.com
 127.0.0.1 www.sacredphoenix.com
 127.0.0.1 www.saemark.is
 127.0.0.1 www.safedownloads.net
