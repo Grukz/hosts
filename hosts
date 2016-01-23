@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74942 ad serving and malware domains.
+# Currently blocking 74944 ad serving and malware domains.
 #
-# Date Generated: Jan 22 2016
+# Date Generated: Jan 23 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -20347,7 +20347,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.erotism.nl
 127.0.0.1 ads.erotism.org
 127.0.0.1 ads.ersamedia.ch
-127.0.0.1 ads.escalatemedia.com
 127.0.0.1 ads.esmas.com
 127.0.0.1 ads.espn.adsonar.com
 127.0.0.1 ads.ethicalads.net
@@ -45976,6 +45975,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jkeyp.voluumtrk.com
 127.0.0.1 jkgah.voluumtrk.com
 127.0.0.1 jkontherun.us.intellitxt.com
+127.0.0.1 jktdc.in
 127.0.0.1 jl29jd25sm24mc29.com
 127.0.0.1 jlh9b.voluumtrk.com
 127.0.0.1 jlinks.industrybrains.com
@@ -56574,6 +56574,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 scimmiablu.altervista.org
 127.0.0.1 sclick.baidu.com
 127.0.0.1 scnt.rambler.ru
+127.0.0.1 scontent-lhr3-1.xx.fbcdn.net
 127.0.0.1 scopelight.com
 127.0.0.1 scorecard.wspisp.net
 127.0.0.1 scorecardresearch.com
@@ -72327,6 +72328,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.pro-partners.nl
 127.0.0.1 www.pro.webstat.pl
 127.0.0.1 www.proacti.com.br
+127.0.0.1 www.proascolcolombia.com
 127.0.0.1 www.probabilidades.net
 127.0.0.1 www.probux.com
 127.0.0.1 www.productopinionpanel.com
