@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74944 ad serving and malware domains.
+# Currently blocking 74946 ad serving and malware domains.
 #
-# Date Generated: Jan 23 2016
+# Date Generated: Jan 24 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -34610,6 +34610,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 click.tz.simba.taobao.com
 127.0.0.1 click.union.ucweb.com
 127.0.0.1 click.vgnett.no
+127.0.0.1 click.whittlesbiz.info
 127.0.0.1 click.wrating.com
 127.0.0.1 click.xxxofferz.com
 127.0.0.1 click.zipcodez.com
@@ -58029,6 +58030,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 soma.3xforum.ro
 127.0.0.1 soma.smaato.net
 127.0.0.1 somanyhits.info
+127.0.0.1 some123loader.in
 127.0.0.1 someonewhocares.com
 127.0.0.1 somethingawful.crwdcntrl.net
 127.0.0.1 somethingawful.us.intellitxt.com
@@ -60859,6 +60861,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tools.ztod.com
 127.0.0.1 tools2.hitbox.com
 127.0.0.1 toolsa.hitbox.com
+127.0.0.1 toolsathomes.com
 127.0.0.1 toon-families.com
 127.0.0.1 toonfamilies.net
 127.0.0.1 top-casting-termine.de
@@ -74470,7 +74473,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 xstatic.nk-net.pl
 127.0.0.1 xtainment.net
 127.0.0.1 xtds.info
-127.0.0.1 xten-ng.co.in
 127.0.0.1 xtendmedia.com
 127.0.0.1 xtra-get.com
 127.0.0.1 xtra.co.nz
