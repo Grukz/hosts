@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74946 ad serving and malware domains.
+# Currently blocking 74945 ad serving and malware domains.
 #
-# Date Generated: Jan 24 2016
+# Date Generated: Jan 25 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -40452,7 +40452,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 external-lhr1-1.xx.fbcdn.net
 127.0.0.1 external-lhr10-1.xx.fbcdn.net
 127.0.0.1 external-lhr2-1.xx.fbcdn.net
-127.0.0.1 external-lhr3-1.xx.fbcdn.net
 127.0.0.1 external-lhr4-1.xx.fbcdn.net
 127.0.0.1 external-lhr5-1.xx.fbcdn.net
 127.0.0.1 external-lhr6-1.xx.fbcdn.net
@@ -56575,7 +56574,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 scimmiablu.altervista.org
 127.0.0.1 sclick.baidu.com
 127.0.0.1 scnt.rambler.ru
-127.0.0.1 scontent-lhr3-1.xx.fbcdn.net
 127.0.0.1 scopelight.com
 127.0.0.1 scorecard.wspisp.net
 127.0.0.1 scorecardresearch.com
@@ -63232,6 +63230,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vialeads.com
 127.0.0.1 vialogoonline.112.2o7.net
 127.0.0.1 vialogorollup.112.2o7.net
+127.0.0.1 viamichelin.cdn11.contentabc.com
 127.0.0.1 viamtv.112.2o7.net
 127.0.0.1 viamtvcom.112.2o7.net
 127.0.0.1 viamtvde.112.2o7.net
