@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74945 ad serving and malware domains.
+# Currently blocking 74949 ad serving and malware domains.
 #
-# Date Generated: Jan 25 2016
+# Date Generated: Jan 26 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -32617,6 +32617,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 buzzfoto.us.intellitxt.com
 127.0.0.1 buzzhumor.us.intellitxt.com
 127.0.0.1 buzznet.112.2o7.net
+127.0.0.1 buzzonclick.com
 127.0.0.1 buzzreferrals.go2cloud.org
 127.0.0.1 bvalit.justclick.ru
 127.0.0.1 bvalphaserver.com
@@ -42384,6 +42385,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 geneme.go2cloud.org
 127.0.0.1 general.visualdna-stats.com
 127.0.0.1 generalchemicalsupply.com
+127.0.0.1 generalfoodadditives.com
 127.0.0.1 generalmediaadhu.hit.gemius.pl
 127.0.0.1 generalonlinequiz.com
 127.0.0.1 generation-nt.fr.intellitxt.com
@@ -60327,6 +60329,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tekehigie.xyz
 127.0.0.1 tekjoe.space
 127.0.0.1 teknosurf3.com
+127.0.0.1 tekstanru.xyz
 127.0.0.1 tel.geenstijl.nl
 127.0.0.1 tel3adv.112.2o7.net
 127.0.0.1 tele.oewabox.at
@@ -69135,6 +69138,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.badoink.com
 127.0.0.1 www.bagslap.com
 127.0.0.1 www.bakler.net
+127.0.0.1 www.balanceyourtires.com
 127.0.0.1 www.baleron.com
 127.0.0.1 www.ballsack.org
 127.0.0.1 www.balook.com
