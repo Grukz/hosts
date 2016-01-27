@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74949 ad serving and malware domains.
+# Currently blocking 74959 ad serving and malware domains.
 #
-# Date Generated: Jan 26 2016
+# Date Generated: Jan 27 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25770,6 +25770,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 allhqpics.com
 127.0.0.1 allhyperlinks.com
 127.0.0.1 alliance.adbureau.net
+127.0.0.1 alliancesystems.co.in
 127.0.0.1 allie-cunha.us
 127.0.0.1 allie-hobdy.us
 127.0.0.1 allinsearch.net
@@ -43003,6 +43004,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 goreal.at
 127.0.0.1 gorilla.go2cloud.org
 127.0.0.1 gorillanation.us.intellitxt.com
+127.0.0.1 gosciniec-paproc.pl
 127.0.0.1 goshoppingonline.bfast.com
 127.0.0.1 goska.siol.net
 127.0.0.1 gosms.3g.cn
@@ -49518,6 +49520,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 middlewaredev.adition.com
 127.0.0.1 midnightclicking.com
 127.0.0.1 midsen.112.2o7.net
+127.0.0.1 miercuri.gq
 127.0.0.1 miespaciopilates.com
 127.0.0.1 mig.nexac.com
 127.0.0.1 mightymagoo.com
@@ -55033,6 +55036,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rdstat.tanx.com
 127.0.0.1 rdt.screensaver.com
 127.0.0.1 rdt2.ringtone.com
+127.0.0.1 re-directme.com
 127.0.0.1 re.adroll.com
 127.0.0.1 re.kontera.com
 127.0.0.1 re.revolvermaps.com
@@ -57809,6 +57813,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 slimxxxtubeyza.ddns.name
 127.0.0.1 slinse.com
 127.0.0.1 slivoratikam.pw
+127.0.0.1 slopeaota.com
 127.0.0.1 slot.sub-zero.it
 127.0.0.1 slotch.com
 127.0.0.1 slovakia.hit.gemius.pl
@@ -59719,6 +59724,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 syndication1.traffichaus.com
 127.0.0.1 syndication1.viraladnetwork.net
 127.0.0.1 synergetic.de
+127.0.0.1 synergycontrols.co.in
 127.0.0.1 synthes.vo.llnwd.net
 127.0.0.1 sys.osttirol-online.at
 127.0.0.1 sysadmin.map24.com
@@ -60639,6 +60645,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 thoughtsmedia.us.intellitxt.com
 127.0.0.1 threadwatch.us.intellitxt.com
 127.0.0.1 threivetrack.com
+127.0.0.1 thrnt.com
 127.0.0.1 thruport.com
 127.0.0.1 thumb.ero-advertising.com
 127.0.0.1 thumbads.ero-advertising.com
@@ -61885,6 +61892,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trf.intuitwebsites.com
 127.0.0.1 trg.peer39.net
 127.0.0.1 trgde.adocean.pl
+127.0.0.1 trhunt.com
 127.0.0.1 trhzc.com
 127.0.0.1 triadmedianetwork.com
 127.0.0.1 trial-collector.snplow.com
@@ -67876,6 +67884,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 whitecastle.122.2o7.net
 127.0.0.1 whitehorsetechnologies.net
 127.0.0.1 whitney-swindell.us
+127.0.0.1 whitsundayplatinumhairdesign.com.au
 127.0.0.1 who.knows.com
 127.0.0.1 whoads.net
 127.0.0.1 whoateallthepies.uk.intellitxt.com
@@ -68074,6 +68083,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 womenslabour.org
 127.0.0.1 womo.corrmedic.ru
 127.0.0.1 won.images.streamray.com
+127.0.0.1 wonchangvacuum.com.my
 127.0.0.1 wonderlandads.com
 127.0.0.1 wonderph.com
 127.0.0.1 wondoads.de
