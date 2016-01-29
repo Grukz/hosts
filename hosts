@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74960 ad serving and malware domains.
+# Currently blocking 74964 ad serving and malware domains.
 #
-# Date Generated: Jan 28 2016
+# Date Generated: Jan 29 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -3966,6 +3966,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad-maker.net
 127.0.0.1 ad-media.xe.gr
 127.0.0.1 ad-noise.net
+127.0.0.1 ad-pay.de
 127.0.0.1 ad-plus.cn
 127.0.0.1 ad-rotator.com
 127.0.0.1 ad-search.com
@@ -18611,6 +18612,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adbnr.ru
 127.0.0.1 adbonus.com
 127.0.0.1 adboost.com
+127.0.0.1 adboost.de.vu
 127.0.0.1 adboost.finalid.com
 127.0.0.1 adboost.net
 127.0.0.1 adboost.serverpower.net
@@ -19630,7 +19632,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads-by.madadsmedia.com
 127.0.0.1 ads-by.yieldselect.com
 127.0.0.1 ads-c.focalink.com
-127.0.0.1 ads-click.com
 127.0.0.1 ads-colruytgroup.adhese.com
 127.0.0.1 ads-cpm.com
 127.0.0.1 ads-de.ret01.ligatus.com
@@ -38191,6 +38192,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 delb.myspace.com
 127.0.0.1 delb2.myspace.com
 127.0.0.1 delconewsnetwork.us.intellitxt.com
+127.0.0.1 deleondeos.com
 127.0.0.1 deletespyware-adware.com
 127.0.0.1 delfi.spring-tns.net
 127.0.0.1 delfiadee.hit.gemius.pl
@@ -43441,6 +43443,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hayley-mund.us
 127.0.0.1 haymarketbusinesspublications.122.2o7.net
 127.0.0.1 haynet.adbureau.net
+127.0.0.1 hayretcnctorna.com
 127.0.0.1 haz.moarclicks.com
 127.0.0.1 hb-assets.s3.amazonaws.com
 127.0.0.1 hb.justclick.ru
@@ -44787,7 +44790,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 imarker.com
 127.0.0.1 imarker.ru
 127.0.0.1 imarketservices.com
-127.0.0.1 imasdk.googleapis.com
 127.0.0.1 imatmobile.com
 127.0.0.1 imb.mobitkr.com
 127.0.0.1 imc.l.qq.com
@@ -49682,7 +49684,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mno2.hairg.biz
 127.0.0.1 mno3.hairg.biz
 127.0.0.1 mno4.hairg.biz
-127.0.0.1 mnstat.com
 127.0.0.1 mntr.babcdn.com
 127.0.0.1 mo.5.p2l.info
 127.0.0.1 moadnet.com
@@ -52255,7 +52256,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 opera1-servedby.advertising.com
 127.0.0.1 operatest.webtrekk.net
 127.0.0.1 operationfabulous.com
-127.0.0.1 opf.ooyala.com
 127.0.0.1 ophan.guardian.co.uk
 127.0.0.1 ophan.theguardian.com
 127.0.0.1 opi.yahoo.com
@@ -57549,6 +57549,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 siccash.com
 127.0.0.1 sichtbarkeitsindex.de
 127.0.0.1 sictalk.com
+127.0.0.1 sicuxp.sinerjimspor.com
 127.0.0.1 sidebar.angelfire.com
 127.0.0.1 sidebar.issuu.com
 127.0.0.1 sidefind.com
@@ -58036,6 +58037,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 soma.smaato.net
 127.0.0.1 somanyhits.info
 127.0.0.1 some123loader.in
+127.0.0.1 some123loader2.in
 127.0.0.1 someonewhocares.com
 127.0.0.1 somethingawful.crwdcntrl.net
 127.0.0.1 somethingawful.us.intellitxt.com
@@ -63241,6 +63243,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vialeads.com
 127.0.0.1 vialogoonline.112.2o7.net
 127.0.0.1 vialogorollup.112.2o7.net
+127.0.0.1 viamichelin.ads.trafficjunky.net
 127.0.0.1 viamichelin.cdn11.contentabc.com
 127.0.0.1 viamichelin.media.trafficjunky.net
 127.0.0.1 viamtv.112.2o7.net
@@ -72199,6 +72202,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.performanceadexchange.com
 127.0.0.1 www.performancerevenues.com
 127.0.0.1 www.performics.com
+127.0.0.1 www.peridotsgroup.com
 127.0.0.1 www.perilshed.info
 127.0.0.1 www.permissionresearch.com
 127.0.0.1 www.persevered.com
