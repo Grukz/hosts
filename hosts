@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74964 ad serving and malware domains.
+# Currently blocking 74967 ad serving and malware domains.
 #
-# Date Generated: Jan 29 2016
+# Date Generated: Jan 30 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -46362,6 +46362,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 katrina-rumbaugh.us
 127.0.0.1 katrina-urias.us
 127.0.0.1 katu.adbureau.net
+127.0.0.1 kaykayedu.com.ng
 127.0.0.1 kayla-massie.us
 127.0.0.1 kaylee-donley.us
 127.0.0.1 kayleigh-cota.us
@@ -48787,6 +48788,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 media.travelzoo.com
 127.0.0.1 media.ventivmedia.com
 127.0.0.1 media.viwii.net
+127.0.0.1 media.xxxnavy.com
 127.0.0.1 media.yesmessenger.com
 127.0.0.1 media.ym0.net
 127.0.0.1 media01.adservinghost.com
@@ -51179,6 +51181,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ns416017.ip-37-187-144.eu
 127.0.0.1 ns5.ivwbox.de
 127.0.0.1 ns5.linksynergy.com
+127.0.0.1 ns511849.ip-192-99-19.net
 127.0.0.1 ns513726.ip-192-99-148.net
 127.0.0.1 ns8.linksynergy.com
 127.0.0.1 nsa.conviva.com
