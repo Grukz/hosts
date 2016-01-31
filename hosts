@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74967 ad serving and malware domains.
+# Currently blocking 74970 ad serving and malware domains.
 #
-# Date Generated: Jan 30 2016
+# Date Generated: Jan 31 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -35062,6 +35062,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cmpsmarter-downloader.maynemyltf.netdna-cdn.com
 127.0.0.1 cmpstar.com
 127.0.0.1 cms-pixel.crowdreport.com
+127.0.0.1 cms-shipping.com
 127.0.0.1 cms.abmr.net
 127.0.0.1 cms.ad2click.nl
 127.0.0.1 cms.analytics.yahoo.com
@@ -54263,6 +54264,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 prsitecheck.com
 127.0.0.1 prstatics.com
 127.0.0.1 prstats.postrelease.com
+127.0.0.1 prtscrinsertcn.net
 127.0.0.1 prv3h.voluumtrk.com
 127.0.0.1 prwidgets.com
 127.0.0.1 prx.freecj.com
@@ -61852,6 +61854,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 travelch.ivwbox.de
 127.0.0.1 traveller-offer.com
 127.0.0.1 traveller-offer.net
+127.0.0.1 traveller.to
 127.0.0.1 travelmail.traveltek.net
 127.0.0.1 travelncs.com
 127.0.0.1 travelocity.bfast.com
