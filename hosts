@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74970 ad serving and malware domains.
+# Currently blocking 74977 ad serving and malware domains.
 #
-# Date Generated: Jan 31 2016
+# Date Generated: Feb 01 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -33538,6 +33538,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.adrta.com
 127.0.0.1 cdn.ads.ookla.com
 127.0.0.1 cdn.adscpm.net
+127.0.0.1 cdn.adservingsolutionsinc.com
 127.0.0.1 cdn.adshexa.com
 127.0.0.1 cdn.adspirit.de
 127.0.0.1 cdn.adsrv247.com
@@ -38958,6 +38959,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 download.ttrili.com
 127.0.0.1 download.ucmore.com
 127.0.0.1 download.wav2008.com
+127.0.0.1 download.yesmessenger.com
 127.0.0.1 download.ytdownloader.com
 127.0.0.1 download.zhongsou.com
 127.0.0.1 download1.pacificpoker.com
@@ -46447,6 +46449,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kfw04.webtrekk.net
 127.0.0.1 kgj9s.voluumtrk.com
 127.0.0.1 kgn3j.voluumtrk.com
+127.0.0.1 khalto.info
 127.0.0.1 khe5q.voluumtrk.com
 127.0.0.1 khkg2.voluumtrk.com
 127.0.0.1 khoangiengthutiep.com
@@ -50329,7 +50332,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mysql10.con.local.vmsn.de
 127.0.0.1 mysql11.bob.local.vmsn.de
 127.0.0.1 mysql11.con.local.vmsn.de
-127.0.0.1 mystartap.com
 127.0.0.1 mystat-in.net
 127.0.0.1 mystat.pl
 127.0.0.1 mystats.com
@@ -52330,6 +52332,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 orange-fr.adinfuse.com
 127.0.0.1 orange.fr-enqueteannuelle.xyz
 127.0.0.1 orange.fr-enqueteofficielle2015.xyz
+127.0.0.1 orange.fr-felicitations.xyz
 127.0.0.1 orange.fr-votre-opinion.xyz
 127.0.0.1 orange.fr-votreopinion.xyz
 127.0.0.1 orange.weborama.fr
@@ -52426,6 +52429,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 outils.acf-webmaster.net
 127.0.0.1 outils.f5biz.com
 127.0.0.1 outils.yes-messenger.com
+127.0.0.1 outils.yesmessenger.com
 127.0.0.1 outkastsgaming.com
 127.0.0.1 outlets-online.pl
 127.0.0.1 outofsightmedia.us.intellitxt.com
@@ -69365,6 +69369,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.bravospots.com
 127.0.0.1 www.bree-wile.us
 127.0.0.1 www.brianne-crofoot.us
+127.0.0.1 www.brightonclick.com
 127.0.0.1 www.brightshare.com
 127.0.0.1 www.brigitte-burtch.us
 127.0.0.1 www.brilliantdigital.com
@@ -70840,6 +70845,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.hostlnks.com
 127.0.0.1 www.hot-daily-deal.com
 127.0.0.1 www.hot-product-hangout.com
+127.0.0.1 www.hotchatdate.com
 127.0.0.1 www.hotcounter.de
 127.0.0.1 www.hotel-guadeloupe.info
 127.0.0.1 www.hoteldelamer-tregastel.com
@@ -73877,6 +73883,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.zappbrannigan.com
 127.0.0.1 www.zapunited.com
 127.0.0.1 www.zatzy.com
+127.0.0.1 www.zbippirad.info
 127.0.0.1 www.zctei.com
 127.0.0.1 www.zedo.com
 127.0.0.1 www.zedoadnetwork.com
