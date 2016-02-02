@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74977 ad serving and malware domains.
+# Currently blocking 74976 ad serving and malware domains.
 #
-# Date Generated: Feb 01 2016
+# Date Generated: Feb 02 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -58046,7 +58046,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 soma.smaato.net
 127.0.0.1 somanyhits.info
 127.0.0.1 some123loader.in
-127.0.0.1 some123loader2.in
 127.0.0.1 someonewhocares.com
 127.0.0.1 somethingawful.crwdcntrl.net
 127.0.0.1 somethingawful.us.intellitxt.com
@@ -59438,7 +59437,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 stts.rbc.ru
 127.0.0.1 stua.hit.gemius.pl
 127.0.0.1 stubhub.122.2o7.net
-127.0.0.1 studentscompanion.in
 127.0.0.1 studio.doubleclick.com
 127.0.0.1 studio.doubleclick.net
 127.0.0.1 studio020.com
@@ -72244,6 +72242,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.pickoftheweb.com
 127.0.0.1 www.picreel.com
 127.0.0.1 www.picture-uploads.com
+127.0.0.1 www.pieiron.co.uk
 127.0.0.1 www.pigment-adv.co.il
 127.0.0.1 www.pills-home.com
 127.0.0.1 www.pillsmoney.com
