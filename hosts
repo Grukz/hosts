@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74976 ad serving and malware domains.
+# Currently blocking 74983 ad serving and malware domains.
 #
-# Date Generated: Feb 02 2016
+# Date Generated: Feb 03 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25692,6 +25692,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 alenty.2cnt.net
 127.0.0.1 alenty.com
 127.0.0.1 alert.comnotification.com
+127.0.0.1 alert.mac-notification.com
 127.0.0.1 alert.police-patrol-agent.com
 127.0.0.1 alertspy.com
 127.0.0.1 alex.fileburst.com
@@ -25816,7 +25817,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 alltraff.cn
 127.0.0.1 alltraff.ru
 127.0.0.1 alltraff.spb.ru
-127.0.0.1 alluremedia.com.au
 127.0.0.1 allwomenstalk.us.intellitxt.com
 127.0.0.1 allwords.com
 127.0.0.1 allwrappedupgifts.com
@@ -40755,6 +40755,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fatbackmedia.us.intellitxt.com
 127.0.0.1 fatcatrewards.com
 127.0.0.1 fatfreekitchen.us.intellitxt.com
+127.0.0.1 faxtel.hr
 127.0.0.1 faz.ivwbox.de
 127.0.0.1 faz.met.vgwort.de
 127.0.0.1 fb-nym.adnxs.com
@@ -41046,6 +41047,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 flagclick.com
 127.0.0.1 flagcounter.com
 127.0.0.1 flagship.asp-host.co.uk
+127.0.0.1 flamingcow.net
 127.0.0.1 flamingowrestling2.com
 127.0.0.1 flamingowrestling3.com
 127.0.0.1 flamingowrestling4.com
@@ -44099,6 +44101,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 huludev.112.2o7.net
 127.0.0.1 humandemand.com
 127.0.0.1 humaniq.com
+127.0.0.1 hungerford.co.uk
 127.0.0.1 hunt-leads.com
 127.0.0.1 huntingtonbank.tt.omtrdc.net
 127.0.0.1 huomdgde.adocean.pl
@@ -45296,6 +45299,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 intellinetz.com
 127.0.0.1 intelliseek.com
 127.0.0.1 intellitxt.com
+127.0.0.1 intensedigital.adk2x.com
 127.0.0.1 interactive-assets.s3.amazonaws.com
 127.0.0.1 interactive.forthnet.gr
 127.0.0.1 interactivearea.ru
@@ -53432,6 +53436,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pix522.adtech.fr
 127.0.0.1 pix522.adtech.us
 127.0.0.1 pixazza.com
+127.0.0.1 pixel-geo.prfct.co
 127.0.0.1 pixel-user-1039.everesttech.net
 127.0.0.1 pixel.1und1.de
 127.0.0.1 pixel.33across.com
@@ -56516,6 +56521,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sayhello.popunder.ru
 127.0.0.1 sayherbal.com
 127.0.0.1 saymedia.com
+127.0.0.1 sayna.in.ua
 127.0.0.1 sayutracking.co.uk
 127.0.0.1 sb.freeskreen.com
 127.0.0.1 sb.monetate.net
@@ -68099,6 +68105,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wonderlandads.com
 127.0.0.1 wonderph.com
 127.0.0.1 wondoads.de
+127.0.0.1 woodlandworldwide.ca
 127.0.0.1 woolyboys.com
 127.0.0.1 woopra.com
 127.0.0.1 wor6.b6dfnahea.ns2.name
