@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74983 ad serving and malware domains.
+# Currently blocking 74989 ad serving and malware domains.
 #
-# Date Generated: Feb 03 2016
+# Date Generated: Feb 04 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -29283,6 +29283,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 be.nedstat.net
 127.0.0.1 be.sitestat.com
 127.0.0.1 be2be2nz.122.2o7.net
+127.0.0.1 be4jump.in
 127.0.0.1 bea4.v.fwmrm.net
 127.0.0.1 beachfrontio.com
 127.0.0.1 beacon-1.newrelic.com
@@ -46982,6 +46983,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 license20121011.getjar.com
 127.0.0.1 lickscloombsfills.us
 127.0.0.1 liczniki.org
+127.0.0.1 lidl.adspirit.de
 127.0.0.1 lidlretargeting.adspirit.de
 127.0.0.1 life-in-travels.justclick.ru
 127.0.0.1 life.imagepix.org
@@ -61028,6 +61030,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 towerrecords.track4.com
 127.0.0.1 toy-offer.com
 127.0.0.1 toy-offer.net
+127.0.0.1 toyagi.co.id
 127.0.0.1 toyota.112.2o7.net
 127.0.0.1 toyota.cyberealhosting.com
 127.0.0.1 toyota.demdex.net
@@ -62801,6 +62804,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 us-cdn.effectivemeasure.net
 127.0.0.1 us-choicevalue.com
 127.0.0.1 us-east-1.profile-api.ads.linkedin.com
+127.0.0.1 us-nj-e2.traffictradinghub.com
 127.0.0.1 us-sonar.sociomantic.com
 127.0.0.1 us-topsites.com
 127.0.0.1 us-u.openx.net
@@ -69867,6 +69871,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.crushads.com
 127.0.0.1 www.crwdcntrl.net
 127.0.0.1 www.csaladipotlek.info
+127.0.0.1 www.csdmclients.com
 127.0.0.1 www.cshacks.partycat.us
 127.0.0.1 www.cstrk.net
 127.0.0.1 www.ctbdev.net
@@ -70023,6 +70028,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.donotwatch.org
 127.0.0.1 www.dontwatch.us
 127.0.0.1 www.doris-imhoff.us
+127.0.0.1 www.dorpsraadswolgen.nl
 127.0.0.1 www.doubleclick.com
 127.0.0.1 www.doubleclick.de
 127.0.0.1 www.doubleclick.ne.jp
