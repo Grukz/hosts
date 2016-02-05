@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74989 ad serving and malware domains.
+# Currently blocking 74992 ad serving and malware domains.
 #
-# Date Generated: Feb 04 2016
+# Date Generated: Feb 05 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -19632,6 +19632,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads-by.madadsmedia.com
 127.0.0.1 ads-by.yieldselect.com
 127.0.0.1 ads-c.focalink.com
+127.0.0.1 ads-click.com
 127.0.0.1 ads-colruytgroup.adhese.com
 127.0.0.1 ads-cpm.com
 127.0.0.1 ads-de.ret01.ligatus.com
@@ -38527,6 +38528,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 diguing-store.net
 127.0.0.1 dihgq.voluumtrk.com
 127.0.0.1 dihitt.com
+127.0.0.1 dilas.edarbipatients.com
 127.0.0.1 dileconme.hotmail.ru
 127.0.0.1 dilhd.voluumtrk.com
 127.0.0.1 dimarsbg.com
@@ -46556,6 +46558,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 koeln.ivwbox.de
 127.0.0.1 koelnrsc.ivwbox.de
 127.0.0.1 kohls.tt.omtrdc.net
+127.0.0.1 kolman.flatitleandescrow.com
 127.0.0.1 komoona.com
 127.0.0.1 kompasads.com
 127.0.0.1 kon.hit.gemius.pl
@@ -46748,6 +46751,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 laineygossip.us.intellitxt.com
 127.0.0.1 lakequincy.com
 127.0.0.1 lakeshore.d1.sc.omtrdc.net
+127.0.0.1 lalankhakhras.in
 127.0.0.1 lamictal.about-tabs.com
 127.0.0.1 lamisil.about-tabs.com
 127.0.0.1 lan.ringtone.com
@@ -54951,7 +54955,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 rankyou.com
 127.0.0.1 rantsports.us.intellitxt.com
 127.0.0.1 rapdirt.us.intellitxt.com
-127.0.0.1 raphahk.org
 127.0.0.1 rapidcounter.com
 127.0.0.1 rapidlyserv.com
 127.0.0.1 rapidresponse.directtrack.com
