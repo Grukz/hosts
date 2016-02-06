@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74992 ad serving and malware domains.
+# Currently blocking 74997 ad serving and malware domains.
 #
-# Date Generated: Feb 05 2016
+# Date Generated: Feb 06 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -52491,6 +52491,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ox-d.buddytv.com
 127.0.0.1 ox-d.buyer.servedbyopenx.com
 127.0.0.1 ox-d.catholic.org
+127.0.0.1 ox-d.cbs.servedbyopenx.com
 127.0.0.1 ox-d.cesarsway.com
 127.0.0.1 ox-d.chacha.com
 127.0.0.1 ox-d.cloud9-media.net
@@ -55481,6 +55482,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rev.fapdu.com
 127.0.0.1 rev.lanistaads.com
 127.0.0.1 rev.pornxs.com
+127.0.0.1 rev2pub.adk2x.com
 127.0.0.1 rev2pub.com
 127.0.0.1 revadsnetwork.com
 127.0.0.1 revadstrk.com
@@ -56992,6 +56994,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 secure3.go2cloud.org
 127.0.0.1 secure3.marketengines.com
 127.0.0.1 secure6.platinumbucks.com
+127.0.0.1 secureadcenter.com
 127.0.0.1 secureads.ft.com
 127.0.0.1 securecontactinfo.com
 127.0.0.1 securedliveuploads.com
@@ -67836,6 +67839,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 weightlossforall.us.intellitxt.com
 127.0.0.1 welcome.openx.com
 127.0.0.1 welcomeworld.justclick.ru
+127.0.0.1 welcomingwellness.ca
 127.0.0.1 wellbutrin.1.p2l.info
 127.0.0.1 wellbutrin.3.p2l.info
 127.0.0.1 wellbutrin.4.p2l.info
@@ -72717,6 +72721,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.secrets40.com
 127.0.0.1 www.sectracking.com
 127.0.0.1 www.secure-processingcenter.com
+127.0.0.1 www.secureadcenter.com
 127.0.0.1 www.securecontactinfo.com
 127.0.0.1 www.securejump.net
 127.0.0.1 www.securepaths.com
