@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74997 ad serving and malware domains.
+# Currently blocking 75001 ad serving and malware domains.
 #
-# Date Generated: Feb 06 2016
+# Date Generated: Feb 07 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1554,6 +1554,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 47.6.87.194.dynamic.dol.ru
 127.0.0.1 47.xg4ken.com
 127.0.0.1 47550.9340.302br.net
+127.0.0.1 47eringov.ru
 127.0.0.1 47nbp.voluumtrk.com
 127.0.0.1 48.2mydns.net
 127.0.0.1 48.6.87.194.dynamic.dol.ru
@@ -29285,6 +29286,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 be.sitestat.com
 127.0.0.1 be2be2nz.122.2o7.net
 127.0.0.1 be4jump.in
+127.0.0.1 be4jump2.in
 127.0.0.1 bea4.v.fwmrm.net
 127.0.0.1 beachfrontio.com
 127.0.0.1 beacon-1.newrelic.com
@@ -45217,6 +45219,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 inner-active.com
 127.0.0.1 inner-active.mobi
 127.0.0.1 inneractive-assets.s3.amazonaws.com
+127.0.0.1 innrvogue.ru
 127.0.0.1 ino.directtrack.com
 127.0.0.1 inpagevideo.nl
 127.0.0.1 inpencil.go2cloud.org
@@ -46749,6 +46752,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lai.go2cloud.org
 127.0.0.1 laih.com
 127.0.0.1 laineygossip.us.intellitxt.com
+127.0.0.1 lajhdiladhdksshdwui.com
 127.0.0.1 lakequincy.com
 127.0.0.1 lakeshore.d1.sc.omtrdc.net
 127.0.0.1 lalankhakhras.in
