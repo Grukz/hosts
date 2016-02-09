@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 74999 ad serving and malware domains.
 #
-# Date Generated: Feb 08 2016
+# Date Generated: Feb 09 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1553,7 +1553,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 47.6.87.194.dynamic.dol.ru
 127.0.0.1 47.xg4ken.com
 127.0.0.1 47550.9340.302br.net
-127.0.0.1 47eringov.ru
 127.0.0.1 47nbp.voluumtrk.com
 127.0.0.1 48.2mydns.net
 127.0.0.1 48.6.87.194.dynamic.dol.ru
@@ -26638,6 +26637,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.hostip.info
 127.0.0.1 api.iflychat.com
 127.0.0.1 api.ilius.net
+127.0.0.1 api.infinario.com
 127.0.0.1 api.innomdc.com
 127.0.0.1 api.instantdollarz.com
 127.0.0.1 api.intensifier.de
@@ -43359,6 +43359,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 h1317070.stratoserver.net
 127.0.0.1 h1666015.stratoserver.net
 127.0.0.1 h2.msn.com
+127.0.0.1 h2oarchitecture.com.au
 127.0.0.1 h8lku.voluumtrk.com
 127.0.0.1 h9diz.voluumtrk.com
 127.0.0.1 hab3n.trackvoluum.com
@@ -45213,7 +45214,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 inner-active.com
 127.0.0.1 inner-active.mobi
 127.0.0.1 inneractive-assets.s3.amazonaws.com
-127.0.0.1 innrvogue.ru
 127.0.0.1 ino.directtrack.com
 127.0.0.1 inpagevideo.nl
 127.0.0.1 inpencil.go2cloud.org
@@ -60876,7 +60876,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 toolbarsale.biz
 127.0.0.1 toolbarweb.biz
 127.0.0.1 toolbox.contentspread.net
-127.0.0.1 tools-chine.net
 127.0.0.1 tools.ad-net.co.uk
 127.0.0.1 tools.bongacams.com
 127.0.0.1 tools.bongacash.com
@@ -72198,6 +72197,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.parship.co.uk
 127.0.0.1 www.partner-ads.com
 127.0.0.1 www.partner.gonamic.de
+127.0.0.1 www.partner.googleadservices.com
 127.0.0.1 www.partnercash.com
 127.0.0.1 www.partycasino.com
 127.0.0.1 www.passwordbyphone.com
