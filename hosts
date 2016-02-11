@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75527 ad serving and malware domains.
+# Currently blocking 75533 ad serving and malware domains.
 #
-# Date Generated: Feb 10 2016
+# Date Generated: Feb 11 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26849,6 +26849,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 app-abm.marketo.com
 127.0.0.1 app-abq.marketo.com
 127.0.0.1 app-authority.com
+127.0.0.1 app-creatives.cdn.admobile.me
 127.0.0.1 app-promo.com
 127.0.0.1 app-sj01.marketo.com
 127.0.0.1 app-sj09.marketo.com
@@ -29409,7 +29410,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 be.nedstat.net
 127.0.0.1 be.sitestat.com
 127.0.0.1 be2be2nz.122.2o7.net
-127.0.0.1 be4jump2.in
 127.0.0.1 bea4.v.fwmrm.net
 127.0.0.1 beachfrontio.com
 127.0.0.1 beacon-1.newrelic.com
@@ -35771,6 +35771,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 control.123banners.com
 127.0.0.1 control.adap.tv
 127.0.0.1 control.cityofcairns.com
+127.0.0.1 control.kochava.com
 127.0.0.1 controlcenter.superstats.com
 127.0.0.1 controller.4seeresults.com
 127.0.0.1 controller.foreseeresults.com
@@ -38151,6 +38152,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 data.kataweb.it
 127.0.0.1 data.lizads.com
 127.0.0.1 data.lockscalecompare.com
+127.0.0.1 data.logentries.com
 127.0.0.1 data.marketgid.com
 127.0.0.1 data.mb8e17f12.website
 127.0.0.1 data.mobclix.com
@@ -38186,6 +38188,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 datais.net
 127.0.0.1 datalabusa.com
 127.0.0.1 datamaster.com.cn
+127.0.0.1 datametrical.com
 127.0.0.1 datashreddergold.com
 127.0.0.1 datasonicsolutions.com
 127.0.0.1 dataxu.com
@@ -42912,6 +42915,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 getexceptional.com
 127.0.0.1 getfreebl.com
 127.0.0.1 getimpressed.com
+127.0.0.1 getintro.ru
 127.0.0.1 getiton.com
 127.0.0.1 getlinksinaseconds.com
 127.0.0.1 getmailcounter.com
@@ -58018,6 +58022,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 silverlites-company.ru
 127.0.0.1 silverlitescompany.ru
 127.0.0.1 silverpush.com
+127.0.0.1 silverradesfk.in
 127.0.0.1 silvia-maffei.us
 127.0.0.1 sim.thetrafficstat.net
 127.0.0.1 simba.6.cn
@@ -60802,7 +60807,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tekadrian.xyz
 127.0.0.1 tekcharles.xyz
 127.0.0.1 tekchuks.xyz
-127.0.0.1 tekehigie.xyz
 127.0.0.1 tekjoe.space
 127.0.0.1 teknosurf3.com
 127.0.0.1 tel.geenstijl.nl
@@ -62687,6 +62691,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 txel.snmmd.nl
 127.0.0.1 txmonthly.checkm8.com
 127.0.0.1 txn.grabnetworks.com
+127.0.0.1 txn.ingest.crittercism.com
 127.0.0.1 txt.adv.vz.ru
 127.0.0.1 txtimpact.com
 127.0.0.1 tynt.com
@@ -63227,6 +63232,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 updates.desktop.ak-networks.com
 127.0.0.1 updating-flash.cloudapp.net
 127.0.0.1 updo.nl
+127.0.0.1 upgradenewonse.in
 127.0.0.1 upi.112.2o7.net
 127.0.0.1 upi.us.intellitxt.com
 127.0.0.1 upliftsearch.com
@@ -67493,6 +67499,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 voodooparking.com
 127.0.0.1 voordeel.ad.nl
 127.0.0.1 vop.sundaysky.com
+127.0.0.1 voravatest1.in
 127.0.0.1 vorcu.go2cloud.org
 127.0.0.1 vorlon.ferretsoft.com
 127.0.0.1 vortex-sandbox.data.microsoft.com
@@ -67522,6 +67529,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vps.zeptolab.com
 127.0.0.1 vra.outbrain.com
 127.0.0.1 vroll.net
+127.0.0.1 vrot.stervapoimenialena.info
 127.0.0.1 vrp.outbrain.com
 127.0.0.1 vrs.cz
 127.0.0.1 vrt-chidc2-only.outbrain.com
@@ -69939,13 +69947,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.bytecode.biz
 127.0.0.1 www.c-on-text.com
 127.0.0.1 www.c.thecounter.de
-127.0.0.1 www.c0830473.myzen.co.uk
 127.0.0.1 www.c1.thecounter.de
 127.0.0.1 www.c2.thecounter.de
 127.0.0.1 www.c2path.com
 127.0.0.1 www.c3onlinemarketing.com
 127.0.0.1 www.c4dl.com
-127.0.0.1 www.c9972855.myzen.co.uk
 127.0.0.1 www.caartoonnetwork.com
 127.0.0.1 www.cadaver.org
 127.0.0.1 www.cam-traffic.com
