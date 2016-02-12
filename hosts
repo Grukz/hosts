@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75533 ad serving and malware domains.
+# Currently blocking 75529 ad serving and malware domains.
 #
-# Date Generated: Feb 11 2016
+# Date Generated: Feb 12 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2568,7 +2568,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.webwise.org
 127.0.0.1 a.wikia-beacon.com
 127.0.0.1 a.wishabi.com
-127.0.0.1 a.wowinterface.com
 127.0.0.1 a.xanga.com
 127.0.0.1 a.xfreeservice.com
 127.0.0.1 a.xtargeting.com
@@ -25204,7 +25203,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 af-gb.mgid.com
 127.0.0.1 afa15.com.ne.kr
 127.0.0.1 afantispy.com
-127.0.0.1 afbtracking09.com
 127.0.0.1 afdbande.cn
 127.0.0.1 afdtkr.com
 127.0.0.1 afe.specificclick.net
@@ -42915,7 +42913,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 getexceptional.com
 127.0.0.1 getfreebl.com
 127.0.0.1 getimpressed.com
-127.0.0.1 getintro.ru
 127.0.0.1 getiton.com
 127.0.0.1 getlinksinaseconds.com
 127.0.0.1 getmailcounter.com
@@ -43802,6 +43799,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hello.sexer.com
 127.0.0.1 hello.staticstuff.net
 127.0.0.1 hellomagazine.uk.intellitxt.com
+127.0.0.1 helloyoungmanqq.com
 127.0.0.1 helltraffic.com
 127.0.0.1 hellwert.biz
 127.0.0.1 help.adtech.de
@@ -58022,7 +58020,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 silverlites-company.ru
 127.0.0.1 silverlitescompany.ru
 127.0.0.1 silverpush.com
-127.0.0.1 silverradesfk.in
 127.0.0.1 silvia-maffei.us
 127.0.0.1 sim.thetrafficstat.net
 127.0.0.1 simba.6.cn
@@ -67499,7 +67496,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 voodooparking.com
 127.0.0.1 voordeel.ad.nl
 127.0.0.1 vop.sundaysky.com
-127.0.0.1 voravatest1.in
 127.0.0.1 vorcu.go2cloud.org
 127.0.0.1 vorlon.ferretsoft.com
 127.0.0.1 vortex-sandbox.data.microsoft.com
