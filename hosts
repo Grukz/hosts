@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75529 ad serving and malware domains.
+# Currently blocking 75524 ad serving and malware domains.
 #
-# Date Generated: Feb 12 2016
+# Date Generated: Feb 13 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25751,7 +25751,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 albinoblacksheep.us.intellitxt.com
 127.0.0.1 albionmedical.com
 127.0.0.1 albopa.work
-127.0.0.1 albullansa.com
 127.0.0.1 albumgirl.com
 127.0.0.1 alchemynteryield.jmp9.com
 127.0.0.1 alclick.com
@@ -34480,6 +34479,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 chosurvey.net
 127.0.0.1 chrisouimet.ca
 127.0.0.1 christianbusinessadvertising.com
+127.0.0.1 christianwomenpc.org
 127.0.0.1 christie-hanlon.us
 127.0.0.1 christie-pearlman.us
 127.0.0.1 christin-alejandro.us
@@ -45502,7 +45502,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 inm.go2cloud.org
 127.0.0.1 inmobi.com
 127.0.0.1 inmobi.net
-127.0.0.1 inmobiliariarobinson.com
 127.0.0.1 inmobisdk-a.akamaihd.net
 127.0.0.1 innatek.com
 127.0.0.1 inndl.com
@@ -45563,7 +45562,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 intadserver101.info
 127.0.0.1 intadserver102.info
 127.0.0.1 intadserver103.info
-127.0.0.1 intaii.com
 127.0.0.1 intares.net
 127.0.0.1 intarsia.bnex.com
 127.0.0.1 intbrands.t.domdex.com
@@ -47252,6 +47250,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lesechos.ezakus.net
 127.0.0.1 lespeulons-auxerre.com
 127.0.0.1 lesview.com
+127.0.0.1 letsdoits.ru
 127.0.0.1 letsfinder.com
 127.0.0.1 letsgodigital.uk.intellitxt.com
 127.0.0.1 letsrun.us.intellitxt.com
@@ -55153,7 +55152,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 quinnwealth.com
 127.0.0.1 quinst.com
 127.0.0.1 quinstreet.us.intellitxt.com
-127.0.0.1 quintadabigorna.com
 127.0.0.1 quisma.com
 127.0.0.1 quotidiennokoue.com
 127.0.0.1 qvb2w.voluumtrk.com
@@ -63229,7 +63227,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 updates.desktop.ak-networks.com
 127.0.0.1 updating-flash.cloudapp.net
 127.0.0.1 updo.nl
-127.0.0.1 upgradenewonse.in
 127.0.0.1 upi.112.2o7.net
 127.0.0.1 upi.us.intellitxt.com
 127.0.0.1 upliftsearch.com
@@ -67525,7 +67522,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 vps.zeptolab.com
 127.0.0.1 vra.outbrain.com
 127.0.0.1 vroll.net
-127.0.0.1 vrot.stervapoimenialena.info
 127.0.0.1 vrp.outbrain.com
 127.0.0.1 vrs.cz
 127.0.0.1 vrt-chidc2-only.outbrain.com
@@ -71518,7 +71514,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.instantdownloaderpro.com
 127.0.0.1 www.instinctiveads.com
 127.0.0.1 www.insurance-rewardpath.com
-127.0.0.1 www.intaii.com
 127.0.0.1 www.integrate.com
 127.0.0.1 www.intela.com
 127.0.0.1 www.intelatrack.biz
