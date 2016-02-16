@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75496 ad serving and malware domains.
+# Currently blocking 75493 ad serving and malware domains.
 #
-# Date Generated: Feb 15 2016
+# Date Generated: Feb 16 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -46714,7 +46714,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 kerrie-felker.us
 127.0.0.1 kerry-petties.us
 127.0.0.1 kesikelyaf.com
-127.0.0.1 kestralgulf.com
 127.0.0.1 kestrel.ospreymedialp.com
 127.0.0.1 kewlrank.com
 127.0.0.1 keybinary.com
@@ -47238,7 +47237,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 lesechos.ezakus.net
 127.0.0.1 lespeulons-auxerre.com
 127.0.0.1 lesview.com
-127.0.0.1 letsdoits.ru
 127.0.0.1 letsfinder.com
 127.0.0.1 letsgodigital.uk.intellitxt.com
 127.0.0.1 letsrun.us.intellitxt.com
@@ -47315,7 +47313,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 liliana-prokop.us
 127.0.0.1 lily-mcnamara.us
 127.0.0.1 limg.adspirit.de
-127.0.0.1 limhamns-catering.se
 127.0.0.1 limitlessoffers.go2cloud.org
 127.0.0.1 lin31.metriweb.be
 127.0.0.1 linda-bretz.us
