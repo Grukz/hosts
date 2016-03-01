@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75558 ad serving and malware domains.
+# Currently blocking 75564 ad serving and malware domains.
 #
-# Date Generated: Feb 29 2016
+# Date Generated: Mar 01 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -24889,6 +24889,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 advertbar.com
 127.0.0.1 advertbox.us
 127.0.0.1 adverteerdirect.nl
+127.0.0.1 advertere.zamunda.net
 127.0.0.1 adverteren.vakmedianet.nl
 127.0.0.1 adverterenbijnh.nl
 127.0.0.1 adverterenbijsbs.nl
@@ -54062,6 +54063,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pm.web.com
 127.0.0.1 pmads.valuead.com
 127.0.0.1 pmediatrack.com
+127.0.0.1 pmelon.com
 127.0.0.1 pmetrics.getclicky.com
 127.0.0.1 pmetrics.performancing.com
 127.0.0.1 pmg.ad-logics.com
@@ -54124,6 +54126,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pool-roularta.adhese.com
 127.0.0.1 pool.adhese.be
 127.0.0.1 pool.adhsm.adhese.com
+127.0.0.1 pool.admedo.com
 127.0.0.1 pool.ads.netlog.com
 127.0.0.1 pool.dichtbij.adhese.com
 127.0.0.1 pool.euroads.no
@@ -70051,6 +70054,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.cellphoneupdated.com
 127.0.0.1 www.cellularbeton.it
 127.0.0.1 www.cennoworld.com
+127.0.0.1 www.cerquasas.it
 127.0.0.1 www.certified-email.com
 127.0.0.1 www.cetrk.com
 127.0.0.1 www.chainsawoffer.com
@@ -70811,6 +70815,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.fast-adv.it
 127.0.0.1 www.fast-route.com
 127.0.0.1 www.fastadvert.com
+127.0.0.1 www.fastcash-ad.biz
 127.0.0.1 www.fastcashathome.homestead.com
 127.0.0.1 www.fastclick.com
 127.0.0.1 www.fastclick.net
@@ -71187,6 +71192,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.gofreegifts.com
 127.0.0.1 www.goggle.com
 127.0.0.1 www.gogousenet.com
+127.0.0.1 www.gold-city.it
 127.0.0.1 www.goldadvert.cz
 127.0.0.1 www.golden-egg.net
 127.0.0.1 www.golfcountryhomes.com
