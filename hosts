@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75606 ad serving and malware domains.
+# Currently blocking 75623 ad serving and malware domains.
 #
-# Date Generated: Mar 03 2016
+# Date Generated: Mar 04 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26758,6 +26758,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.nanigans.com
 127.0.0.1 api.naturaltracking.com
 127.0.0.1 api.nrelate.com
+127.0.0.1 api.omniata.com
 127.0.0.1 api.opencandy.com
 127.0.0.1 api.optimizely.com
 127.0.0.1 api.optinmonster.com
@@ -40621,6 +40622,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 everydayhealth.demdex.net
 127.0.0.1 everyfreegift.com
 127.0.0.1 everyjoe.us.intellitxt.com
+127.0.0.1 everyscape.com
 127.0.0.1 everythingbts.com
 127.0.0.1 eviboli576.o-f.com
 127.0.0.1 evidencecleanergold.com
@@ -43708,6 +43710,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hangmyads.go2cloud.org
 127.0.0.1 hanklist.com
 127.0.0.1 hanulsms.com
+127.0.0.1 haouzy.info
 127.0.0.1 hapjes-maken.eu
 127.0.0.1 happydiscountspecials.com
 127.0.0.1 happytofind.com
@@ -48561,6 +48564,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mabping.chartbeat.net
 127.0.0.1 mac-protection.info
 127.0.0.1 mac-system-alert.com
+127.0.0.1 mac.system-alert1.com
 127.0.0.1 macaddictads.snv.futurenet.com
 127.0.0.1 macads.net
 127.0.0.1 maccity.it.intellitxt.com
@@ -52402,6 +52406,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 omni.holidaycheck.com
 127.0.0.1 omni.holidaycheck.de
 127.0.0.1 omni.sportingnews.com
+127.0.0.1 omniata.com
 127.0.0.1 omnikool.discovery.com
 127.0.0.1 omniscbt.112.2o7.net
 127.0.0.1 omnistats.jetblue.com
@@ -54127,7 +54132,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 podcasts.screenrant.com
 127.0.0.1 podtrac.advertserve.com
 127.0.0.1 podzemi.myotis.info
-127.0.0.1 pof.com
 127.0.0.1 pointclicktrack.com
 127.0.0.1 pointific.go2cloud.org
 127.0.0.1 pointix.com
@@ -54217,6 +54221,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 popsci.com.122.2o7.net
 127.0.0.1 popstats.com.br
 127.0.0.1 popstrap.com
+127.0.0.1 poptm.com
 127.0.0.1 popub.com
 127.0.0.1 popularmechanics.us.intellitxt.com
 127.0.0.1 popunder-mladnet.medialand.ru
@@ -54527,6 +54532,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 progressive.lp.mydas.mobi
 127.0.0.1 project2.realtracker.com
 127.0.0.1 projectcounter.org
+127.0.0.1 projectexperts.com.au
 127.0.0.1 projectorpeople.112.2o7.net
 127.0.0.1 projectorreviews.advertserve.com
 127.0.0.1 projectorreviews.us.intellitxt.com
@@ -56110,6 +56116,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rockyou.go2cloud.org
 127.0.0.1 rodale.d1.sc.omtrdc.net
 127.0.0.1 rogde.adocean.pl
+127.0.0.1 rogercorporations.com
 127.0.0.1 rogers.demdex.net
 127.0.0.1 roi.mediaplex.com
 127.0.0.1 roia.biz
@@ -61214,6 +61221,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tiktrk.com
 127.0.0.1 til.go2cloud.org
 127.0.0.1 tiles.services.mozilla.com
+127.0.0.1 tiller.co
 127.0.0.1 tim-eckhoff.us
 127.0.0.1 timebus2.112.2o7.net
 127.0.0.1 timecom.112.2o7.net
@@ -62064,6 +62072,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracking.ientry.net
 127.0.0.1 tracking.immobilienscout24.de
 127.0.0.1 tracking.infoninjas.net
+127.0.0.1 tracking.instantcheckmate.com
 127.0.0.1 tracking.intermundomedia.com
 127.0.0.1 tracking.internetstores.de
 127.0.0.1 tracking.interweave.com
@@ -62171,6 +62180,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracking.tradeking.com
 127.0.0.1 tracking.trafficjunky.net
 127.0.0.1 tracking.traviangames.com
+127.0.0.1 tracking.truthfinder.com
 127.0.0.1 tracking.trutv.com
 127.0.0.1 tracking.ukwm.co.uk
 127.0.0.1 tracking.vacationsmadeeasy.com
@@ -63333,6 +63343,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 urls.api.twitter.com
 127.0.0.1 urlstats.com
 127.0.0.1 urshort.net
+127.0.0.1 urx.io
 127.0.0.1 us-ads.openx.net
 127.0.0.1 us-cdn.effectivemeasure.net
 127.0.0.1 us-choicevalue.com
@@ -70801,6 +70812,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.everestjs.net
 127.0.0.1 www.everestpoker.com
 127.0.0.1 www.everydaygays.com
+127.0.0.1 www.everyscape.com
 127.0.0.1 www.evidencenuker.com
 127.0.0.1 www.evisitcs2.com
 127.0.0.1 www.evwbox.de
@@ -72679,6 +72691,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.olizyr.com
 127.0.0.1 www.omarsys.com
 127.0.0.1 www.omnaling.com
+127.0.0.1 www.omniata.com
 127.0.0.1 www.omniture.com
 127.0.0.1 www.omtrdc.net
 127.0.0.1 www.on.nimp.org
@@ -72893,6 +72906,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.popon.ru
 127.0.0.1 www.poponclick.com
 127.0.0.1 www.popstrap.com
+127.0.0.1 www.poptm.com
 127.0.0.1 www.popunder.com
 127.0.0.1 www.popunder.net
 127.0.0.1 www.popunder.ru
@@ -73813,6 +73827,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.tiffanie-machin.us
 127.0.0.1 www.tiffany-santee.us
 127.0.0.1 www.tigerloads.com
+127.0.0.1 www.tiller.co
 127.0.0.1 www.tina-skiles.us
 127.0.0.1 www.tinbuadserv.com
 127.0.0.1 www.tinka.ru
@@ -74088,6 +74103,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.urlstats.com
 127.0.0.1 www.urmediazone.com
 127.0.0.1 www.urpo.com
+127.0.0.1 www.urx.io
 127.0.0.1 www.us-choicevalue.com
 127.0.0.1 www.us-topsites.com
 127.0.0.1 www.usabilla.com
@@ -75232,6 +75248,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 yellostrom.webtrekk.net
 127.0.0.1 yellowcameras.wanroymotors.com
 127.0.0.1 yellspain.112.2o7.net
+127.0.0.1 yen.appsfire.net
 127.0.0.1 yepdigital.adk2x.com
 127.0.0.1 yepdigital.go2cloud.org
 127.0.0.1 yeppyepp.co.il
