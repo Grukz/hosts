@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75623 ad serving and malware domains.
+# Currently blocking 75624 ad serving and malware domains.
 #
-# Date Generated: Mar 04 2016
+# Date Generated: Mar 05 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25216,7 +25216,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 af-gb.mgid.com
 127.0.0.1 afa15.com.ne.kr
 127.0.0.1 afantispy.com
-127.0.0.1 afbtracking09.com
 127.0.0.1 afdbande.cn
 127.0.0.1 afdtkr.com
 127.0.0.1 afe.specificclick.net
@@ -27033,6 +27032,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 apx.moatads.com
 127.0.0.1 apx.motads.com
 127.0.0.1 apx.trck.avazutracking.net
+127.0.0.1 aqm.com.my
 127.0.0.1 aqua.7eer.net
 127.0.0.1 aquabilling.com
 127.0.0.1 aquantive.com
@@ -27493,6 +27493,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aurora-wilhelm.us
 127.0.0.1 aurora.starpartner.com
 127.0.0.1 aus.laola1.tv
+127.0.0.1 ausfreelancer.com
 127.0.0.1 auslieferung.commindo-media-ressourcen.de
 127.0.0.1 auspice.augur.io
 127.0.0.1 aussiemethod.com
@@ -51127,6 +51128,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 neudesicmediagroup.com
 127.0.0.1 neueoz.ivwbox.de
 127.0.0.1 neumashop.cl
+127.0.0.1 nevergreen.net
 127.0.0.1 new-address.tk
 127.0.0.1 new-ads.eurogamer.net
 127.0.0.1 new-dating-2012.info
@@ -51203,6 +51205,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 newversionpdun.in.net
 127.0.0.1 newwayscanner.info
 127.0.0.1 newworldiq.com
+127.0.0.1 newyearstellcompany.com
 127.0.0.1 newyork.cbslocal.us.intellitxt.com
 127.0.0.1 newyorkandcompany.112.2o7.net
 127.0.0.1 newyorkmagazine.112.2o7.net
@@ -52152,6 +52155,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 oasis2.advfn.com
 127.0.0.1 oasjs.kataweb.it
 127.0.0.1 oasn03.247realmedia.com
+127.0.0.1 oaspodpaskdjnghzatrffgcasetfrd.cf
 127.0.0.1 oasroanoke.com
 127.0.0.1 oassis.zmh.zope.com
 127.0.0.1 oata.ero-advertising.com
@@ -53173,7 +53177,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pagefair.com
 127.0.0.1 pagepeel.ero-advertising.com
 127.0.0.1 pagepeels.sexmoney.com
-127.0.0.1 pagerank-estate-spb.ru
 127.0.0.1 pagerank-ranking.com
 127.0.0.1 pagerank-ranking.de
 127.0.0.1 pagerank-server7.de
@@ -56116,7 +56119,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 rockyou.go2cloud.org
 127.0.0.1 rodale.d1.sc.omtrdc.net
 127.0.0.1 rogde.adocean.pl
-127.0.0.1 rogercorporations.com
 127.0.0.1 rogers.demdex.net
 127.0.0.1 roi.mediaplex.com
 127.0.0.1 roia.biz
@@ -58643,7 +58645,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 speedclecks.ero-advertising.com
 127.0.0.1 speedclicks.ero-advertising.com
 127.0.0.1 speedclics.ero-advertising.com
-127.0.0.1 speedcratfs.net
 127.0.0.1 speedguide.us.intellitxt.com
 127.0.0.1 speedlicks.ero-advertising.com
 127.0.0.1 speednetwork6.adk2x.com
