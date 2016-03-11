@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75691 ad serving and malware domains.
+# Currently blocking 75704 ad serving and malware domains.
 #
-# Date Generated: Mar 10 2016
+# Date Generated: Mar 11 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -3068,6 +3068,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 about.com
 127.0.0.1 about.elicitapp.com
 127.0.0.1 about.netster.com
+127.0.0.1 aboutads.info
 127.0.0.1 aboutads.quantcast.com
 127.0.0.1 aboutharrypotter.fasthost.tv
 127.0.0.1 aboutmonitoring.com
@@ -19557,6 +19558,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adorigin.com
 127.0.0.1 adorika.net
 127.0.0.1 adoringyou.com
+127.0.0.1 adosia.com
 127.0.0.1 adotic.com
 127.0.0.1 adotmobanalytics.go2cloud.org
 127.0.0.1 adotomy.com
@@ -26107,6 +26109,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ampedmedia.directtrack.com
 127.0.0.1 amplifypixel.outbrain.com
 127.0.0.1 ampoule.ovh
+127.0.0.1 ampxchange.com
 127.0.0.1 ampya.ivwbox.de
 127.0.0.1 ampya01.wt-eu02.net
 127.0.0.1 amres.voluumtrk.com
@@ -29494,6 +29497,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 beads.sx.atl.publicus.com
 127.0.0.1 beam.hlserve.com
 127.0.0.1 beam.to
+127.0.0.1 beap-bc.yahoo.com
 127.0.0.1 beap.adx.yahoo.com
 127.0.0.1 beastasuum.a.ssl.fastly.net
 127.0.0.1 beasttube.biz
@@ -29933,6 +29937,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bluebyt.com
 127.0.0.1 bluecava.com
 127.0.0.1 bluechillies.us.intellitxt.com
+127.0.0.1 blueconic.net
 127.0.0.1 bluecutsystem.com
 127.0.0.1 bluediamondoffers.com
 127.0.0.1 blueflameelite.go2cloud.org
@@ -31233,7 +31238,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bright.bncnt.com
 127.0.0.1 bright.su
 127.0.0.1 brightcove.112.2o7.net
-127.0.0.1 brightcove.vo.llnwd.net
 127.0.0.1 brighthouse.122.2o7.net
 127.0.0.1 brighthub.us.intellitxt.com
 127.0.0.1 brightinfo.com
@@ -38636,6 +38640,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 des.smartclip.net
 127.0.0.1 desb.mspaceads.com
 127.0.0.1 desb.myspace.com
+127.0.0.1 descapita.com
 127.0.0.1 descargas2.tuvideogratis.com
 127.0.0.1 designbloxlive.com
 127.0.0.1 designtechnica.us.intellitxt.com
@@ -38706,6 +38711,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 devfast.mediacharger.com
 127.0.0.1 devfw.imrworldwide.com
 127.0.0.1 deviantart.crwdcntrl.net
+127.0.0.1 device-metrics-us-2.amazon.com
 127.0.0.1 device.4seeresults.com
 127.0.0.1 device.maxmind.com
 127.0.0.1 devil.go2cloud.org
@@ -42323,6 +42329,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fugger.ipage.com
 127.0.0.1 fujidenki-web.co.jp
 127.0.0.1 fukkad.com
+127.0.0.1 fullstory.com
 127.0.0.1 fulsexhikayeleri.org
 127.0.0.1 fun-e-cards.com
 127.0.0.1 fun-town.com
@@ -46709,6 +46716,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kapcotool.com
 127.0.0.1 karen-lobato.us
 127.0.0.1 karen-warden.us
+127.0.0.1 kargo.com
 127.0.0.1 karina-bolds.us
 127.0.0.1 karla-law.us
 127.0.0.1 karoline-fortin.us
@@ -47324,6 +47332,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 level3.applifier.com
 127.0.0.1 level3com.d2.sc.omtrdc.net
 127.0.0.1 levelrate.de
+127.0.0.1 lever.co
 127.0.0.1 leveragemarketing.112.2o7.net
 127.0.0.1 levitra.1.p2l.info
 127.0.0.1 levitra.3.p2l.info
@@ -50347,6 +50356,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 moxs.net
 127.0.0.1 moz.ivwbox.de
 127.0.0.1 mozo-widgets.f2.com.au
+127.0.0.1 mozoo.com
 127.0.0.1 mp-success.com
 127.0.0.1 mp.5.p2l.info
 127.0.0.1 mp.apmebf.com
@@ -51182,7 +51192,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 newcom.122.2o7.net
 127.0.0.1 newcomperformance.go2cloud.org
 127.0.0.1 newcracks.net
-127.0.0.1 neweztz.com
 127.0.0.1 newip427.changeip.net
 127.0.0.1 newjobs.d1.sc.omtrdc.net
 127.0.0.1 newjunk4u.com
@@ -52877,6 +52886,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 outpost.real.com
 127.0.0.1 outsidethebeltway.us.intellitxt.com
 127.0.0.1 outtds.com
+127.0.0.1 outthere.com
 127.0.0.1 outwar.com
 127.0.0.1 ov.yahoo.co.jp
 127.0.0.1 overblog.ezakus.net
@@ -54365,6 +54375,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pp0ru.voluumtrk.com
 127.0.0.1 pp2.pptv.com
 127.0.0.1 ppc-parked.domainsite.com
+127.0.0.1 ppcchicago.com
 127.0.0.1 ppcindo.com
 127.0.0.1 ppctracking.net
 127.0.0.1 ppctrck.com
@@ -55956,6 +55967,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 retarget.ssl-services.com
 127.0.0.1 retargeter.com
 127.0.0.1 retargetpro.net
+127.0.0.1 retentionscience.com
 127.0.0.1 retin-a.1.p2l.info
 127.0.0.1 retrostats.com
 127.0.0.1 return.bs.domainnamesales.com
@@ -56282,6 +56294,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rsslessons.su
 127.0.0.1 rsvfh.voluumtrk.com
 127.0.0.1 rsvjs.voluumtrk.com
+127.0.0.1 rt.analytics.anvato.net
 127.0.0.1 rt.globalmailer.com
 127.0.0.1 rt.globo.com
 127.0.0.1 rt.legolas-media.com
@@ -63301,6 +63314,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 universityherald.us.intellitxt.com
 127.0.0.1 unlck.net
 127.0.0.1 unlim-app.tk
+127.0.0.1 unlimitedtextads.com
 127.0.0.1 uno.wbrotator.biz
 127.0.0.1 unrulymedia.com
 127.0.0.1 unstat.baidu.com
@@ -63888,6 +63902,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vibe.us.intellitxt.com
 127.0.0.1 vibrantmedia.com
 127.0.0.1 vice-ads-cdn.vice.com
+127.0.0.1 vice-ads.s3.amazonaws.com
 127.0.0.1 vicecom.ivwbox.de
 127.0.0.1 vickielynnsgifts.com
 127.0.0.1 vicklovesmila.com
@@ -72663,7 +72678,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.news6health.com
 127.0.0.1 www.newssourceoftoday.com
 127.0.0.1 www.newsvr.info
-127.0.0.1 www.newtreecustomer.in
 127.0.0.1 www.newwebmaster.net
 127.0.0.1 www.nextgenstats.com
 127.0.0.1 www.nextstudent.com
@@ -74533,7 +74547,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.yiqilai.com
 127.0.0.1 www.yivwbox.de
 127.0.0.1 www.yllix.com
-127.0.0.1 www.yoast.com
 127.0.0.1 www.you2mail.com
 127.0.0.1 www.youaresogay.com
 127.0.0.1 www.youcanoptout.com
@@ -75352,7 +75365,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ym.adnxs.com
 127.0.0.1 ym.bannerconnect.net
 127.0.0.1 ymail-activate1.bugs3.com
-127.0.0.1 yoast.com
 127.0.0.1 yoc-performance.com
 127.0.0.1 yoc.mobi
 127.0.0.1 yoclub.waphall.com
@@ -75439,6 +75451,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 yumenetworks.com
 127.0.0.1 yuppy.2cnt.net
 127.0.0.1 yuzt.com
+127.0.0.1 yvap.query.yahoo.com
 127.0.0.1 yvwbox.de
 127.0.0.1 yx-ads6.com
 127.0.0.1 yx-in-f108.1e100.net
