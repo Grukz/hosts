@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75704 ad serving and malware domains.
+# Currently blocking 75702 ad serving and malware domains.
 #
-# Date Generated: Mar 11 2016
+# Date Generated: Mar 12 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -795,7 +795,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 201.6.87.194.dynamic.dol.ru
 127.0.0.1 2013561.fls.doubleclick.net
 127.0.0.1 2013hk.go2cloud.org
-127.0.0.1 2015letsdoit.in
 127.0.0.1 202.6.87.194.dynamic.dol.ru
 127.0.0.1 2020search.com
 127.0.0.1 2026953308.go2cloud.org
@@ -25704,7 +25703,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ajmclean.com
 127.0.0.1 ajnad.aljazeera.net
 127.0.0.1 ajokeaday.com
-127.0.0.1 ajouter.net
 127.0.0.1 ak-gb.marketgid.com
 127.0.0.1 ak-ns.sascdn.com
 127.0.0.1 ak.5.p2l.info
@@ -35429,6 +35427,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 coaft.voluumtrk.com
 127.0.0.1 coaha.frenchgerlemanelectric.com
 127.0.0.1 coalimpex.com
+127.0.0.1 coatidigital.com
 127.0.0.1 cobrands.mailermailer.com
 127.0.0.1 coconuts.boy.jp
 127.0.0.1 code-adrunner.mycomputer.com
@@ -43607,7 +43606,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gtp16.acecounter.com
 127.0.0.1 gtrforums.us.intellitxt.com
 127.0.0.1 gts-ads.twistbox.com
-127.0.0.1 gtsads.com
 127.0.0.1 gtsmobi.com
 127.0.0.1 gttracking.go2cloud.org
 127.0.0.1 gu-pix.appspot.com
@@ -46225,7 +46223,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 jeannette-nauman.us
 127.0.0.1 jeannie-mccord.us
 127.0.0.1 jeansvixens.com
-127.0.0.1 jedonkey.cjt1.net
 127.0.0.1 jeiup.voluumtrk.com
 127.0.0.1 jen-lobdell.us
 127.0.0.1 jena-murrill.us
@@ -46343,7 +46340,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 jizzads.com
 127.0.0.1 jk.chapm.com
 127.0.0.1 jk.revolvermaps.com
-127.0.0.1 jkazaa.cjt1.net
 127.0.0.1 jkearns.freestats.com
 127.0.0.1 jkeyp.voluumtrk.com
 127.0.0.1 jkgah.voluumtrk.com
@@ -46690,7 +46686,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 kaboose.us.intellitxt.com
 127.0.0.1 kacey-sheilds.us
 127.0.0.1 kaci-yearwood.us
-127.0.0.1 kadastr89.ru
 127.0.0.1 kadirzerey.com
 127.0.0.1 kadman.net
 127.0.0.1 kads.k-network.com
@@ -47313,6 +47308,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 leisure-offer.com
 127.0.0.1 lemonparty.biz
 127.0.0.1 lemonparty.org
+127.0.0.1 lenkvanleersum.nl
 127.0.0.1 lenny.ixn.local.vmsn.de
 127.0.0.1 lenovo.112.2o7.net
 127.0.0.1 lenovo.demdex.net
@@ -53215,6 +53211,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pagefair.com
 127.0.0.1 pagepeel.ero-advertising.com
 127.0.0.1 pagepeels.sexmoney.com
+127.0.0.1 pagerank-estate-spb.ru
 127.0.0.1 pagerank-ranking.com
 127.0.0.1 pagerank-ranking.de
 127.0.0.1 pagerank-server7.de
@@ -69878,6 +69875,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.bcservice.it
 127.0.0.1 www.bdsmxxxmovies.com
 127.0.0.1 www.be4life.ru
+127.0.0.1 www.beatvamp.ru
 127.0.0.1 www.becontext.com
 127.0.0.1 www.bedoc.fr
 127.0.0.1 www.bee-ads.com
