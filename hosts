@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75839 ad serving and malware domains.
+# Currently blocking 75827 ad serving and malware domains.
 #
-# Date Generated: Mar 15 2016
+# Date Generated: Mar 16 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25874,7 +25874,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 allhqpics.com
 127.0.0.1 allhyperlinks.com
 127.0.0.1 alliance.adbureau.net
-127.0.0.1 alliancesystems.co.in
 127.0.0.1 allie-cunha.us
 127.0.0.1 allie-hobdy.us
 127.0.0.1 allinsearch.net
@@ -27919,7 +27918,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bango.info
 127.0.0.1 bango.net
 127.0.0.1 bangtuoc.vn
-127.0.0.1 banihasyim.com
 127.0.0.1 banik.redigy.cz
 127.0.0.1 banjers.ero-advertising.com
 127.0.0.1 bank-01.ads.mp.mydas.mobi
@@ -35501,7 +35499,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 coke.nuggad.net
 127.0.0.1 col.eum-appdynamics.com
 127.0.0.1 col.mobileads.msn.com
-127.0.0.1 coldcreekauction.com
 127.0.0.1 coldfusion.affiliateshop.com
 127.0.0.1 colette-connell.us
 127.0.0.1 colle.ovh
@@ -37491,6 +37488,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 creditburner.blueadvertise.com
 127.0.0.1 creditcardscom.112.2o7.net
 127.0.0.1 creditsoffer.blogspot.com
+127.0.0.1 creditwallet.net
 127.0.0.1 credity.ucoz.ru
 127.0.0.1 creoads.com
 127.0.0.1 cressy.info
@@ -38604,6 +38602,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 demisoft.altervista.org
 127.0.0.1 demo.adsender.us
 127.0.0.1 demo.advertising.com
+127.0.0.1 demo.essarinfotech.net
 127.0.0.1 demo.exapps.com
 127.0.0.1 demo.idg.com.au
 127.0.0.1 demo.kissmetrics.com
@@ -43734,7 +43733,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 h1317070.stratoserver.net
 127.0.0.1 h1666015.stratoserver.net
 127.0.0.1 h2.msn.com
-127.0.0.1 h2oarchitecture.com.au
 127.0.0.1 h8lku.voluumtrk.com
 127.0.0.1 h9diz.voluumtrk.com
 127.0.0.1 hab3n.trackvoluum.com
@@ -44727,7 +44725,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 iads.com.np
 127.0.0.1 iadsdk.apple.com
 127.0.0.1 iadtools.cimedia.com
-127.0.0.1 iae.hosei.ac.jp
 127.0.0.1 ialaddin.genieesspv.jp
 127.0.0.1 ialchemnteryield.jmp9.com
 127.0.0.1 ialchemynteryield.jmp9.com
@@ -47173,7 +47170,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 laineygossip.us.intellitxt.com
 127.0.0.1 lakequincy.com
 127.0.0.1 lakeshore.d1.sc.omtrdc.net
-127.0.0.1 lalankhakhras.in
 127.0.0.1 lamictal.about-tabs.com
 127.0.0.1 lamisil.about-tabs.com
 127.0.0.1 lan.ringtone.com
@@ -47350,11 +47346,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 lefos.net
 127.0.0.1 legacylabs.go2cloud.org
 127.0.0.1 legal-rewardpath.com
+127.0.0.1 legendsdtv.com
 127.0.0.1 legisland.net
 127.0.0.1 legitfreecounters.com
 127.0.0.1 legitreviews-uk.intellitxt.com
 127.0.0.1 legitreviews.uk.intellitxt.com
-127.0.0.1 legitvendors.ru
 127.0.0.1 legkokstroinosti.justclick.ru
 127.0.0.1 lego.112.207.net
 127.0.0.1 lehtimedia.spring-tns.net
@@ -48957,7 +48953,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mastertarget.ru
 127.0.0.1 mastertracks.be
 127.0.0.1 masterzonex.com
-127.0.0.1 mat-update.be
 127.0.0.1 mata.ero-advertising.com
 127.0.0.1 match.admailtiser.com
 127.0.0.1 match.adsrvr.org
@@ -49524,7 +49519,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 meridiameridia.3xforum.ro
 127.0.0.1 merryholidays.org
 127.0.0.1 merrymilkfoods.com
-127.0.0.1 mersinescortbayanlar.org
 127.0.0.1 meshbean.com
 127.0.0.1 mesia.com
 127.0.0.1 mesotherapy.jino-net.ru
@@ -51253,6 +51247,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 newjobs.d1.sc.omtrdc.net
 127.0.0.1 newjunk4u.com
 127.0.0.1 newlaunches.uk.intellitxt.com
+127.0.0.1 newleaf.org.in
 127.0.0.1 newlook.112.2o7.net
 127.0.0.1 newnet.qsrch.com
 127.0.0.1 newnudecash.com
@@ -57112,7 +57107,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sayhello.popunder.ru
 127.0.0.1 sayherbal.com
 127.0.0.1 saymedia.com
-127.0.0.1 sayna.in.ua
 127.0.0.1 sayutracking.co.uk
 127.0.0.1 sb.freeskreen.com
 127.0.0.1 sb.monetate.net
@@ -61731,7 +61725,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 towerrecords.track4.com
 127.0.0.1 toy-offer.com
 127.0.0.1 toy-offer.net
-127.0.0.1 toyagi.co.id
 127.0.0.1 toyota-com-tw.b.appier.net
 127.0.0.1 toyota.112.2o7.net
 127.0.0.1 toyota.cyberealhosting.com
@@ -68589,7 +68582,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 weightlossforall.us.intellitxt.com
 127.0.0.1 welcome.openx.com
 127.0.0.1 welcomeworld.justclick.ru
-127.0.0.1 welcomingwellness.ca
 127.0.0.1 wellbutrin.1.p2l.info
 127.0.0.1 wellbutrin.3.p2l.info
 127.0.0.1 wellbutrin.4.p2l.info
@@ -68871,7 +68863,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 wonderlandads.com
 127.0.0.1 wonderph.com
 127.0.0.1 wondoads.de
-127.0.0.1 woodlandworldwide.ca
 127.0.0.1 woolyboys.com
 127.0.0.1 woopra.com
 127.0.0.1 wor6.b6dfnahea.ns2.name
@@ -69148,7 +69139,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.0uk.net
 127.0.0.1 www.100-100.ru
 127.0.0.1 www.100webads.com
-127.0.0.1 www.101dpm.com
 127.0.0.1 www.103092804.com
 127.0.0.1 www.11zz.com
 127.0.0.1 www.123banners.com
@@ -70812,7 +70802,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.donotwatch.org
 127.0.0.1 www.dontwatch.us
 127.0.0.1 www.doris-imhoff.us
-127.0.0.1 www.dorpsraadswolgen.nl
 127.0.0.1 www.doubleclick.com
 127.0.0.1 www.doubleclick.de
 127.0.0.1 www.doubleclick.ne.jp
@@ -70830,7 +70819,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.downloadupload.com
 127.0.0.1 www.downseek.com
 127.0.0.1 www.dpbolvw.net
-127.0.0.1 www.dphcustompins.com
 127.0.0.1 www.dprtb.com
 127.0.0.1 www.dragonballzhomeland.com
 127.0.0.1 www.dream-squad.com
