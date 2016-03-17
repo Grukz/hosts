@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75827 ad serving and malware domains.
+# Currently blocking 75831 ad serving and malware domains.
 #
-# Date Generated: Mar 16 2016
+# Date Generated: Mar 17 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -58873,6 +58873,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sportscarillustrated.us.intellitxt.com
 127.0.0.1 sportsillustrated.tags.crwdcntrl.net
 127.0.0.1 sportsulsan.co.kr
+127.0.0.1 sporttraum.de
 127.0.0.1 spot.fitness.com
 127.0.0.1 spotexchange.com
 127.0.0.1 spotlight.accuweather.com
@@ -63802,6 +63803,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vap2iad3.lijit.com
 127.0.0.1 vaporprofits.go2cloud.org
 127.0.0.1 varsityads.directtrack.com
+127.0.0.1 vartashakti.com
 127.0.0.1 vashadvokat.in.ua
 127.0.0.1 vassabgg.pw
 127.0.0.1 vast.bp3845260.btrll.com
@@ -67681,6 +67683,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 visualscience.external.bbc.co.uk
 127.0.0.1 vitacost.122.2o7.net
 127.0.0.1 vitacost.tt.omtrdc.net
+127.0.0.1 vital4age.eu
 127.0.0.1 vitalfootball.uk.intellitxt.com
 127.0.0.1 vitalitymax.1.p2l.info
 127.0.0.1 vitalityxray.com
@@ -68565,6 +68568,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 webwise.net
 127.0.0.1 webwise.org
 127.0.0.1 webxu.go2cloud.org
+127.0.0.1 wechselkur.de
 127.0.0.1 weddings.searchwho.com
 127.0.0.1 wee.co.il
 127.0.0.1 weecia.7173.clicksurecpa.com
