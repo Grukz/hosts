@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75831 ad serving and malware domains.
+# Currently blocking 75827 ad serving and malware domains.
 #
-# Date Generated: Mar 17 2016
+# Date Generated: Mar 18 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2176,15 +2176,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 USApolice.com
 127.0.0.1 ___id___.c.mystat-in.net
 127.0.0.1 _thums.ero-advertising.com
-127.0.0.1 a-0001.a-msedge.net
-127.0.0.1 a-0002.a-msedge.net
-127.0.0.1 a-0003.a-msedge.net
-127.0.0.1 a-0004.a-msedge.net
-127.0.0.1 a-0005.a-msedge.net
-127.0.0.1 a-0006.a-msedge.net
-127.0.0.1 a-0007.a-msedge.net
-127.0.0.1 a-0008.a-msedge.net
-127.0.0.1 a-0009.a-msedge.net
 127.0.0.1 a-a-access.com
 127.0.0.1 a-ads.com
 127.0.0.1 a-atraffickim.tf
@@ -54258,6 +54249,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pongoresume.com
 127.0.0.1 pons.ivwbox.de
 127.0.0.1 pontiflex.com
+127.0.0.1 pontoculturema.org
 127.0.0.1 pontuall.com.br
 127.0.0.1 pool-colruytgroup.adhese.com
 127.0.0.1 pool-nrc.adhese.com
@@ -63760,6 +63752,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 valarie-kummer.us
 127.0.0.1 valb.atm.youku.com
 127.0.0.1 valc.atm.youku.com
+127.0.0.1 valdmir.noriysha.ru
 127.0.0.1 valeria-tremper.us
 127.0.0.1 valerie-nilson.us
 127.0.0.1 valf.atm.youku.com
@@ -72755,6 +72748,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.naomi-thorn.us
 127.0.0.1 www.nationalissuepanel.com
 127.0.0.1 www.nationalsurveypanel.com
+127.0.0.1 www.nationaltradeshowmodels.com
 127.0.0.1 www.naturalgrowthstore.biz
 127.0.0.1 www.naturalsearchtoolresults.com
 127.0.0.1 www.naughty-traffic.com
@@ -73384,6 +73378,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.robotreplay.com
 127.0.0.1 www.robsxxx.com
 127.0.0.1 www.roccomovies.net
+127.0.0.1 www.rockforddiocese.org
 127.0.0.1 www.roiadtracker.com
 127.0.0.1 www.roispy.com
 127.0.0.1 www.roitracker.com
@@ -73391,6 +73386,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.romanticmaui.net
 127.0.0.1 www.romepartners.com
 127.0.0.1 www.rooversadvocatuur.nl
+127.0.0.1 www.rotm.ca
 127.0.0.1 www.rotrk.com
 127.0.0.1 www.roulettebotplus.com
 127.0.0.1 www.rovion.com
