@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75827 ad serving and malware domains.
+# Currently blocking 75833 ad serving and malware domains.
 #
-# Date Generated: Mar 18 2016
+# Date Generated: Mar 19 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -20797,7 +20797,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.kaldata.com
 127.0.0.1 ads.kartu.lt
 127.0.0.1 ads.kazaa.com
-127.0.0.1 ads.kelbymediagroup.com
 127.0.0.1 ads.kentonline.co.uk
 127.0.0.1 ads.keywordblocks.com
 127.0.0.1 ads.kickasstorrents.video
@@ -25214,6 +25213,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 af-gb.mgid.com
 127.0.0.1 afa15.com.ne.kr
 127.0.0.1 afantispy.com
+127.0.0.1 afbtracking09.com
 127.0.0.1 afdbande.cn
 127.0.0.1 afdtkr.com
 127.0.0.1 afe.specificclick.net
@@ -27850,6 +27850,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 backoffice.adsender.us
 127.0.0.1 backseatcuddler.us.intellitxt.com
 127.0.0.1 backtype.com
+127.0.0.1 backup.terra5llc.com
 127.0.0.1 backup01.ixn.local.vmsn.de
 127.0.0.1 backup01.ixn.vmsn.de
 127.0.0.1 backup02.dus.local.vmsn.de
@@ -35390,6 +35391,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cnomy.com
 127.0.0.1 cnoompprod.112.2o7.net
 127.0.0.1 cnstats.cdev.eu
+127.0.0.1 cnsuniversal.tk
 127.0.0.1 cnt.in.bookmyshow.com
 127.0.0.1 cnt.likealaugh.org
 127.0.0.1 cnt.logoslovo.ru
@@ -42434,7 +42436,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 g.brothersoft.com
 127.0.0.1 g.c.appier.net
 127.0.0.1 g.delivery.net
-127.0.0.1 g.live.com
 127.0.0.1 g.msn.com
 127.0.0.1 g.p.mybuys.com
 127.0.0.1 g.promosrv.com
@@ -44940,6 +44941,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 illinoisnets.net
 127.0.0.1 iloopmobile.com
 127.0.0.1 ilovecheating.com
+127.0.0.1 ilovemobi.com
 127.0.0.1 iltempo.com.au
 127.0.0.1 ilu.troughtheend.com
 127.0.0.1 iluv.clickbooth.com
@@ -48847,6 +48849,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mariah-cato.us
 127.0.0.1 mariah-payton.us
 127.0.0.1 mariah-reynolds.us
+127.0.0.1 marialorena.com.br
 127.0.0.1 marian-behling.us
 127.0.0.1 marian-mcclain.us
 127.0.0.1 mariana-merideth.us
@@ -50908,6 +50911,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 na-sjn.marketo.com
 127.0.0.1 na.hitbox.com
 127.0.0.1 na.tns-cs.net
+127.0.0.1 naairah.com
 127.0.0.1 naaninggeschcho.hotmail.ru
 127.0.0.1 nactx.com
 127.0.0.1 nadegda-95.ru
@@ -71723,6 +71727,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ilgm-deals.com
 127.0.0.1 www.iliky.com
 127.0.0.1 www.ilovecheating.com
+127.0.0.1 www.ilovemobi.com
 127.0.0.1 www.imads.ero-advertising.com
 127.0.0.1 www.image-map.com
 127.0.0.1 www.image-png.us
@@ -75811,6 +75816,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 zs16.cnzz.com
 127.0.0.1 zsc.scmspain.com
 127.0.0.1 zt.1rx.io
+127.0.0.1 zt.tim-taxi.com
 127.0.0.1 zt.zeroredirect1.com
 127.0.0.1 ztrack.net
 127.0.0.1 ztrf.net
