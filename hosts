@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75833 ad serving and malware domains.
+# Currently blocking 75839 ad serving and malware domains.
 #
-# Date Generated: Mar 19 2016
+# Date Generated: Mar 20 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1969,6 +1969,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 82435.com
 127.0.0.1 824le.voluumtrk.com
 127.0.0.1 8260.hittail.com
+127.0.0.1 829331534d183e7d1f6a-8d91cc88b27b979d0ea53a10ce8855ec.r96.cf5.rackcdn.com
 127.0.0.1 82d914.se
 127.0.0.1 82sn9.voluumtrk.com
 127.0.0.1 83.6.87.194.dynamic.dol.ru
@@ -25758,6 +25759,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 al4a.com
 127.0.0.1 alaina-hain.us
 127.0.0.1 alaksaair.com
+127.0.0.1 alamman.com
 127.0.0.1 alana-yancy.us
 127.0.0.1 alarm.huyamba.com
 127.0.0.1 alaskaaair.com
@@ -26006,6 +26008,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 amaassn.org
 127.0.0.1 amadaplease.com
 127.0.0.1 amail.co.uk
+127.0.0.1 amancayautoescuela.com
 127.0.0.1 amandapleas.com
 127.0.0.1 amare.softwaregarden.com
 127.0.0.1 amaritrade.com
@@ -40176,6 +40179,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 eloqua.122.2o7.net
 127.0.0.1 eloqua.com
 127.0.0.1 elsa-curry.us
+127.0.0.1 elsid.co
 127.0.0.1 elta-th.com
 127.0.0.1 elteensex.net
 127.0.0.1 eltern.ivwbox.de
@@ -54872,6 +54876,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pt.trafficjunky.net
 127.0.0.1 pt000127.unica.com
 127.0.0.1 pt200204.unica.com
+127.0.0.1 pt21na.com
 127.0.0.1 pt7ma.voluumtrk.com
 127.0.0.1 ptads.sv.publicus.com
 127.0.0.1 ptest.webtrekk.net
@@ -73142,6 +73147,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.preciselylocate.com
 127.0.0.1 www.precisioncounter.com
 127.0.0.1 www.predictad.com
+127.0.0.1 www.predictivadnetwork.com
 127.0.0.1 www.premieropinion.com
 127.0.0.1 www.premium-reward-club.com
 127.0.0.1 www.premiumhdv.com
