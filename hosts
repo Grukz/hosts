@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75529 ad serving and malware domains.
+# Currently blocking 75534 ad serving and malware domains.
 #
-# Date Generated: Apr 01 2016
+# Date Generated: Apr 02 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25581,6 +25581,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 agf-test.2cnt.net
 127.0.0.1 aggregateknowledge.com
 127.0.0.1 agi5y.voluumtrk.com
+127.0.0.1 agiftcard724.com
 127.0.0.1 agiter.science
 127.0.0.1 agjdv.voluumtrk.com
 127.0.0.1 agkn.com
@@ -25734,6 +25735,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 akaokoichi.net
 127.0.0.1 akatracking.esearchvision.com
 127.0.0.1 akcr.free.fr
+127.0.0.1 akdenizklima.com.tr
 127.0.0.1 akihabaranews.us.intellitxt.com
 127.0.0.1 akirkpatrick.com
 127.0.0.1 akmnetwork.com
@@ -27556,6 +27558,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 avalon.topbucks.com
 127.0.0.1 avant.science
 127.0.0.1 avantlink.com
+127.0.0.1 avarxxxxx.ru
 127.0.0.1 avastats.com
 127.0.0.1 avatar.truongton.net
 127.0.0.1 avatarcash.com
@@ -43557,6 +43560,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 graphics3.sextracker.com
 127.0.0.1 graphics7.nytimes.com
 127.0.0.1 graphics8.nytimes.m7z.net
+127.0.0.1 gratefulsoulssa.com
 127.0.0.1 gratkapl.adocean.pl
 127.0.0.1 gravitron.chron.com
 127.0.0.1 gravityexp.com
@@ -43823,6 +43827,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 haymarketbusinesspublications.122.2o7.net
 127.0.0.1 haynet.adbureau.net
 127.0.0.1 haz.moarclicks.com
+127.0.0.1 hazirscriptler.pw
 127.0.0.1 hb-assets.s3.amazonaws.com
 127.0.0.1 hb.justclick.ru
 127.0.0.1 hbads.eboz.com
@@ -59938,6 +59943,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 storknet.us.intellitxt.com
 127.0.0.1 storm.applifier.com
 127.0.0.1 stormpages.com
+127.0.0.1 storroliko.club
 127.0.0.1 stpetersburgtimes.122.2o7.net
 127.0.0.1 str.hit.gemius.pl
 127.0.0.1 straightresults.com
@@ -61486,7 +61492,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 top5.mail.ru
 127.0.0.1 top50.co.uk
 127.0.0.1 top6.list.ru
-127.0.0.1 top66.ro
 127.0.0.1 top90.ro
 127.0.0.1 topads.ero-advertising.com
 127.0.0.1 topads.rrstar.com
