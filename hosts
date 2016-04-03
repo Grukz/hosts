@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75534 ad serving and malware domains.
+# Currently blocking 75533 ad serving and malware domains.
 #
-# Date Generated: Apr 02 2016
+# Date Generated: Apr 03 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -40227,7 +40227,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 embed.insticator.com
 127.0.0.1 embed.spokenlayer.com
 127.0.0.1 embed.technorati.com
-127.0.0.1 embed.wistia.com
 127.0.0.1 emc-emccom.122.2o7.net
 127.0.0.1 emc-southafrica.122.2o7.net
 127.0.0.1 emc.122.2o7.net
