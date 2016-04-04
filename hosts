@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75533 ad serving and malware domains.
+# Currently blocking 75534 ad serving and malware domains.
 #
-# Date Generated: Apr 03 2016
+# Date Generated: Apr 04 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26075,6 +26075,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 amhen.com.ru
 127.0.0.1 amica.ivwbox.de
 127.0.0.1 amicos.mcdir.ru
+127.0.0.1 amid-s.com.ua
 127.0.0.1 amie-koepke.us
 127.0.0.1 amigeek.com
 127.0.0.1 amigos.com
@@ -43811,6 +43812,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hat.bmanpn.com
 127.0.0.1 hata.ero-advertising.com
 127.0.0.1 hatbo.voluumtrk.com
+127.0.0.1 hatgiongrangdong.com
 127.0.0.1 hathor.eztonez.com
 127.0.0.1 hatmedia.go2cloud.org
 127.0.0.1 hatrecord.ru
@@ -72186,7 +72188,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.maureen-matheson.us
 127.0.0.1 www.mauritaniecoeur.org
 127.0.0.1 www.maxbounty.com
-127.0.0.1 www.maxcdn.com
 127.0.0.1 www.maximumcash.com
 127.0.0.1 www.maxtrust.ru
 127.0.0.1 www.maxxxhits.com
