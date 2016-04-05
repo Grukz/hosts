@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75534 ad serving and malware domains.
+# Currently blocking 75550 ad serving and malware domains.
 #
-# Date Generated: Apr 04 2016
+# Date Generated: Apr 05 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26755,6 +26755,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.mixpanel.com
 127.0.0.1 api.mobileapptracking.com
 127.0.0.1 api.mobpartner.mobi
+127.0.0.1 api.mobula.sdk.duapps.com
 127.0.0.1 api.nanigans.com
 127.0.0.1 api.native.ai
 127.0.0.1 api.naturaltracking.com
@@ -38278,7 +38279,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 daversion4.digitalbrandsinc.netdna-cdn.com
 127.0.0.1 daw76z57propz.cloudfront.net
 127.0.0.1 dawa.ero-advertising.com
-127.0.0.1 daweya.info
 127.0.0.1 dawnframing.com
 127.0.0.1 dawnnationaladvertiser.com
 127.0.0.1 daylogs.com
@@ -38738,6 +38738,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 device-metrics-us-2.amazon.com
 127.0.0.1 device.4seeresults.com
 127.0.0.1 device.maxmind.com
+127.0.0.1 device.zhiliaoapp.com
 127.0.0.1 devil.go2cloud.org
 127.0.0.1 devlp1.linkpulse.com
 127.0.0.1 devolapgt.com
@@ -43334,6 +43335,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 goldadpremium.com
 127.0.0.1 goldbach-targeting.ch
 127.0.0.1 goldbach.hit.gemius.pl
+127.0.0.1 goldberg-share.com
 127.0.0.1 goldbye.vicp.net
 127.0.0.1 goldenticket.disconnect.me
 127.0.0.1 goldisn.cu.cc
@@ -43560,7 +43562,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 graphics3.sextracker.com
 127.0.0.1 graphics7.nytimes.com
 127.0.0.1 graphics8.nytimes.m7z.net
-127.0.0.1 gratefulsoulssa.com
 127.0.0.1 gratkapl.adocean.pl
 127.0.0.1 gravitron.chron.com
 127.0.0.1 gravityexp.com
@@ -43576,6 +43577,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 greensmoke.com
 127.0.0.1 greentooth.xtgem.com
 127.0.0.1 greentubeiesgmbh.tt.omtrdc.net
+127.0.0.1 greetingseuropasqq.com
 127.0.0.1 greev.randbinternationaltravel.com
 127.0.0.1 gregoryenterprises.go2cloud.org
 127.0.0.1 grendizer.biz
@@ -44337,6 +44339,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hot2015rewards.com
 127.0.0.1 hot50.net
 127.0.0.1 hotbar.dgndesign.com
+127.0.0.1 hotcasinogames.org
 127.0.0.1 hotchix.servepics.com
 127.0.0.1 hotdatinglist.com
 127.0.0.1 hotel-las-vegas.gloses.net
@@ -45895,6 +45898,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 isg08.casalemedia.com
 127.0.0.1 isg09.casalemedia.com
 127.0.0.1 ishare.metric.rediff.com
+127.0.0.1 isityouornotcc.asia
 127.0.0.1 islamicmarketing.net
 127.0.0.1 islenpiding.hotmail.ru
 127.0.0.1 ism2trk.com
@@ -48618,6 +48622,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mailderef.web.de
 127.0.0.1 mailer.livejasmin.com
 127.0.0.1 mailer.p1ne.com
+127.0.0.1 mailfoogae.appspot.com
 127.0.0.1 mailforfreedom.com
 127.0.0.1 mailinb1.surf-town.net
 127.0.0.1 mailout1.surf-town.net
@@ -53422,6 +53427,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pcgamer.uk.intellitxt.com
 127.0.0.1 pcgames.de.intellitxt.com
 127.0.0.1 pcgameshardware.de.intellitxt.com
+127.0.0.1 pcgfund.com
 127.0.0.1 pch.122.2o7.net
 127.0.0.1 pchealthcheckup.net
 127.0.0.1 pcinpact.fr.intellitxt.com
@@ -55790,6 +55796,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 report.adsender.us
 127.0.0.1 report.adview.cn
 127.0.0.1 report.broadcastpc.tv
+127.0.0.1 report.footprintdns.com
 127.0.0.1 report.ivwbox.de
 127.0.0.1 report.mitsubishicars.com
 127.0.0.1 report.qq.com
@@ -56307,6 +56314,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rts.doublepimp.com
 127.0.0.1 rts.fling.doublepimp.com
 127.0.0.1 rts.lj.doublepimp.com
+127.0.0.1 rts.mobula.sdk.duapps.com
 127.0.0.1 rts.pgmediaserve.com
 127.0.0.1 rts.phn.doublepimp.com
 127.0.0.1 rts.revfusion.net
@@ -59977,6 +59985,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stubhub.122.2o7.net
 127.0.0.1 studio.doubleclick.com
 127.0.0.1 studio.doubleclick.net
+127.0.0.1 studiosundaytv.com
 127.0.0.1 studivz.adfarm1.adition.com
 127.0.0.1 studivz.ivwbox.de
 127.0.0.1 study11.com
@@ -60591,6 +60600,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 talesoftheslayer.bravejournal.com
 127.0.0.1 taletela.us.intellitxt.com
 127.0.0.1 talkcity.realtracker.com
+127.0.0.1 talkingdata.com
+127.0.0.1 talkingdata.net
 127.0.0.1 tally.upsideout.com
 127.0.0.1 talos.adman.gr
 127.0.0.1 taloussanomat.linkpulse.com
@@ -61120,6 +61131,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 theifinder.com
 127.0.0.1 theinquirer.uk.intellitxt.com
 127.0.0.1 theinternetworksltd-news.t.domdex.com
+127.0.0.1 thejonesact.com
 127.0.0.1 thelastboss.us.intellitxt.com
 127.0.0.1 thelibraryofcongress.122.2o7.net
 127.0.0.1 thelocalsearchnetwork.com
@@ -61133,6 +61145,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 theoads.com
 127.0.0.1 theoads.com.
 127.0.0.1 theodosium.com
+127.0.0.1 theoneflooring.com
 127.0.0.1 theonenetwork.us.intellitxt.com
 127.0.0.1 thepaparazzis.us.intellitxt.com
 127.0.0.1 thepiratetrader.com
@@ -72345,6 +72358,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.monsonis.net
 127.0.0.1 www.montacarichi.it
 127.0.0.1 www.moonmarketing.com
+127.0.0.1 www.moorelegacygroup.com
 127.0.0.1 www.morefreecamsecrets.com
 127.0.0.1 www.morevisits.info
 127.0.0.1 www.motivacionyrelajacion.com
@@ -73637,6 +73651,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.tagjunction.com
 127.0.0.1 www.talentbroker.net
 127.0.0.1 www.talia-mettler.us
+127.0.0.1 www.talkingdata.com
+127.0.0.1 www.talkingdata.net
 127.0.0.1 www.tangabilder.to
 127.0.0.1 www.tanger.com.br
 127.0.0.1 www.tangibledownload.com
