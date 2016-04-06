@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75550 ad serving and malware domains.
+# Currently blocking 75548 ad serving and malware domains.
 #
-# Date Generated: Apr 05 2016
+# Date Generated: Apr 06 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -27560,7 +27560,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 avalon.topbucks.com
 127.0.0.1 avant.science
 127.0.0.1 avantlink.com
-127.0.0.1 avarxxxxx.ru
 127.0.0.1 avastats.com
 127.0.0.1 avatar.truongton.net
 127.0.0.1 avatarcash.com
@@ -29661,7 +29660,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 betting.betfair.com
 127.0.0.1 betty-cendejas.us
 127.0.0.1 bevo.go2cloud.org
-127.0.0.1 bevrifuli.geohats.com
 127.0.0.1 bextra-store.shengen.ru
 127.0.0.1 bextra.ourtablets.com
 127.0.0.1 beyond.go2cloud.org
@@ -48807,7 +48805,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mashable.d2.sc.omtrdc.net
 127.0.0.1 mashasedgwick.digidip.net
 127.0.0.1 mashinkhabar.com
-127.0.0.1 mashroomskro.eu
 127.0.0.1 mass-traffic.com
 127.0.0.1 massmerchandise.com
 127.0.0.1 masterh1.adriver.ru
@@ -68410,6 +68407,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 webstats4u.com
 127.0.0.1 websurvey.burstmedia.com
 127.0.0.1 websurvey.spa-mr.com
+127.0.0.1 webtahmin.com
 127.0.0.1 webtools.homestead.com
 127.0.0.1 webtrac.bluecherry.com
 127.0.0.1 webtrace.exapaq.com
