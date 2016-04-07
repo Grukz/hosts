@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75548 ad serving and malware domains.
+# Currently blocking 75550 ad serving and malware domains.
 #
-# Date Generated: Apr 06 2016
+# Date Generated: Apr 07 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -37304,6 +37304,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cp16688.cn
 127.0.0.1 cp1dk.voluumtrk.com
 127.0.0.1 cp35.v2.adsbookie.com
+127.0.0.1 cp53072.cloudhosting.lv
 127.0.0.1 cpa.ly
 127.0.0.1 cpaaltima.go2cloud.org
 127.0.0.1 cpabrasil.go2cloud.org
@@ -42558,6 +42559,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gan.doubleclick.net
 127.0.0.1 gan.wavecdn.net
 127.0.0.1 ganhedwakar.tk
+127.0.0.1 ganiinc.co.za
 127.0.0.1 gannett.demdex.net
 127.0.0.1 gannett.gcion.com
 127.0.0.1 gannettbroadcast.us.intellitxt.com
@@ -49928,7 +49930,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 misti-weigel.us
 127.0.0.1 mitel.marketbright.com
 127.0.0.1 mitsubishi.112.2o7.net
-127.0.0.1 miva.com
 127.0.0.1 mix-test.uts.ngdata.com
 127.0.0.1 mixadvert.com
 127.0.0.1 mixmarket.biz
@@ -58744,7 +58745,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sportscarillustrated.us.intellitxt.com
 127.0.0.1 sportsillustrated.tags.crwdcntrl.net
 127.0.0.1 sportsulsan.co.kr
-127.0.0.1 sporttraum.de
 127.0.0.1 spot.fitness.com
 127.0.0.1 spotexchange.com
 127.0.0.1 spotlight.accuweather.com
@@ -60937,6 +60937,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 teliad.de
 127.0.0.1 telkku.spring-tns.net
 127.0.0.1 telstra.imrworldwide.com
+127.0.0.1 temnhankimloai.com
 127.0.0.1 temp.adzerver.com
 127.0.0.1 tempest.services.disqus.com
 127.0.0.1 template.aebn.net
@@ -72762,6 +72763,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.peter-wimbley.us
 127.0.0.1 www.petpleasers.ca
 127.0.0.1 www.petrenko.biz
+127.0.0.1 www.pfhsystem.com
 127.0.0.1 www.pflexads.com
 127.0.0.1 www.pharmacywebsearch.com
 127.0.0.1 www.pheedo.com
