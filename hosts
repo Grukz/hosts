@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75550 ad serving and malware domains.
+# Currently blocking 75558 ad serving and malware domains.
 #
-# Date Generated: Apr 07 2016
+# Date Generated: Apr 08 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -33063,6 +33063,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c1024.ic-live.com
 127.0.0.1 c11.smaato.net
 127.0.0.1 c11.statcounter.com
+127.0.0.1 c11370896.c.youradexchange.com
 127.0.0.1 c11n4.i.teaserguide.com
 127.0.0.1 c12.smaato.net
 127.0.0.1 c12.statcounter.com
@@ -37654,6 +37655,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ctvmaincom.112.2o7.net
 127.0.0.1 ctvsmokinggun.112.2o7.net
 127.0.0.1 ctvtsgtv.112.2o7.net
+127.0.0.1 ctwonx221.ddns.net
 127.0.0.1 ctxt.tribalfusion.com
 127.0.0.1 ctxtad.tribalfusion.com
 127.0.0.1 cu.cz-darmstadt.de
@@ -39713,6 +39715,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 east.ads.simpli.fi
 127.0.0.1 eastmoney.allyes.com
 127.0.0.1 eastsideboxing.us.intellitxt.com
+127.0.0.1 eastwell31.co.uk
 127.0.0.1 easy-web-stats.com
 127.0.0.1 easy.adpowerzone.com
 127.0.0.1 easyadservice.com
@@ -45834,6 +45837,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 iperceptions.com
 127.0.0.1 ipfingerprint.com
 127.0.0.1 iph.go2cloud.org
+127.0.0.1 iphone-avril.offreflash.xyz
 127.0.0.1 iphone.mobpartner.mobi
 127.0.0.1 iphone.superfish.com
 127.0.0.1 iphoneservisci.com
@@ -46837,6 +46841,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 knigge.webtrekk.net
 127.0.0.1 knight.economist.com
 127.0.0.1 knowyourmobile.uk.intellitxt.com
+127.0.0.1 knuffy-online.de
 127.0.0.1 kochava.com
 127.0.0.1 koeln.ivwbox.de
 127.0.0.1 koelnrsc.ivwbox.de
@@ -47237,6 +47242,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 letsrun.us.intellitxt.com
 127.0.0.1 letssearch.com
 127.0.0.1 lettre.research-int.fr
+127.0.0.1 levana.co.ke
 127.0.0.1 level.turboads.de
 127.0.0.1 level3.applifier.com
 127.0.0.1 level3com.d2.sc.omtrdc.net
@@ -61723,6 +61729,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 track.ashley-george.com
 127.0.0.1 track.atgstores.com
 127.0.0.1 track.bannerbridge.net
+127.0.0.1 track.bestoffertime.com
 127.0.0.1 track.bidtrk.com
 127.0.0.1 track.bigbrandpromotions.com
 127.0.0.1 track.blamads.com
@@ -72516,6 +72523,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.netpalnow.com
 127.0.0.1 www.netpaloffers.net
 127.0.0.1 www.netpoll.nl
+127.0.0.1 www.nett-art.de
 127.0.0.1 www.nettown.com
 127.0.0.1 www.netword.com
 127.0.0.1 www.network22.com
