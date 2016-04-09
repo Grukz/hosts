@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75558 ad serving and malware domains.
+# Currently blocking 75584 ad serving and malware domains.
 #
-# Date Generated: Apr 08 2016
+# Date Generated: Apr 09 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -23680,7 +23680,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserver.monstersandcritics.com
 127.0.0.1 adserver.motdgd.com
 127.0.0.1 adserver.motonews.pl
-127.0.0.1 adserver.motorpresse.de
 127.0.0.1 adserver.mundo-service.de
 127.0.0.1 adserver.mylinea.com
 127.0.0.1 adserver.myownemail.com
@@ -26930,6 +26929,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 appads.com
 127.0.0.1 appaloosaontario.ca
 127.0.0.1 appapi.inspsearchapi.com
+127.0.0.1 apparatus.gr8mark.com
 127.0.0.1 apparel-offer.com
 127.0.0.1 apparelncs.com
 127.0.0.1 appartement.science
@@ -27603,6 +27603,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 awemedia.net
 127.0.0.1 awempire.com
 127.0.0.1 awesomevipoffers.com
+127.0.0.1 awful.carasfashion.com
 127.0.0.1 awin1.com
 127.0.0.1 awin2.com
 127.0.0.1 awjul1.radar11ab.co.uk
@@ -33294,6 +33295,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ca305656.luckyorange.com
 127.0.0.1 caartoonnetwork.com
 127.0.0.1 caasco.go2cloud.org
+127.0.0.1 cable.porng8.com
 127.0.0.1 cablevision.112.2o7.net
 127.0.0.1 cablick.com
 127.0.0.1 cache-dev.addthis.com
@@ -35612,6 +35614,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 compete.com
 127.0.0.1 compete.evergage.com
 127.0.0.1 competeinc.com
+127.0.0.1 complain.infoportalonline.info
 127.0.0.1 complet.science
 127.0.0.1 completecarrd.com
 127.0.0.1 complex.us.intellitxt.com
@@ -35887,6 +35890,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 coolwebstats.com
 127.0.0.1 coop.crwdcntrl.net
 127.0.0.1 cooper-stewartconnect.com
+127.0.0.1 coordinated.xxx8een.com
 127.0.0.1 cope.it
 127.0.0.1 copilul.2cnt.net
 127.0.0.1 copperheadsecurity.com
@@ -36556,7 +36560,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 count598.51yes.com
 127.0.0.1 count599.51yes.com
 127.0.0.1 count6.51yes.com
-127.0.0.1 count6.rbc.ru
 127.0.0.1 count60.51yes.com
 127.0.0.1 count600.51yes.com
 127.0.0.1 count601.51yes.com
@@ -38679,6 +38682,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 desky.imixserver.com
 127.0.0.1 desky2.imixserver.com
 127.0.0.1 destre45.com
+127.0.0.1 destruction.majormodelmg.com.br
 127.0.0.1 destructoid.us.intellitxt.com
 127.0.0.1 desv383oqqc0.cloudfront.net
 127.0.0.1 deta.ero-advertising.com
@@ -40988,6 +40992,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 faeuz.voluumtrk.com
 127.0.0.1 faggotry.com
 127.0.0.1 fahrrad.bikesshop.de
+127.0.0.1 fair.modelosmasculinos.info
 127.0.0.1 fairfax.cxsearch.cxense.com
 127.0.0.1 fairfax.demdex.net
 127.0.0.1 fairfaxau.d1.sc.omtrdc.net
@@ -41383,6 +41388,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fitges.oewabox.at
 127.0.0.1 fitness.searchwho.com
 127.0.0.1 fitwoman.justclick.ru
+127.0.0.1 fivty.corporativomucom.com
 127.0.0.1 fixbonus.com
 127.0.0.1 fixya.us.intellitxt.com
 127.0.0.1 fizzix.com
@@ -43358,6 +43364,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 goo.freelogs.com
 127.0.0.1 gooal.herokuapp.com
 127.0.0.1 good.9downloadall.com
+127.0.0.1 good.adcoso.net
 127.0.0.1 goodbizez.com
 127.0.0.1 goodbookbook.com
 127.0.0.1 gooddata.com
@@ -43769,13 +43776,16 @@ ff02::2 ip6-allrouters
 127.0.0.1 handbl.ivwbox.de
 127.0.0.1 handelsblatt.met.vgwort.de
 127.0.0.1 handelsblatt01.webtrekk.net
+127.0.0.1 handsome.redfqt.info
 127.0.0.1 handy.ivwbox.de
 127.0.0.1 handyseek.com
+127.0.0.1 hang.r8girls.com
 127.0.0.1 hangmyads.go2cloud.org
 127.0.0.1 hanklist.com
 127.0.0.1 hanulsms.com
 127.0.0.1 haouzy.info
 127.0.0.1 hapjes-maken.eu
+127.0.0.1 hapless.cnc-computer.com
 127.0.0.1 happydiscountspecials.com
 127.0.0.1 happytofind.com
 127.0.0.1 harconsumer.112.2o7.net
@@ -44184,6 +44194,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ho-openx.ha.rs
 127.0.0.1 hoawy.frost-electric-supply.com
 127.0.0.1 hobbat.fvds.ru
+127.0.0.1 hobbies.agenciasdemodelos.biz
 127.0.0.1 hobby-hangar.net
 127.0.0.1 hobbytotaalservice.nl
 127.0.0.1 hobot.ru
@@ -45410,6 +45421,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 impactmobile.com
 127.0.0.1 impacts.alliancehub.com
 127.0.0.1 impactwrestling.us.intellitxt.com
+127.0.0.1 impartial.majoragency.com
 127.0.0.1 impat.tradedoubler.com
 127.0.0.1 impbe.tradedoubler.com
 127.0.0.1 impch.tradedoubler.com
@@ -46712,6 +46724,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kestrel-sg.com
 127.0.0.1 kestrel.ospreymedialp.com
 127.0.0.1 kewlrank.com
+127.0.0.1 key.incirclefans.org
 127.0.0.1 keybinary.com
 127.0.0.1 keydownload.go2cloud.org
 127.0.0.1 keygen.us
@@ -47237,6 +47250,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lesbian-erotica.hitbox.com
 127.0.0.1 lesechos.ezakus.net
 127.0.0.1 lesview.com
+127.0.0.1 lethal.majormodel.info
 127.0.0.1 letsfinder.com
 127.0.0.1 letsgodigital.uk.intellitxt.com
 127.0.0.1 letsrun.us.intellitxt.com
@@ -47978,6 +47992,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 londonleatherusa.com
 127.0.0.1 londonprivaterentals.standard.co.uk
 127.0.0.1 longhornblogs.us.intellitxt.com
+127.0.0.1 longing.emporioarmanionline.com
 127.0.0.1 longtraffic.com
 127.0.0.1 loni-burnett.us
 127.0.0.1 loni-schroeter.us
@@ -49864,6 +49879,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 midala.112.2o7.net
 127.0.0.1 midar.112.2o7.net
 127.0.0.1 midcru.112.2o7.net
+127.0.0.1 middle.porn8een.com
 127.0.0.1 middleware.adition.com
 127.0.0.1 middlewaredev.adition.com
 127.0.0.1 midnightclicking.com
@@ -52530,6 +52546,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 op.standartnews.com
 127.0.0.1 op4g.go2cloud.org
 127.0.0.1 opads.ero-advertising.com
+127.0.0.1 opahdiqwqweqkweklnasd.com
 127.0.0.1 opame.voluumtrk.com
 127.0.0.1 opap.co.kr
 127.0.0.1 open.4info.net
@@ -54039,6 +54056,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pllysvaatteiden.rvexecutives.com
 127.0.0.1 plocia.com
 127.0.0.1 ploko.voluumtrk.com
+127.0.0.1 plough.googlenewsbrasil.com
 127.0.0.1 pls.webtype.com
 127.0.0.1 plsdrct2.me
 127.0.0.1 plsoyfoods.112.2o7.net
@@ -54986,6 +55004,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 push.appsgeyser.com
 127.0.0.1 push.cdnads.com
 127.0.0.1 push.senddroid.com
+127.0.0.1 pushy.peepinghot.com
 127.0.0.1 pussybabes.net
 127.0.0.1 pussygreen.com
 127.0.0.1 pustoaice.erotic-place.org
@@ -55496,6 +55515,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 re.revolvermaps.com
 127.0.0.1 re.rutan.org
 127.0.0.1 re.try9.com
+127.0.0.1 reach.sweetyus.biz
 127.0.0.1 reachjunction.com
 127.0.0.1 reactx.com
 127.0.0.1 readersdigest.tt.omtrdc.net
@@ -55792,6 +55812,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rentcom.112.2o7.net
 127.0.0.1 rentcom.tt.omtrdc.net
 127.0.0.1 rentfromart.com
+127.0.0.1 repeat.autoshidalgo.com
 127.0.0.1 replacement-windows.gloses.net
 127.0.0.1 replay.foreseeresults.com
 127.0.0.1 replaycontroller.4seeresults.com
@@ -58580,6 +58601,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sonar.sociomantic.com
 127.0.0.1 sonata.1.p2l.info
 127.0.0.1 sondra-nowell.us
+127.0.0.1 songs.fucoidanfood.com
 127.0.0.1 sonia-hemmer.us
 127.0.0.1 sonia-pantoja.us
 127.0.0.1 sonia-wedge.us
@@ -59077,6 +59099,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stanzapub.advertserve.com
 127.0.0.1 staples.tt.omtrdc.net
 127.0.0.1 star-advertising.com
+127.0.0.1 star.jkcandd.net
 127.0.0.1 starcasm.us.intellitxt.com
 127.0.0.1 starchat.oewabox.at
 127.0.0.1 stardk.tradedoubler.com
@@ -60288,6 +60311,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 syndication1.traffichaus.com
 127.0.0.1 syndication1.viraladnetwork.net
 127.0.0.1 synergetic.de
+127.0.0.1 synonymous.porn8een.com
 127.0.0.1 synthes.vo.llnwd.net
 127.0.0.1 sys.itop.cz
 127.0.0.1 sys.osttirol-online.at
@@ -68570,6 +68594,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wibiya-actions.conduit-data.com
 127.0.0.1 wibiya-june-new-log.conduit-data.com
 127.0.0.1 wicked-media.net
+127.0.0.1 wicked.majorelenco.com
 127.0.0.1 widesearchengine.com
 127.0.0.1 widespace.com
 127.0.0.1 widget-analytics.virool.com
@@ -69665,6 +69690,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.alyson-klein.us
 127.0.0.1 www.amazing-opportunities.info
 127.0.0.1 www.amazingcounters.com
+127.0.0.1 www.ambassadorpesaro.it
 127.0.0.1 www.amclicks.com
 127.0.0.1 www.amie-koepke.us
 127.0.0.1 www.amusive.com
