@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75584 ad serving and malware domains.
+# Currently blocking 75615 ad serving and malware domains.
 #
-# Date Generated: Apr 09 2016
+# Date Generated: Apr 10 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25875,6 +25875,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 alloha.info
 127.0.0.1 allosponsor.com
 127.0.0.1 allotof.com
+127.0.0.1 allow.lafter.info
 127.0.0.1 allowsearch.com
 127.0.0.1 alloydigital.com
 127.0.0.1 allpaidsurveys.com
@@ -25905,6 +25906,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 alltraff.ru
 127.0.0.1 alltraff.spb.ru
 127.0.0.1 allumer.science
+127.0.0.1 alluring.majormodels.net
 127.0.0.1 allwomenstalk.us.intellitxt.com
 127.0.0.1 allwords.com
 127.0.0.1 allwrappedupgifts.com
@@ -27325,6 +27327,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 associmage.match.com
 127.0.0.1 associmg.com
 127.0.0.1 ast.adiquity.com
+127.0.0.1 ast.hotelesenzo.com
 127.0.0.1 astalavista.box.sk
 127.0.0.1 astatic.weborama.fr
 127.0.0.1 astrocash.org
@@ -29822,6 +29825,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bitcast-a.v1.iad1.bitgravity.com
 127.0.0.1 bitcast-d.bitgravity.com
 127.0.0.1 bitcoinadvertisers.com
+127.0.0.1 bite.dementiadvocacy.org
 127.0.0.1 bitmedianetwork.com
 127.0.0.1 bitsinfoware.net
 127.0.0.1 bitsonthewire.com
@@ -33375,6 +33379,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cait-ruggieri.us
 127.0.0.1 caitlin-spry.us
 127.0.0.1 caitlyn-peet.us
+127.0.0.1 cake.tracfonenet10.com
 127.0.0.1 calendar.adition.com
 127.0.0.1 calendar.apptornado.com
 127.0.0.1 calendar.chartboost.com
@@ -37542,6 +37547,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 crwdcntrl.net
 127.0.0.1 crx92.voluumtrk.com
 127.0.0.1 crxbh.voluumtrk.com
+127.0.0.1 cry.thehelpbiz.co.uk
 127.0.0.1 cryptmyexe.pw
 127.0.0.1 crystal-eisenberg.us
 127.0.0.1 cs.adcastplus.net
@@ -38932,6 +38938,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 discoverecommerce.tt.omtrdc.net
 127.0.0.1 discoverexactly.com
 127.0.0.1 diseaseless.com
+127.0.0.1 dislike.thehelpbiz.org
 127.0.0.1 disney.2cnt.net
 127.0.0.1 dispansery.com
 127.0.0.1 dispatch.admixer.co.kr
@@ -39905,6 +39912,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 effectivemeasure.com
 127.0.0.1 effectivemeasure.net
 127.0.0.1 effexor-xr.1.p2l.info
+127.0.0.1 efficient.automaticpedestriandoorexpertwitness.com
 127.0.0.1 efluxmedia.uk.intellitxt.com
 127.0.0.1 efoods.go2cloud.org
 127.0.0.1 eforu.com
@@ -43663,6 +43671,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gu.5.p2l.info
 127.0.0.1 guanjia.baidu.com
 127.0.0.1 guannan.3322.net
+127.0.0.1 guard.majormodels.com.br
 127.0.0.1 guardianlv.us.intellitxt.com
 127.0.0.1 guerria-skateboard-tommy.tabrays.com
 127.0.0.1 guest.adultfriendfinder.com
@@ -44503,6 +44512,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hubxt.tube8.com
 127.0.0.1 hubxt.youporn.com
 127.0.0.1 huffingtonpost.crwdcntrl.net
+127.0.0.1 hug.colegiomx.com
 127.0.0.1 hugde.adocean.pl
 127.0.0.1 hui-ain-apparel.tk
 127.0.0.1 huis.istats.nl
@@ -47255,6 +47265,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 letsgodigital.uk.intellitxt.com
 127.0.0.1 letsrun.us.intellitxt.com
 127.0.0.1 letssearch.com
+127.0.0.1 letters.aby.mx
 127.0.0.1 lettre.research-int.fr
 127.0.0.1 levana.co.ke
 127.0.0.1 level.turboads.de
@@ -47549,6 +47560,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 listennewsnetwork.com
 127.0.0.1 lisyn.voluumtrk.com
 127.0.0.1 litas.com
+127.0.0.1 literate.majormodel.org
 127.0.0.1 lithium.thiersheetmetal.com
 127.0.0.1 litiumo.com
 127.0.0.1 littwronthath.net
@@ -48807,6 +48819,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 marketsurveys.com
 127.0.0.1 marketwatch.com.edgesuite.net
 127.0.0.1 marketworksinc.122.2o7.net
+127.0.0.1 markhamresuorces.com
 127.0.0.1 markhousecm.com
 127.0.0.1 marksandspencer.122.2o7.net
 127.0.0.1 marlena-ellingson.us
@@ -51400,6 +51413,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nospartenaires.com
 127.0.0.1 nossl.aafp.org
 127.0.0.1 nossl.policeone.com
+127.0.0.1 nosy.paous.com
 127.0.0.1 notebook-memory.searchservice.info
 127.0.0.1 notebooksbilliger02.webtrekk.net
 127.0.0.1 notebookservisru.161.com1.ru
@@ -54699,6 +54713,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 prowoodsrl.it
 127.0.0.1 proxad.net
 127.0.0.1 proximityads.flipcorp.com
+127.0.0.1 proximns-bg.com
 127.0.0.1 proxy.blogads.com
 127.0.0.1 proxy.ia2.marketscore.com
 127.0.0.1 proxy.ia3.marketscore.com
@@ -55352,6 +55367,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rads.stackoverflow.com
 127.0.0.1 radstackmedia.go2cloud.org
 127.0.0.1 railads.scripps.com
+127.0.0.1 rain.joliemodels.com.br
 127.0.0.1 rainbow-de.mythings.com
 127.0.0.1 rainbow-es.mythings.com
 127.0.0.1 rainbow-fi.mythings.com
@@ -56984,6 +57000,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 savings-time.com
 127.0.0.1 savurew.bastroporalsurgery.com
 127.0.0.1 savvyads.com
+127.0.0.1 saw.lyndaemerson.com
 127.0.0.1 sax.sina.com.cn
 127.0.0.1 saxobutlereagle.122.2o7.net
 127.0.0.1 saxoconcordmonitor.122.2o7.net
@@ -57991,6 +58008,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 shedad.com
 127.0.0.1 sheila-grosz.us
 127.0.0.1 sheknows.us.intellitxt.com
+127.0.0.1 shelf.redfqt.net
 127.0.0.1 shell.xhhow4.com
 127.0.0.1 shelley-piatt.us
 127.0.0.1 sher.index.hu
@@ -58746,6 +58764,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sponsors.webosroundup.com
 127.0.0.1 sponsorships.net
 127.0.0.1 spoods.rce.veeseo.com
+127.0.0.1 spooky.arrasection13402.us
 127.0.0.1 sport-betting-online.hitslog.net
 127.0.0.1 sport.count.brat-online.ro
 127.0.0.1 sport.xoomcounter.com
@@ -59104,6 +59123,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 starchat.oewabox.at
 127.0.0.1 stardk.tradedoubler.com
 127.0.0.1 stare.adrevolver.com
+127.0.0.1 stare.pornbrooke.com
 127.0.0.1 starffa.com
 127.0.0.1 stargamesaffiliate.com
 127.0.0.1 starlix.ql.st
@@ -59921,6 +59941,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 steelhousemedia.com
 127.0.0.1 stefanie-winnie.us
 127.0.0.1 stellonl.ivwbox.de
+127.0.0.1 stem.modelosmasculinos.org
 127.0.0.1 stepan007.popunder.ru
 127.0.0.1 stepank.justclick.ru
 127.0.0.1 stephanie-caster.us
@@ -60078,6 +60099,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 summitbusinessmedia.112.2o7.net
 127.0.0.1 summonerswarskyarena.info
 127.0.0.1 sumome.com
+127.0.0.1 sun.thehelpbiz.org
 127.0.0.1 sun3xani.justclick.ru
 127.0.0.1 suncom.112.2o7.net
 127.0.0.1 suncountryair.com
@@ -60932,6 +60954,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 teeser.ru
 127.0.0.1 teeth.co.jp
 127.0.0.1 tei.fivemillionfriends.com
+127.0.0.1 tekadrian.pro
 127.0.0.1 tekadrian.xyz
 127.0.0.1 tekcharles.xyz
 127.0.0.1 tekchuks.xyz
@@ -61224,6 +61247,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 theybf.us.intellitxt.com
 127.0.0.1 theylike.org
 127.0.0.1 thgalecom.112.2o7.net
+127.0.0.1 thick.gustavotenorio.mx
 127.0.0.1 thindivide.com
 127.0.0.1 thing1.infolink.com
 127.0.0.1 thing2.infolink.com
@@ -61265,6 +61289,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 threadwatch.us.intellitxt.com
 127.0.0.1 threivetrack.com
 127.0.0.1 thrnt.com
+127.0.0.1 throat.anuncioshidalgo.com
 127.0.0.1 thruport.com
 127.0.0.1 thumb.ero-advertising.com
 127.0.0.1 thumbads.ero-advertising.com
@@ -63662,6 +63687,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 va.akamai.startappservice.com
 127.0.0.1 va.marketer.lpsnmedia.net
 127.0.0.1 va.origin.startappservice.com
+127.0.0.1 vacation.heartfix.us
 127.0.0.1 vacation.toppick.info
 127.0.0.1 vacationcellular.net
 127.0.0.1 vad.adbasket.net
@@ -68044,6 +68070,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 waiwidgets-1246822334.eu-west-1.elb.amazonaws.com
 127.0.0.1 waldenfarms.com
 127.0.0.1 walgrns.112.2o7.net
+127.0.0.1 walk.carlosromano.org
 127.0.0.1 walkthedinosaur.com
 127.0.0.1 wall-streetro.count.brat-online.ro
 127.0.0.1 walla.yad2.co.il
@@ -68137,6 +68164,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 watson.telemetry.microsoft.com.nsatc.net
 127.0.0.1 watube.com
 127.0.0.1 wau.tynt.com
+127.0.0.1 wave.garnicavera.com
 127.0.0.1 wayads.com
 127.0.0.1 wayufilm.com
 127.0.0.1 wb.interpolls.com
@@ -68264,6 +68292,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 web40.voodoo.com
 127.0.0.1 web4friends.com
 127.0.0.1 web5.voodoo.com
+127.0.0.1 web50aqui.es
 127.0.0.1 web6.voodoo.com
 127.0.0.1 web63.jumptap.com
 127.0.0.1 web64.jumptap.com
@@ -68717,6 +68746,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 winteryield.jmp9.com
 127.0.0.1 wintotal.de.intellitxt.com
 127.0.0.1 wintricksbanner.googlepages.com
+127.0.0.1 wire.xbodyuk.com
 127.0.0.1 wiregirl.us.intellitxt.com
 127.0.0.1 wireless.ign.us.intellitxt.com
 127.0.0.1 wirelessforums.us.intellitxt.com
@@ -68789,6 +68819,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wordpresscom.skimlinks.com
 127.0.0.1 wordwatch.go2cloud.org
 127.0.0.1 work-offer.com
+127.0.0.1 workable.mucom.org
 127.0.0.1 workflowboard.com
 127.0.0.1 workingonline.com
 127.0.0.1 workopolis.122.2o7.net
