@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75615 ad serving and malware domains.
+# Currently blocking 75642 ad serving and malware domains.
 #
-# Date Generated: Apr 10 2016
+# Date Generated: Apr 11 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -3046,6 +3046,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 abo.libertysurf.fr
 127.0.0.1 abo.prismamediadigital.com
 127.0.0.1 aboout.com
+127.0.0.1 abortive.doorsensorexpertwitness.com
 127.0.0.1 abosearch.com
 127.0.0.1 abou.com
 127.0.0.1 about-sexy.com
@@ -25743,7 +25744,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 akril.com
 127.0.0.1 aksb-a.akamaihd.net
 127.0.0.1 aksdk-images.adikteev.com
-127.0.0.1 aksharasrismartschool.com
 127.0.0.1 aksoftware.com
 127.0.0.1 aktif.haberx.com
 127.0.0.1 aktrack.pubmatic.com
@@ -31219,6 +31219,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 brattest2.2cnt.net
 127.0.0.1 brattest3.2cnt.net
 127.0.0.1 brattest4.2cnt.net
+127.0.0.1 brave.ebod.co.uk
 127.0.0.1 bravenet.com
 127.0.0.1 bravenet.com.invalid
 127.0.0.1 bravetools.net
@@ -31248,6 +31249,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bridgett-schulz.us
 127.0.0.1 bridgette-ammon.us
 127.0.0.1 bridgette-laura.us
+127.0.0.1 brief.dementiadvocacy.info
 127.0.0.1 bright.bncnt.com
 127.0.0.1 bright.su
 127.0.0.1 brightcove.112.2o7.net
@@ -34516,6 +34518,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 chi2only.outbrain.com
 127.0.0.1 chicagosuntimes.122.2o7.net
 127.0.0.1 childhe.com
+127.0.0.1 childlike.carlosromano.com
 127.0.0.1 chillout.real.com
 127.0.0.1 china.inmobi.com
 127.0.0.1 chinaads.net
@@ -35732,6 +35735,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 consolefiles.info
 127.0.0.1 consors.ivwbox.de
 127.0.0.1 constance-polen.us
+127.0.0.1 construct.krnrf.com
 127.0.0.1 consumer-org.com
 127.0.0.1 consumergiftcenter.com
 127.0.0.1 consumerincentivenetwork.com
@@ -38679,6 +38683,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 designtechnica.us.intellitxt.com
 127.0.0.1 designweekly.co.cc
 127.0.0.1 desire-search.com
+127.0.0.1 desire.cureby2025.ca
 127.0.0.1 desiree-dane.us
 127.0.0.1 desiree-novotny.us
 127.0.0.1 desk.cmix.org
@@ -39843,6 +39848,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 edge.analytics.brightedge.com
 127.0.0.1 edge.aperture.displaymarketplace.com
 127.0.0.1 edge.ayboll.com
+127.0.0.1 edge.bayanazdirandamla.com
 127.0.0.1 edge.bnmla.com
 127.0.0.1 edge.bredg.com
 127.0.0.1 edge.jeetyetmedia.com
@@ -39909,6 +39915,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 efam4.info
 127.0.0.1 efanguide.us.intellitxt.com
 127.0.0.1 efashionsolutions.122.2o7.net
+127.0.0.1 effect.tammarteam.com
 127.0.0.1 effectivemeasure.com
 127.0.0.1 effectivemeasure.net
 127.0.0.1 effexor-xr.1.p2l.info
@@ -41118,6 +41125,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fatbackmedia.us.intellitxt.com
 127.0.0.1 fatcatrewards.com
 127.0.0.1 fatfreekitchen.us.intellitxt.com
+127.0.0.1 fax.tinmoinhanh.com
 127.0.0.1 faz.ivwbox.de
 127.0.0.1 faz.met.vgwort.de
 127.0.0.1 fb-nym.adnxs.com
@@ -43133,6 +43141,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gladys-theriot.us
 127.0.0.1 gladys-viola.us
 127.0.0.1 glam.ivwbox.de
+127.0.0.1 glass.opti-life.net
 127.0.0.1 glassesonline-com-ph.b.appier.net
 127.0.0.1 glassesonline-com-sg.b.appier.net
 127.0.0.1 glassesonline-com-tw.b.appier.net
@@ -43786,6 +43795,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 handelsblatt.met.vgwort.de
 127.0.0.1 handelsblatt01.webtrekk.net
 127.0.0.1 handsome.redfqt.info
+127.0.0.1 handy.cachetinvestments.org
 127.0.0.1 handy.ivwbox.de
 127.0.0.1 handyseek.com
 127.0.0.1 hang.r8girls.com
@@ -44032,6 +44042,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hisnakiamotors.122.2o7.net
 127.0.0.1 histats.com
 127.0.0.1 histats2014.simply-webspace.it
+127.0.0.1 history.dementiaadvocacy.net
 127.0.0.1 hit-counter.5u.com
 127.0.0.1 hit-counter.info
 127.0.0.1 hit-counter.udub.com
@@ -45644,6 +45655,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 inquiry.shop.xerox.com
 127.0.0.1 inringtone.com
 127.0.0.1 ins-offer.com
+127.0.0.1 insect.tammarteam.com
 127.0.0.1 insert.gloadmarket.com
 127.0.0.1 insidemacgames.us.intellitxt.com
 127.0.0.1 insiderpagescom.122.2o7.net
@@ -46557,6 +46569,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jump.youmobistein.com
 127.0.0.1 jump1ng.net
 127.0.0.1 jumptap.com
+127.0.0.1 jumpy.cachetinvestments.co.uk
 127.0.0.1 junbi-tracker.com
 127.0.0.1 junecleeland.com
 127.0.0.1 junior.apk.net
@@ -47141,6 +47154,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 layers.ero-advertising.com
 127.0.0.1 layers.yontoo.com
 127.0.0.1 layout1.realtracker.com
+127.0.0.1 lazy.dementiadvocacy.net
 127.0.0.1 lb-adserver.ig.com.br
 127.0.0.1 lb.apicit.net
 127.0.0.1 lb.fruitflan.com
@@ -48147,6 +48161,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 luisa-hayden.us
 127.0.0.1 luisa-rester.us
 127.0.0.1 luksona.popunder.ru
+127.0.0.1 lumber.garagedoorexpertwitness.com
 127.0.0.1 lumdf.voluumtrk.com
 127.0.0.1 luminate.com
 127.0.0.1 lunafetch.about.com
@@ -52180,6 +52195,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 obi-com01.webtrekk.net
 127.0.0.1 obi-de01.webtrekk.net
 127.0.0.1 obi-ru01.webtrekk.net
+127.0.0.1 object.cure2025.com
 127.0.0.1 objects.abcvisiteurs.com
 127.0.0.1 objects.designbloxlive.com
 127.0.0.1 objects.tremormedia.com
@@ -53502,6 +53518,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pe.5.p2l.info
 127.0.0.1 peakclick.com
 127.0.0.1 peakcounter.dk
+127.0.0.1 pear.dementiaadvocacy.com
 127.0.0.1 pebble-adhese.gva.be
 127.0.0.1 pebble-adhese.hbvl.be
 127.0.0.1 pebble.bnex.com
@@ -55198,6 +55215,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 questnet.de
 127.0.0.1 questseek.com
 127.0.0.1 questsoftware.112.2o7.net
+127.0.0.1 queue.martapozniakowski.com
 127.0.0.1 qui.science
 127.0.0.1 quick-down-win.com
 127.0.0.1 quickbrowsersearch.com
@@ -55681,6 +55699,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 redsheriff.com
 127.0.0.1 redshiftleads.steele.net
 127.0.0.1 redtube.yoshatia.com
+127.0.0.1 reduce.cachetinvestments.net
 127.0.0.1 redux.valuead.com
 127.0.0.1 reduxads.valuead.com
 127.0.0.1 reduxmedia.com
@@ -57079,6 +57098,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 scanner.best-protect.info
 127.0.0.1 scanscout.com
 127.0.0.1 scanwith.us.intellitxt.com
+127.0.0.1 scarf.dementiaadvocate.info
 127.0.0.1 scarlett-esser.us
 127.0.0.1 scd.secureintl.com
 127.0.0.1 scdn.cxense.com
@@ -57833,6 +57853,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 serverwatch.de.intellitxt.com
 127.0.0.1 servesharp.net
 127.0.0.1 servethis.com
+127.0.0.1 service-accountid00331-information-update-account-service.blackreklam.com
 127.0.0.1 service-stat.tbn.ru
 127.0.0.1 service.adtech.de
 127.0.0.1 service.adtech.fr
@@ -57999,6 +58020,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 shari-baskerville.us
 127.0.0.1 shari-leggett.us
 127.0.0.1 shari-spinner.us
+127.0.0.1 sharp.tammarteam.com
 127.0.0.1 shauna-lefevre.us
 127.0.0.1 shawnewspapers.112.2o7.net
 127.0.0.1 shayla-haygood.us
@@ -58447,7 +58469,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 smarttracks2.smarttracks.net
 127.0.0.1 smarttrade.allyes.com
 127.0.0.1 smarttrk.com
-127.0.0.1 smarturl.it
 127.0.0.1 smc.silvercash.com
 127.0.0.1 smdmfnow.com
 127.0.0.1 smedizin.oewabox.at
@@ -59957,10 +59978,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 stf.terra.com.br
 127.0.0.1 stg.widget.crowdignite.com
 127.0.0.1 sticker.yadro.ru
+127.0.0.1 sticks.imgmodels.com.br
 127.0.0.1 stickyadstv.com
 127.0.0.1 stimme.ivwbox.de
 127.0.0.1 stimul-m.com.ua
 127.0.0.1 stir.semilo.com
+127.0.0.1 stir.tammarteam.com
 127.0.0.1 stiriprotv.2cnt.net
 127.0.0.1 stjohnsdryden.org
 127.0.0.1 stl.p.a1.traceworks.com
@@ -60037,6 +60060,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 studivz.ivwbox.de
 127.0.0.1 study11.com
 127.0.0.1 stuntoffer.com
+127.0.0.1 stupendous.transform-me.net
 127.0.0.1 stupidcelebrities.us.intellitxt.com
 127.0.0.1 stuttest.ivwbox.de
 127.0.0.1 stutzeit.ivwbox.de
@@ -61444,6 +61468,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 todayads.com
 127.0.0.1 todayshow.us.intellitxt.com
 127.0.0.1 toddscarwash.com
+127.0.0.1 toe.grabowomanor.com
 127.0.0.1 toggo.ivwbox.de
 127.0.0.1 toi-ssl.ivwbox.de
 127.0.0.1 toi.ivwbox.de
@@ -62633,6 +62658,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 troopersiccy.bravejournal.com
 127.0.0.1 tropiccritics.com
 127.0.0.1 tropo01.webtrekk.net
+127.0.0.1 trouble.cachetinvestments.com
 127.0.0.1 trovi.com
 127.0.0.1 trovus.co.uk
 127.0.0.1 troytempest.com
@@ -75309,6 +75335,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 youradexchange.com
 127.0.0.1 youradslab.com
 127.0.0.1 yourcartoons.com
+127.0.0.1 yourdate.constructionwitness.com
 127.0.0.1 yourdvdplayer.com
 127.0.0.1 yourfreegascard.com
 127.0.0.1 yourfreesoftonline.com
