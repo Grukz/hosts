@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75671 ad serving and malware domains.
+# Currently blocking 75697 ad serving and malware domains.
 #
-# Date Generated: Apr 12 2016
+# Date Generated: Apr 13 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -32825,6 +32825,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bwp.techrepublic.com.com
 127.0.0.1 bwp.theinsider.com.com
 127.0.0.1 bx.clickmedia.ro
+127.0.0.1 bx.firebrentkey.com
 127.0.0.1 bx6.blrf.net
 127.0.0.1 bxsql.clickmedia.ro
 127.0.0.1 bxtop.voluumtrk.com
@@ -32839,6 +32840,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bytes.darktech.org
 127.0.0.1 byubroadcast.112.2o7.net
 127.0.0.1 byxng.voluumtrk.com
+127.0.0.1 bz.ccimaffordablehousing.com
 127.0.0.1 bzpkv.voluumtrk.com
 127.0.0.1 bzresults.122.2o7.net
 127.0.0.1 c-71-63-136-200.hsd1.mn.comcast.net
@@ -33527,6 +33529,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 carolyn-deckard.us
 127.0.0.1 carpediem.sv2.biz
 127.0.0.1 carrier.bz
+127.0.0.1 cars.constructionwitness.net
 127.0.0.1 cars.ign.us.intellitxt.com
 127.0.0.1 carte.science
 127.0.0.1 cartonetwork.com
@@ -35581,6 +35584,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 com.cool-premiums-now.com
 127.0.0.1 com.djinnworks.sdm.s3.amazonaws.com
 127.0.0.1 com.econa.com
+127.0.0.1 com.frieghttiger.com
 127.0.0.1 com.htmlwww.youfck.com
 127.0.0.1 com.shc-rebates.com
 127.0.0.1 comadverts.bcmpweb.co.nz
@@ -37308,6 +37312,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cover.m2y.siemens.ch
 127.0.0.1 cover9.adultfriendfinder.com
 127.0.0.1 covusaffiliates.go2cloud.org
+127.0.0.1 cow.gutterheaters.org
 127.0.0.1 cowboy.contextuads.com
 127.0.0.1 cowcotland.fr.intellitxt.com
 127.0.0.1 coxds.com
@@ -37326,6 +37331,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cp1dk.voluumtrk.com
 127.0.0.1 cp35.v2.adsbookie.com
 127.0.0.1 cp53072.cloudhosting.lv
+127.0.0.1 cp53091.cloudhosting.lv
 127.0.0.1 cpa.ly
 127.0.0.1 cpaaltima.go2cloud.org
 127.0.0.1 cpabrasil.go2cloud.org
@@ -38372,6 +38378,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dc-storm.com
 127.0.0.1 dc.5.p2l.info
 127.0.0.1 dc.bizjournals.com
+127.0.0.1 dc.hudconnecthome.net
 127.0.0.1 dc.kaboodle.com
 127.0.0.1 dc.kontera.com
 127.0.0.1 dc.letv.com
@@ -40300,6 +40307,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 en.mywebzines.com
 127.0.0.1 en.oxosurf.eu
 127.0.0.1 en.ultrex.ru
+127.0.0.1 enchanting.gutterheatersnow.com
 127.0.0.1 encountertracker.ws
 127.0.0.1 encrypted.reporo.net
 127.0.0.1 encyclocentral.us.intellitxt.com
@@ -43002,6 +43010,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 get-information.com
 127.0.0.1 get-vids.com
 127.0.0.1 get.ddlmediaus1000.info
+127.0.0.1 get.fleettiger.in
 127.0.0.1 get.hitbox.com
 127.0.0.1 get.inetbar.com
 127.0.0.1 get.mb8e17f12.website
@@ -43119,6 +43128,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 giftscom.122.2o7.net
 127.0.0.1 gifttracker.com
 127.0.0.1 gifttree.track4.com
+127.0.0.1 gig.hudconnecthome.com
 127.0.0.1 gigwise.us.intellitxt.com
 127.0.0.1 gili-lankanfushi-com.b.appier.net
 127.0.0.1 gillian-boissonneault.us
@@ -43421,6 +43431,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 googletagmanager.com
 127.0.0.1 googletagservices.com
 127.0.0.1 googlus.com
+127.0.0.1 gool.frieghtiger.com
 127.0.0.1 gooool.com
 127.0.0.1 gopacket.goforandroid.com
 127.0.0.1 gopath2.xyz
@@ -44293,6 +44304,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 homeimprovementonus.com
 127.0.0.1 homelearningcenter.com
 127.0.0.1 homeloan.tr.cx
+127.0.0.1 homely.gutterheaters4u.com
 127.0.0.1 homepage.cc
 127.0.0.1 homepage.ru
 127.0.0.1 homepage.t-online.de
@@ -44993,6 +45005,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 iliillliO00OO0.321.cn
 127.0.0.1 iliky.com
 127.0.0.1 ilinks.industrybrains.com
+127.0.0.1 ill-informed.gutterhelment.net
 127.0.0.1 illinoisnets.net
 127.0.0.1 iloopmobile.com
 127.0.0.1 ilovecheating.com
@@ -47088,6 +47101,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ladbrokesaffiliates.com.au
 127.0.0.1 ladieshj.112.2o7.net
 127.0.0.1 lads.myspacecdn.com
+127.0.0.1 ladybug.gutterheatersus.com
 127.0.0.1 ladyclicks.ru
 127.0.0.1 lahmar.choukri.perso.neuf.fr
 127.0.0.1 lai.go2cloud.org
@@ -50327,6 +50341,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mountainbike.digidip.net
 127.0.0.1 mouseflow.com
 127.0.0.1 mov-ie.biz
+127.0.0.1 move.gutterdealer.com
 127.0.0.1 movie-list.us.intellitxt.com
 127.0.0.1 movie-watching-site.com
 127.0.0.1 movieads.ero-advertising.com
@@ -53336,6 +53351,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 partner.gewinnspiele.de
 127.0.0.1 partner.gonamic.de
 127.0.0.1 partner.googleadservices.com
+127.0.0.1 partner.gutterheaters.us
 127.0.0.1 partner.join.com.ua
 127.0.0.1 partner.leguide.com
 127.0.0.1 partner.loveplanet.ru
@@ -54361,6 +54377,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 powellsbooks.122.2o7.net
 127.0.0.1 power-affliate.blogspot.com
 127.0.0.1 power-cleaner.com
+127.0.0.1 power.bestconstructionexpertwitness.com
 127.0.0.1 poweradvertising.co.uk
 127.0.0.1 powercount.jswelt.de
 127.0.0.1 powered-by.180searchassistant.com
@@ -55375,6 +55392,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 r9pyq.voluumtrk.com
 127.0.0.1 ra.revolvermaps.com
 127.0.0.1 raahenseutu.jainos.fi
+127.0.0.1 rabbit.2015841112.com
 127.0.0.1 rachael-mcquay.us
 127.0.0.1 rachel-beer.us
 127.0.0.1 rachel-billips.us
@@ -55626,6 +55644,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rec.quartic.pl
 127.0.0.1 rec3.prosieben.de
 127.0.0.1 receive.inplay.scanscout.com
+127.0.0.1 recess.monanngon.info
 127.0.0.1 recipegoldmine.us.intellitxt.com
 127.0.0.1 recipeland.us.intellitxt.com
 127.0.0.1 reciperewards.aavalue.com
@@ -60201,6 +60220,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 support.skyhookwireless.com
 127.0.0.1 support.sweepstakes.com
 127.0.0.1 supportnet.de.intellitxt.com
+127.0.0.1 supreme.gutterheaters.net
 127.0.0.1 supremeadserver.com
 127.0.0.1 supremeadsonline.com
 127.0.0.1 suptullog.com
@@ -60259,6 +60279,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 suzi-champ.us
 127.0.0.1 suzi-huffine.us
 127.0.0.1 suzi-vogelsang.us
+127.0.0.1 sv.hudconnecthome.info
 127.0.0.1 sv1.eyeonmusica.it
 127.0.0.1 svast.moatads.com
 127.0.0.1 svastx.moatads.com
@@ -60591,6 +60612,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tabatha-mcallister.us
 127.0.0.1 tabex.sopharma.bg
 127.0.0.1 tablesrvr1.xyz
+127.0.0.1 tablet.gutterhelment.net
 127.0.0.1 tabligheirani.com
 127.0.0.1 taboola.com
 127.0.0.1 tacobell.d1.sc.omtrdc.net
@@ -61374,6 +61396,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tiffanie-machin.us
 127.0.0.1 tiffanie-pender.us
 127.0.0.1 tiffany-santee.us
+127.0.0.1 tig.irfex.com
 127.0.0.1 tigerloads.com
 127.0.0.1 tigershark.adultadworld.com
 127.0.0.1 tigertext.com
@@ -61709,6 +61732,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tournevis.ovh
 127.0.0.1 tours.imlive.com
 127.0.0.1 tower.adexpedia.com
+127.0.0.1 tower.ghhelmetheat.com
 127.0.0.1 towerrecords.track4.com
 127.0.0.1 toy-offer.com
 127.0.0.1 toy-offer.net
@@ -68116,6 +68140,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wad.adbasket.net
 127.0.0.1 wads.webteh.com
 127.0.0.1 wafmedia3.com
+127.0.0.1 waggish.building-helmet.com
 127.0.0.1 wahoha.com
 127.0.0.1 wahyufian.zoomshare.com
 127.0.0.1 waiads.com
@@ -68206,6 +68231,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 watchfree.flv.in
 127.0.0.1 watchfreeflix.aavalue.com
 127.0.0.1 water-bed.8p.org.uk
+127.0.0.1 water.fleettiger.com
 127.0.0.1 waterfrontmedia.112.2o7.net
 127.0.0.1 wateristian.com
 127.0.0.1 watershed.bm23.com
@@ -70282,7 +70308,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.cbpassiveincome.com
 127.0.0.1 www.cbproads.com
 127.0.0.1 www.cbsmarket.com
-127.0.0.1 www.cc-isobus.com
 127.0.0.1 www.ccbill.com
 127.0.0.1 www.ccbillcs.com
 127.0.0.1 www.ccbilleu.com
@@ -75685,3 +75710,4 @@ ff02::2 ip6-allrouters
 127.0.0.1 zz.cqcounter.com
 127.0.0.1 zz.zeroredirect1.com
 127.0.0.1 zzz.clickbank.net
+127.0.0.1 zzz.hudconnecthome.org
