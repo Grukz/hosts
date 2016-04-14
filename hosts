@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75697 ad serving and malware domains.
+# Currently blocking 75717 ad serving and malware domains.
 #
-# Date Generated: Apr 13 2016
+# Date Generated: Apr 14 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25781,6 +25781,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 alenty.2cnt.net
 127.0.0.1 alenty.com
 127.0.0.1 alert.comnotification.com
+127.0.0.1 alert.decentplace.org
 127.0.0.1 alert.mac-notification.com
 127.0.0.1 alert.police-patrol-agent.com
 127.0.0.1 alerts.zapping.tv
@@ -27481,6 +27482,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 audit2.median.hu
 127.0.0.1 audit3.median.hu
 127.0.0.1 auditonline.hu
+127.0.0.1 auditssmsf.com.au
 127.0.0.1 audra-parsons.us
 127.0.0.1 audra-talbott.us
 127.0.0.1 augsallg.ivwbox.de
@@ -29415,6 +29417,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bbwgames.com
 127.0.0.1 bbwscimanuk.pdsda.net
 127.0.0.1 bc.5.p2l.info
+127.0.0.1 bc.kmillinvestments.com
 127.0.0.1 bc.marfeel.com
 127.0.0.1 bc685d37-266c-488e-824e-dd95d1c0e98b.statcamp.net
 127.0.0.1 bc84-88b8-96b7-6515.reporo.net
@@ -29528,6 +29531,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 becounted.baja.com
 127.0.0.1 bee-ads.com
 127.0.0.1 beead.co.uk
+127.0.0.1 beer.trucktiger.in
 127.0.0.1 beertraffic.biz
 127.0.0.1 beespace.com.ua
 127.0.0.1 begun.ru
@@ -29893,6 +29897,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 blindferretmedia.go2cloud.org
 127.0.0.1 blingbucks.com
 127.0.0.1 blink.com
+127.0.0.1 blink.forexbrokersshop.info
 127.0.0.1 blisstree.us.intellitxt.com
 127.0.0.1 blitzadbg.hit.gemius.pl
 127.0.0.1 blitzbg.adocean.pl
@@ -29944,6 +29949,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 blogvertising.pl
 127.0.0.1 blogwerk.wemfbox.ch
 127.0.0.1 bloodguru.net
+127.0.0.1 bloody.marketingdehoy.info
 127.0.0.1 blowfish.hitbox.com
 127.0.0.1 blu.mobileads.msn.com
 127.0.0.1 blue.qsrch.net
@@ -31215,6 +31221,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 brandrewardcentral.com
 127.0.0.1 brandsurveypanel.com
 127.0.0.1 branovate.com
+127.0.0.1 brass.fashionises.com
 127.0.0.1 brataudit-offloader.2cnt.net
 127.0.0.1 bratro-a.2cnt.net
 127.0.0.1 bratro-s.2cnt.net
@@ -34429,6 +34436,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 championbft.com
 127.0.0.1 chanalytics.merchantadvantage.com
 127.0.0.1 changduk26.com
+127.0.0.1 change.contabilidadnegocio.info
 127.0.0.1 changement.science
 127.0.0.1 chango.com
 127.0.0.1 channel4.2cnt.net
@@ -35470,6 +35478,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 coaft.voluumtrk.com
 127.0.0.1 coaha.frenchgerlemanelectric.com
 127.0.0.1 coalimpex.com
+127.0.0.1 coat.industriasaldia.info
 127.0.0.1 coatidigital.com
 127.0.0.1 cobrands.mailermailer.com
 127.0.0.1 coconuts.boy.jp
@@ -37424,7 +37433,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 crain.d1.sc.omtrdc.net
 127.0.0.1 crakmedia.com
 127.0.0.1 craktraffic.com
-127.0.0.1 crashlytics.com
 127.0.0.1 crashtest.cjb.net
 127.0.0.1 craveandlamb.com
 127.0.0.1 crawl.ws
@@ -40665,6 +40673,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ev.yieldbuild.com
 127.0.0.1 eva-ryerson.us
 127.0.0.1 evacafe.net
+127.0.0.1 evanescent.fullstop-photo.com
 127.0.0.1 evania.adspirit.de
 127.0.0.1 evasive.expertwitnessautomaticdoor.net
 127.0.0.1 evbeacon.godaddy.com
@@ -45657,6 +45666,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 init.phpwind.net
 127.0.0.1 init.startappexchange.com
 127.0.0.1 initgroup.com
+127.0.0.1 ink.cartsanova.com
 127.0.0.1 ink.churchofthefreespirit.com
 127.0.0.1 inklineglobal.com
 127.0.0.1 inkshare.com
@@ -47739,6 +47749,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 localmantra.com
 127.0.0.1 localmediabuying.com
 127.0.0.1 localytics.com
+127.0.0.1 location.fashionises.com
 127.0.0.1 locations.webinm.de
 127.0.0.1 lock.adtu.me
 127.0.0.1 lockergnome.us.intellitxt.com
@@ -49847,6 +49858,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mgid.com
 127.0.0.1 mgjmp.com
 127.0.0.1 mgjournalnow.112.2o7.net
+127.0.0.1 mgmt.speraelectric.info
 127.0.0.1 mgoanow.112.2o7.net
 127.0.0.1 mgstarexponent.112.2o7.net
 127.0.0.1 mgtbo.112.2o7.net
@@ -50565,6 +50577,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 multioptik.com
 127.0.0.1 multiply.112.2o7.net
 127.0.0.1 multiply.crwdcntrl.net
+127.0.0.1 multiply.vegasdesignshop.com
 127.0.0.1 multipops.com
 127.0.0.1 munaluchibridal.munaluchibridema.netdna-cdn.com
 127.0.0.1 munchkin.marketo.net
@@ -54498,6 +54511,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 primetime.net
 127.0.0.1 primosearch.com
 127.0.0.1 pringotrack.com
+127.0.0.1 print.lasmejorestargetasonline.info
 127.0.0.1 printdirectoryentry.com
 127.0.0.1 printdirectoryinfo.com
 127.0.0.1 printdirectorylinks.com
@@ -55070,6 +55084,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 purethc.com
 127.0.0.1 purgecolon.net
 127.0.0.1 purgrobi.com
+127.0.0.1 purring.decentplace.org
 127.0.0.1 purryowl.com
 127.0.0.1 push.appsgeyser.com
 127.0.0.1 push.cdnads.com
@@ -58337,6 +58352,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 slashfilm.us.intellitxt.com
 127.0.0.1 slashphone.us.intellitxt.com
 127.0.0.1 slate-ad-scripts.s3.amazonaws.com
+127.0.0.1 slay.freighttiger.in
 127.0.0.1 slayinglance.com
 127.0.0.1 slbbbcom.112.2o7.net
 127.0.0.1 sleep-aids.1.p2l.info
@@ -61390,6 +61406,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tidbit.co.in
 127.0.0.1 tidbitscom.skimlinks.com
 127.0.0.1 tidd.ly
+127.0.0.1 tie.contabilidadactual.info
 127.0.0.1 tie.iprom.net
 127.0.0.1 tiffani-fraise.us
 127.0.0.1 tiffanie-doane.us
@@ -68135,6 +68152,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wa.proflowers.com
 127.0.0.1 wa.snsbank.nl
 127.0.0.1 wa.ui-portal.de
+127.0.0.1 wac.2ddcc.alphacdn.net
 127.0.0.1 wac.658e.edgecastcdn.net
 127.0.0.1 wac.a164.edgecastcdn.net
 127.0.0.1 wad.adbasket.net
@@ -75634,6 +75652,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 zkic.com
 127.0.0.1 zl.zeroredirect1.com
 127.0.0.1 zlothonline.info
+127.0.0.1 zm.kevincmillerccim.com
 127.0.0.1 zm.zeroredirect1.com
 127.0.0.1 zm1.zeroredirect5.com
 127.0.0.1 zmedia.com
@@ -75662,6 +75681,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 zone04.advertik.com
 127.0.0.1 zone28.hotwords.com.br
 127.0.0.1 zoom.go2cloud.org
+127.0.0.1 zoom.kevincmiller.com
 127.0.0.1 zoomdirect.com.au
 127.0.0.1 zoomovies.org
 127.0.0.1 zoosextv.com
