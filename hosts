@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75717 ad serving and malware domains.
+# Currently blocking 75735 ad serving and malware domains.
 #
-# Date Generated: Apr 14 2016
+# Date Generated: Apr 15 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25783,6 +25783,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 alert.comnotification.com
 127.0.0.1 alert.decentplace.org
 127.0.0.1 alert.mac-notification.com
+127.0.0.1 alert.nikospavlou.com
 127.0.0.1 alert.police-patrol-agent.com
 127.0.0.1 alerts.zapping.tv
 127.0.0.1 alertspy.com
@@ -31108,6 +31109,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 boost-my-pr.de
 127.0.0.1 boostads.net
 127.0.0.1 boostmobile.112.2o7.net
+127.0.0.1 boot.biobridge.in
 127.0.0.1 bootdaily.us.intellitxt.com
 127.0.0.1 bootstrap.livefyre.com
 127.0.0.1 bootstraps.timesink.com
@@ -32848,6 +32850,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 byubroadcast.112.2o7.net
 127.0.0.1 byxng.voluumtrk.com
 127.0.0.1 bz.ccimaffordablehousing.com
+127.0.0.1 bz.coastalnomadsup.com
 127.0.0.1 bzpkv.voluumtrk.com
 127.0.0.1 bzresults.122.2o7.net
 127.0.0.1 c-71-63-136-200.hsd1.mn.comcast.net
@@ -41276,6 +41279,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fflotte.oewabox.at
 127.0.0.1 fftf-ips.heroku.com
 127.0.0.1 ffxcam.fairfax.com.au
+127.0.0.1 fg.bibleandbullets.com
 127.0.0.1 fg.softguy.com
 127.0.0.1 fg5aa.voluumtrk.com
 127.0.0.1 fgawegwr.chez.com
@@ -41451,6 +41455,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fkyno.voluumtrk.com
 127.0.0.1 fl.5.p2l.info
 127.0.0.1 fl.milesplit.com
+127.0.0.1 fl.paddletheplanet.com
 127.0.0.1 fl01.ct2.comclick.com
 127.0.0.1 flaconi02.webtrekk.net
 127.0.0.1 flagclick.com
@@ -44875,6 +44880,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 icthl.voluumtrk.com
 127.0.0.1 icubes.go2cloud.org
 127.0.0.1 icvdm.vo.llnwd.net
+127.0.0.1 icy.solucionesprofesionalesasualcance.com
 127.0.0.1 icydk.us.intellitxt.com
 127.0.0.1 id-cdn.effectivemeasure.net
 127.0.0.1 id.5.p2l.info
@@ -45779,6 +45785,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 interactivepartners.go2cloud.org
 127.0.0.1 interchangecorporation.122.2o7.net
 127.0.0.1 interclick.com
+127.0.0.1 interfere.marionunezcampusano.com
 127.0.0.1 intergi.com
 127.0.0.1 interhyp02.webtrekk.net
 127.0.0.1 interia.adsearch.adkontekst.pl
@@ -45871,6 +45878,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 invites.infoaxe.com
 127.0.0.1 invites.infoaxe.net
 127.0.0.1 inze5.voluumtrk.com
+127.0.0.1 io.saltwaterdrifter.com
 127.0.0.1 ioads.ero-advertising.com
 127.0.0.1 iocdn.coremetrics.com
 127.0.0.1 ionamin.1.p2l.info
@@ -47620,6 +47628,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 literate.majormodel.org
 127.0.0.1 lithium.thiersheetmetal.com
 127.0.0.1 litiumo.com
+127.0.0.1 little.forexbrokerstoday.info
 127.0.0.1 littwronthath.net
 127.0.0.1 live-2.carpediem.fr
 127.0.0.1 live-cams-0.livejasmin.com
@@ -50596,6 +50605,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 musicmembersarea.com
 127.0.0.1 musicoffaith.aavalue.com
 127.0.0.1 mustangevolution.us.intellitxt.com
+127.0.0.1 muv.famousintactswitch.com
 127.0.0.1 muwmedia.com
 127.0.0.1 mv.bidsystem.com
 127.0.0.1 mv.treehousei.com
@@ -55296,6 +55306,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 qvciu.voluumtrk.com
 127.0.0.1 qwe.affairedhonneur.us
 127.0.0.1 qwebirc.swiftirc.net
+127.0.0.1 qwer.dodoboy.com
 127.0.0.1 qwest.bfast.com
 127.0.0.1 qwestfull.112.2o7.net
 127.0.0.1 qwiklnk.com
@@ -55350,6 +55361,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 r.pixel.trafficmp.com
 127.0.0.1 r.radikal.ru
 127.0.0.1 r.ranking.erotyka.zy.pl
+127.0.0.1 r.rawheadandbloodybones.com
 127.0.0.1 r.refinedads.com
 127.0.0.1 r.reklama.biz
 127.0.0.1 r.searchoodle.com
@@ -57128,6 +57140,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sc.thedailyshow.com
 127.0.0.1 sc.tradetracker.net
 127.0.0.1 sc.tynt.com
+127.0.0.1 sc.urban1communities.com
 127.0.0.1 sc.vmware.com
 127.0.0.1 sc.webservicehosts.com
 127.0.0.1 sc1.admob.com
@@ -58607,6 +58620,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 snitker.netminers.dk
 127.0.0.1 snonline.ivwbox.de
 127.0.0.1 snoobi.com
+127.0.0.1 snore.sabreasiapacific.com
 127.0.0.1 snowplow-collector.sugarops.com
 127.0.0.1 snwmedia.adk2x.com
 127.0.0.1 soa.adition.com
@@ -58633,6 +58647,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 socialspark.com
 127.0.0.1 sociomantic.com
 127.0.0.1 socitm.govmetric.com
+127.0.0.1 socks.robinsonroofs.ca
 127.0.0.1 soclock.com
 127.0.0.1 socpixel.bidsystem.com
 127.0.0.1 sofa.bankofamerica.com
@@ -60978,6 +60993,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tech.ivwbox.de
 127.0.0.1 tech.leadbolt.com
 127.0.0.1 tech.realmedia.co.kr
+127.0.0.1 tech.thetruthhaschanged.com
 127.0.0.1 tech.weeklytribune.net
 127.0.0.1 tech9638514.ru
 127.0.0.1 techakym.pw
@@ -69819,7 +69835,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.alyson-klein.us
 127.0.0.1 www.amazing-opportunities.info
 127.0.0.1 www.amazingcounters.com
-127.0.0.1 www.ambassadorpesaro.it
 127.0.0.1 www.amclicks.com
 127.0.0.1 www.amie-koepke.us
 127.0.0.1 www.amusive.com
@@ -75225,6 +75240,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 xpornstarsckc.ddns.name
 127.0.0.1 xpostmail.com
 127.0.0.1 xq1.net
+127.0.0.1 xr.flyboytees.com
 127.0.0.1 xr.h4ck.la
 127.0.0.1 xratedtracking.com
 127.0.0.1 xrea.com
@@ -75261,6 +75277,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 xyz.freeweblogger.com
 127.0.0.1 xz.duba.net
 127.0.0.1 xz6h6zj3.com
+127.0.0.1 xzz.goodoboy.com
 127.0.0.1 y.admob.com
 127.0.0.1 y.analytics.yahoo.com
 127.0.0.1 y.cdn.adblade.com
@@ -75708,6 +75725,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 zug.us.intellitxt.com
 127.0.0.1 zulu.go2cloud.org
 127.0.0.1 zulumob.go2cloud.org
+127.0.0.1 zum.mudmaggot.com
 127.0.0.1 zuzzer5.com
 127.0.0.1 zv.zeroredirect1.com
 127.0.0.1 zviframe.biz
