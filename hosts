@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75829 ad serving and malware domains.
+# Currently blocking 75831 ad serving and malware domains.
 #
-# Date Generated: Apr 18 2016
+# Date Generated: Apr 19 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -42368,6 +42368,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 freewrinklecream.com
 127.0.0.1 freexxxpages.net
 127.0.0.1 freexxxvideoclip.aebn.net
+127.0.0.1 freindzzz.biz
 127.0.0.1 freipres.ivwbox.de
 127.0.0.1 fresh.doublepimp.com
 127.0.0.1 fresh.techdirt.com
@@ -62819,6 +62820,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trkur1.com
 127.0.0.1 trkur5.com
 127.0.0.1 trkzen.com
+127.0.0.1 tro.lessons4ladies.com
 127.0.0.1 trollzeweb.com
 127.0.0.1 tronuprising.heliohost.org
 127.0.0.1 troopersiccy.bravejournal.com
@@ -67942,7 +67944,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 vt-1.nrelate.com
 127.0.0.1 vt.5.p2l.info
 127.0.0.1 vt.adition.com
-127.0.0.1 vtc360.com
 127.0.0.1 vte.nexteramedia.com
 127.0.0.1 vtncmn.com
 127.0.0.1 vtot.proxy.aol.com
@@ -74288,6 +74289,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.unicast.com
 127.0.0.1 www.uniqueinternettexasholdempoker.com
 127.0.0.1 www.unitedseo.com
+127.0.0.1 www.unitedwholesale.com
 127.0.0.1 www.universal-traffic.com
 127.0.0.1 www.universebundlegrab.com
 127.0.0.1 www.unlck.net
