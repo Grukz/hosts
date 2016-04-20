@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75831 ad serving and malware domains.
+# Currently blocking 75849 ad serving and malware domains.
 #
-# Date Generated: Apr 19 2016
+# Date Generated: Apr 20 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -486,6 +486,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 1326154.fls.doubleclick.net
 127.0.0.1 133.6.87.194.dynamic.dol.ru
 127.0.0.1 1330903.fls.doubleclick.net
+127.0.0.1 13343225565.com
 127.0.0.1 134.6.87.194.dynamic.dol.ru
 127.0.0.1 135.6.87.194.dynamic.dol.ru
 127.0.0.1 1359940.fls.doubleclick.net
@@ -1614,6 +1615,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 4spp2.voluumtrk.com
 127.0.0.1 4thegame.uk.intellitxt.com
 127.0.0.1 4traffic.net
+127.0.0.1 4turka.com
 127.0.0.1 4uxl.go2cloud.org
 127.0.0.1 4va3x.voluumtrk.com
 127.0.0.1 4w-wrestling.us.intellitxt.com
@@ -26337,6 +26339,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 analytics.userreport.com
 127.0.0.1 analytics.vast.com
 127.0.0.1 analytics.verizonenterprise.com
+127.0.0.1 analytics.vodafone.co.uk
 127.0.0.1 analytics.wildtangent.com
 127.0.0.1 analytics.wishabi.ca
 127.0.0.1 analytics.wittyfeed.com
@@ -38860,6 +38863,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dibmarketing.go2cloud.org
 127.0.0.1 dickssgmobile.btttag.com
 127.0.0.1 dicl9.voluumtrk.com
+127.0.0.1 dictator.carligeremorcare-auto.ro
 127.0.0.1 didacticro.count.brat-online.ro
 127.0.0.1 didit.com
 127.0.0.1 didrex.1.p2l.info
@@ -41065,6 +41069,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fad-413.mtl4.targetnet.com
 127.0.0.1 fade.beverlychicagohomes.com
 127.0.0.1 fadzulani.com
+127.0.0.1 faeecb0ock.info
 127.0.0.1 faeuz.voluumtrk.com
 127.0.0.1 faggotry.com
 127.0.0.1 fahrrad.bikesshop.de
@@ -41334,6 +41339,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fiacardservicesgroup.tt.omtrdc.net
 127.0.0.1 fiafii.org
 127.0.0.1 ficelle.ovh
+127.0.0.1 fiction.countryhardware.com.au
 127.0.0.1 fidelity.rotator.hadj7.adjuggler.net
 127.0.0.1 fiesta-game.com
 127.0.0.1 fif49.info
@@ -41476,6 +41482,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fixya.us.intellitxt.com
 127.0.0.1 fizzix.com
 127.0.0.1 fjhtp.voluumtrk.com
+127.0.0.1 fjj7pc.lqmlflb6.top
 127.0.0.1 fjlhf.voluumtrk.com
 127.0.0.1 fjm0v.voluumtrk.com
 127.0.0.1 fjz3c.voluumtrk.com
@@ -42368,7 +42375,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 freewrinklecream.com
 127.0.0.1 freexxxpages.net
 127.0.0.1 freexxxvideoclip.aebn.net
-127.0.0.1 freindzzz.biz
 127.0.0.1 freipres.ivwbox.de
 127.0.0.1 fresh.doublepimp.com
 127.0.0.1 fresh.techdirt.com
@@ -42594,6 +42600,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gajime.popunder.ru
 127.0.0.1 gajo.hit.gemius.pl
 127.0.0.1 gakz.hit.gemius.pl
+127.0.0.1 galataiplik.com.tr
 127.0.0.1 galaxien.com
 127.0.0.1 galb.hit.gemius.pl
 127.0.0.1 galeriaseroticas.xpg.com.br
@@ -44589,6 +44596,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 httpring.qq.com
 127.0.0.1 https.edge.ru4.com
 127.0.0.1 httpwwwadserver.com
+127.0.0.1 htuy1.rf1uq3.top
 127.0.0.1 hu.2.cqcounter.com
 127.0.0.1 hu.hit.gemius.pl
 127.0.0.1 hu.search.etargetnet.com
@@ -45559,6 +45567,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 impressionperformance.biz
 127.0.0.1 impressionz.co.uk
 127.0.0.1 impressoras-cartoes.com.pt
+127.0.0.1 improper.estudiopiwke.cl
 127.0.0.1 impru.tradedoubler.com
 127.0.0.1 imprusmp.admailtiser.com
 127.0.0.1 impse.tradedoubler.com
@@ -47390,6 +47399,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 levelrate.de
 127.0.0.1 lever.co
 127.0.0.1 leveragemarketing.112.2o7.net
+127.0.0.1 levexis.com
 127.0.0.1 levitra.1.p2l.info
 127.0.0.1 levitra.3.p2l.info
 127.0.0.1 levitra.4.p2l.info
@@ -50331,6 +50341,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mondrian.twyn.com
 127.0.0.1 monespec.ivwbox.de
 127.0.0.1 moneta.trove.com
+127.0.0.1 monetate.net
 127.0.0.1 monetisetrk.co.uk
 127.0.0.1 monetisetrk1.co.uk
 127.0.0.1 monetisetrk2.co.uk
@@ -55282,6 +55293,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 qimuj.voluumtrk.com
 127.0.0.1 qip.magna.ru
 127.0.0.1 qip.ru
+127.0.0.1 qisuqxizt.dyndns.biz
 127.0.0.1 qitr0.voluumtrk.com
 127.0.0.1 qitrck.com
 127.0.0.1 qixrb.voluumtrk.com
@@ -61389,6 +61401,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 thepounder.com
 127.0.0.1 therapistla.com
 127.0.0.1 theregister.uk.intellitxt.com
+127.0.0.1 thereissomegoodqq.com
 127.0.0.1 theresa-buchman.us
 127.0.0.1 theresa-ellett.us
 127.0.0.1 therese-jeon.us
@@ -61558,6 +61571,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tinytracker.onion.com
 127.0.0.1 tips.oewabox.at
 127.0.0.1 tipsurf.com
+127.0.0.1 tiqcdn.com
 127.0.0.1 tirebuyer.go2cloud.org
 127.0.0.1 tirerackcom.112.2o7.net
 127.0.0.1 tirolcom.oewabox.at
@@ -63416,6 +63430,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 udac.se
 127.0.0.1 udarem.com
 127.0.0.1 udc.msn.com
+127.0.0.1 udder.fotohd.cl
 127.0.0.1 udelivery.trademob.com
 127.0.0.1 udf.staging.adition.com
 127.0.0.1 udilova.justclick.ru
@@ -68408,6 +68423,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 web-stat.com
 127.0.0.1 web-t.9gag.com
 127.0.0.1 web-track.telekom-dienste.de
+127.0.0.1 web-tv-production.fr
 127.0.0.1 web.acumenpi.com
 127.0.0.1 web.adblade.com
 127.0.0.1 web.adknowledge.com
@@ -68799,6 +68815,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 whipcrack.org
 127.0.0.1 whisk.com
 127.0.0.1 whispa.com
+127.0.0.1 whistle.counterstrikedownload.net
 127.0.0.1 whistleout.s3.amazonaws.com
 127.0.0.1 white.sexer.com
 127.0.0.1 whitecastle.122.2o7.net
@@ -70823,6 +70840,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.da-ads.com
 127.0.0.1 www.dadegid.ru
 127.0.0.1 www.dadparty.com
+127.0.0.1 www.daidegasforum.com
 127.0.0.1 www.daily-saver.com
 127.0.0.1 www.daily-traffic.com
 127.0.0.1 www.dailybestoffers.com
