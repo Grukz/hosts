@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75728 ad serving and malware domains.
+# Currently blocking 75732 ad serving and malware domains.
 #
-# Date Generated: May 10 2016
+# Date Generated: May 11 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1577,6 +1577,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 4girlsfingerpaint.com
 127.0.0.1 4girlsfingerpaint.org
 127.0.0.1 4hdt7.voluumtrk.com
+127.0.0.1 4hotdeals.com.au
 127.0.0.1 4hplo.voluumtrk.com
 127.0.0.1 4info.com
 127.0.0.1 4k6k0zj3.com
@@ -27530,6 +27531,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 autosurfpro.com
 127.0.0.1 autotrader-www.baynote.net
 127.0.0.1 autotrader.tt.omtrdc.net
+127.0.0.1 autoupdate.update4ever.xyz
 127.0.0.1 autoweb.112.2o7.net
 127.0.0.1 autoworldnews.us.intellitxt.com
 127.0.0.1 auvito.ivwbox.de
@@ -43906,6 +43908,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 health-beauty-savingblvd.com
 127.0.0.1 health.msnbc.us.intellitxt.com
 127.0.0.1 healthbeautyncs.com
+127.0.0.1 healthcarewidgets.com
 127.0.0.1 healthclicks.co.uk
 127.0.0.1 healthgrades.112.2o7.net
 127.0.0.1 healthination.122.2o7.net
@@ -55633,6 +55636,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 realclick.co.kr
 127.0.0.1 realclix.com
 127.0.0.1 realcounter.eu
+127.0.0.1 realdirectsale.com
 127.0.0.1 realestate.searchwho.com
 127.0.0.1 realgfsbucks.com
 127.0.0.1 realist.gen.tr
