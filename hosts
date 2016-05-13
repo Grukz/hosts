@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75791 ad serving and malware domains.
+# Currently blocking 75795 ad serving and malware domains.
 #
-# Date Generated: May 12 2016
+# Date Generated: May 13 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -49955,6 +49955,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 micraamber.net
 127.0.0.1 micro.marketo.com
 127.0.0.1 microad.net
+127.0.0.1 microencapsulation.readmyweather.com
 127.0.0.1 microreporting.metro.se
 127.0.0.1 microreporting.metrofrance.com
 127.0.0.1 microreporting.metronews.ru
@@ -60802,6 +60803,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 taniezakupy.pl
 127.0.0.1 taninabandb.com
 127.0.0.1 tank.wolfandrocks.com
+127.0.0.1 tannpastnevicher.themakershop.co.uk
 127.0.0.1 tanthanhdanh.vn
 127.0.0.1 tantrack.info
 127.0.0.1 tanzanite.infomine.com
@@ -69991,6 +69993,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.aurora-musso.us
 127.0.0.1 www.aurora-wilhelm.us
 127.0.0.1 www.auto-ping.com
+127.0.0.1 www.autoappassionati.it
 127.0.0.1 www.autohipnose.com
 127.0.0.1 www.automaticsystem.com
 127.0.0.1 www.automotive-offer.com
@@ -71985,6 +71988,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.jmplink.com
 127.0.0.1 www.joan-moronta.us
 127.0.0.1 www.joanna-ruckman.us
+127.0.0.1 www.jobbainorge.nu
 127.0.0.1 www.jobdeliver.tk
 127.0.0.1 www.joinfree.ro
 127.0.0.1 www.joinourwebsite.com
