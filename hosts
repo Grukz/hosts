@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75239 ad serving and malware domains.
+# Currently blocking 75244 ad serving and malware domains.
 #
-# Date Generated: Jul 05 2016
+# Date Generated: Jul 06 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -31233,6 +31233,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 brunga.at
 127.0.0.1 brusmedia.go2cloud.org
 127.0.0.1 brxserv-21.btrll.com
+127.0.0.1 bryckerhire.com.au
 127.0.0.1 bs-meta.yandex.ru
 127.0.0.1 bs.gsanet.com
 127.0.0.1 bs.israelinfo.ru
@@ -35810,6 +35811,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 coolertracks.emailroi.com
 127.0.0.1 coolgirl.biz
 127.0.0.1 coolinc.info
+127.0.0.1 coolonez.com
 127.0.0.1 coolpaysite.com
 127.0.0.1 coolpremiumsnow.com
 127.0.0.1 coolsavings.com
@@ -48674,6 +48676,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 material.mediav.com
 127.0.0.1 mathenea.com
 127.0.0.1 mathtag.com
+127.0.0.1 matinono.ru
 127.0.0.1 matomy.adk2.co
 127.0.0.1 matomy.com
 127.0.0.1 matomybranches.com
@@ -49244,6 +49247,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 metaffiliation.com
 127.0.0.1 metagaua.hit.gemius.pl
 127.0.0.1 metal.ovh
+127.0.0.1 metalexvietnamreed.tk
 127.0.0.1 metanetwork.com
 127.0.0.1 metartmoney.met-art.com
 127.0.0.1 meter-svc.nytimes.com
@@ -71528,6 +71532,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.karla-law.us
 127.0.0.1 www.karoline-fortin.us
 127.0.0.1 www.karrie-bennet.us
+127.0.0.1 www.kasaraomoveis.com.br
 127.0.0.1 www.kassandra-chick.us
 127.0.0.1 www.kassandra-ronan.us
 127.0.0.1 www.kassie-llanes.us
