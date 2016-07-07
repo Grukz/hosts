@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75244 ad serving and malware domains.
+# Currently blocking 75245 ad serving and malware domains.
 #
-# Date Generated: Jul 06 2016
+# Date Generated: Jul 07 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -57328,6 +57328,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 seoproofits.justclick.ru
 127.0.0.1 seotoolscentral.com
 127.0.0.1 separtnership.com
+127.0.0.1 seqwcs.com.au
 127.0.0.1 serenescreen-marine-aquarium.en.softonic.com
 127.0.0.1 sergarius.popunder.ru
 127.0.0.1 serials.ws
