@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75245 ad serving and malware domains.
+# Currently blocking 75246 ad serving and malware domains.
 #
-# Date Generated: Jul 07 2016
+# Date Generated: Jul 08 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -34364,6 +34364,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 charging-technology.com
 127.0.0.1 charlizetheron.1stOK.com
 127.0.0.1 charmedno1.com
+127.0.0.1 charmsindustires.com
 127.0.0.1 chart.advinion.com
 127.0.0.1 chart.dk
 127.0.0.1 chart.superstats.com
@@ -35811,7 +35812,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 coolertracks.emailroi.com
 127.0.0.1 coolgirl.biz
 127.0.0.1 coolinc.info
-127.0.0.1 coolonez.com
 127.0.0.1 coolpaysite.com
 127.0.0.1 coolpremiumsnow.com
 127.0.0.1 coolsavings.com
@@ -46635,6 +46635,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kinostok.tv
 127.0.0.1 kinotraff.ru
 127.0.0.1 kinowelt.oewabox.at
+127.0.0.1 kintapa.com
 127.0.0.1 kintris.adspirit.net.52322.9351.302br.net
 127.0.0.1 kintris.adspirit.net.52325.9351.302br.net
 127.0.0.1 kintris.adspirit.net.52328.9351.302br.net
@@ -48676,7 +48677,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 material.mediav.com
 127.0.0.1 mathenea.com
 127.0.0.1 mathtag.com
-127.0.0.1 matinono.ru
 127.0.0.1 matomy.adk2.co
 127.0.0.1 matomy.com
 127.0.0.1 matomybranches.com
@@ -59878,6 +59878,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 surveypass.com
 127.0.0.1 surveys.cnet.com
 127.0.0.1 surveysavvy.com
+127.0.0.1 suryapolix.club
 127.0.0.1 sus.nieuwmoer.info
 127.0.0.1 susana-liedtke.us
 127.0.0.1 susanna-chee.us
