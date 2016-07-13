@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75258 ad serving and malware domains.
+# Currently blocking 75259 ad serving and malware domains.
 #
-# Date Generated: Jul 12 2016
+# Date Generated: Jul 13 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -74154,6 +74154,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ysearchus.com
 127.0.0.1 www.ytdownloader.com
 127.0.0.1 www.ytubevideoqualitymanager.com
+127.0.0.1 www.ywvcomputerprocess.info
 127.0.0.1 www.z5x.net
 127.0.0.1 www.za-ads.de
 127.0.0.1 www.zamontazz.info
