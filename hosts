@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75259 ad serving and malware domains.
+# Currently blocking 75266 ad serving and malware domains.
 #
-# Date Generated: Jul 13 2016
+# Date Generated: Jul 14 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -3034,6 +3034,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aboutstat.com
 127.0.0.1 aboutwebservices.com
 127.0.0.1 above-gw.liveadvert.com
+127.0.0.1 above.e-rezerwacje24.pl
 127.0.0.1 abovetrack.com
 127.0.0.1 abovetracking.com
 127.0.0.1 abp.smartadcheck.de
@@ -25756,6 +25757,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 alexanderinteriorsanddesign.com
 127.0.0.1 alexandra-magruder.us
 127.0.0.1 alexandria90.etcserver.com
+127.0.0.1 alexiscorp.com
 127.0.0.1 alfaromeu.com
 127.0.0.1 alfatraffic.com
 127.0.0.1 alfy.com
@@ -33067,7 +33069,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 c28.statcounter.com
 127.0.0.1 c29.smaato.net
 127.0.0.1 c29.statcounter.com
-127.0.0.1 c29new.smaato.net
 127.0.0.1 c2c738.r.axf8.net
 127.0.0.1 c2mtrack01.track.c2m00b.net
 127.0.0.1 c2path.com
@@ -37450,6 +37451,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 crmbuyer.us.intellitxt.com
 127.0.0.1 crochet.ovh
 127.0.0.1 croix.science
+127.0.0.1 crops.dunight.eu
 127.0.0.1 crosspixel.demdex.net
 127.0.0.1 crosspromotion.ubi.com
 127.0.0.1 crowdcontrol.lotame.com
@@ -38992,7 +38994,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dntx.com
 127.0.0.1 dnusax.com
 127.0.0.1 dnxek.voluumtrk.com
-127.0.0.1 do-not-tracker.org
 127.0.0.1 do-wn-lo-ad.com
 127.0.0.1 do.you.uh.yahoo.at.bnex.com
 127.0.0.1 docfind.oewabox.at
@@ -40184,6 +40185,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 engage2.advanstar.com
 127.0.0.1 engagebdr.com
 127.0.0.1 engager.tmg.nl
+127.0.0.1 enginbilgidenizi.com
 127.0.0.1 engine.4chan-ads.org
 127.0.0.1 engine.4dsply.com
 127.0.0.1 engine.a.redditmedia.com
@@ -40393,6 +40395,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ers.ero-advertising.com
 127.0.0.1 ertya.com
 127.0.0.1 eruno.voluumtrk.com
+127.0.0.1 erupt.fernetmoretti.com.ar
 127.0.0.1 eryield.jmp9.com
 127.0.0.1 es.adserver.yahoo.com
 127.0.0.1 es.cj.com
@@ -40577,7 +40580,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 eviboli576.o-f.com
 127.0.0.1 evidencecleanergold.com
 127.0.0.1 evilbeetgossip.us.intellitxt.com
-127.0.0.1 eviltracker.net
 127.0.0.1 evisit.exeter.ac.uk
 127.0.0.1 evisitcs2.com
 127.0.0.1 evita.ivwbox.de
@@ -42638,7 +42640,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gem.pl
 127.0.0.1 gemadhu.hit.gemius.pl
 127.0.0.1 gemgx.voluumtrk.com
-127.0.0.1 gemini.yahoo.com
 127.0.0.1 gemius.pl
 127.0.0.1 gen-hydrocodone.polybuild.ru
 127.0.0.1 gen2server.com
@@ -43739,6 +43740,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hdmoviesinc.com
 127.0.0.1 hdplugindownload.com
 127.0.0.1 hdporium.com
+127.0.0.1 headless.ebkfwd.com
 127.0.0.1 heals.msgfocus.com
 127.0.0.1 health-beauty-rewardpath.com
 127.0.0.1 health-beauty-savingblvd.com
@@ -43868,6 +43870,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 highbeam.122.2o7.net
 127.0.0.1 highcpms.com
 127.0.0.1 highdefforum.us.intellitxt.com
+127.0.0.1 higher.dwebsi.tk
 127.0.0.1 highflyingfood.com
 127.0.0.1 highpro1.com
 127.0.0.1 highscanprotect.com
@@ -45651,6 +45654,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 intuitinc.122.2o7.net
 127.0.0.1 inuvi.com
 127.0.0.1 inv-nets.admixer.net
+127.0.0.1 invention.festinolente.cl
 127.0.0.1 inventory.de.overture.com
 127.0.0.1 inventory.overture.com
 127.0.0.1 investingchannel.us.intellitxt.com
@@ -49913,7 +49917,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mobile-ads.wifog.com
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile-ent.biz
-127.0.0.1 mobile.Banzai.it
 127.0.0.1 mobile.activeshopper.com
 127.0.0.1 mobile.ad-tracker.ch
 127.0.0.1 mobile.adfarm1.adition.com
@@ -54785,6 +54788,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pure-ads.com
 127.0.0.1 pure.hitbox.com
 127.0.0.1 pureadexchange.com
+127.0.0.1 pureescents.com.au
 127.0.0.1 purefuck.com
 127.0.0.1 pureleads.com
 127.0.0.1 pureresults.go2cloud.org
@@ -55298,6 +55302,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 re.rutan.org
 127.0.0.1 re.try9.com
 127.0.0.1 reachjunction.com
+127.0.0.1 reactlonretail.com
 127.0.0.1 reactx.com
 127.0.0.1 readersdigest.tt.omtrdc.net
 127.0.0.1 readheadstick.biz
@@ -59693,6 +59698,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 storedsearch.com
 127.0.0.1 storewidget.pcauthority.com.au
 127.0.0.1 storgas.co.rs
+127.0.0.1 stork.escortfinder.cl
 127.0.0.1 storknet.us.intellitxt.com
 127.0.0.1 storm.applifier.com
 127.0.0.1 stormpages.com
@@ -61756,7 +61762,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 trackermodules.com
 127.0.0.1 trackers.1st-affiliation.fr
 127.0.0.1 trackers.adtarget.me
-127.0.0.1 trackersimulator.org
 127.0.0.1 trackerstatistik.init-ag.de
 127.0.0.1 trackertracker.com
 127.0.0.1 trackflv.net
@@ -62243,6 +62248,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tribuneinteractive.com
 127.0.0.1 trickys.com
 127.0.0.1 trieronl.ivwbox.de
+127.0.0.1 trifle.ernstenco.be
 127.0.0.1 triggeredmail.appspot.com
 127.0.0.1 triggers.wfxtriggers.com
 127.0.0.1 triggertag.gorillanation.com
@@ -67340,6 +67346,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vom.sitescout.com
 127.0.0.1 vomba.com
 127.0.0.1 vombashots.com
+127.0.0.1 vomit.facilitandosonhos.com.br
 127.0.0.1 vomitgirl.org
 127.0.0.1 voodoofiles.us.intellitxt.com
 127.0.0.1 voodooparking.com
