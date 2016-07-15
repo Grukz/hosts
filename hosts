@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75266 ad serving and malware domains.
+# Currently blocking 75269 ad serving and malware domains.
 #
-# Date Generated: Jul 14 2016
+# Date Generated: Jul 15 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -35847,6 +35847,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 core2.adtlgc.com
 127.0.0.1 coreads.net
 127.0.0.1 coreclickhoo.com
+127.0.0.1 corefwdgroup.tk
 127.0.0.1 coreg-feed.fr
 127.0.0.1 coreg.flashtrack.net
 127.0.0.1 coreglead.co.uk
@@ -50664,7 +50665,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nadegda-95.ru
 127.0.0.1 naftemporiki.nuggad.net
 127.0.0.1 nagios.adition.com
-127.0.0.1 naiadsystems.com
+127.0.0.1 naiadsystems.com.invalid
 127.0.0.1 naijabids.co.uk
 127.0.0.1 nailbytes1.com
 127.0.0.1 naj.sk
@@ -60473,6 +60474,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tc.zionsbank.com
 127.0.0.1 tcadops.ca
 127.0.0.1 tcads.net
+127.0.0.1 tcatmos.net
 127.0.0.1 tcgtrkr.com
 127.0.0.1 tchibo02.webtrekk.net
 127.0.0.1 tchibo03.webtrekk.net
@@ -62971,6 +62973,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 uk.static.planet49.com
 127.0.0.1 uk1.siteimprove.com
 127.0.0.1 uk4.hit.stat24.com
+127.0.0.1 ukabenerji.com
 127.0.0.1 ukaffiliates2.com
 127.0.0.1 ukbanners.com
 127.0.0.1 ukonline.hc0.me
