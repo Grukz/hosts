@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75269 ad serving and malware domains.
+# Currently blocking 75281 ad serving and malware domains.
 #
-# Date Generated: Jul 15 2016
+# Date Generated: Jul 16 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -3058,6 +3058,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 absolutelyfreemovies.com
 127.0.0.1 absolutelyric.com
 127.0.0.1 absolutethumbs.net
+127.0.0.1 absurdity.flarelight.com
 127.0.0.1 abtracker.adultbouncer.com
 127.0.0.1 abuebu.com
 127.0.0.1 abum.axelsfun.com
@@ -18657,6 +18658,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adcade.com
 127.0.0.1 adcamp.ru
 127.0.0.1 adcanadian.com
+127.0.0.1 adcarem.co
 127.0.0.1 adcash.com
 127.0.0.1 adcast.deviantart.com
 127.0.0.1 adcastplus.net
@@ -25035,6 +25037,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 advplace.nuggad.net
 127.0.0.1 advrts.s3.amazonaws.com
 127.0.0.1 advs.adgorithms.com
+127.0.0.1 advserver.xyz
 127.0.0.1 advspot.com
 127.0.0.1 advstat.xunlei.com
 127.0.0.1 advt.webindia123.com
@@ -47171,6 +47174,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 like.likewut.net
 127.0.0.1 likebtn.com
 127.0.0.1 likeportal.com
+127.0.0.1 likes.gisnetwork.net
 127.0.0.1 likespike.com
 127.0.0.1 likethis.mbosoft.com
 127.0.0.1 likethislist.biz
@@ -51104,6 +51108,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ninemsn.imrworldwide.com
 127.0.0.1 ninja.onap.io
 127.0.0.1 ninjadude.us.intellitxt.com
+127.0.0.1 ninjastgeorge.com
 127.0.0.1 nip.net
 127.0.0.1 niteflirt.directtrack.com
 127.0.0.1 nitroclicks.com
@@ -52954,7 +52959,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 pa.5.p2l.info
 127.0.0.1 pa.advertising.veeseo.com
 127.0.0.1 pa.yahoo.com
+127.0.0.1 pacan.gofreedom.info
 127.0.0.1 pacific-poker.e-online-poker-4u.net
+127.0.0.1 pacman.gkgar.com
 127.0.0.1 pads.adition.com
 127.0.0.1 pads.se
 127.0.0.1 pads1.go2cloud.org
@@ -53358,6 +53365,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 persianstat.com
 127.0.0.1 perso.estat.com
 127.0.0.1 perso0.free.fr
+127.0.0.1 personal.editura-amsibiu.ro
 127.0.0.1 personalantispy.com
 127.0.0.1 personalcapital.go2cloud.org
 127.0.0.1 personalcare-offer.com
@@ -60696,6 +60704,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tenzero.com
 127.0.0.1 tenzing.fmpub.net
 127.0.0.1 teprom.it
+127.0.0.1 terem.eltransbt.ro
 127.0.0.1 teresa-noriega.us
 127.0.0.1 teresa-taveras.us
 127.0.0.1 terms.reporo.net
@@ -68962,6 +68971,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.adbutler.de
 127.0.0.1 www.adbuyer.com
 127.0.0.1 www.adcanadian.com
+127.0.0.1 www.adcarem.co
 127.0.0.1 www.adcarousel.pl
 127.0.0.1 www.adcash.com
 127.0.0.1 www.adcdnx.com
@@ -69281,6 +69291,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.advolution.de
 127.0.0.1 www.advombat.ru
 127.0.0.1 www.advpoints.com
+127.0.0.1 www.advserver.xyz
 127.0.0.1 www.adware-download.com
 127.0.0.1 www.adwarebot.com
 127.0.0.1 www.adwareprofessional.com
@@ -70295,6 +70306,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.dancingsnakegames.com
 127.0.0.1 www.danelle-free.us
 127.0.0.1 www.daniela-silva.us
+127.0.0.1 www.danielevarriale.it
 127.0.0.1 www.danielle-felten.us
 127.0.0.1 www.danworld.net
 127.0.0.1 www.daoblocks.com
