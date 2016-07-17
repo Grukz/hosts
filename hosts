@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75281 ad serving and malware domains.
+# Currently blocking 75282 ad serving and malware domains.
 #
-# Date Generated: Jul 16 2016
+# Date Generated: Jul 17 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25876,6 +25876,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 alltraff.ru
 127.0.0.1 alltraff.spb.ru
 127.0.0.1 allumer.science
+127.0.0.1 allureqemsllc.com
 127.0.0.1 allwomenstalk.us.intellitxt.com
 127.0.0.1 allwords.com
 127.0.0.1 allwrappedupgifts.com
@@ -31154,6 +31155,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 brattest2.2cnt.net
 127.0.0.1 brattest3.2cnt.net
 127.0.0.1 brattest4.2cnt.net
+127.0.0.1 brausincsystem.pro
 127.0.0.1 bravenet.com
 127.0.0.1 bravenet.com.invalid
 127.0.0.1 bravetools.net
@@ -55311,7 +55313,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 re.rutan.org
 127.0.0.1 re.try9.com
 127.0.0.1 reachjunction.com
-127.0.0.1 reactlonretail.com
 127.0.0.1 reactx.com
 127.0.0.1 readersdigest.tt.omtrdc.net
 127.0.0.1 readheadstick.biz
