@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75282 ad serving and malware domains.
+# Currently blocking 75286 ad serving and malware domains.
 #
-# Date Generated: Jul 17 2016
+# Date Generated: Jul 18 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -41341,6 +41341,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 flexbanner.com
 127.0.0.1 flexbeta.us.intellitxt.com
 127.0.0.1 flexeril.1.p2l.info
+127.0.0.1 flexoffers.com
 127.0.0.1 flextra.1.p2l.info
 127.0.0.1 flickr.ivwbox.de
 127.0.0.1 fliegen-sparen.de.intellitxt.com
@@ -53153,6 +53154,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 partnerprogramm.e-wie-einfach.de
 127.0.0.1 partnerprogramma.bol.com
 127.0.0.1 partners.10bet.com
+127.0.0.1 partners.adklick.de
 127.0.0.1 partners.adultadworld.com
 127.0.0.1 partners.affili24.com
 127.0.0.1 partners.badongo.com
@@ -61528,6 +61530,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 track.enlinettrk.com
 127.0.0.1 track.exclusivecpa.com
 127.0.0.1 track.eyeviewads.com
+127.0.0.1 track.flexlinks.com
 127.0.0.1 track.fling.com
 127.0.0.1 track.floppybank.com
 127.0.0.1 track.ft.com
@@ -70767,6 +70770,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.flashvortex.com
 127.0.0.1 www.fleshlight.com
 127.0.0.1 www.fleshlightreviews.net
+127.0.0.1 www.flexoffers.com
 127.0.0.1 www.flixfacts.co.uk
 127.0.0.1 www.florin-skincare.com
 127.0.0.1 www.flowers-offer.com
