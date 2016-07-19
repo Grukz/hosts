@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75286 ad serving and malware domains.
+# Currently blocking 75291 ad serving and malware domains.
 #
-# Date Generated: Jul 18 2016
+# Date Generated: Jul 19 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25638,6 +25638,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aircanad.com
 127.0.0.1 aircanadaca.com
 127.0.0.1 aircananda.com
+127.0.0.1 aircraft.evote.cl
 127.0.0.1 airfare4free.com
 127.0.0.1 airjamacia.com
 127.0.0.1 airlanes.com
@@ -25876,7 +25877,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 alltraff.ru
 127.0.0.1 alltraff.spb.ru
 127.0.0.1 allumer.science
-127.0.0.1 allureqemsllc.com
 127.0.0.1 allwomenstalk.us.intellitxt.com
 127.0.0.1 allwords.com
 127.0.0.1 allwrappedupgifts.com
@@ -29767,6 +29767,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bitcast-a.v1.iad1.bitgravity.com
 127.0.0.1 bitcast-d.bitgravity.com
 127.0.0.1 bitcoinadvertisers.com
+127.0.0.1 bitcointalks.info
 127.0.0.1 bitmedianetwork.com
 127.0.0.1 bitsinfoware.net
 127.0.0.1 bitsonthewire.com
@@ -43813,7 +43814,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 henex.net.ua
 127.0.0.1 hentaicounter.com
 127.0.0.1 herbalaffiliateprogram.com
-127.0.0.1 herbiguide.com.au
 127.0.0.1 herezera.com
 127.0.0.1 herfirstdv.biz
 127.0.0.1 hermes.airad.com
@@ -44173,7 +44173,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 hooqy.com
 127.0.0.1 hoovers.us.intellitxt.com
 127.0.0.1 hop.clickbank.net
-127.0.0.1 hope-found-now.net
 127.0.0.1 hope-weidner.us
 127.0.0.1 hoptopboy.com
 127.0.0.1 hopurl.org
@@ -54307,6 +54306,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 products-gold.net
 127.0.0.1 products.hqdrugs.com
 127.0.0.1 producttestpanel.com
+127.0.0.1 produla.czatgg.pl
 127.0.0.1 proext.com
 127.0.0.1 prof.beta.estat.com
 127.0.0.1 prof.estat.com
@@ -55468,7 +55468,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 redvertisment.com
 127.0.0.1 redzun.go2cloud.org
 127.0.0.1 reed-cw.grapeshot.co.uk
-127.0.0.1 reedbusiness.com
+127.0.0.1 reedbusiness.com.invalid
 127.0.0.1 reefaquarium.biz
 127.0.0.1 reelmovienews.us.intellitxt.com
 127.0.0.1 refer.ccbill.com
@@ -58360,6 +58360,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sonyglobal.112.2o7.net
 127.0.0.1 sonyscei.112.2o7.net
 127.0.0.1 soongu.info
+127.0.0.1 soros.departamentosejecutivos.cl
 127.0.0.1 sos-medecins-stmalo.fr
 127.0.0.1 sosharpcorporation.go2cloud.org
 127.0.0.1 soski.popunder.ru
@@ -58399,6 +58400,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sparkimg.com
 127.0.0.1 sparknetworks.112.2o7.net
 127.0.0.1 sparkstudios.com
+127.0.0.1 sparrow-cap-manufacturer.com
 127.0.0.1 spartanr.5gbfree.com
 127.0.0.1 spatsz.com
 127.0.0.1 spawnet.com
@@ -59682,6 +59684,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stl.p.a3.traceworks.com
 127.0.0.1 stl.p.a4.traceworks.com
 127.0.0.1 stl.p.a5.traceworks.com
+127.0.0.1 stock.daydreamfuze.com
 127.0.0.1 stocker.bonnint.net
 127.0.0.1 stockgroup.us.intellitxt.com
 127.0.0.1 stockinter.intersport.es
@@ -63472,6 +63475,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vdn.valuead.com
 127.0.0.1 vdopia.com
 127.0.0.1 vdrn.redplum.com
+127.0.0.1 vdula.czystykod.pl
 127.0.0.1 ve.tscapeplay.com
 127.0.0.1 vectormarketing.com
 127.0.0.1 veely.com
@@ -71845,6 +71849,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.lpmxp2025.com
 127.0.0.1 www.lpmxp2026.com
 127.0.0.1 www.lpmxp2027.com
+127.0.0.1 www.luce.polimi.it
 127.0.0.1 www.lucky-day-uk.com
 127.0.0.1 www.lugiy.ru
 127.0.0.1 www.luisa-hayden.us
