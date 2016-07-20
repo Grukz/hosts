@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75291 ad serving and malware domains.
+# Currently blocking 75298 ad serving and malware domains.
 #
-# Date Generated: Jul 19 2016
+# Date Generated: Jul 20 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26929,6 +26929,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 applets.sulekha.com
 127.0.0.1 application.bfast.com
 127.0.0.1 applicationgrabb.net
+127.0.0.1 applicationpremium70.club
 127.0.0.1 applications.bfast.com
 127.0.0.1 applicationstat.com
 127.0.0.1 appliedlanguage.com
@@ -29687,6 +29688,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bigbrandrewards.com
 127.0.0.1 bigclicks.com
 127.0.0.1 bigfatbaby.com
+127.0.0.1 bigfreelotto.com
 127.0.0.1 biggestgiftrewards.com
 127.0.0.1 bighits.net
 127.0.0.1 bighop.com
@@ -33847,6 +33849,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.flurry.com
 127.0.0.1 cdn.freefacti.com
 127.0.0.1 cdn.freefaits.com
+127.0.0.1 cdn.freefarcy.com
 127.0.0.1 cdn.frestacero.com
 127.0.0.1 cdn.ftdownloader.net
 127.0.0.1 cdn.funnel.naturaltracking.com
@@ -59909,6 +59912,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 surveypass.com
 127.0.0.1 surveys.cnet.com
 127.0.0.1 surveysavvy.com
+127.0.0.1 survymonkey.xyz
 127.0.0.1 suryapolix.club
 127.0.0.1 sus.nieuwmoer.info
 127.0.0.1 susana-liedtke.us
@@ -60828,6 +60832,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 thaliaat02.webtrekk.net
 127.0.0.1 thaliach02.webtrekk.net
 127.0.0.1 thaliade02.webtrekk.net
+127.0.0.1 thanfocus.com
 127.0.0.1 thanksforinstalling.com
 127.0.0.1 thathappened.us.intellitxt.com
 127.0.0.1 thatsjustgay.com
@@ -60981,6 +60986,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 this.content.served.by.adshuffle.com.12417.9035.302br.net
 127.0.0.1 thisbanner.com
 127.0.0.1 thisteddagblad.dk
+127.0.0.1 thoitrangaodacaocap.com
 127.0.0.1 thomasvillefurniture.122.2o7.net
 127.0.0.1 thome.112.2o7.net
 127.0.0.1 thor-cpa.com
@@ -73353,6 +73359,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.streamen.com
 127.0.0.1 www.stressx.org
 127.0.0.1 www.striemline.de
+127.0.0.1 www.stroiclimat.ru
 127.0.0.1 www.studiochiarelli.eu
 127.0.0.1 www.su600.com
 127.0.0.1 www.sublimemedia.net
