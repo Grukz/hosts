@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75298 ad serving and malware domains.
+# Currently blocking 75307 ad serving and malware domains.
 #
-# Date Generated: Jul 20 2016
+# Date Generated: Jul 21 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -27839,6 +27839,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 balakin.popunder.ru
 127.0.0.1 balanced.gtsadsdistributed.com
 127.0.0.1 baleron.com
+127.0.0.1 baliwag.xyz
 127.0.0.1 balleralert.us.intellitxt.com
 127.0.0.1 ballsack.org
 127.0.0.1 bam-1.nr-data.net
@@ -46980,6 +46981,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 laxtrb.112.2o7.net
 127.0.0.1 laxwht.112.2o7.net
 127.0.0.1 laxwht.122.2o7.net
+127.0.0.1 lay.elticket.com.ar
 127.0.0.1 layer-ad.de
 127.0.0.1 layer-ad.org
 127.0.0.1 layer-ads.de
@@ -47073,6 +47075,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 leadzupc.com
 127.0.0.1 leagleconsulting.com
 127.0.0.1 leaitworldprod.112.2o7.net
+127.0.0.1 leaningbokubo.ru
 127.0.0.1 leann-faulk.us
 127.0.0.1 leanne-atwood.us
 127.0.0.1 leanne-rolen.us
@@ -53213,6 +53216,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 patrickhillery.112.2o7.net
 127.0.0.1 patriothealth.go2cloud.org
 127.0.0.1 paulsnetwork.com
+127.0.0.1 pave.elisecries.com
 127.0.0.1 pavelbagryancev.justclick.ru
 127.0.0.1 paxil.1.p2l.info
 127.0.0.1 paxito.sitetracker.com
@@ -53830,6 +53834,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 planetluck.com
 127.0.0.1 planetout.122.2o7.net
 127.0.0.1 planituk.go2cloud.org
+127.0.0.1 plank.duplicolor.cl
 127.0.0.1 plantaardigebrandstof.nl
 127.0.0.1 plasmatv4free.com
 127.0.0.1 plasmatvreward.com
@@ -57661,6 +57666,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sevenoneintermedia.112.2o7.net
 127.0.0.1 seventynine.go2cloud.org
 127.0.0.1 sex-and-animals.com
+127.0.0.1 sex-now5.com
 127.0.0.1 sex-toplista.zy.pl
 127.0.0.1 sexaddpro.de
 127.0.0.1 sexadvertentiesite.nl
@@ -57716,6 +57722,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 shadu.duba.net
 127.0.0.1 shaktitextileengr.com
 127.0.0.1 shallownation.us.intellitxt.com
+127.0.0.1 shammah.openbrazil.org
 127.0.0.1 shana-bogen.us
 127.0.0.1 shana-mcinerney.us
 127.0.0.1 shanding.ucoz.es
@@ -58204,6 +58211,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 smile-angel.com
 127.0.0.1 smile.modchipstore.com
 127.0.0.1 smilepop.com
+127.0.0.1 smilll.depozit.hr
 127.0.0.1 smithers.ixn.local.vmsn.de
 127.0.0.1 smjmp.net
 127.0.0.1 smm.sitescout.com
@@ -58530,6 +58538,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 spotsniper.ru
 127.0.0.1 spotxchange.com
 127.0.0.1 spravki-online.hit.bg
+127.0.0.1 spread.diadanoivabh.com.br
 127.0.0.1 sprfetch.about.com
 127.0.0.1 springboardplatform.com
 127.0.0.1 springclick-ads.s3.amazonaws.com
@@ -60492,7 +60501,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tc.zionsbank.com
 127.0.0.1 tcadops.ca
 127.0.0.1 tcads.net
-127.0.0.1 tcatmos.net
 127.0.0.1 tcgtrkr.com
 127.0.0.1 tchibo02.webtrekk.net
 127.0.0.1 tchibo03.webtrekk.net
@@ -74952,6 +74960,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 yieldmanager.com
 127.0.0.1 yieldmanager.net
 127.0.0.1 yieldmgr.com
+127.0.0.1 yieldmo.com
 127.0.0.1 yieldtraffic.com
 127.0.0.1 yigitakcali.com
 127.0.0.1 ying.hitbox.com
