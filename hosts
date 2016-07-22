@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75307 ad serving and malware domains.
+# Currently blocking 75313 ad serving and malware domains.
 #
-# Date Generated: Jul 21 2016
+# Date Generated: Jul 22 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -24420,6 +24420,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adv.quipo.it
 127.0.0.1 adv.r7.com
 127.0.0.1 adv.researchnow.co.uk
+127.0.0.1 adv.riza.it
 127.0.0.1 adv.rockstar.bg
 127.0.0.1 adv.securestudies.com
 127.0.0.1 adv.sexcounter.com
@@ -31040,6 +31041,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 boots.fotopyra.pl
 127.0.0.1 bootstrap.livefyre.com
 127.0.0.1 bootstraps.timesink.com
+127.0.0.1 borat.elticket.com.ar
 127.0.0.1 bornaz.com
 127.0.0.1 bos-tapreq01.jumptap.com
 127.0.0.1 bos-tapreq02.jumptap.com
@@ -40340,7 +40342,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 erectile.byethost33.com
 127.0.0.1 eremedia.112.2o7.net
 127.0.0.1 erendri.com
-127.0.0.1 eresimgbo.com
 127.0.0.1 ericka-riffle.us
 127.0.0.1 erie.smartage.com
 127.0.0.1 erie.smartage.net
@@ -44070,6 +44071,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hm.l.qq.com
 127.0.0.1 hm.webtrends.com
 127.0.0.1 hmhrw.voluumtrk.com
+127.0.0.1 hmora.fred-build.tk
 127.0.0.1 hmortensen.tns-cs.net
 127.0.0.1 hmrhz.voluumtrk.com
 127.0.0.1 hmultiplex.2cnt.net
@@ -47130,6 +47132,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lexapro.1.p2l.info
 127.0.0.1 lexapro.3.p2l.info
 127.0.0.1 lexapro.4.p2l.info
+127.0.0.1 lexu.goggendorf.at
 127.0.0.1 lfbot.voluumtrk.com
 127.0.0.1 lfov.net
 127.0.0.1 lfscpttracking.com
@@ -50022,6 +50025,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mojoworks.snv.mediaplex.com
 127.0.0.1 mokono.com
 127.0.0.1 mola77.mobilenobo.com
+127.0.0.1 molla.gato1000.cl
 127.0.0.1 mollie-patino.us
 127.0.0.1 molowo.in.ua
 127.0.0.1 mom.freelogs.com
@@ -53320,6 +53324,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pebble-adhese.hbvl.be
 127.0.0.1 pebble.bnex.com
 127.0.0.1 pedropedreiromoxik.su
+127.0.0.1 peeg.fronterarq.cl
 127.0.0.1 peel.spacash.com
 127.0.0.1 peelads.hustler.com
 127.0.0.1 peep-auktion.de
@@ -63671,6 +63676,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vicodin-online.petrovka.info
 127.0.0.1 vicodin-store.shengen.ru
 127.0.0.1 vicodin.t-amo.net
+127.0.0.1 victor.connectcloud.ch
 127.0.0.1 victoriaadvocate.112.2o7.net
 127.0.0.1 vid.atdmt.com
 127.0.0.1 vid.atm.youku.com
