@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75313 ad serving and malware domains.
+# Currently blocking 75310 ad serving and malware domains.
 #
-# Date Generated: Jul 22 2016
+# Date Generated: Jul 23 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -29771,7 +29771,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bitcast-a.v1.iad1.bitgravity.com
 127.0.0.1 bitcast-d.bitgravity.com
 127.0.0.1 bitcoinadvertisers.com
-127.0.0.1 bitcointalks.info
 127.0.0.1 bitmedianetwork.com
 127.0.0.1 bitsinfoware.net
 127.0.0.1 bitsonthewire.com
@@ -42647,7 +42646,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gear.ign.us.intellitxt.com
 127.0.0.1 geek.us.intellitxt.com
 127.0.0.1 geekstogo.us.intellitxt.com
-127.0.0.1 geigercount.net
 127.0.0.1 geizhals.oewabox.at
 127.0.0.1 gelzg.voluumtrk.com
 127.0.0.1 gem.pl
@@ -43915,7 +43913,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 hit-counter.udub.com
 127.0.0.1 hit-now.com
 127.0.0.1 hit-parade.com
-127.0.0.1 hit-ranking.de
 127.0.0.1 hit.8digits.com
 127.0.0.1 hit.bg
 127.0.0.1 hit.clickaider.com
@@ -52995,7 +52992,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pagefair.com
 127.0.0.1 pagepeel.ero-advertising.com
 127.0.0.1 pagepeels.sexmoney.com
-127.0.0.1 pagerank-estate-spb.ru
 127.0.0.1 pagerank-ranking.com
 127.0.0.1 pagerank-ranking.de
 127.0.0.1 pagerank-submitter.com
@@ -57672,6 +57668,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 seventynine.go2cloud.org
 127.0.0.1 sex-and-animals.com
 127.0.0.1 sex-now5.com
+127.0.0.1 sex-sex-sex5.com
 127.0.0.1 sex-toplista.zy.pl
 127.0.0.1 sexaddpro.de
 127.0.0.1 sexadvertentiesite.nl
