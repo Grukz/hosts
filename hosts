@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74858 ad serving and malware domains.
+# Currently blocking 74872 ad serving and malware domains.
 #
-# Date Generated: Jul 27 2016
+# Date Generated: Jul 28 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -27435,6 +27435,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 aurora-musso.us
 127.0.0.1 aurora-wilhelm.us
 127.0.0.1 aurora.starpartner.com
+127.0.0.1 aus-mec-tracking.adalyser.com
+127.0.0.1 aus-smv-tracking.adalyser.com
 127.0.0.1 aus.laola1.tv
 127.0.0.1 auslieferung.commindo-media-ressourcen.de
 127.0.0.1 auspice.augur.io
@@ -32890,6 +32892,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.xbox.com
 127.0.0.1 c.za.msn.com
 127.0.0.1 c.zeroredirect1.com
+127.0.0.1 c0.adalyser.com
 127.0.0.1 c0.amazingcounters.com
 127.0.0.1 c01.brickoffers.com
 127.0.0.1 c01.smaato.net
@@ -33024,6 +33027,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c2path.com
 127.0.0.1 c2s-openrtb.liverail.com
 127.0.0.1 c2x4s.voluumtrk.com
+127.0.0.1 c3.adalyser.com
 127.0.0.1 c3.amazingcounters.com
 127.0.0.1 c3.gostats.com
 127.0.0.1 c3.gostats.de
@@ -41419,6 +41423,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fr.sitestat.com
 127.0.0.1 fr.slidein.clickintext.net
 127.0.0.1 fr.static.planet49.com
+127.0.0.1 fra-photobox-tracking.adalyser.com
 127.0.0.1 fra1.ib.adnxs.com
 127.0.0.1 fra1.mobile.adnxs.com
 127.0.0.1 fra10.ib.adnxs.com
@@ -42382,6 +42387,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 gbotvisit.com
 127.0.0.1 gbp.ebayadvertising.triadretail.net
 127.0.0.1 gbpeq.voluumtrk.com
+127.0.0.1 gbr-7stars-tracking.adalyser.com
+127.0.0.1 gbr-carat-tracking.adalyser.com
+127.0.0.1 gbr-mbww-tracking.adalyser.com
+127.0.0.1 gbr-smv-tracking.adalyser.com
+127.0.0.1 gbr-tbh-tracking.adalyser.com
 127.0.0.1 gbscript.com
 127.0.0.1 gbtqw.voluumtrk.com
 127.0.0.1 gc.gcl.ru
@@ -53259,6 +53269,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 phormservice.com
 127.0.0.1 phormsolution.com
 127.0.0.1 phormstandards.com
+127.0.0.1 photobox-tracking.adalyser.com
 127.0.0.1 photobucket.adnxs.com
 127.0.0.1 photos.daily-deals.analoganalytics.com
 127.0.0.1 photos.pop6.com
@@ -56094,6 +56105,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 s0b.bluestreak.com
 127.0.0.1 s0kdl.castup.net
 127.0.0.1 s0s5e.voluumtrk.com
+127.0.0.1 s1-tracking.adalyser.com
 127.0.0.1 s1.2mdn.net
 127.0.0.1 s1.adform.net
 127.0.0.1 s1.buysellads.com
@@ -61450,6 +61462,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracking.247search.com
 127.0.0.1 tracking.absolstats.com
 127.0.0.1 tracking.actionads.ru
+127.0.0.1 tracking.adalyser.com
 127.0.0.1 tracking.adjug.com
 127.0.0.1 tracking.admail.am
 127.0.0.1 tracking.admarketplace.net
@@ -68580,6 +68593,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ad4mat.de
 127.0.0.1 www.ad6media.fr
 127.0.0.1 www.adadvisor.net
+127.0.0.1 www.adalyser.com
 127.0.0.1 www.adaos-ads.net
 127.0.0.1 www.adap.tv
 127.0.0.1 www.adatom.com
