@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75306 ad serving and malware domains.
+# Currently blocking 75304 ad serving and malware domains.
 #
-# Date Generated: Jul 29 2016
+# Date Generated: Jul 30 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -38545,7 +38545,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 demarketing.go2cloud.org
 127.0.0.1 demetria-tickle.us
 127.0.0.1 demimoorenude.1stOK.com
-127.0.0.1 demisoft.altervista.org
 127.0.0.1 demo.adsender.us
 127.0.0.1 demo.advertising.com
 127.0.0.1 demo.exapps.com
@@ -48037,6 +48036,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lysoft.go2cloud.org
 127.0.0.1 lyyy6.voluumtrk.com
 127.0.0.1 lz.mainentrypoint.com
+127.0.0.1 lzediamike.trade
 127.0.0.1 lzjl.com
 127.0.0.1 lzonline.ivwbox.de
 127.0.0.1 lzukp.voluumtrk.com
@@ -56863,7 +56863,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 scie.ovh
 127.0.0.1 science.mlive.com
 127.0.0.1 scienceworldreport.us.intellitxt.com
-127.0.0.1 scimmiablu.altervista.org
 127.0.0.1 sclick.baidu.com
 127.0.0.1 scnt.rambler.ru
 127.0.0.1 scootloor.com
@@ -62487,7 +62486,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tube8vidsznx.ddns.name
 127.0.0.1 tube8vidszyj.ddns.name
 127.0.0.1 tubeanalporn.com
-127.0.0.1 tubedspots.com
 127.0.0.1 tubemogul.com
 127.0.0.1 tubemoviez.com
 127.0.0.1 tubeololo.org
