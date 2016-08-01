@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75305 ad serving and malware domains.
+# Currently blocking 75315 ad serving and malware domains.
 #
-# Date Generated: Jul 31 2016
+# Date Generated: Aug 01 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26157,6 +26157,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 analytics-eu.clickdimensions.com
 127.0.0.1 analytics-google.info
 127.0.0.1 analytics-news.seevolution.com
+127.0.0.1 analytics-prod-ingress.bricknet.com
 127.0.0.1 analytics-static.unister-gmbh.de
 127.0.0.1 analytics-v2.anvato.com
 127.0.0.1 analytics.163.com
@@ -26820,6 +26821,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 apiskywebbercom-a.akamaihd.net
 127.0.0.1 apkquery.ksmobile.net
 127.0.0.1 aplus.net
+127.0.0.1 apm.crittercism.com
 127.0.0.1 apnews.myway.com
 127.0.0.1 apnonline.112.2o7.net
 127.0.0.1 apnx-match.dotomi.com
@@ -43274,6 +43276,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 google.tucows.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleads2.g.doubleclick.net
+127.0.0.1 googleads4.g.doubleclick.net
 127.0.0.1 googleadservices.com
 127.0.0.1 googlenews.xorg.pl
 127.0.0.1 googlepetkavanis4.pw
@@ -45694,6 +45697,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 ione.netmng.com
 127.0.0.1 iopodx.de
 127.0.0.1 ios.revmob.com
+127.0.0.1 iosads20.adcolony.com
+127.0.0.1 iosads22.adcolony.com
+127.0.0.1 iosads24.adcolony.com
 127.0.0.1 iota1.rtb.appier.net
 127.0.0.1 iota5.rtb.appier.net
 127.0.0.1 ip-182-50-129-164.ip.secureserver.net
@@ -46777,6 +46783,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kristan-newman.us
 127.0.0.1 kristinaaza.justclick.ru
 127.0.0.1 krj9b.redirectvoluum.com
+127.0.0.1 kroatien-urlaub.com.hr
 127.0.0.1 krone.nuggad.net
 127.0.0.1 krone.oewabox.at
 127.0.0.1 kronehit.oewabox.at
@@ -48419,6 +48426,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 madmimi.com
 127.0.0.1 madnet.ru
 127.0.0.1 madpenguin.us.intellitxt.com
+127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 mads.aol.com
 127.0.0.1 mads.at.atwola.com
 127.0.0.1 mads.bnet.com
@@ -52266,6 +52274,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 on.linkexchange.com
 127.0.0.1 on.maxspeedcdn.com
 127.0.0.1 on.nimp.org
+127.0.0.1 onceux.unicornmedia.com
 127.0.0.1 onclasrv.com
 127.0.0.1 onclickads.net
 127.0.0.1 onclickads2.net
@@ -63331,6 +63340,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 uzhegovandrey.justclick.ru
 127.0.0.1 v.admedia.com
 127.0.0.1 v.admob.com
+127.0.0.1 v.amazon-adsystem.com
 127.0.0.1 v.bsvideos.com
 127.0.0.1 v.chartboost.com
 127.0.0.1 v.duba.net
