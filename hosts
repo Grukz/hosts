@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75316 ad serving and malware domains.
+# Currently blocking 75352 ad serving and malware domains.
 #
-# Date Generated: Aug 02 2016
+# Date Generated: Aug 03 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -3119,6 +3119,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 accomplir.science
 127.0.0.1 accorder.science
 127.0.0.1 accounting.livejasmin.com
+127.0.0.1 accountlock-demo.iovation.com
 127.0.0.1 accountonline.bridgetrack.com
 127.0.0.1 accounts.pkr.com
 127.0.0.1 accounts.pkr.com.invalid
@@ -19350,7 +19351,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 admin.exitfuel.com
 127.0.0.1 admin.fhserve.com
 127.0.0.1 admin.hotkeys.com
+127.0.0.1 admin.iesnare.co.uk
+127.0.0.1 admin.iesnare.com
 127.0.0.1 admin.inq.com
+127.0.0.1 admin.iovation.com
 127.0.0.1 admin.magnosoft1.com
 127.0.0.1 admin.matcash.com
 127.0.0.1 admin.minyanville.com
@@ -27854,6 +27858,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bam-3.nr-data.net
 127.0.0.1 bam-4.nr-data.net
 127.0.0.1 bam-5.nr-data.net
+127.0.0.1 bam-pilot.iovation.com
 127.0.0.1 bam.nr-data.net
 127.0.0.1 ban.erovideo.ru
 127.0.0.1 ban.hiwit.com
@@ -29303,6 +29308,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bat.adforum.com
 127.0.0.1 bat.bing.com
 127.0.0.1 bat.r.msn.com
+127.0.0.1 batch.iovation.com
 127.0.0.1 batcoroadlinescorporation.com
 127.0.0.1 battleon.directtrack.com
 127.0.0.1 baublebar.sp1.convertro.com
@@ -34506,7 +34512,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 chumtv.122.2o7.net
 127.0.0.1 chunkypig.com
 127.0.0.1 chunkytgp.net
+127.0.0.1 ci-accountlock.iovation.com
+127.0.0.1 ci-admin.iovation.com
+127.0.0.1 ci-mpsnare.iesnare.co.uk
+127.0.0.1 ci-mpsnare.iesnare.com
 127.0.0.1 ci-mpsnare.iovation.com
+127.0.0.1 ci-snare.iovation.com
 127.0.0.1 ci.beap.ad.yieldmanager.net
 127.0.0.1 ci.categoria.hpg.com.br
 127.0.0.1 ci.intuit.com
@@ -39271,6 +39282,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dr.webservicehosts.com
 127.0.0.1 dr8pk6ovub897.cloudfront.net
 127.0.0.1 dra.amazon-adsystem.com
+127.0.0.1 dra.iesnare.com
 127.0.0.1 dragon1.visits.lt
 127.0.0.1 dragon145.visits.lt
 127.0.0.1 dragonballzhomeland.com
@@ -39398,6 +39410,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dust.ipfingerprint.com
 127.0.0.1 duty.sitatech.org
 127.0.0.1 duv3c.voluumtrk.com
+127.0.0.1 dv-fw-a-nat.iovation.com
 127.0.0.1 dv.bitterstrawberry.com
 127.0.0.1 dv1970.freestats.com
 127.0.0.1 dv1ih.voluumtrk.com
@@ -44760,6 +44773,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ieplugin.com
 127.0.0.1 iesb.us.intellitxt.com
 127.0.0.1 ieskok.info
+127.0.0.1 iesnare.co.uk
 127.0.0.1 iesnare.com
 127.0.0.1 iezgb.voluumtrk.com
 127.0.0.1 if.bbanner.it
@@ -45342,6 +45356,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 impru.tradedoubler.com
 127.0.0.1 imprusmp.admailtiser.com
 127.0.0.1 impse.tradedoubler.com
+127.0.0.1 impsnare.iesnare.com
 127.0.0.1 imptestrm.com
 127.0.0.1 impulseleads.com
 127.0.0.1 imreportcard.us.intellitxt.com
@@ -45691,6 +45706,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 inze5.voluumtrk.com
 127.0.0.1 ioads.ero-advertising.com
 127.0.0.1 iocdn.coremetrics.com
+127.0.0.1 ioit.iovation.com
 127.0.0.1 ionamin.1.p2l.info
 127.0.0.1 ionamin.t35.com
 127.0.0.1 ione.adspirit.de
@@ -45702,6 +45718,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 iosads24.adcolony.com
 127.0.0.1 iota1.rtb.appier.net
 127.0.0.1 iota5.rtb.appier.net
+127.0.0.1 iovation.co.uk
+127.0.0.1 iovation.com
 127.0.0.1 ip-182-50-129-164.ip.secureserver.net
 127.0.0.1 ip-182-50-129-181.ip.secureserver.net
 127.0.0.1 ip-api.com
@@ -50172,6 +50190,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mpp2.vindicosuite.com
 127.0.0.1 mproxy.banner.linksynergy.com
 127.0.0.1 mprptrk.com
+127.0.0.1 mpsnare.iesnare.co.uk
 127.0.0.1 mpsnare.iesnare.com
 127.0.0.1 mpstat.us
 127.0.0.1 mpv.sandai.net
@@ -50386,6 +50405,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 mwc.velti.com
 127.0.0.1 mx.adserver.yahoo.com
 127.0.0.1 mx.ero-advertising.com
+127.0.0.1 mx.iesnare.com
+127.0.0.1 mx.iovation.com
 127.0.0.1 mx.yandex.ru
 127.0.0.1 mx01.openinternetexchange.com
 127.0.0.1 mx01.openinternetexchange.net
@@ -52883,6 +52904,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 p.errorception.com
 127.0.0.1 p.ic.tynt.com
 127.0.0.1 p.imgur.com
+127.0.0.1 p.iovation.com
 127.0.0.1 p.l.qq.com
 127.0.0.1 p.l.youku.com
 127.0.0.1 p.liadm.com
@@ -55879,6 +55901,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rlog-api.under9.co
 127.0.0.1 rlog.9gag.com
 127.0.0.1 rlyg7.voluumtrk.com
+127.0.0.1 rm-admin-demo.iovation.com
 127.0.0.1 rm.myoc.com
 127.0.0.1 rm.ocregister.com
 127.0.0.1 rm.tapuz.co.il
@@ -58263,6 +58286,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 snapify.go2cloud.org
 127.0.0.1 snaps.vidiemi.com
 127.0.0.1 snapshot.compete.com
+127.0.0.1 snare.iesnare.com
 127.0.0.1 sndkorea.co.kr
 127.0.0.1 sndkorea.nowcdn.co.kr
 127.0.0.1 sniff.visistat.com
@@ -58279,6 +58303,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 soa.adition.com
 127.0.0.1 soadev.adition.com
 127.0.0.1 soaold.adition.com
+127.0.0.1 soap.iovation.com
 127.0.0.1 soaperformance.adition.com
 127.0.0.1 soastage.adition.com
 127.0.0.1 soav1.adition.com
@@ -60761,6 +60786,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 test.applifier.com
 127.0.0.1 test.coremetrics.com
 127.0.0.1 test.doublepimp.com
+127.0.0.1 test.iovation.com
 127.0.0.1 test.ishvara-yoga.com
 127.0.0.1 test.ivwbox.de
 127.0.0.1 test.livejasmin.com
@@ -60782,6 +60808,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 testappacc1.vmsn.de
 127.0.0.1 testats.inuvo.com
 127.0.0.1 testdata.coremetrics.com
+127.0.0.1 testgw.iovation.com
 127.0.0.1 testing01.bob.local.vmsn.de
 127.0.0.1 testing01.con.local.vmsn.de
 127.0.0.1 testing02.bob.local.vmsn.de
@@ -69090,6 +69117,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.admestate.ru
 127.0.0.1 www.admex.com
 127.0.0.1 www.admez.com
+127.0.0.1 www.admin.iesnare.co.uk
+127.0.0.1 www.admin.iesnare.com
 127.0.0.1 www.adminder.com
 127.0.0.1 www.admitad.com
 127.0.0.1 www.admixxer.com
@@ -69987,6 +70016,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.chrystal-hollins.us
 127.0.0.1 www.chrystal-stoudt.us
 127.0.0.1 www.chunkypig.com
+127.0.0.1 www.ci-mpsnare.iesnare.co.uk
+127.0.0.1 www.ci-mpsnare.iesnare.com
 127.0.0.1 www.cifor.com
 127.0.0.1 www.cinthya-hanks.us
 127.0.0.1 www.ciqugasox.cn
@@ -71359,6 +71390,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ientrymail.com
 127.0.0.1 www.ientrynetwork.net
 127.0.0.1 www.iesearch.com
+127.0.0.1 www.iesnare.co.uk
 127.0.0.1 www.iesnare.com
 127.0.0.1 www.iframehost.com
 127.0.0.1 www.iframes.us
@@ -71468,6 +71500,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.intredomedia.com
 127.0.0.1 www.invitefashion.com
 127.0.0.1 www.ioam.de
+127.0.0.1 www.iovation.co.uk
+127.0.0.1 www.iovation.com
 127.0.0.1 www.ipafind.com
 127.0.0.1 www.ipcounter.de
 127.0.0.1 www.iperbanner.com
@@ -72152,6 +72186,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.mport.com
 127.0.0.1 www.mpression.net
 127.0.0.1 www.mprptrk.com
+127.0.0.1 www.mpsnare.iesnare.co.uk
+127.0.0.1 www.mpsnare.iesnare.com
 127.0.0.1 www.mrktrecord3.com
 127.0.0.1 www.mrpeter.it
 127.0.0.1 www.ms-mvp.org
