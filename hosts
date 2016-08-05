@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75352 ad serving and malware domains.
+# Currently blocking 75367 ad serving and malware domains.
 #
-# Date Generated: Aug 04 2016
+# Date Generated: Aug 05 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -21683,7 +21683,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.str8up.com
 127.0.0.1 ads.streamlivesex.com
 127.0.0.1 ads.strumarelax.com
-127.0.0.1 ads.struq.com
 127.0.0.1 ads.studylight.org
 127.0.0.1 ads.stupid.com
 127.0.0.1 ads.sublimedirectory.com
@@ -27541,6 +27540,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 avazudsp.net
 127.0.0.1 avazutracking.net
 127.0.0.1 avcounter10.com
+127.0.0.1 avekocomputers.com
 127.0.0.1 avenfeld.com
 127.0.0.1 aventure.science
 127.0.0.1 avenuea.com
@@ -35075,6 +35075,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 clients.rootsecure.org
 127.0.0.1 clients.rx-promotion.com
 127.0.0.1 clients.tbo.com
+127.0.0.1 clients6.google.com
 127.0.0.1 clientstat.castup.net
 127.0.0.1 clik2008.popunder.ru
 127.0.0.1 clipcaps.com
@@ -35861,6 +35862,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 corba.adtech.de
 127.0.0.1 corba.adtech.fr
 127.0.0.1 corba.adtech.us
+127.0.0.1 corbelsep.com
 127.0.0.1 core.ad20.net
 127.0.0.1 core.adprotected.com
 127.0.0.1 core.adproxy2.com
@@ -44583,6 +44585,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 i1.likes-media.com
 127.0.0.1 i1.putags.com
 127.0.0.1 i1.teaser-goods.ru
+127.0.0.1 i1.ytimg.com
 127.0.0.1 i18n.adition.com
 127.0.0.1 i1img.com
 127.0.0.1 i1k2c.voluumtrk.com
@@ -45941,6 +45944,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 j.zeroredirect.com
 127.0.0.1 j.zeroredirect1.com
 127.0.0.1 j.zeroredirect2.com
+127.0.0.1 j0k3rj0k3r.tk
 127.0.0.1 j0q3w.voluumtrk.com
 127.0.0.1 j1alc.voluumtrk.com
 127.0.0.1 j3vcj.voluumtrk.com
@@ -55122,6 +55126,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 r.zeroredirect2.com
 127.0.0.1 r01.ibg.bg
 127.0.0.1 r0d2x.voluumtrk.com
+127.0.0.1 r1---sn-vgqsen7z.googlevideo.com
 127.0.0.1 r1-ads.ace.advertising.com
 127.0.0.1 r1.ace.advertising.com
 127.0.0.1 r1.affiliatefuel.com
@@ -55132,23 +55137,30 @@ ff02::2 ip6-allrouters
 127.0.0.1 r1.literotica.com
 127.0.0.1 r1.pcwelt.de
 127.0.0.1 r1.plugrush.com
+127.0.0.1 r1.sn-vgqsen7z.googlevideo.com
 127.0.0.1 r1.zedo.com
 127.0.0.1 r10.cooleremail.com
 127.0.0.1 r11.cooleremail.com
+127.0.0.1 r17---sn-vgqsenes.googlevideo.com
+127.0.0.1 r2---sn-vgqs7n7k.googlevideo.com
 127.0.0.1 r2.adwo.com
 127.0.0.1 r2.computerbild.de
 127.0.0.1 r2.cooleremail.com
 127.0.0.1 r2.linksynergy.com
 127.0.0.1 r2.plugrush.com
+127.0.0.1 r20---sn-vgqs7ne7.googlevideo.com
 127.0.0.1 r20.rs6.net
+127.0.0.1 r20.sn-vgqs7ne7.googlevideo.com
 127.0.0.1 r2d2.adman.gr
 127.0.0.1 r2fjs.voluumtrk.com
 127.0.0.1 r2jmarketing.go2cloud.org
 127.0.0.1 r2v3n.voluumtrk.com
 127.0.0.1 r3.cooleremail.com
 127.0.0.1 r3.plugrush.com
+127.0.0.1 r4---sn-vgqs7nez.googlevideo.com
 127.0.0.1 r4.cooleremail.com
 127.0.0.1 r4.plugrush.com
+127.0.0.1 r4.sn-vgqs7nez.googlevideo.com
 127.0.0.1 r4zih.voluumtrk.com
 127.0.0.1 r5.cooleremail.com
 127.0.0.1 r5.dir.bg
@@ -68499,6 +68511,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wks.ero-advertising.com
 127.0.0.1 wlaptoplogic.122.2o7.net
 127.0.0.1 wlmarketing.com
+127.0.0.1 wlmfortunepartners.adsrv.eacdn.com
 127.0.0.1 wlwonl.ivwbox.de
 127.0.0.1 wlwt01.opentext.com
 127.0.0.1 wm-goldenclick.ru
@@ -74237,6 +74250,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.yourstartingpage.com
 127.0.0.1 www.yourstats.net
 127.0.0.1 www.yourxmasgifts.ru
+127.0.0.1 www.youtube-nocookie.com
 127.0.0.1 www.youyield.com
 127.0.0.1 www.ypmadserver.com
 127.0.0.1 www.ypmate.com
@@ -75074,6 +75088,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 youspacko.com
 127.0.0.1 youtibe.com
 127.0.0.1 youtrack.co
+127.0.0.1 youtube-ui.l.google.com
 127.0.0.1 youtube.112.2o7.net
 127.0.0.1 youtube.2cnt.net
 127.0.0.1 youtuhe.com
