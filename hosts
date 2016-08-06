@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75367 ad serving and malware domains.
+# Currently blocking 75363 ad serving and malware domains.
 #
-# Date Generated: Aug 05 2016
+# Date Generated: Aug 06 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -34404,7 +34404,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 chastity-stoltenberg.us
 127.0.0.1 chat.888.com
 127.0.0.1 chat.adspaces.ero-advertising.com
-127.0.0.1 chat.altacom.it
 127.0.0.1 chat.ero-advertising.com
 127.0.0.1 chat.ezula.com
 127.0.0.1 chat.zedo.com
@@ -35075,7 +35074,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 clients.rootsecure.org
 127.0.0.1 clients.rx-promotion.com
 127.0.0.1 clients.tbo.com
-127.0.0.1 clients6.google.com
 127.0.0.1 clientstat.castup.net
 127.0.0.1 clik2008.popunder.ru
 127.0.0.1 clipcaps.com
@@ -37295,6 +37293,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cpaswag.go2cloud.org
 127.0.0.1 cpatrac.com
 127.0.0.1 cpatrack.leadn.com
+127.0.0.1 cpatrackkee.com
 127.0.0.1 cpatrackr.com
 127.0.0.1 cpatraffictracker.com
 127.0.0.1 cpaway.afftrack.com
@@ -47390,7 +47389,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 linksexchange.net
 127.0.0.1 linkshare.com
 127.0.0.1 linkshighway.com
-127.0.0.1 linkshighway.net
 127.0.0.1 linksmile.com
 127.0.0.1 linksponsor.com
 127.0.0.1 linksredirect.com
@@ -52324,7 +52322,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 onet.hit.stat.pl
 127.0.0.1 onetoone.112.2o7.net
 127.0.0.1 oneund.ru
-127.0.0.1 onewaylinkexchange.net
 127.0.0.1 onlamp.us.intellitxt.com
 127.0.0.1 onlgc.voluumtrk.com
 127.0.0.1 online-antispym4.com
@@ -54203,7 +54200,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pr.realvu.net
 127.0.0.1 pr.ybp.yahoo.com
 127.0.0.1 pr.ydp.yahoo.com
-127.0.0.1 pr5dir.com
 127.0.0.1 pracuj.adocean.pl
 127.0.0.1 pracuj.hit.gemius.pl
 127.0.0.1 pradakomechanicals.com
@@ -55243,7 +55239,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ranking-liste.de
 127.0.0.1 ranking-street.de
 127.0.0.1 ranking.ynet.com
-127.0.0.1 rankingchart.de
 127.0.0.1 rankingscout.com
 127.0.0.1 rankingscout.org
 127.0.0.1 rankmytattoos.us.intellitxt.com
@@ -57640,6 +57635,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 service.multi-pops.com
 127.0.0.1 service.persianstat.com
 127.0.0.1 service.sponsorpay.com
+127.0.0.1 service.srvmd60.com
 127.0.0.1 service.urchin.com
 127.0.0.1 service001.adtech.de
 127.0.0.1 service001.adtech.fr
@@ -57950,7 +57946,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 simplehitcounter.com
 127.0.0.1 simpleonlinemedia.go2cloud.org
 127.0.0.1 simpli.fi
-127.0.0.1 simplusx.website
 127.0.0.1 simplyfwd.com
 127.0.0.1 simyo.adclear.net
 127.0.0.1 sin.ero-advertising.com
@@ -70294,6 +70289,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.cpalist.com
 127.0.0.1 www.cpaprohits.com
 127.0.0.1 www.cpatrac.com
+127.0.0.1 www.cpatrackkee.com
 127.0.0.1 www.cpatrackr.com
 127.0.0.1 www.cpays.com
 127.0.0.1 www.cpd8.net
