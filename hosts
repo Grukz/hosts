@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75361 ad serving and malware domains.
+# Currently blocking 75362 ad serving and malware domains.
 #
-# Date Generated: Aug 07 2016
+# Date Generated: Aug 08 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -27540,7 +27540,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 avazudsp.net
 127.0.0.1 avazutracking.net
 127.0.0.1 avcounter10.com
-127.0.0.1 avekocomputers.com
 127.0.0.1 avenfeld.com
 127.0.0.1 aventure.science
 127.0.0.1 avenuea.com
@@ -37249,6 +37248,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 coupons4humanity.go2cloud.org
 127.0.0.1 courier.karelia.ru
 127.0.0.1 courierpostonline.us.intellitxt.com
+127.0.0.1 courierworld.ru
 127.0.0.1 courtney-jacobi.us
 127.0.0.1 courtney-werner.us
 127.0.0.1 couter.science
@@ -60505,6 +60505,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tattooshaha.info
 127.0.0.1 tavuks.com
 127.0.0.1 tawny-joiner.us
+127.0.0.1 taxi-petr.by
 127.0.0.1 taz.adspirit.de
 127.0.0.1 taz.ivwbox.de
 127.0.0.1 tb.vmsn.de
