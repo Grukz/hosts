@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75362 ad serving and malware domains.
+# Currently blocking 75376 ad serving and malware domains.
 #
-# Date Generated: Aug 08 2016
+# Date Generated: Aug 09 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -37248,7 +37248,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 coupons4humanity.go2cloud.org
 127.0.0.1 courier.karelia.ru
 127.0.0.1 courierpostonline.us.intellitxt.com
-127.0.0.1 courierworld.ru
 127.0.0.1 courtney-jacobi.us
 127.0.0.1 courtney-werner.us
 127.0.0.1 couter.science
@@ -53287,6 +53286,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pc-gizmos-ssl.com
 127.0.0.1 pc-infopratique.fr.intellitxt.com
 127.0.0.1 pc-scanner16.com
+127.0.0.1 pc-virus-d0l92j2.pw
 127.0.0.1 pc.adonweb.ru
 127.0.0.1 pc1.dntrax.com
 127.0.0.1 pc2.yumenetworks.com
@@ -56781,6 +56781,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sara-machen.us
 127.0.0.1 sarah-maurer.us
 127.0.0.1 sarah.dntrax.com
+127.0.0.1 sarah.dntrx.com
 127.0.0.1 sas.decisionnews.com
 127.0.0.1 sascentral.com
 127.0.0.1 sasha-castleman.us
@@ -61864,6 +61865,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracking.affiliates.de
 127.0.0.1 tracking.aimediagroup.com
 127.0.0.1 tracking.allposters.com
+127.0.0.1 tracking.amazing-revenue.com
 127.0.0.1 tracking.ancestry.com
 127.0.0.1 tracking.applift.com
 127.0.0.1 tracking.attractwomen.com
@@ -75153,7 +75155,17 @@ ff02::2 ip6-allrouters
 127.0.0.1 z8.zeroredirect1.com
 127.0.0.1 z9.zeroredirect1.com
 127.0.0.1 za-cdn.effectivemeasure.net
+127.0.0.1 za.delta-boa.com
 127.0.0.1 za.zeroredirect1.com
+127.0.0.1 za1.delta-boa.com
+127.0.0.1 za2.delta-boa.com
+127.0.0.1 za3.delta-boa.com
+127.0.0.1 za4.delta-boa.com
+127.0.0.1 za5.delta-boa.com
+127.0.0.1 za6.delta-boa.com
+127.0.0.1 za7.delta-boa.com
+127.0.0.1 za8.delta-boa.com
+127.0.0.1 za9.delta-boa.com
 127.0.0.1 zabava-bel.ru
 127.0.0.1 zads.zedo.com
 127.0.0.1 zafiti01.webtrekk-us.net
@@ -75201,6 +75213,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 zbxproxy01.con.local.vmsn.de
 127.0.0.1 zc.zeroredirect1.com
 127.0.0.1 zc.zeroredirect2.com
+127.0.0.1 zc1.delta-boa.com
+127.0.0.1 zc1.zeroredirect11.com
 127.0.0.1 zd.zeroredirect1.com
 127.0.0.1 zdads.e-media.com
 127.0.0.1 zdau-builder.122.2o7.net
