@@ -1,5 +1,5 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 0 ad serving and malware domains.
+# Currently blocking 3 ad serving and malware domains.
 #
 # Date Generated: Sep 05 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
@@ -14,3 +14,6 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 #  
+127.0.0.1 _wpcf7
+127.0.0.1 {
+img.wp-smiley,
