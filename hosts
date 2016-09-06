@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75028 ad serving and malware domains.
+# Currently blocking 75027 ad serving and malware domains.
 #
-# Date Generated: Sep 05 2016
+# Date Generated: Sep 06 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -37314,7 +37314,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 csc.beap.bc.yahoo.com
 127.0.0.1 cscomnsinc.tk
 127.0.0.1 cserver.mii.instacontent.net
-127.0.0.1 csetpgroupinc.ru
 127.0.0.1 csh.actiondesk.com
 127.0.0.1 cshacks.partycat.us
 127.0.0.1 csharpcorner.us.intellitxt.com
@@ -50089,6 +50088,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 muchmarketing.go2cloud.org
 127.0.0.1 mudfall.com
 127.0.0.1 mudmonster.org
+127.0.0.1 mudusyywqq.ru
 127.0.0.1 mueller-holz-bau.com
 127.0.0.1 muesq.voluumtrk.com
 127.0.0.1 multi.xnxx.com
@@ -68589,7 +68589,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.abmr2.net
 127.0.0.1 www.abovetrack.com
 127.0.0.1 www.abovetracking.com
-127.0.0.1 www.abratawares.net.in
 127.0.0.1 www.abrogatesdv.info
 127.0.0.1 www.accesoplugin.com
 127.0.0.1 www.accipiter.com
