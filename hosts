@@ -1,5 +1,5 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75029 ad serving and malware domains.
+# Currently blocking 75052 ad serving and malware domains.
 #
 # Date Generated: Sep 05 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
@@ -14,6 +14,8 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 #  
+127.0.0.1 -0.1em
+127.0.0.1 0
 127.0.0.1 0.r.msn.com
 127.0.0.1 0.start.bz
 127.0.0.1 000dom.revenuedirect.com
@@ -676,6 +678,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 1de5g.voluumtrk.com
 127.0.0.1 1directory.ru
 127.0.0.1 1do16.voluumtrk.com
+127.0.0.1 1em
 127.0.0.1 1empiredirect.com
 127.0.0.1 1ere-position.com
 127.0.0.1 1es.cqcounter.com
@@ -2107,6 +2110,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 9wjg4.voluumtrk.com
 127.0.0.1 9zaju.voluumtrk.com
 127.0.0.1 9zfh1.voluumtrk.com
+127.0.0.1 <![CDATA[
+127.0.0.1 =
 127.0.0.1 ANDpolice.com
 127.0.0.1 ASKBOT.com
 127.0.0.1 AUSpolice.com
@@ -2139,8 +2144,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 TRIANGLESERVICESLTD.COM
 127.0.0.1 TheBizMeet.com
 127.0.0.1 USApolice.com
+127.0.0.1 ]]>
 127.0.0.1 ___id___.c.mystat-in.net
 127.0.0.1 _thums.ero-advertising.com
+127.0.0.1 _wpcf7
 127.0.0.1 a-a-access.com
 127.0.0.1 a-ads.com
 127.0.0.1 a-counter.com.ua
@@ -37505,6 +37512,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cznshuya.ivnet.ru
 127.0.0.1 czproxy8.cz
 127.0.0.1 czrqs.voluumtrk.com
+127.0.0.1 d(a){var
 127.0.0.1 d-cache.microad.jp
 127.0.0.1 d-cache.microadinc.com
 127.0.0.1 d-track.send.microad.jp
@@ -40650,6 +40658,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 falkag.net
 127.0.0.1 fallencrafts.info
 127.0.0.1 fallon-navarro.us
+127.0.0.1 false;
 127.0.0.1 falstaff.oewabox.at
 127.0.0.1 family-offer.com
 127.0.0.1 familyupport1.com
@@ -45224,6 +45233,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 inklineglobal.com
 127.0.0.1 inkshare.com
 127.0.0.1 inl.adbureau.net
+127.0.0.1 inline
 127.0.0.1 inline.admedia.com
 127.0.0.1 inline.playbryte.com
 127.0.0.1 inlinea.co.uk
@@ -50984,6 +50994,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nol.yahoo.com
 127.0.0.1 nomen-est-omen.de
 127.0.0.1 nonames.tk
+127.0.0.1 none
 127.0.0.1 nonsi.csheaven.com
 127.0.0.1 nonstopeddanceraz.su
 127.0.0.1 noobgirls.com
@@ -59990,6 +60001,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ta.at.ic5mp.net
 127.0.0.1 ta.at.user-mode-linux.net
 127.0.0.1 ta.demdex.net
+127.0.0.1 tabContainers
 127.0.0.1 tabatha-mcallister.us
 127.0.0.1 tabex.sopharma.bg
 127.0.0.1 tabligheirani.com
@@ -75043,3 +75055,14 @@ ff02::2 ip6-allrouters
 127.0.0.1 zz.cqcounter.com
 127.0.0.1 zz.zeroredirect1.com
 127.0.0.1 zzz.clickbank.net
+127.0.0.1 {
+img.wp-smiley,
+jQuery('div
+jQuery(function(){
+jQuery(this).addClass('current');
+tabContainers.filter(this.hash).show();
+tabContainers.hide().filter('
+tabContainers.hide();
+}
+}).filter('
+});
