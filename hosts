@@ -1,5 +1,5 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75135 ad serving and malware domains.
+# Currently blocking 75029 ad serving and malware domains.
 #
 # Date Generated: Sep 05 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
@@ -14,9 +14,6 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 #  
-127.0.0.1 -0.1em
-127.0.0.1 />
-127.0.0.1 0
 127.0.0.1 0.r.msn.com
 127.0.0.1 0.start.bz
 127.0.0.1 000dom.revenuedirect.com
@@ -679,7 +676,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 1de5g.voluumtrk.com
 127.0.0.1 1directory.ru
 127.0.0.1 1do16.voluumtrk.com
-127.0.0.1 1em
 127.0.0.1 1empiredirect.com
 127.0.0.1 1ere-position.com
 127.0.0.1 1es.cqcounter.com
@@ -2111,28 +2107,20 @@ ff02::2 ip6-allrouters
 127.0.0.1 9wjg4.voluumtrk.com
 127.0.0.1 9zaju.voluumtrk.com
 127.0.0.1 9zfh1.voluumtrk.com
-127.0.0.1 <![CDATA[
-127.0.0.1 =
 127.0.0.1 ANDpolice.com
-127.0.0.1 API
 127.0.0.1 ASKBOT.com
 127.0.0.1 AUSpolice.com
 127.0.0.1 Adsatt.ABCNews.starwave.com
 127.0.0.1 Adsatt.go.starwave.com
-127.0.0.1 Application
 127.0.0.1 Arrayshift.com
-127.0.0.1 BEGIN:
 127.0.0.1 BRApolice.com
 127.0.0.1 BonusCashh.com
 127.0.0.1 CMRpolice.com
 127.0.0.1 COMpolice.com
 127.0.0.1 COMpolice.net
 127.0.0.1 CYPpolice.com
-127.0.0.1 Cached
-127.0.0.1 Dynamic
 127.0.0.1 EGYpolice.com
 127.0.0.1 EGYpolice.net
-127.0.0.1 END:
 127.0.0.1 ETHpolice.com
 127.0.0.1 Fvid.atm.youku.com
 127.0.0.1 GEOpolice.com
@@ -2145,19 +2133,14 @@ ff02::2 ip6-allrouters
 127.0.0.1 OSQA.com
 127.0.0.1 PAKpolice.com
 127.0.0.1 PHLpolice.com
-127.0.0.1 Powered
 127.0.0.1 Question2Answer.com
 127.0.0.1 RUSpolice.com
 127.0.0.1 RUSpolice.net
 127.0.0.1 TRIANGLESERVICESLTD.COM
-127.0.0.1 Technology
 127.0.0.1 TheBizMeet.com
-127.0.0.1 UNIX,
 127.0.0.1 USApolice.com
-127.0.0.1 ]]>
 127.0.0.1 ___id___.c.mystat-in.net
 127.0.0.1 _thums.ero-advertising.com
-127.0.0.1 _wpcf7
 127.0.0.1 a-a-access.com
 127.0.0.1 a-ads.com
 127.0.0.1 a-counter.com.ua
@@ -34450,11 +34433,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 clashmobile.com
 127.0.0.1 class-act-clicks.com
 127.0.0.1 class.heraldnet.com
-127.0.0.1 class="description">Interactive
-127.0.0.1 class="entry">
-127.0.0.1 class="page_item
-127.0.0.1 class="post"
-127.0.0.1 class='xoxo
 127.0.0.1 classic.mbn.com.ua
 127.0.0.1 classicalbitu.com
 127.0.0.1 classicallyabsurdphotography.com
@@ -37433,7 +37411,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cursecom.ivwbox.de
 127.0.0.1 cursor.kvada.globescale.com
 127.0.0.1 curtis-keim.us
-127.0.0.1 custom
 127.0.0.1 custom-wrs.api.responsys.net
 127.0.0.1 custom.exoclick.com
 127.0.0.1 custom.mobpartner.mobi
@@ -37528,7 +37505,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cznshuya.ivnet.ru
 127.0.0.1 czproxy8.cz
 127.0.0.1 czrqs.voluumtrk.com
-127.0.0.1 d(a){var
 127.0.0.1 d-cache.microad.jp
 127.0.0.1 d-cache.microadinc.com
 127.0.0.1 d-track.send.microad.jp
@@ -40674,7 +40650,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 falkag.net
 127.0.0.1 fallencrafts.info
 127.0.0.1 fallon-navarro.us
-127.0.0.1 false;
 127.0.0.1 falstaff.oewabox.at
 127.0.0.1 family-offer.com
 127.0.0.1 familyupport1.com
@@ -40831,7 +40806,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 fe3-uk.imrworldwide.com
 127.0.0.1 fe4-uk.imrworldwide.com
 127.0.0.1 feaecebook.com
-127.0.0.1 feature
 127.0.0.1 feclo.voluumtrk.com
 127.0.0.1 fedex.demdex.net
 127.0.0.1 fedex.tt.omtrdc.net
@@ -40868,7 +40842,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 feedshare.flipora.com
 127.0.0.1 feedsweep.us.intellitxt.com
 127.0.0.1 feedx.bidsystem.com
-127.0.0.1 feel
 127.0.0.1 fei.pro-market.net
 127.0.0.1 felanco.heliohost.org
 127.0.0.1 felceconserve.com
@@ -43987,7 +43960,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 hostedaje14.thruport.com
 127.0.0.1 hostedbannerads.aebn.net
 127.0.0.1 hostedmovieupdates.aebn.net
-127.0.0.1 hosting
 127.0.0.1 hosting-controlid1.tk
 127.0.0.1 hosting-controlnext.tk
 127.0.0.1 hosting-controlpin.tk
@@ -44062,16 +44034,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 hrads.valuead.com
 127.0.0.1 hrdcvn.com.vn
 127.0.0.1 hrdya.voluumtrk.com
-127.0.0.1 href="http://edrewes.com/"
-127.0.0.1 href="http://goo.gl/9Cydh"
-127.0.0.1 href="http://goo.gl/FFNWq"
-127.0.0.1 href="http://www.downtownmakeover.com/"
-127.0.0.1 href="http://www.gjtech.net/">G&amp;J
-127.0.0.1 href="http://www.gjtech.net/wp-content/themes/simplex/css/autumn.css"
-127.0.0.1 href="http://www.gjtech.net/wp-login.php">Log
-127.0.0.1 href="http://www.jmstudioinc.com/"
-127.0.0.1 href="http://www.newsreview.com/reno/home"
-127.0.0.1 href="http://www.smartbrand.biz/"
 127.0.0.1 hrgde.adocean.pl
 127.0.0.1 hruner.com
 127.0.0.1 hs-sites.com
@@ -44109,7 +44071,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ht.youporn.com
 127.0.0.1 htinua.justclick.ru
 127.0.0.1 htm.freelogs.com
-127.0.0.1 html
 127.0.0.1 html-images.realnetworks.com
 127.0.0.1 html.atm.youku.com
 127.0.0.1 html.centralmediaserver.com
@@ -44128,7 +44089,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 htmlhubing.xyz
 127.0.0.1 htmlwww.youfck.com
 127.0.0.1 htt.jmp9.com
-127.0.0.1 http-equiv="Content-Type"
 127.0.0.1 http.content.ru4.com
 127.0.0.1 http.edge.ru4.com
 127.0.0.1 http.tidaltv.com.10088.9022.302br.net
@@ -44491,23 +44451,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 id11938.luxup.ru
 127.0.0.1 id405441215-8305493831.h121h9.com
 127.0.0.1 id5576.al21.luxup.ru
-127.0.0.1 id="awstats"
-127.0.0.1 id="content"
-127.0.0.1 id="footer">
-127.0.0.1 id="footerarea">
-127.0.0.1 id="footerleft">&copy;
-127.0.0.1 id="footerright"><a
-127.0.0.1 id="header">
-127.0.0.1 id="headerimg">
-127.0.0.1 id="linkcat-12"
-127.0.0.1 id="linkcat-13"
-127.0.0.1 id="linkcat-15"
-127.0.0.1 id="page">
-127.0.0.1 id="pages-4"
-127.0.0.1 id="pages-5"
-127.0.0.1 id="searchdiv"></div>
-127.0.0.1 id="sidebar">
-127.0.0.1 id="tiny_meta"
 127.0.0.1 idb.hitbox.com
 127.0.0.1 idcounter.com
 127.0.0.1 iddiction.com
@@ -45281,7 +45224,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 inklineglobal.com
 127.0.0.1 inkshare.com
 127.0.0.1 inl.adbureau.net
-127.0.0.1 inline
 127.0.0.1 inline.admedia.com
 127.0.0.1 inline.playbryte.com
 127.0.0.1 inlinea.co.uk
@@ -47756,7 +47698,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 lstat.youku.com
 127.0.0.1 lstats.qip.ru
 127.0.0.1 lsut8.voluumtrk.com
-127.0.0.1 lt
 127.0.0.1 lt.adocean.pl
 127.0.0.1 lt.andomedia.com
 127.0.0.1 lt.angelfire.com
@@ -47765,7 +47706,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 lt.retargeter.com
 127.0.0.1 lt3.hit.stat24.com
 127.0.0.1 ltassrv.com.s3.amazonaws.com
-127.0.0.1 lte
 127.0.0.1 ltljm.voluumtrk.com
 127.0.0.1 ltur.112.2o7.net
 127.0.0.1 ltur.ivwbox.de
@@ -50496,7 +50436,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 nailbytes1.com
 127.0.0.1 naj.sk
 127.0.0.1 nam11.voluumtrk.com
-127.0.0.1 name="generator"
 127.0.0.1 nameadmininc.com
 127.0.0.1 namedia.com
 127.0.0.1 namestation.tenderapp.com
@@ -51045,7 +50984,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 nol.yahoo.com
 127.0.0.1 nomen-est-omen.de
 127.0.0.1 nonames.tk
-127.0.0.1 none
 127.0.0.1 nonsi.csheaven.com
 127.0.0.1 nonstopeddanceraz.su
 127.0.0.1 noobgirls.com
@@ -51831,7 +51769,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 oewa.at
 127.0.0.1 oewa.oewabox.at
 127.0.0.1 oewabox.at
-127.0.0.1 of
 127.0.0.1 of.inviziads.com
 127.0.0.1 of3ga.voluumtrk.com
 127.0.0.1 ofdtracker.com
@@ -54093,7 +54030,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 profile.bharatmatrimony.com
 127.0.0.1 profile.uimserv.net
 127.0.0.1 profile.uproxx.com
-127.0.0.1 profile="http://gmpg.org/xfn/11">
 127.0.0.1 profileawareness.com
 127.0.0.1 profiles.hitslink.com
 127.0.0.1 profiles.mydirtyhobby.com
@@ -55353,15 +55289,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 reklame.unwired-i.net
 127.0.0.1 reklamer.com.ua
 127.0.0.1 reklamy.sfd.pl
-127.0.0.1 rel="EditURI"
-127.0.0.1 rel="alternate"
-127.0.0.1 rel="canonical"
-127.0.0.1 rel="pingback"
-127.0.0.1 rel="stylesheet"
-127.0.0.1 rel="wlwmanifest"
-127.0.0.1 rel='https://api.w.org/'
-127.0.0.1 rel='shortlink'
-127.0.0.1 rel='stylesheet'
 127.0.0.1 relap.io
 127.0.0.1 relatedweboffers.com
 127.0.0.1 relay-ba.ads.httpool.com
@@ -58383,7 +58310,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sr.adrevolver.com
 127.0.0.1 sr2.liveperson.net
 127.0.0.1 src.kitcode.net
-127.0.0.1 src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7.js"
 127.0.0.1 srch.atdmt.com
 127.0.0.1 srch.startnow.com
 127.0.0.1 srclickpro.ru
@@ -60064,7 +59990,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ta.at.ic5mp.net
 127.0.0.1 ta.at.user-mode-linux.net
 127.0.0.1 ta.demdex.net
-127.0.0.1 tabContainers
 127.0.0.1 tabatha-mcallister.us
 127.0.0.1 tabex.sopharma.bg
 127.0.0.1 tabligheirani.com
@@ -62016,7 +61941,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 transact.justclick.ru
 127.0.0.1 transfermarkt01.wt-eu02.net
 127.0.0.1 transition.adtrgt.com
-127.0.0.1 translation
 127.0.0.1 transparty.net
 127.0.0.1 travel-and-weather.msnbc.us.intellitxt.com
 127.0.0.1 travel-insurance-quotes.beesearch.info
@@ -62386,11 +62310,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 txt.adv.vz.ru
 127.0.0.1 txtimpact.com
 127.0.0.1 tynt.com
-127.0.0.1 type="text/css">
-127.0.0.1 type="text/javascript"
-127.0.0.1 type="text/javascript">
-127.0.0.1 type='text/javascript'
-127.0.0.1 type='text/javascript'>
 127.0.0.1 typeofmarijuana.com
 127.0.0.1 typiol.com
 127.0.0.1 typo3.ero-advertising.com
@@ -68219,7 +68138,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 wisti.adulte3g.com
 127.0.0.1 witbe.net
 127.0.0.1 witch-counter.de
-127.0.0.1 with
 127.0.0.1 withleather.us.intellitxt.com
 127.0.0.1 wixx.caliptopis.cl
 127.0.0.1 wizard.bannerforge.com
@@ -74588,7 +74506,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 xml2.trafficsyndicate.com
 127.0.0.1 xmlconfig.ltassrv.com.s3.amazonaws.com
 127.0.0.1 xmlheads.com
-127.0.0.1 xmlns="http://www.w3.org/1999/xhtml"
 127.0.0.1 xmlpitstop.us.intellitxt.com
 127.0.0.1 xmpie.vo.llnwd.net
 127.0.0.1 xmts.net
@@ -75126,26 +75043,3 @@ ff02::2 ip6-allrouters
 127.0.0.1 zz.cqcounter.com
 127.0.0.1 zz.zeroredirect1.com
 127.0.0.1 zzz.clickbank.net
-127.0.0.1 {
-<![endif]-->
-</body>
-</div>
-</head>
-</html>
-</li>
-</script>
-</style>
-</ul>
-<body>
-<h2>Welcome</h2>
-<ul>
-img.wp-smiley,
-jQuery('div
-jQuery(function(){
-jQuery(this).addClass('current');
-tabContainers.filter(this.hash).show();
-tabContainers.hide().filter('
-tabContainers.hide();
-}
-}).filter('
-});
