@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75033 ad serving and malware domains.
+# Currently blocking 75035 ad serving and malware domains.
 #
-# Date Generated: Sep 11 2016
+# Date Generated: Sep 12 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1903,6 +1903,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 7lfu6.voluumtrk.com
 127.0.0.1 7meta.com
 127.0.0.1 7metasearch.com
+127.0.0.1 7n0zz.300prize.7113879.com
 127.0.0.1 7ntrp.voluumtrk.com
 127.0.0.1 7qkuf.voluumtrk.com
 127.0.0.1 7search.com
@@ -59688,6 +59689,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sw.static.planet49.com
 127.0.0.1 swa.demdex.net
 127.0.0.1 swag.go2cloud.org
+127.0.0.1 swan-swan-goose.com
 127.0.0.1 swappit.tapad.com
 127.0.0.1 sweepstakes.about.com
 127.0.0.1 sweepstakes.com
