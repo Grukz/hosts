@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75093 ad serving and malware domains.
+# Currently blocking 75092 ad serving and malware domains.
 #
-# Date Generated: Sep 17 2016
+# Date Generated: Sep 18 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -34397,6 +34397,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 citi.netmng.com
 127.0.0.1 citicorpcreditservic.tt.omtrdc.net
 127.0.0.1 citizens.inq.com
+127.0.0.1 citricbenz.website
 127.0.0.1 citrix.market2lead.com
 127.0.0.1 citrix.tradedoubler.com
 127.0.0.1 city-ads.de
@@ -50914,7 +50915,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 nj.fo.startappservice.com
 127.0.0.1 njashka.ru
 127.0.0.1 njfy6.voluumtrk.com
-127.0.0.1 njhnayuan.com
 127.0.0.1 njmvc.112.2o7.net
 127.0.0.1 njtgsd.attackthethrone.com
 127.0.0.1 njump.youmobistein.com
@@ -72696,7 +72696,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.salentoeasy.it
 127.0.0.1 www.salesonline.ie
 127.0.0.1 www.salldo.de
-127.0.0.1 www.samb0a.com
 127.0.0.1 www.samsclub33.pochta.ru
 127.0.0.1 www.sankyo.gr.jp
 127.0.0.1 www.sanoma-adverteren.nl
