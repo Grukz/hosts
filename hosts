@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75092 ad serving and malware domains.
+# Currently blocking 75094 ad serving and malware domains.
 #
-# Date Generated: Sep 19 2016
+# Date Generated: Sep 20 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -43026,6 +43026,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 good.9downloadall.com
 127.0.0.1 goodbizez.com
 127.0.0.1 goodbookbook.com
+127.0.0.1 goodbytoname.com
 127.0.0.1 gooddata.com
 127.0.0.1 goodiemob.com
 127.0.0.1 goods.marketgid.com
@@ -62798,6 +62799,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ukrbanner.net
 127.0.0.1 ukrfarms.com.ua
 127.0.0.1 ukrpts.net
+127.0.0.1 uktc.ijento.com
 127.0.0.1 uktvandroid.2cnt.net
 127.0.0.1 uktvdotcom.2cnt.net
 127.0.0.1 uktvios.2cnt.net
