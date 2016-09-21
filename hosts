@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75094 ad serving and malware domains.
+# Currently blocking 75095 ad serving and malware domains.
 #
-# Date Generated: Sep 20 2016
+# Date Generated: Sep 21 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -56791,6 +56791,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sdk.justad.mobi
 127.0.0.1 sdk.testflightapp.com
 127.0.0.1 sdkm.w.inmobi.com
+127.0.0.1 sdmoffshore.com
 127.0.0.1 sdo.oewabox.at
 127.0.0.1 sdogiu.bestamazontips.com
 127.0.0.1 sdr.totango.com
