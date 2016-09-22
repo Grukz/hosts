@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75095 ad serving and malware domains.
+# Currently blocking 75098 ad serving and malware domains.
 #
-# Date Generated: Sep 21 2016
+# Date Generated: Sep 22 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26654,6 +26654,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aperture.displaymarketplace.com
 127.0.0.1 apex-ad.com
 127.0.0.1 apex.go.sonobi.com
+127.0.0.1 apexgames.org
 127.0.0.1 aphrodite.porntrack.com
 127.0.0.1 api-public.addthis.com
 127.0.0.1 api.140proof.com
@@ -27119,6 +27120,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 arroyomedia.go2cloud.org
 127.0.0.1 ars.couphole.com
 127.0.0.1 arsconsole.global-intermedia.com
+127.0.0.1 art-archiv.ru
 127.0.0.1 art-music-rewardpath.com
 127.0.0.1 art-of-forex.justclick.ru
 127.0.0.1 art-offer.com
@@ -38399,6 +38401,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 deposituploads.com
 127.0.0.1 der-wallstreet-trick.eu
 127.0.0.1 derekhail.us.intellitxt.com
+127.0.0.1 dereksing.top
 127.0.0.1 derigina.justclick.ru
 127.0.0.1 deriversal.com
 127.0.0.1 derkeiler.com
@@ -43419,7 +43422,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 hairboutique.us.intellitxt.com
 127.0.0.1 hairg.biz
 127.0.0.1 hakerzy.net
-127.0.0.1 haksuara.com
 127.0.0.1 hal9000.redintelligence.net
 127.0.0.1 halc.iadvize.com
 127.0.0.1 haley-seeber.us
@@ -50613,6 +50615,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 neecot.org
 127.0.0.1 need.2mng.com
 127.0.0.1 needadvertising.com
+127.0.0.1 neevavantgarde.com
 127.0.0.1 nefib.tourstogo.us
 127.0.0.1 negadbg.hit.gemius.pl
 127.0.0.1 negmediaconsulting.go2cloud.org
