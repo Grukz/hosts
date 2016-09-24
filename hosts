@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75357 ad serving and malware domains.
+# Currently blocking 75359 ad serving and malware domains.
 #
-# Date Generated: Sep 23 2016
+# Date Generated: Sep 24 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -21922,6 +21922,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.vkushti.tv
 127.0.0.1 ads.vntsm.com
 127.0.0.1 ads.vnuemedia.com
+127.0.0.1 ads.vnumedia.com
 127.0.0.1 ads.voyit.com
 127.0.0.1 ads.vporn.com
 127.0.0.1 ads.vreme.bg
@@ -34346,6 +34347,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ciaoshopde.122.2o7.net
 127.0.0.1 ciaoshopit.122.2o7.net
 127.0.0.1 cibleclick.com
+127.0.0.1 ciceidr.top
 127.0.0.1 cicero-dropbox.tk
 127.0.0.1 ciclismovalenciano.com
 127.0.0.1 cid.pardot.com
@@ -34665,6 +34667,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 clickad.pl
 127.0.0.1 clickadscounter.com
 127.0.0.1 clickadu.com
+127.0.0.1 clickadz.com
 127.0.0.1 clickagents.com
 127.0.0.1 clickagy.com
 127.0.0.1 clickarrows.com
@@ -45351,6 +45354,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 installmac.com
 127.0.0.1 instant-access.sex-explorer.com
 127.0.0.1 instantbuzz.com
+127.0.0.1 instantmadness.com
 127.0.0.1 instinctiveads.com
 127.0.0.1 instore-audience.pb.adition.com
 127.0.0.1 instruminahui.edu.ec
@@ -54989,6 +54993,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rampidads.com
 127.0.0.1 randall-mccabe.us
 127.0.0.1 randevumads.com
+127.0.0.1 rank-master.com
 127.0.0.1 rank-master.de
 127.0.0.1 rankchamp.de
 127.0.0.1 ranker.springboardplatform.com
@@ -56831,7 +56836,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sdk.justad.mobi
 127.0.0.1 sdk.testflightapp.com
 127.0.0.1 sdkm.w.inmobi.com
-127.0.0.1 sdmoffshore.com
 127.0.0.1 sdo.oewabox.at
 127.0.0.1 sdogiu.bestamazontips.com
 127.0.0.1 sdr.totango.com
@@ -59610,7 +59614,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 su.addthis.com
 127.0.0.1 su600.com
 127.0.0.1 suads.sulekha.com
-127.0.0.1 suavalds.com
 127.0.0.1 sub.beirinckx.be
 127.0.0.1 sub.hablum.info
 127.0.0.1 sub.uniust.info
@@ -62576,7 +62579,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tv2no.linkpulse.com
 127.0.0.1 tv4chan.com
 127.0.0.1 tv4play-se.c.richmetrics.com
-127.0.0.1 tvas-c.pw
 127.0.0.1 tvfanatic.us.intellitxt.com
 127.0.0.1 tvguide.112.2o7.net
 127.0.0.1 tvinfo.ivwbox.de
