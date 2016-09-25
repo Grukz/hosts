@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75359 ad serving and malware domains.
+# Currently blocking 75361 ad serving and malware domains.
 #
-# Date Generated: Sep 24 2016
+# Date Generated: Sep 25 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -46361,6 +46361,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 katrina-urias.us
 127.0.0.1 katu.adbureau.net
 127.0.0.1 kavanga.ru
+127.0.0.1 kaydayeuti.axfree.com
 127.0.0.1 kayla-massie.us
 127.0.0.1 kaylee-donley.us
 127.0.0.1 kayleigh-cota.us
@@ -69466,6 +69467,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.annuaire-autosurf.com
 127.0.0.1 www.annuncio.com.do
 127.0.0.1 www.anonymousads.com
+127.0.0.1 www.anothersideofpeace.org
 127.0.0.1 www.anrdoezrs.net
 127.0.0.1 www.answermedia.com
 127.0.0.1 www.antaraimedia.com
