@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75361 ad serving and malware domains.
+# Currently blocking 75363 ad serving and malware domains.
 #
-# Date Generated: Sep 27 2016
+# Date Generated: Sep 28 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -38122,6 +38122,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dbbsrv.com
 127.0.0.1 dbg52463.moatads.com
 127.0.0.1 dbi1.surf-town.net
+127.0.0.1 dbimbem.axfree.com
 127.0.0.1 dbios.org
 127.0.0.1 dbltb.vmsn.de
 127.0.0.1 dbltb02.vmsn.de
@@ -52873,6 +52874,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 parkingcrew.net
 127.0.0.1 parradoodle.bravejournal.com
 127.0.0.1 parse.ly
+127.0.0.1 parsely.com
 127.0.0.1 parship.122.2o7.net
 127.0.0.1 parship.co.uk
 127.0.0.1 parskabab.com
