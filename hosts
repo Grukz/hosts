@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75366 ad serving and malware domains.
+# Currently blocking 75364 ad serving and malware domains.
 #
-# Date Generated: Sep 30 2016
+# Date Generated: Oct 01 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -31003,7 +31003,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bracewellfamily.com
 127.0.0.1 bradpittnow.us.intellitxt.com
 127.0.0.1 brain.cubi.me
-127.0.0.1 braincaffe.net
 127.0.0.1 braincash.com
 127.0.0.1 brainient.com
 127.0.0.1 brainteasers.freestats.com
@@ -37423,6 +37422,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ctnetwork.hu
 127.0.0.1 ctnsnet.com
 127.0.0.1 ctologger01.analytics.go.com
+127.0.0.1 ctqbrands.com
 127.0.0.1 ctr-iwb.nmg.de
 127.0.0.1 ctr-opc.nmg.de
 127.0.0.1 ctr.nmg.de
@@ -44157,7 +44157,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 htmlcenter.us.intellitxt.com
 127.0.0.1 htmlcounter.com
 127.0.0.1 htmldialer.parisvoyeur.com
-127.0.0.1 htmlhubing.xyz
 127.0.0.1 htmlwww.youfck.com
 127.0.0.1 htt.jmp9.com
 127.0.0.1 http.content.ru4.com
@@ -52785,7 +52784,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pagepeels.sexmoney.com
 127.0.0.1 pagerank-ranking.com
 127.0.0.1 pagerank-ranking.de
-127.0.0.1 pagerank-submitter.com
 127.0.0.1 pagerank-submitter.de
 127.0.0.1 pagerank-suchmaschine.de
 127.0.0.1 pagerank-united.de
