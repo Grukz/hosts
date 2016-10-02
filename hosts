@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75364 ad serving and malware domains.
+# Currently blocking 75362 ad serving and malware domains.
 #
-# Date Generated: Oct 01 2016
+# Date Generated: Oct 02 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -37422,7 +37422,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ctnetwork.hu
 127.0.0.1 ctnsnet.com
 127.0.0.1 ctologger01.analytics.go.com
-127.0.0.1 ctqbrands.com
 127.0.0.1 ctr-iwb.nmg.de
 127.0.0.1 ctr-opc.nmg.de
 127.0.0.1 ctr.nmg.de
@@ -46904,7 +46903,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 learn.doubleclick.net
 127.0.0.1 learning-offer.com
 127.0.0.1 leave.exacttarget.com
-127.0.0.1 lebedev30.ru
 127.0.0.1 leeenterprises.112.2o7.net
 127.0.0.1 lefos.net
 127.0.0.1 legacylabs.go2cloud.org
