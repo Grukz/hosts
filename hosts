@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75377 ad serving and malware domains.
+# Currently blocking 75380 ad serving and malware domains.
 #
-# Date Generated: Oct 03 2016
+# Date Generated: Oct 04 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -27560,6 +27560,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 avalon.topbucks.com
 127.0.0.1 avant.science
 127.0.0.1 avantlink.com
+127.0.0.1 avast-mail-security.download
 127.0.0.1 avastats.com
 127.0.0.1 avatar.truongton.net
 127.0.0.1 avatarcash.com
@@ -43592,6 +43593,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 heavycom.122.2o7.net
 127.0.0.1 hebdotop.com
 127.0.0.1 hector-lash.us
+127.0.0.1 heeraconnect.org.ru
 127.0.0.1 heias.com
 127.0.0.1 heias.de
 127.0.0.1 heine.adclear.net
@@ -73242,6 +73244,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.skimlinks.com
 127.0.0.1 www.skyenetmedia.com
 127.0.0.1 www.skyhookwireless.com
+127.0.0.1 www.slapintins.publicvm.com
 127.0.0.1 www.slayerlife.com
 127.0.0.1 www.slidesearch.net
 127.0.0.1 www.slivki.com.ua
