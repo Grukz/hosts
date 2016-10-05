@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75380 ad serving and malware domains.
+# Currently blocking 75383 ad serving and malware domains.
 #
-# Date Generated: Oct 04 2016
+# Date Generated: Oct 05 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -43316,6 +43316,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 groupsetzipmyjob.org
 127.0.0.1 groupware.adition.com
 127.0.0.1 grow.kissmetrics.com
+127.0.0.1 growyourownteacher.co.uk
 127.0.0.1 grsyd.voluumtrk.com
 127.0.0.1 grunerandjahr.112.2o7.net
 127.0.0.1 grupoblidoo.go2cloud.org
@@ -45515,6 +45516,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 iosads24.adcolony.com
 127.0.0.1 iota1.rtb.appier.net
 127.0.0.1 iota5.rtb.appier.net
+127.0.0.1 ioubes.press
 127.0.0.1 iovation.co.uk
 127.0.0.1 iovation.com
 127.0.0.1 ip-182-50-129-164.ip.secureserver.net
@@ -69619,6 +69621,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.badassjv.com
 127.0.0.1 www.badoink.com
 127.0.0.1 www.bagslap.com
+127.0.0.1 www.baiducdn.org
 127.0.0.1 www.bakler.net
 127.0.0.1 www.baleron.com
 127.0.0.1 www.ballsack.org
