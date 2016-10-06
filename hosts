@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75383 ad serving and malware domains.
+# Currently blocking 75391 ad serving and malware domains.
 #
-# Date Generated: Oct 05 2016
+# Date Generated: Oct 06 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26791,6 +26791,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.taplytics.com
 127.0.0.1 api.taps.io
 127.0.0.1 api.target.smi2.net
+127.0.0.1 api.testrequest.info
 127.0.0.1 api.thetrafficstat.net
 127.0.0.1 api.tns-cs.net
 127.0.0.1 api.trackuity.com
@@ -26831,12 +26832,16 @@ ff02::2 ip6-allrouters
 127.0.0.1 api1.thesearchagency.net
 127.0.0.1 api15.cmdragracing.com
 127.0.0.1 api2.playhaven.com
+127.0.0.1 api2.testrequest.info
 127.0.0.1 api2.thesearchagency.net
 127.0.0.1 api28.thetrafficstat.net
 127.0.0.1 api28.webovernet.com
+127.0.0.1 api3.testrequest.info
 127.0.0.1 api3.thesearchagency.net
 127.0.0.1 api31.thetrafficstat.net
+127.0.0.1 api4.testrequest.info
 127.0.0.1 api4.thesearchagency.net
+127.0.0.1 api5.testrequest.info
 127.0.0.1 api5.thesearchagency.net
 127.0.0.1 api6.thesearchagency.net
 127.0.0.1 api7.thesearchagency.net
@@ -37122,6 +37127,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cpatrackr.com
 127.0.0.1 cpatraffictracker.com
 127.0.0.1 cpaway.afftrack.com
+127.0.0.1 cpayard.com
 127.0.0.1 cpays.com
 127.0.0.1 cpc.trafiz.net
 127.0.0.1 cpcadnet.com
@@ -44320,7 +44326,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 i.linkurysearch.me
 127.0.0.1 i.m3.net
 127.0.0.1 i.media.cz
-127.0.0.1 i.mol.im
 127.0.0.1 i.moreover.com
 127.0.0.1 i.mxplayer.j2inter.com
 127.0.0.1 i.n.jwpltx.com
@@ -46900,6 +46905,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 leads.demandbase.com
 127.0.0.1 leads.ohecampus.com
 127.0.0.1 leadsynaptic.go2jump.org
+127.0.0.1 leadtrackgo.com
 127.0.0.1 leadtracking.plumvoice.com
 127.0.0.1 leadzupc.com
 127.0.0.1 leagleconsulting.com
@@ -62387,6 +62393,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trk.kissmetrics.com
 127.0.0.1 trk.m.libero.it
 127.0.0.1 trk.mailtoward.com
+127.0.0.1 trk.mobile-setting.com
 127.0.0.1 trk.newtention.net
 127.0.0.1 trk.pswec.com
 127.0.0.1 trk.rrcpm.com
@@ -70287,6 +70294,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.cpatrac.com
 127.0.0.1 www.cpatrackkee.com
 127.0.0.1 www.cpatrackr.com
+127.0.0.1 www.cpayard.com
 127.0.0.1 www.cpays.com
 127.0.0.1 www.cpd8.net
 127.0.0.1 www.cpm-plus.com
