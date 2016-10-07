@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75391 ad serving and malware domains.
+# Currently blocking 75414 ad serving and malware domains.
 #
-# Date Generated: Oct 06 2016
+# Date Generated: Oct 07 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -23813,7 +23813,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserver1.lokitorrent.com
 127.0.0.1 adserver1.mediainsight.de
 127.0.0.1 adserver1.mindshare.de
-127.0.0.1 adserver1.mokono.com
 127.0.0.1 adserver1.ogilvy-interactive.de
 127.0.0.1 adserver1.realtracker.com
 127.0.0.1 adserver1.shareconnector.com
@@ -25419,7 +25418,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 affiliates.date-connected.com
 127.0.0.1 affiliates.de
 127.0.0.1 affiliates.deluxepass.com
-127.0.0.1 affiliates.devilfishpartners.com
 127.0.0.1 affiliates.digitalriver.com
 127.0.0.1 affiliates.eblastengine.com
 127.0.0.1 affiliates.esellerate.net
@@ -33430,6 +33428,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cclfx.voluumtrk.com
 127.0.0.1 cclrn.voluumtrk.com
 127.0.0.1 ccn2n.voluumtrk.com
+127.0.0.1 ccpmo.com
 127.0.0.1 ccran.com
 127.0.0.1 ccrbudgetca.112.2o7.net
 127.0.0.1 ccrgaviscom.112.2o7.net
@@ -33615,6 +33614,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.engine.trklnks.com
 127.0.0.1 cdn.epicgameads.com
 127.0.0.1 cdn.epom.com
+127.0.0.1 cdn.epommarket.com
 127.0.0.1 cdn.erendri.com
 127.0.0.1 cdn.errantolo.com
 127.0.0.1 cdn.escalatenetwork.com
@@ -33690,6 +33690,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.hyperpromote.com
 127.0.0.1 cdn.iasrv.com
 127.0.0.1 cdn.idtargeting.com
+127.0.0.1 cdn.imgtty.com
 127.0.0.1 cdn.imrworldwide.com
 127.0.0.1 cdn.inentasky.com
 127.0.0.1 cdn.innity.com
@@ -34426,6 +34427,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 citicorpcreditservic.tt.omtrdc.net
 127.0.0.1 citizens.inq.com
 127.0.0.1 citricbenz.website
+127.0.0.1 citrio.com
 127.0.0.1 citrix.market2lead.com
 127.0.0.1 citrix.tradedoubler.com
 127.0.0.1 city-ads.de
@@ -40181,7 +40183,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ep73e.voluumtrk.com
 127.0.0.1 epebuild.112.2o7.net
 127.0.0.1 epeople.com
-127.0.0.1 epiccash.com
 127.0.0.1 epicgameads.com
 127.0.0.1 epidm.edgesuite.net
 127.0.0.1 eplans.112.2o7.net
@@ -42018,6 +42019,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 froling.bee.pl
 127.0.0.1 from.rovion.com
 127.0.0.1 fromru.su
+127.0.0.1 fromslowmactofastmac.com
 127.0.0.1 front.adproved.net
 127.0.0.1 front.facetz.net
 127.0.0.1 frontend-loadbalancer.meteorsolutions.com
@@ -46567,11 +46569,13 @@ ff02::2 ip6-allrouters
 127.0.0.1 kona29.kontera.com
 127.0.0.1 kona3.kontera.com
 127.0.0.1 kona32.kontera.com
+127.0.0.1 kona33.kontera.com
 127.0.0.1 kona4.kontera.com
 127.0.0.1 kona5.kontera.com
 127.0.0.1 kona6.kontera.com
 127.0.0.1 kona7.kontera.com
 127.0.0.1 kona8.kontera.com
+127.0.0.1 konax.kontera.com
 127.0.0.1 kondratev.popunder.ru
 127.0.0.1 konflow.com
 127.0.0.1 konnect.videoplaza.tv
@@ -48225,6 +48229,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 macaddictads.snv.futurenet.com
 127.0.0.1 macads.net
 127.0.0.1 maccity.it.intellitxt.com
+127.0.0.1 maccleanersecurity.com
 127.0.0.1 macdailynews.us.intellitxt.com
 127.0.0.1 macgamefiles.us.intellitxt.com
 127.0.0.1 machine.cu.ma
@@ -48362,6 +48367,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 makeherup.us.intellitxt.com
 127.0.0.1 makemeheal.us.intellitxt.com
 127.0.0.1 makemoneyonline.2yu.in
+127.0.0.1 makemoneyrobot.com
 127.0.0.1 makeushot.us.intellitxt.com
 127.0.0.1 mako.checkm8.com
 127.0.0.1 malachite.bnex.com
@@ -50172,9 +50178,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 mtv.ivwbox.de
 127.0.0.1 mtv.nuggad.net
 127.0.0.1 mtv3.spring-tns.net
+127.0.0.1 mtvbrazil-services.vimn.com
 127.0.0.1 mtvn.112.2o7.net
 127.0.0.1 mtvn.demdex.net
 127.0.0.1 mtvnetworks.tt.omtrdc.net
+127.0.0.1 mtvnlatservices.com
 127.0.0.1 mtvu.112.2o7.net
 127.0.0.1 mu-in-f167.1e100.net
 127.0.0.1 muas4.voluumtrk.com
@@ -52782,6 +52790,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 padv.co.il
 127.0.0.1 page-not-found.net
 127.0.0.1 page-x.com
+127.0.0.1 page.0ffer.eu
 127.0.0.1 pagead-googlehosted.l.google.com
 127.0.0.1 pagead.googlesyndication.com
 127.0.0.1 pagead.l.doubleclick.net
@@ -53380,6 +53389,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 picket0.com
 127.0.0.1 pickmeupnews.us.intellitxt.com
 127.0.0.1 pickyourplum.hasoffers.com
+127.0.0.1 pickytime.com
 127.0.0.1 picreel.com
 127.0.0.1 pics.cnomy.com
 127.0.0.1 pics.firstload.de
@@ -53832,6 +53842,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 popme.163.com
 127.0.0.1 popmedia.carpediem.fr
 127.0.0.1 popmyads.com
+127.0.0.1 popmycash.com
 127.0.0.1 popoholic.us.intellitxt.com
 127.0.0.1 poponclick.com
 127.0.0.1 poponthepop.us.intellitxt.com
@@ -57018,6 +57029,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 secure-id.impressiondesk.com
 127.0.0.1 secure-it.imrworldwide.com
 127.0.0.1 secure-jp.imrworldwide.com
+127.0.0.1 secure-js.kontera.com
 127.0.0.1 secure-nz.imrworldwide.com
 127.0.0.1 secure-sg.imrworldwide.com
 127.0.0.1 secure-uk.imrworldwide.com
@@ -57096,6 +57108,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 securedownload01.net
 127.0.0.1 securejoinsite.com
 127.0.0.1 securejump.net
+127.0.0.1 securemacfix.com
 127.0.0.1 securemetrics.apple.com
 127.0.0.1 securepaths.com
 127.0.0.1 securepubads.g.doubleclick.net
@@ -60277,6 +60290,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 target.vivid.com
 127.0.0.1 target.zedo.com
 127.0.0.1 targetclick.com
+127.0.0.1 targetctracker.com
 127.0.0.1 targeting.adwebster.com
 127.0.0.1 targetingnow.com
 127.0.0.1 targetnet.com
@@ -68511,6 +68525,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wm5fixsite.us.intellitxt.com
 127.0.0.1 wmadv.go2cloud.org
 127.0.0.1 wmapp.wiredminds.de
+127.0.0.1 wmedia.adk2x.com
 127.0.0.1 wmedia.rotator.hadj7.adjuggler.net
 127.0.0.1 wmg.112.2o7.net
 127.0.0.1 wmgmulti.112.2o7.net
@@ -69321,6 +69336,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.advancedmaccleaner.com
 127.0.0.1 www.advancesrl.eu
 127.0.0.1 www.advancets.org
+127.0.0.1 www.advanpromo.com
 127.0.0.1 www.advconversion.com
 127.0.0.1 www.adventertainment.it
 127.0.0.1 www.adventori.com
@@ -69907,6 +69923,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.caartoonnetwork.com
 127.0.0.1 www.cadaver.org
 127.0.0.1 www.cam-traffic.com
+127.0.0.1 www.cam4.fr
 127.0.0.1 www.cambodiaoutsourcing.com
 127.0.0.1 www.cambonanza.com
 127.0.0.1 www.cameron-primeaux.us
@@ -70061,6 +70078,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.click-ice.com
 127.0.0.1 www.click-linking.com
 127.0.0.1 www.click-see-save.com
+127.0.0.1 www.click.alibaba.com
 127.0.0.1 www.click10.com
 127.0.0.1 www.click2bank.net
 127.0.0.1 www.click2site.co
@@ -70717,6 +70735,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.exchange.bg
 127.0.0.1 www.exchangead.com
 127.0.0.1 www.exchangebanner.com
+127.0.0.1 www.exclusive-games.website
 127.0.0.1 www.exclusivegiftcards.com
 127.0.0.1 www.exct.net
 127.0.0.1 www.exe-file.de
@@ -72986,6 +73005,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.safelinking.net
 127.0.0.1 www.safelinktracker.com
 127.0.0.1 www.safemobilelink.com
+127.0.0.1 www.safenetdir.com
 127.0.0.1 www.safesoftware182.com
 127.0.0.1 www.safetracgr.com
 127.0.0.1 www.sagent.io
@@ -73580,6 +73600,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.theuseful.com
 127.0.0.1 www.theuseful.net
 127.0.0.1 www.thevanda.tk
+127.0.0.1 www.thewaycloud.com
 127.0.0.1 www.thickcash.com
 127.0.0.1 www.thindivide.com
 127.0.0.1 www.thinktarget.com
@@ -74763,6 +74784,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 x6.xclicks.net
 127.0.0.1 x6.yakiuchi.com
 127.0.0.1 x6.yamanoha.com
+127.0.0.1 x65zz.popularprizes.8981275.com
 127.0.0.1 x6x.a.la
 127.0.0.1 x7.hebiichigo.com
 127.0.0.1 x7.ifdef.jp
@@ -75051,6 +75073,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 yorick.adjuggler.net
 127.0.0.1 yotefiles.com
 127.0.0.1 yottos.com
+127.0.0.1 yotube.com
 127.0.0.1 you2mail.com
 127.0.0.1 youaresogay.com
 127.0.0.1 youcanoptin.com
