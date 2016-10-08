@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75414 ad serving and malware domains.
+# Currently blocking 75416 ad serving and malware domains.
 #
-# Date Generated: Oct 07 2016
+# Date Generated: Oct 08 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -46881,7 +46881,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 lead.adsender.us
 127.0.0.1 lead.program3.com
 127.0.0.1 leadads.go2jump.org
-127.0.0.1 leadaffiliates.com
 127.0.0.1 leadback.advertising.com
 127.0.0.1 leadback.netseer.com
 127.0.0.1 leadbolt.com
@@ -48239,6 +48238,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mackeeperapp2.mackeeper.com
 127.0.0.1 mackeeperapp3.mackeeper.com
 127.0.0.1 mackenzie-brand.us
+127.0.0.1 macmeasurmenthub.club
 127.0.0.1 macmegasite.us.intellitxt.com
 127.0.0.1 macnewsworld.us.intellitxt.com
 127.0.0.1 macnn.us.intellitxt.com
@@ -59524,6 +59524,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stepan007.popunder.ru
 127.0.0.1 stepank.justclick.ru
 127.0.0.1 stephanie-caster.us
+127.0.0.1 stephanie.tnctrx.com
 127.0.0.1 stephany-ashe.us
 127.0.0.1 stephany-boris.us
 127.0.0.1 stephany-taylor.us
@@ -62621,6 +62622,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tvinfo.ivwbox.de
 127.0.0.1 tvlistings3.zap2it.com
 127.0.0.1 tvlistings4.zap2it.com
+127.0.0.1 tvmtracker.com
 127.0.0.1 tvn.adocean.pl
 127.0.0.1 tvn.hit.gemius.pl
 127.0.0.1 tvn2.adocean.pl
