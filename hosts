@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75417 ad serving and malware domains.
+# Currently blocking 75418 ad serving and malware domains.
 #
-# Date Generated: Oct 09 2016
+# Date Generated: Oct 10 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -59821,6 +59821,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sweetpacks.go2cloud.org
 127.0.0.1 sweetsforfree.com
 127.0.0.1 sweettalk.co
+127.0.0.1 swfhostltd.com
 127.0.0.1 swift.com
 127.0.0.1 swimsuitnetwork.com
 127.0.0.1 swissadsolutions.com
