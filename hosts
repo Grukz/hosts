@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75417 ad serving and malware domains.
+# Currently blocking 75425 ad serving and malware domains.
 #
-# Date Generated: Oct 12 2016
+# Date Generated: Oct 13 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -21905,6 +21905,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.videohub.tv
 127.0.0.1 ads.videomega.tv
 127.0.0.1 ads.videoslots.com
+127.0.0.1 ads.videostrip.com-prizes-giveaway.online
 127.0.0.1 ads.videosz.com
 127.0.0.1 ads.vidsense.com
 127.0.0.1 ads.viewlondon.co.uk
@@ -42311,6 +42312,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gateway.blamads.com
 127.0.0.1 gateway.fortunelounge.com
 127.0.0.1 gateways.s3.amazonaws.com
+127.0.0.1 gatewaytracker.com
 127.0.0.1 gather.hankyung.com
 127.0.0.1 gather.us.intellitxt.com
 127.0.0.1 gator.com
@@ -43008,6 +43010,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 go.theadsnet.com
 127.0.0.1 go.toutapp.com
 127.0.0.1 go.trackgold.net
+127.0.0.1 go.tracking222.site
 127.0.0.1 go.trafficshop.com
 127.0.0.1 go.underclick.ru
 127.0.0.1 go.voice2page.com
@@ -47136,6 +47139,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 link.sysmail.fr
 127.0.0.1 link.tbtrack.com
 127.0.0.1 link.tonoffre.fr
+127.0.0.1 link.trackscity.com
 127.0.0.1 link.transibase.fr
 127.0.0.1 link.transiblue.fr
 127.0.0.1 link.transibox.fr
@@ -57833,6 +57837,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 skilljam.com
 127.0.0.1 skimlinks.com
 127.0.0.1 skimlinkscom.skimlinks.com
+127.0.0.1 skimresources.com
 127.0.0.1 skin-care.1.p2l.info
 127.0.0.1 skinhead.com
 127.0.0.1 skinner.ixn.local.vmsn.de
@@ -62296,6 +62301,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trans20120430.getjar.com
 127.0.0.1 transact-can.cedexis.com
 127.0.0.1 transact.justclick.ru
+127.0.0.1 transferhit.com
 127.0.0.1 transfermarkt01.wt-eu02.net
 127.0.0.1 transition.adtrgt.com
 127.0.0.1 transparty.net
@@ -67426,6 +67432,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 voicenetplus.com
 127.0.0.1 voken.eyereturn.com
 127.0.0.1 volkswagen.122.2o7.net
+127.0.0.1 voluum.redirecting.site
 127.0.0.1 vom.sitescout.com
 127.0.0.1 vomba.com
 127.0.0.1 vombashots.com
@@ -68400,7 +68407,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 widget.siteheart.com
 127.0.0.1 widget.stagram.com
 127.0.0.1 widget.supercounters.com
-127.0.0.1 widget.uservoice.com
 127.0.0.1 widget.weibo.com
 127.0.0.1 widget.yavli.com
 127.0.0.1 widget3.linkwithin.com
@@ -71070,6 +71076,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.gammasites.com
 127.0.0.1 www.gamyun.net
 127.0.0.1 www.gasthofpost-ebs.de
+127.0.0.1 www.gatewaytracker.com
 127.0.0.1 www.gator.com
 127.0.0.1 www.gatoradvertisinginformationnetwork.com
 127.0.0.1 www.gaydemonads.com
@@ -73784,6 +73791,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.trafix.ro
 127.0.0.1 www.trafsearchonline.com
 127.0.0.1 www.traktum.com
+127.0.0.1 www.transferhit.com
 127.0.0.1 www.transparty.net
 127.0.0.1 www.travel-leisure-bonuspath.com
 127.0.0.1 www.travel-leisure-premiumblvd.com
