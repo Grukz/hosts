@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 75428 ad serving and malware domains.
 #
-# Date Generated: Oct 14 2016
+# Date Generated: Oct 15 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -40500,6 +40500,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 examinercom.122.2o7.net
 127.0.0.1 examnotes.us.intellitxt.com
 127.0.0.1 exasked.com
+127.0.0.1 exata-contabil.com.br
 127.0.0.1 excelpractic.justclick.ru
 127.0.0.1 exch-e.atdmt.com
 127.0.0.1 exch-eu.atdmt.com
@@ -46483,7 +46484,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 kimberley-mackinnon.us
 127.0.0.1 kimberly-worsham.us
 127.0.0.1 kimia.monetizerlink.com
-127.0.0.1 kindads.com
 127.0.0.1 kinder.oewabox.at
 127.0.0.1 kingpinmedia.net
 127.0.0.1 kinkycards.com
@@ -50418,6 +50418,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mysql11.bob.local.vmsn.de
 127.0.0.1 mysql11.con.local.vmsn.de
 127.0.0.1 mystat-in.net
+127.0.0.1 mystat.pl
 127.0.0.1 mystats.com
 127.0.0.1 mysweetdeals.org
 127.0.0.1 mytds.pr.vc
@@ -74295,7 +74296,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.yourstartingpage.com
 127.0.0.1 www.yourstats.net
 127.0.0.1 www.yourxmasgifts.ru
-127.0.0.1 www.youtube-nocookie.com
 127.0.0.1 www.youyield.com
 127.0.0.1 www.ypmadserver.com
 127.0.0.1 www.ypmate.com
