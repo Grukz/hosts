@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75386 ad serving and malware domains.
+# Currently blocking 75409 ad serving and malware domains.
 #
-# Date Generated: Oct 20 2016
+# Date Generated: Oct 21 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18710,6 +18710,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adclickafrica.com
 127.0.0.1 adclickint.go2cloud.org
 127.0.0.1 adclickmedia.com
+127.0.0.1 adclickservice.com
 127.0.0.1 adclickxpress.com
 127.0.0.1 adclient-af.lp.uol.com.br
 127.0.0.1 adclient-uol.lp.uol.com.br
@@ -23765,6 +23766,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserver.trb.com
 127.0.0.1 adserver.trellian.com
 127.0.0.1 adserver.tribuneinteractive.com
+127.0.0.1 adserver.trojaner-info.de
 127.0.0.1 adserver.tsgadv.com
 127.0.0.1 adserver.tulsaworld.com
 127.0.0.1 adserver.tvcatchup.com
@@ -24962,6 +24964,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 advertising.hiasys.com
 127.0.0.1 advertising.ie
 127.0.0.1 advertising.illinimedia.com
+127.0.0.1 advertising.ingame.de
 127.0.0.1 advertising.jp
 127.0.0.1 advertising.justusboys.net
 127.0.0.1 advertising.lycos.com
@@ -27683,6 +27686,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 azweb.ivwbox.de
 127.0.0.1 azz.badazz.org
 127.0.0.1 b-1st.com
+127.0.0.1 b-aws.aol.com
+127.0.0.1 b-aws.huffingtonpost.com
 127.0.0.1 b-online.de
 127.0.0.1 b.1s2.in.ua
 127.0.0.1 b.abnad.net
@@ -29295,6 +29300,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 beacon.saymedia.com
 127.0.0.1 beacon.schneidercorp.com
 127.0.0.1 beacon.scorecardresearch.com
+127.0.0.1 beacon.searchlinks.com
 127.0.0.1 beacon.securestudies.com
 127.0.0.1 beacon.shazam.com
 127.0.0.1 beacon.sina.com.cn
@@ -30944,7 +30950,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 botw.topbucks.com
 127.0.0.1 bounceexchange.com
 127.0.0.1 bounty.bighits.net
-127.0.0.1 bountysource.com
 127.0.0.1 boutique.telecharger.com
 127.0.0.1 bouygues-care.inq.com
 127.0.0.1 bowlgirl.com
@@ -34957,6 +34962,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 clk.directrev.com
 127.0.0.1 clk.fetchback.com
 127.0.0.1 clk.flmsecure.com
+127.0.0.1 clk.im
 127.0.0.1 clk.integral-marketing.com
 127.0.0.1 clk.jmp9.com
 127.0.0.1 clk.madisonlogic.com
@@ -39920,6 +39926,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 eld.jmp9.com
 127.0.0.1 eldiariodeguadalajara.com
 127.0.0.1 ele.2cnt.net
+127.0.0.1 electosake.com
 127.0.0.1 electrongames.com
 127.0.0.1 electronicarts.112.2o7.net
 127.0.0.1 electronicbillingonline.net
@@ -43520,6 +43527,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 harvester.piano-media.com
 127.0.0.1 has.go2cloud.org
 127.0.0.1 has.it
+127.0.0.1 haso.pubmatic.com
 127.0.0.1 hasoffers.com
 127.0.0.1 hasoffers.ymtrack.com
 127.0.0.1 hastrk1.com
@@ -44453,6 +44461,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 iapref.orange.fr
 127.0.0.1 iapref.wanadoo.fr
 127.0.0.1 iar.worthathousandwords.com
+127.0.0.1 ias.avidmedia.net
 127.0.0.1 ias.hitbox.com
 127.0.0.1 ias2.hitbox.com
 127.0.0.1 iasds01.com
@@ -46486,6 +46495,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kintrisaffiliates.go2cloud.org
 127.0.0.1 kiomi-com01.webtrekk.net
 127.0.0.1 kipasdenim.com
+127.0.0.1 kiplinger-d.openx.net
 127.0.0.1 kiplinger.112.2o7.net
 127.0.0.1 kirgo.at
 127.0.0.1 kissfm.ivwbox.de
@@ -48516,6 +48526,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 masterh5.adriver.ru
 127.0.0.1 masterh6.adriver.ru
 127.0.0.1 mastermind.com
+127.0.0.1 masterofalltradetax.online
 127.0.0.1 masterstats.com
 127.0.0.1 mastertag.effiliation.com
 127.0.0.1 mastertarget.ru
@@ -50585,6 +50596,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nativitystones.go2cloud.org
 127.0.0.1 natlalirans.hotmail.ru
 127.0.0.1 nats.hushmoney.com
+127.0.0.1 nats4.fetishbucks.com
 127.0.0.1 natural.buckeyeenergyforum.com
 127.0.0.1 naturalhealth.us.intellitxt.com
 127.0.0.1 naturalsearchtoolresults.com
@@ -52496,6 +52508,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 owha.vancouverco.com
 127.0.0.1 owlonl.ivwbox.de
 127.0.0.1 owzdu.voluumtrk.com
+127.0.0.1 ox-173-241-242-220.xv.dc.openx.org
 127.0.0.1 ox-d.aa.com
 127.0.0.1 ox-d.adobe.com
 127.0.0.1 ox-d.ads.alliancehealth.com
@@ -52744,6 +52757,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 p4-ajvwyt5lpjazy-us7r2dzqcjsqh7pt-164149-s1-v6exp3-v4.metric.gstatic.com
 127.0.0.1 p4-ajvwyt5lpjazy-us7r2dzqcjsqh7pt-if-v6exp3-v4.metric.gstatic.com
 127.0.0.1 p4010.adskape.ru
+127.0.0.1 p491.atemda.com
 127.0.0.1 p4iov.voluumtrk.com
 127.0.0.1 p4psearch.china.alibaba.com
 127.0.0.1 p4tre.emv3.com
@@ -53515,6 +53529,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pixel.intellitxt.com
 127.0.0.1 pixel.invitemedia.com
 127.0.0.1 pixel.jumptap.com
+127.0.0.1 pixel.keywee.co
 127.0.0.1 pixel.mathtag.com
 127.0.0.1 pixel.moatads.com
 127.0.0.1 pixel.monitor1.returnpath.net
@@ -59102,6 +59117,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 statistik-gallup.net
 127.0.0.1 statistik.biz
 127.0.0.1 statistik.bundestag.de
+127.0.0.1 statistik.polizei-beratung.de
 127.0.0.1 statistik.simaja.de
 127.0.0.1 statistiq.com
 127.0.0.1 statm.the-adult-company.com
@@ -59142,6 +59158,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stats.backcountry.com
 127.0.0.1 stats.bbc.co.uk
 127.0.0.1 stats.becu.org
+127.0.0.1 stats.berkman.harvard.edu
 127.0.0.1 stats.bestvirusremovalsoftware.com
 127.0.0.1 stats.betradar.com
 127.0.0.1 stats.big-boards.com
@@ -68374,6 +68391,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 widget.plugrush.com
 127.0.0.1 widget.publisheradnetwork.com
 127.0.0.1 widget.quantcast.com
+127.0.0.1 widget.realo.be
 127.0.0.1 widget.scoutpa.com
 127.0.0.1 widget.sharecash.org
 127.0.0.1 widget.siteheart.com
@@ -68599,7 +68617,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 ws-eu.amazon-adsystem.com
 127.0.0.1 ws-na.amazon-adsystem.com
 127.0.0.1 ws.00zasdf.pw
+127.0.0.1 ws.abbp1.science
+127.0.0.1 ws.abbp1.website
 127.0.0.1 ws.addthis.com
+127.0.0.1 ws.adspayformy.site
+127.0.0.1 ws.adspayformymortgage.win
 127.0.0.1 ws.amazon.com
 127.0.0.1 ws.poolnoodle.tech
 127.0.0.1 ws.sharethis.com
@@ -70112,6 +70134,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.cliximages.com
 127.0.0.1 www.clixsense.com
 127.0.0.1 www.clixtrac.com
+127.0.0.1 www.clk.im
 127.0.0.1 www.clkads.com
 127.0.0.1 www.clkdeals.com
 127.0.0.1 www.clkerr.com
