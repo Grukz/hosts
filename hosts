@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75408 ad serving and malware domains.
+# Currently blocking 75425 ad serving and malware domains.
 #
-# Date Generated: Oct 23 2016
+# Date Generated: Oct 24 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -20439,6 +20439,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.first-response.be
 127.0.0.1 ads.firstgrand.com
 127.0.0.1 ads.fitpregnancy.com
+127.0.0.1 ads.fixlive.tech
 127.0.0.1 ads.flabber.nl
 127.0.0.1 ads.flashgames247.com
 127.0.0.1 ads.flashtrack.net
@@ -29233,6 +29234,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bc685d37-266c-488e-824e-dd95d1c0e98b.statcamp.net
 127.0.0.1 bc84-88b8-96b7-6515.reporo.net
 127.0.0.1 bcanalytics.bigcommerce.com
+127.0.0.1 bcast.pw
 127.0.0.1 bcbb.rubiconproject.com
 127.0.0.1 bcentral.com
 127.0.0.1 bcfads.com
@@ -37464,6 +37466,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cube.ign.us.intellitxt.com
 127.0.0.1 cubegroup.go2cloud.org
 127.0.0.1 cubics.com
+127.0.0.1 cuccu.me
 127.0.0.1 cucdn.genesismedia.com
 127.0.0.1 cudacorp.com
 127.0.0.1 cuiland.info
@@ -40895,6 +40898,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 feed.topadvert.ru
 127.0.0.1 feed.trafflow.com
 127.0.0.1 feed.validclick.com
+127.0.0.1 feed2allnow.me
 127.0.0.1 feed3.hype-ads.com
 127.0.0.1 feedads.g.doubleclick.net
 127.0.0.1 feedads.googleadservices.com
@@ -43537,6 +43541,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hat.bmanpn.com
 127.0.0.1 hata.ero-advertising.com
 127.0.0.1 hatbo.voluumtrk.com
+127.0.0.1 hatelive.site
 127.0.0.1 hathor.eztonez.com
 127.0.0.1 hatmedia.go2cloud.org
 127.0.0.1 hatrecord.ru
@@ -47259,6 +47264,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 live.sex-explorer.com
 127.0.0.1 live1.logaholic.com
 127.0.0.1 live2.logaholic.com
+127.0.0.1 live3s.me
 127.0.0.1 liveadexchanger.com
 127.0.0.1 liveadvert.com
 127.0.0.1 livecamgirls.streamray.com
@@ -49985,6 +49991,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 moviesocean.com
 127.0.0.1 moviesonline.ca.intellitxt.com
 127.0.0.1 movieweb.us.intellitxt.com
+127.0.0.1 movise.site
 127.0.0.1 movitex.122.2o7.net
 127.0.0.1 movsflix.com
 127.0.0.1 moxs.net
@@ -59592,6 +59599,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stream1.livefyre.com
 127.0.0.1 stream1.marketwatch.fyre.co
 127.0.0.1 stream11.instream.com
+127.0.0.1 stream4u.me
 127.0.0.1 streamagent.sensic.net
 127.0.0.1 streamate.com
 127.0.0.1 streamate.doublepimp.com
@@ -67896,6 +67904,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 watchever.bild.de
 127.0.0.1 watchfree.flv.in
 127.0.0.1 watchfreeflix.aavalue.com
+127.0.0.1 watchlivestream.me.uk
 127.0.0.1 water-bed.8p.org.uk
 127.0.0.1 waterfrontmedia.112.2o7.net
 127.0.0.1 wateristian.com
@@ -69701,6 +69710,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.baypops.com
 127.0.0.1 www.bazingandroid.com
 127.0.0.1 www.bbelements.com
+127.0.0.1 www.bcast.pw
 127.0.0.1 www.bcservice.it
 127.0.0.1 www.bdex.com
 127.0.0.1 www.bdsmxxxmovies.com
@@ -70363,6 +70373,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.cstrk.net
 127.0.0.1 www.ctbdev.net
 127.0.0.1 www.ctrackz.com
+127.0.0.1 www.cuccu.me
 127.0.0.1 www.cupsearch.com
 127.0.0.1 www.cur.lv
 127.0.0.1 www.customads.net
@@ -70792,6 +70803,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.favicon.com
 127.0.0.1 www.favourlinks.net
 127.0.0.1 www.feaecebook.com
+127.0.0.1 www.feed2allnow.me
 127.0.0.1 www.feedblitz.com
 127.0.0.1 www.feedjit.com
 127.0.0.1 www.feedstermedia.com
@@ -71242,6 +71254,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.hastrk2.com
 127.0.0.1 www.hastrk3.com
 127.0.0.1 www.hastrk4.com
+127.0.0.1 www.hatelive.site
 127.0.0.1 www.hausnet.ru
 127.0.0.1 www.have9to.info
 127.0.0.1 www.hayley-mund.us
@@ -71867,6 +71880,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.litra.com.mk
 127.0.0.1 www.little-help.com
 127.0.0.1 www.littledevildoubt.com
+127.0.0.1 www.live3s.me
 127.0.0.1 www.liveadclicks.com
 127.0.0.1 www.liveadexchanger.com
 127.0.0.1 www.livecams.nl
@@ -72206,6 +72220,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.moviedollars.com
 127.0.0.1 www.moviedownloader.net
 127.0.0.1 www.moviepulp.eu
+127.0.0.1 www.movise.site
 127.0.0.1 www.mp-success.com
 127.0.0.1 www.mp3downloadhq.com
 127.0.0.1 www.mp3downloading.com
@@ -73438,6 +73453,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.stormpages.com
 127.0.0.1 www.strawpoii.me
 127.0.0.1 www.stream-online.net
+127.0.0.1 www.stream4u.me
 127.0.0.1 www.streamate.com
 127.0.0.1 www.streamatelive.com
 127.0.0.1 www.streamcastnetworks.com
@@ -74010,6 +74026,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.wapdollar.in
 127.0.0.1 www.wapplanet.org
 127.0.0.1 www.watch24.com
+127.0.0.1 www.watchlivestream.me.uk
 127.0.0.1 www.waveshift.net
 127.0.0.1 www.wdm29.com
 127.0.0.1 www.weatherstudio.com
