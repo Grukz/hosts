@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75425 ad serving and malware domains.
+# Currently blocking 75435 ad serving and malware domains.
 #
-# Date Generated: Oct 24 2016
+# Date Generated: Oct 25 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -29341,6 +29341,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 becomegorgeous.us.intellitxt.com
 127.0.0.1 becontext.com
 127.0.0.1 becounted.baja.com
+127.0.0.1 bedach.stream
 127.0.0.1 bee-ads.com
 127.0.0.1 beead.co.uk
 127.0.0.1 beertraffic.biz
@@ -29373,6 +29374,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 benefique-shiseido.b.appier.net
 127.0.0.1 benhancement.gohip.com
 127.0.0.1 benimreklam.com
+127.0.0.1 benrie.stream
 127.0.0.1 berater.adition.com
 127.0.0.1 bergenstidende.112.2o7.net
 127.0.0.1 bergfex.ivwbox.de
@@ -31112,6 +31114,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 browseraid.com
 127.0.0.1 browserbreckalarm.info
 127.0.0.1 browsertest.web.aol.com
+127.0.0.1 browsesafemac.com
 127.0.0.1 brqvld0p.com
 127.0.0.1 bruceclay.112.2o7.net
 127.0.0.1 brunga.at
@@ -33668,6 +33671,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.freefacti.com
 127.0.0.1 cdn.freefaits.com
 127.0.0.1 cdn.freefarcy.com
+127.0.0.1 cdn.freehalves.com
 127.0.0.1 cdn.frestacero.com
 127.0.0.1 cdn.ftdownloader.net
 127.0.0.1 cdn.funnel.naturaltracking.com
@@ -37978,7 +37982,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dashboard.qubitproducts.com
 127.0.0.1 dashboard.trafficforce.com
 127.0.0.1 dashboardnew.adcalls.nl
-127.0.0.1 dashlinen.testing-domain-live.co.uk
 127.0.0.1 dasoertl.ivwbox.de
 127.0.0.1 dastelef.ivwbox.de
 127.0.0.1 dat2.ero-advertising.com
@@ -38077,6 +38080,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dava.ero-advertising.com
 127.0.0.1 davantage.science
 127.0.0.1 daversion4.digitalbrandsinc.netdna-cdn.com
+127.0.0.1 davewalshphoto.com
 127.0.0.1 daw76z57propz.cloudfront.net
 127.0.0.1 dawa.ero-advertising.com
 127.0.0.1 dawnframing.com
@@ -45371,6 +45375,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 instant-access.sex-explorer.com
 127.0.0.1 instantbuzz.com
 127.0.0.1 instantmadness.com
+127.0.0.1 instinctentertainment.ca
 127.0.0.1 instinctiveads.com
 127.0.0.1 instore-audience.pb.adition.com
 127.0.0.1 instruminahui.edu.ec
@@ -48067,6 +48072,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 m4.fr.2mdn.net
 127.0.0.1 m4.it.2mdn.net
 127.0.0.1 m4.jp.2mdn.net
+127.0.0.1 m4.media-box.co
 127.0.0.1 m4.nl.2mdn.net
 127.0.0.1 m4.no.2mdn.net
 127.0.0.1 m4.nz.2mdn.net
@@ -52388,6 +52394,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 orange.fr-felicitations.xyz
 127.0.0.1 orange.fr-votre-opinion.xyz
 127.0.0.1 orange.fr-votreopinion.xyz
+127.0.0.1 orange.recompenses.xyz
 127.0.0.1 orange.weborama.fr
 127.0.0.1 orangesoda.com
 127.0.0.1 orangesoda.d2.sc.omtrdc.net
@@ -69947,6 +69954,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.candi-nolen.us
 127.0.0.1 www.candi-parman.us
 127.0.0.1 www.candythumbs.com
+127.0.0.1 www.cankardeslerklima.com
 127.0.0.1 www.canuckmethods.com
 127.0.0.1 www.canvas-advert.ru
 127.0.0.1 www.capath.com
@@ -70590,6 +70598,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.easilyask.com
 127.0.0.1 www.easilytrack.com
 127.0.0.1 www.easy-dating.org
+127.0.0.1 www.easy2date.net
 127.0.0.1 www.easyadservice.com
 127.0.0.1 www.easycounter.com
 127.0.0.1 www.easyerase.com
@@ -72778,6 +72787,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.projectcounter.org
 127.0.0.1 www.projectwonderful.com
 127.0.0.1 www.prolapseman.com
+127.0.0.1 www.prologs-consultants.com
 127.0.0.1 www.promo.com.au
 127.0.0.1 www.promobenef.com
 127.0.0.1 www.promolnk.com
