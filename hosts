@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75437 ad serving and malware domains.
+# Currently blocking 75440 ad serving and malware domains.
 #
-# Date Generated: Oct 26 2016
+# Date Generated: Oct 27 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -45731,6 +45731,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 iy3me.voluumtrk.com
 127.0.0.1 iybasketball.info
 127.0.0.1 iyczm.voluumtrk.com
+127.0.0.1 iyfnzgb.com
 127.0.0.1 iymaw.voluumtrk.com
 127.0.0.1 iyogi.demdex.net
 127.0.0.1 izitracking.izimailing.com
@@ -46379,6 +46380,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kathryn-scheele.us
 127.0.0.1 kati-birdsall.us
 127.0.0.1 katie.dntrx.com
+127.0.0.1 katie.tnctrx.com
 127.0.0.1 katlyn-oday.us
 127.0.0.1 katrina-rumbaugh.us
 127.0.0.1 katrina-urias.us
@@ -71595,6 +71597,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.iwebimg.net
 127.0.0.1 www.iws.ro
 127.0.0.1 www.iwstats.com
+127.0.0.1 www.iyfnzgb.com
 127.0.0.1 www.jade-aultman.us
 127.0.0.1 www.jadina-counter.de
 127.0.0.1 www.jag.vmsn.de
