@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75440 ad serving and malware domains.
+# Currently blocking 75441 ad serving and malware domains.
 #
-# Date Generated: Oct 27 2016
+# Date Generated: Oct 28 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -23710,7 +23710,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserver.pressflex.com
 127.0.0.1 adserver.prodigy.net
 127.0.0.1 adserver.proteinos.com
-127.0.0.1 adserver.quizdingo.com
 127.0.0.1 adserver.radio-canada.ca
 127.0.0.1 adserver.ratestar.net
 127.0.0.1 adserver.realhomesex.net
@@ -28458,7 +28457,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 banner.vbonline.com
 127.0.0.1 banner.vegasred.com
 127.0.0.1 banner.vrs.cz
-127.0.0.1 banner.webmersion.com
 127.0.0.1 banner.webtools24.net
 127.0.0.1 banner.westernunion.com
 127.0.0.1 banner.wirenode.com
@@ -34651,6 +34649,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 click.zipcodez.com
 127.0.0.1 click.zxxds.net
 127.0.0.1 click1.mainadv.com
+127.0.0.1 click1.performance-zone.com
 127.0.0.1 click1.rbc.magna.ru
 127.0.0.1 click168.com
 127.0.0.1 click2.cafepress.com
@@ -47903,6 +47902,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 m.adsymptotic.com
 127.0.0.1 m.adtc.daum.net
 127.0.0.1 m.adx.bg
+127.0.0.1 m.ajxqiongbg.com
 127.0.0.1 m.astrokolik.com
 127.0.0.1 m.awesometracker.com
 127.0.0.1 m.banner.linksynergy.com
@@ -54951,7 +54951,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 r17---sn-vgqsenes.googlevideo.com
 127.0.0.1 r2---sn-vgqs7n7k.googlevideo.com
 127.0.0.1 r2.adwo.com
-127.0.0.1 r2.computerbild.de
 127.0.0.1 r2.cooleremail.com
 127.0.0.1 r2.linksynergy.com
 127.0.0.1 r2.plugrush.com
@@ -55775,6 +55774,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rodale.d1.sc.omtrdc.net
 127.0.0.1 rogde.adocean.pl
 127.0.0.1 rogers.demdex.net
+127.0.0.1 rohininair.com
 127.0.0.1 roi.mediaplex.com
 127.0.0.1 roia.biz
 127.0.0.1 roia.hutchmedia.com
@@ -60493,6 +60493,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tech.weeklytribune.net
 127.0.0.1 tech9638514.ru
 127.0.0.1 techakym.pw
+127.0.0.1 techasee.com
 127.0.0.1 techasiamusicsvr.com
 127.0.0.1 techclicks.net
 127.0.0.1 techeblog.us.intellitxt.com
