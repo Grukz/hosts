@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 75441 ad serving and malware domains.
 #
-# Date Generated: Oct 28 2016
+# Date Generated: Oct 29 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -55039,7 +55039,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 randall-mccabe.us
 127.0.0.1 randevumads.com
 127.0.0.1 rank-master.com
-127.0.0.1 rank-master.de
 127.0.0.1 rankchamp.de
 127.0.0.1 ranker.springboardplatform.com
 127.0.0.1 ranking-charts.de
@@ -59662,6 +59661,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 su.addthis.com
 127.0.0.1 su600.com
 127.0.0.1 suads.sulekha.com
+127.0.0.1 suavalds.com
 127.0.0.1 sub.beirinckx.be
 127.0.0.1 sub.hablum.info
 127.0.0.1 sub.uniust.info
@@ -60493,7 +60493,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tech.weeklytribune.net
 127.0.0.1 tech9638514.ru
 127.0.0.1 techakym.pw
-127.0.0.1 techasee.com
 127.0.0.1 techasiamusicsvr.com
 127.0.0.1 techclicks.net
 127.0.0.1 techeblog.us.intellitxt.com
@@ -62314,6 +62313,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 transfermarkt01.wt-eu02.net
 127.0.0.1 transition.adtrgt.com
 127.0.0.1 transparty.net
+127.0.0.1 traptrillhosts.top
 127.0.0.1 travel-and-weather.msnbc.us.intellitxt.com
 127.0.0.1 travel-insurance-quotes.beesearch.info
 127.0.0.1 travel-leisure-bonuspath.com
