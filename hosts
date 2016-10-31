@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75447 ad serving and malware domains.
+# Currently blocking 75450 ad serving and malware domains.
 #
-# Date Generated: Oct 30 2016
+# Date Generated: Oct 31 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -50968,6 +50968,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ni8bd.voluumtrk.com
 127.0.0.1 nickde.oewabox.at
 127.0.0.1 nickleplatedads.com
+127.0.0.1 nickysimon68.tk
 127.0.0.1 nicolette-brier.us
 127.0.0.1 nicolette-salas.us
 127.0.0.1 nid.timesink.com
@@ -71670,6 +71671,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.juicyads.com
 127.0.0.1 www.juliana-mckinzie.us
 127.0.0.1 www.julianna-ferrara.us
+127.0.0.1 www.jumboplastics.ru
 127.0.0.1 www.jumptap.com
 127.0.0.1 www.junbi-tracker.com
 127.0.0.1 www.junecleeland.com
@@ -72274,6 +72276,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.musicmass.com
 127.0.0.1 www.mvav.com
 127.0.0.1 www.mvtracker.com
+127.0.0.1 www.mwebdesign.asia
 127.0.0.1 www.my-dirty-hobby.com
 127.0.0.1 www.my-etracker.com
 127.0.0.1 www.my-linker.com
