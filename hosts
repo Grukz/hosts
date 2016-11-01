@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75450 ad serving and malware domains.
+# Currently blocking 75451 ad serving and malware domains.
 #
-# Date Generated: Oct 31 2016
+# Date Generated: Nov 01 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -72555,6 +72555,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.orgasms4free.com
 127.0.0.1 www.originalicons.com
 127.0.0.1 www.orquestanacaona.cult.cu
+127.0.0.1 www.osregio.de
 127.0.0.1 www.ostsee-schnack.de
 127.0.0.1 www.otherprofit.com
 127.0.0.1 www.otmsrv.com
