@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 75451 ad serving and malware domains.
 #
-# Date Generated: Nov 01 2016
+# Date Generated: Nov 02 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -46289,6 +46289,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jutcom.com
 127.0.0.1 jutebags.tk
 127.0.0.1 jutiagroup.us.intellitxt.com
+127.0.0.1 jutrack.dp.ua
 127.0.0.1 jvesd.voluumtrk.com
 127.0.0.1 jvhuv.voluumtrk.com
 127.0.0.1 jvpmb.voluumtrk.com
@@ -71671,7 +71672,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.juicyads.com
 127.0.0.1 www.juliana-mckinzie.us
 127.0.0.1 www.julianna-ferrara.us
-127.0.0.1 www.jumboplastics.ru
 127.0.0.1 www.jumptap.com
 127.0.0.1 www.junbi-tracker.com
 127.0.0.1 www.junecleeland.com
