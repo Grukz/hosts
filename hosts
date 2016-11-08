@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75530 ad serving and malware domains.
+# Currently blocking 75538 ad serving and malware domains.
 #
-# Date Generated: Nov 07 2016
+# Date Generated: Nov 08 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -33681,6 +33681,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.freefaits.com
 127.0.0.1 cdn.freefarcy.com
 127.0.0.1 cdn.freehalves.com
+127.0.0.1 cdn.freehas.com
+127.0.0.1 cdn.freehonor.com
+127.0.0.1 cdn.freeimply.com
 127.0.0.1 cdn.frestacero.com
 127.0.0.1 cdn.ftdownloader.net
 127.0.0.1 cdn.funnel.naturaltracking.com
@@ -34133,6 +34136,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 celtra.com
 127.0.0.1 cengagecsinfosec.112.2o7.net
 127.0.0.1 cent.adbureau.net
+127.0.0.1 center-message-mobile.com
 127.0.0.1 center-vip.com
 127.0.0.1 centerpoint.hitbox.com
 127.0.0.1 centertrk.com
@@ -43063,6 +43067,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 go.tracking222.site
 127.0.0.1 go.trafficshop.com
 127.0.0.1 go.underclick.ru
+127.0.0.1 go.verymuchad.com
 127.0.0.1 go.voice2page.com
 127.0.0.1 go.vrvm.com
 127.0.0.1 go.wastedpushdevelop.info
@@ -53020,6 +53025,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 partner.shareaholic.com
 127.0.0.1 partner.simplytel.de
 127.0.0.1 partner.stellenanzeigen.de
+127.0.0.1 partner.tagscreator.com
 127.0.0.1 partner.teufel.de
 127.0.0.1 partner.topcities.com
 127.0.0.1 partner.wapacz.pl
@@ -55034,6 +55040,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 r6.cooleremail.com
 127.0.0.1 r6qz8.voluumtrk.com
 127.0.0.1 r7.cooleremail.com
+127.0.0.1 r7mediar.com
 127.0.0.1 r8.cooleremail.com
 127.0.0.1 r9.cooleremail.com
 127.0.0.1 r9pyq.voluumtrk.com
@@ -74199,6 +74206,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.weingut-maurer.com
 127.0.0.1 www.weitclick.de
 127.0.0.1 www.wellsfarg0-onllne.net
+127.0.0.1 www.wellsfarg0-onllne.netw
 127.0.0.1 www.wendi-bell.us
 127.0.0.1 www.weownthetraffic.com
 127.0.0.1 www.werehacked.com
