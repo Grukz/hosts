@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75541 ad serving and malware domains.
+# Currently blocking 75558 ad serving and malware domains.
 #
-# Date Generated: Nov 09 2016
+# Date Generated: Nov 10 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -27401,6 +27401,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 atgratis.com
 127.0.0.1 athena-ads.wikia.com
 127.0.0.1 athena-dirksen.us
+127.0.0.1 atikcookies.co.id
 127.0.0.1 atinternet.com
 127.0.0.1 ativan.ourtablets.com
 127.0.0.1 atkeg.voluumtrk.com
@@ -31003,7 +31004,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bps.beweb.com
 127.0.0.1 bps.tesial-tech.be
 127.0.0.1 bptracking.com
-127.0.0.1 bqtest2.ru
 127.0.0.1 br.adserver.yahoo.com
 127.0.0.1 br.blackfling.com
 127.0.0.1 br.comclick.com
@@ -33685,6 +33685,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.freehas.com
 127.0.0.1 cdn.freehonor.com
 127.0.0.1 cdn.freeimply.com
+127.0.0.1 cdn.freeinfringe.com
+127.0.0.1 cdn.freejars.com
+127.0.0.1 cdn.freejax.com
 127.0.0.1 cdn.frestacero.com
 127.0.0.1 cdn.ftdownloader.net
 127.0.0.1 cdn.funnel.naturaltracking.com
@@ -43190,6 +43193,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gothamistllc.com
 127.0.0.1 gotlaughs.com
 127.0.0.1 goto.maxifiles.com
+127.0.0.1 goto.mystreamdelivery.xyz
 127.0.0.1 goto.trafficmultiplier.com
 127.0.0.1 gotoast.com
 127.0.0.1 gotoo.com
@@ -45300,11 +45304,13 @@ ff02::2 ip6-allrouters
 127.0.0.1 india-forums.us.intellitxt.com
 127.0.0.1 indiads.com
 127.0.0.1 indianapolis.hosted.xms.keynote.com
+127.0.0.1 indianshippingservices.com
 127.0.0.1 indicate.to
 127.0.0.1 indicative.com
 127.0.0.1 indieclick.3janecdn.com
 127.0.0.1 indieclick.com
 127.0.0.1 indigio.122.2o7.net
+127.0.0.1 indisancal.com
 127.0.0.1 indium.openx.net
 127.0.0.1 indocpa.go2cloud.org
 127.0.0.1 indongsang.com
@@ -46701,6 +46707,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kt.tns-gallup.dk
 127.0.0.1 kt4.kliptracker.com
 127.0.0.1 ktmoh.voluumtrk.com
+127.0.0.1 ktrackdata.com
 127.0.0.1 ktu.sv2.biz
 127.0.0.1 ktva.112.2o7.net
 127.0.0.1 ku6.allyes.com
@@ -46818,6 +46825,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lakequincy.com
 127.0.0.1 lakeshore.d1.sc.omtrdc.net
 127.0.0.1 lamictal.about-tabs.com
+127.0.0.1 lamiflor.xyz
 127.0.0.1 lamisil.about-tabs.com
 127.0.0.1 lan.ringtone.com
 127.0.0.1 land-create.com
@@ -46984,6 +46992,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 leapfind.com
 127.0.0.1 learn.doubleclick.net
 127.0.0.1 learning-offer.com
+127.0.0.1 learninginstitute.co.uk
 127.0.0.1 leave.exacttarget.com
 127.0.0.1 leeenterprises.112.2o7.net
 127.0.0.1 lefos.net
@@ -50443,6 +50452,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mypopup.ir
 127.0.0.1 mypowermall.com
 127.0.0.1 myprivateemails.com
+127.0.0.1 mysagagame.com
 127.0.0.1 mysavings.directtrack.com
 127.0.0.1 myscoop-tracking.googlecode.com
 127.0.0.1 myscreen.com
@@ -51022,6 +51032,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nht-3.extreme-dm.com
 127.0.0.1 ni3.imlive.com
 127.0.0.1 ni8bd.voluumtrk.com
+127.0.0.1 nicappazaza.com
 127.0.0.1 nickde.oewabox.at
 127.0.0.1 nickleplatedads.com
 127.0.0.1 nickysimon68.tk
@@ -53433,6 +53444,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 photos7.pop6.com
 127.0.0.1 photos8.pop6.com
 127.0.0.1 photoshop-master.org
+127.0.0.1 phox2ey.bid
 127.0.0.1 php-mag.de.intellitxt.com
 127.0.0.1 php-magnet.de.intellitxt.com
 127.0.0.1 php.bisrv.com
@@ -57199,6 +57211,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 securemetrics.apple.com
 127.0.0.1 securepaths.com
 127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 securerr.com
 127.0.0.1 securerunner.com
 127.0.0.1 securestudies.com
 127.0.0.1 securetabs.com
@@ -61325,6 +61338,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tour.SweetDiscreet.com
 127.0.0.1 tour.affbuzzads.com
 127.0.0.1 tour.brazzers.com
+127.0.0.1 tour.cineble.com
 127.0.0.1 tour.cybererotica.com
 127.0.0.1 tour.xxxblackbook.com
 127.0.0.1 tournevis.ovh
@@ -69832,6 +69846,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.benchbrands.com
 127.0.0.1 www.bernadette-depalma.us
 127.0.0.1 www.bernadette-stefanski.us
+127.0.0.1 www.best-games4you.top
 127.0.0.1 www.best-iphone6s.com
 127.0.0.1 www.best-top.hu
 127.0.0.1 www.best-top.ro
@@ -70571,6 +70586,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.dgmaustralia.com
 127.0.0.1 www.dia-traffic.com
 127.0.0.1 www.dialerplatform.com
+127.0.0.1 www.dialogosdospovos.org
 127.0.0.1 www.diana-buchheit.us
 127.0.0.1 www.dianomi.com
 127.0.0.1 www.dianomioffers.co.uk
@@ -74986,6 +75002,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 xmarkscom.skimlinks.com
 127.0.0.1 xml.adfclick1.com
 127.0.0.1 xml.admanage.com
+127.0.0.1 xml.adservme.com
 127.0.0.1 xml.adsparkmedia.net
 127.0.0.1 xml.adtech.de
 127.0.0.1 xml.adtech.fr
