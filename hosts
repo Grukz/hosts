@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75558 ad serving and malware domains.
+# Currently blocking 75553 ad serving and malware domains.
 #
-# Date Generated: Nov 10 2016
+# Date Generated: Nov 11 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -20055,7 +20055,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.box.sk
 127.0.0.1 ads.boylesports.com
 127.0.0.1 ads.brabys.com
-127.0.0.1 ads.brain.pk
 127.0.0.1 ads.brand.net
 127.0.0.1 ads.brandeins.de
 127.0.0.1 ads.brandfit.net
@@ -39678,7 +39677,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 edge.simplereach.com
 127.0.0.1 edgeio.com
 127.0.0.1 edgy.demo.sproutinc.com
-127.0.0.1 edibuzire.org
 127.0.0.1 edidomus01.webtrekk.net
 127.0.0.1 edietsmain.112.2o7.net
 127.0.0.1 edipresse.adocean.pl
@@ -44614,7 +44612,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 idgpctip.wemfbox.ch
 127.0.0.1 idm.hit.gemius.pl
 127.0.0.1 idm.us.intellitxt.com
-127.0.0.1 idonthavelink.com
 127.0.0.1 idontlikeyouinthatway.us.intellitxt.com
 127.0.0.1 idot.cz
 127.0.0.1 idpix.media6degrees.com
@@ -52495,7 +52492,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 oreo.iawsnetwork.com
 127.0.0.1 oreo.matchmaker.com
 127.0.0.1 orf.oewabox.at
-127.0.0.1 orientaltrading.com
 127.0.0.1 origin-ics.fivemillionfriends.com
 127.0.0.1 origin-tracking.trulia.com
 127.0.0.1 origin.chron.com
@@ -56576,7 +56572,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 s7.adaces.ero-advertising.com
 127.0.0.1 s7.addthis.com
 127.0.0.1 s7.cnzz.com
-127.0.0.1 s7.orientaltrading.com
 127.0.0.1 s7.shinystat.com
 127.0.0.1 s70.cnzz.com
 127.0.0.1 s73.cnzz.com
@@ -57251,7 +57246,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 segments.adap.tv
 127.0.0.1 segments.adaptv.advertising.com
 127.0.0.1 segs.btrll.com
-127.0.0.1 sei.com.pe
 127.0.0.1 seibli.oewabox.at
 127.0.0.1 seitentipp.com
 127.0.0.1 sekel.ch
@@ -71824,6 +71818,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.kdukvh.com
 127.0.0.1 www.keen.io
 127.0.0.1 www.keisha-kimes.us
+127.0.0.1 www.kelinac.com
 127.0.0.1 www.kelley-eggert.us
 127.0.0.1 www.kelly-duby.us
 127.0.0.1 www.kendra-mcgarry.us
