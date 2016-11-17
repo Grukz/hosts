@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75573 ad serving and malware domains.
+# Currently blocking 75578 ad serving and malware domains.
 #
-# Date Generated: Nov 16 2016
+# Date Generated: Nov 17 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -21644,7 +21644,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.smowtion.com
 127.0.0.1 ads.snowball.com
 127.0.0.1 ads.socialbakers.com
-127.0.0.1 ads.socialmedia.com
 127.0.0.1 ads.socialreach.com
 127.0.0.1 ads.socialtheater.com
 127.0.0.1 ads.sockshots.com
@@ -32684,6 +32683,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.am11.ru
 127.0.0.1 c.am15.net
 127.0.0.1 c.amazon-adsystem.com
+127.0.0.1 c.anytrx.com
 127.0.0.1 c.aol.com
 127.0.0.1 c.apple.com
 127.0.0.1 c.ar.msn.com
@@ -45824,6 +45824,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 j0k3rj0k3r.tk
 127.0.0.1 j0q3w.voluumtrk.com
 127.0.0.1 j1alc.voluumtrk.com
+127.0.0.1 j3safetyismyname.com
 127.0.0.1 j3vcj.voluumtrk.com
 127.0.0.1 j4.signclck.com
 127.0.0.1 j4sgq.voluumtrk.com
@@ -47086,6 +47087,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lift.openx.com
 127.0.0.1 liftdna.com
 127.0.0.1 liftopia.go2cloud.org
+127.0.0.1 lifuntersnum1.net.in
 127.0.0.1 ligatus.com
 127.0.0.1 ligatus.de
 127.0.0.1 light.privatefeeds.com
@@ -61342,6 +61344,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 totemcash.com
 127.0.0.1 tothecenter.us.intellitxt.com
 127.0.0.1 totszentmarton.hu
+127.0.0.1 touch.media-serving.com
 127.0.0.1 touchclarity.com
 127.0.0.1 touchclarity.natwest.com
 127.0.0.1 touche.adcentric.proximi-t.com
@@ -63612,6 +63615,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vad.mainentrypoint.com
 127.0.0.1 vads.adbrite.com
 127.0.0.1 vaime.net.popunder.ru
+127.0.0.1 vaitu.club
 127.0.0.1 val17.com
 127.0.0.1 valarie-clack.us
 127.0.0.1 valarie-kummer.us
@@ -67507,6 +67511,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vktr073.net
 127.0.0.1 vladtv.us.intellitxt.com
 127.0.0.1 vlbalash.justclick.ru
+127.0.0.1 vlc-group.com
 127.0.0.1 vlexokrako.com
 127.0.0.1 vlog.leadformix.com
 127.0.0.1 vlogic.ak-networks.com
