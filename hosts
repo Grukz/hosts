@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 75579 ad serving and malware domains.
 #
-# Date Generated: Nov 18 2016
+# Date Generated: Nov 19 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25439,7 +25439,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 affiliates.hookup.com
 127.0.0.1 affiliates.hostgator.in
 127.0.0.1 affiliates.hotelscombined.com
-127.0.0.1 affiliates.ige.com
 127.0.0.1 affiliates.internationaljock.com
 127.0.0.1 affiliates.jeanharris.com
 127.0.0.1 affiliates.kingplayer.com
@@ -46558,6 +46557,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kimberley-mackinnon.us
 127.0.0.1 kimberly-worsham.us
 127.0.0.1 kimia.monetizerlink.com
+127.0.0.1 kindads.com
 127.0.0.1 kinder.oewabox.at
 127.0.0.1 kingpinmedia.net
 127.0.0.1 kingskillz.ru
@@ -47087,7 +47087,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 lift.openx.com
 127.0.0.1 liftdna.com
 127.0.0.1 liftopia.go2cloud.org
-127.0.0.1 lifuntersnum1.net.in
 127.0.0.1 ligatus.com
 127.0.0.1 ligatus.de
 127.0.0.1 light.privatefeeds.com
@@ -54085,6 +54084,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pqwaker.altervista.org
 127.0.0.1 pr-bh.ybp.yahoo.com
 127.0.0.1 pr-cy.ru
+127.0.0.1 pr-star.de
 127.0.0.1 pr-static.empflix.com
 127.0.0.1 pr-ten.de
 127.0.0.1 pr.20min.es
