@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75579 ad serving and malware domains.
+# Currently blocking 75580 ad serving and malware domains.
 #
-# Date Generated: Nov 21 2016
+# Date Generated: Nov 22 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -56168,7 +56168,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 rx-top.com
 127.0.0.1 rx8club.us.intellitxt.com
 127.0.0.1 rxdja.voluumtrk.com
-127.0.0.1 rxf.answcdn.com
 127.0.0.1 rxn247.com
 127.0.0.1 ry7c5.directadsopt.com
 127.0.0.1 rya.rockyou.com
@@ -69148,6 +69147,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ad-net.co.uk
 127.0.0.1 www.ad-pay.de
 127.0.0.1 www.ad-purge.com
+127.0.0.1 www.ad-rev.in
 127.0.0.1 www.ad-search.com
 127.0.0.1 www.ad-skills.nl
 127.0.0.1 www.ad-solutions.com
@@ -71919,6 +71919,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ladyclicks.ru
 127.0.0.1 www.ladylust.com
 127.0.0.1 www.lajourneeducommercedeproximite.fr
+127.0.0.1 www.lansrv050.com
 127.0.0.1 www.lapoo.net
 127.0.0.1 www.laptopreportcard.com
 127.0.0.1 www.laptoprewards.com
