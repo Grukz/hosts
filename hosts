@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74672 ad serving and malware domains.
+# Currently blocking 74674 ad serving and malware domains.
 #
-# Date Generated: Nov 27 2016
+# Date Generated: Nov 28 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -38935,6 +38935,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dv1970.freestats.com
 127.0.0.1 dv1ih.voluumtrk.com
 127.0.0.1 dv4uxy777adjt.cloudfront.net
+127.0.0.1 dvantagecorp.com
 127.0.0.1 dvdbeats.com
 127.0.0.1 dvdcovers.spacash.com
 127.0.0.1 dvdhentai.net
@@ -69479,6 +69480,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.connectlinking7.com
 127.0.0.1 www.connectlinking8.com
 127.0.0.1 www.connectlinking9.com
+127.0.0.1 www.connet.net.mx
 127.0.0.1 www.connexionsecure.com
 127.0.0.1 www.connextra.com
 127.0.0.1 www.consolefiles.info
