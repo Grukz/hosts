@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74779 ad serving and malware domains.
+# Currently blocking 74780 ad serving and malware domains.
 #
-# Date Generated: Nov 29 2016
+# Date Generated: Nov 30 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -41708,6 +41708,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ftp01.dus.vmsn.de
 127.0.0.1 ftpcontent.worldnow.com
 127.0.0.1 ftr2.external.xerox.com
+127.0.0.1 ftrackb.net
 127.0.0.1 fttcj.com
 127.0.0.1 ftvcash.com
 127.0.0.1 fu.golikeus.net
@@ -67582,7 +67583,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 webtrack.jwgrant.co.uk
 127.0.0.1 webtracker.apicasystem.com
 127.0.0.1 webtracker.educationconnection.com
-127.0.0.1 webtracker.tnt.com
 127.0.0.1 webtrackerplus.com
 127.0.0.1 webtracking.touchclarity.com
 127.0.0.1 webtraffic.se
@@ -70390,6 +70390,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.fruitlauncher.com
 127.0.0.1 www.fsm-europe.eu
 127.0.0.1 www.ftjcfx.com
+127.0.0.1 www.ftrackb.net
 127.0.0.1 www.fuck.org
 127.0.0.1 www.fuckbookdating.com
 127.0.0.1 www.fucktubenetwork.com
