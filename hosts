@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74780 ad serving and malware domains.
+# Currently blocking 74782 ad serving and malware domains.
 #
-# Date Generated: Nov 30 2016
+# Date Generated: Dec 01 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -38578,6 +38578,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 doityourselfbuilder.com
 127.0.0.1 doktester.orgfree.com
 127.0.0.1 dolce-sportro.count.brat-online.ro
+127.0.0.1 dolcezzashop.com
 127.0.0.1 doll.home.ro
 127.0.0.1 dolores-parra.us
 127.0.0.1 dolores-vanallen.us
@@ -42958,7 +42959,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 groupe.go2cloud.org
 127.0.0.1 grouplotto.aavalue.com
 127.0.0.1 groupm.com
-127.0.0.1 groupon.pl
 127.0.0.1 groupsetzipmyjob.org
 127.0.0.1 groupware.adition.com
 127.0.0.1 grow.kissmetrics.com
@@ -51382,6 +51382,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 oazzz.survey9.0236.info
 127.0.0.1 ob1trk.com
 127.0.0.1 obada-konstruktiwa.org
+127.0.0.1 obai.pw
 127.0.0.1 obc99.voluumtrk.com
 127.0.0.1 oberonincredig.112.2o7.net
 127.0.0.1 oberpfal.ivwbox.de
@@ -70581,6 +70582,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.gprapps.com
 127.0.0.1 www.grabbit-rabbit.com
 127.0.0.1 www.grace-hansley.us
+127.0.0.1 www.gracefalcao.com
 127.0.0.1 www.gradportal.org
 127.0.0.1 www.gratis-counter-gratis.de
 127.0.0.1 www.gratis-toplist.de
