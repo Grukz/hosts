@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74782 ad serving and malware domains.
+# Currently blocking 74785 ad serving and malware domains.
 #
-# Date Generated: Dec 01 2016
+# Date Generated: Dec 02 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18566,6 +18566,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adbazaar.go2cloud.org
 127.0.0.1 adbcache.brandreachsys.com
 127.0.0.1 adbenefit.go2cloud.org
+127.0.0.1 adbers.com
 127.0.0.1 adbest.com
 127.0.0.1 adbest.net
 127.0.0.1 adbg.hit.gemius.pl
@@ -19540,6 +19541,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adr-g3-1.vindicosuite.com
 127.0.0.1 adr.adplus.co.id
 127.0.0.1 adrates.theglobeandmail.com
+127.0.0.1 adrazzi.com
 127.0.0.1 adrd.taxuan.net
 127.0.0.1 adreactor.com
 127.0.0.1 adready.com
@@ -40405,7 +40407,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 farmer.wego.com
 127.0.0.1 farmius.org
 127.0.0.1 farmville2.visits.lt
-127.0.0.1 fartertourhost.net
 127.0.0.1 fashion-tube.be
 127.0.0.1 fashiontrafficdemo.go2cloud.org
 127.0.0.1 fast-route.com
@@ -44182,6 +44183,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ientrymail.com
 127.0.0.1 ientrynetwork.net
 127.0.0.1 ieplugin.com
+127.0.0.1 ieqpiracicaba.com.br
 127.0.0.1 iesb.us.intellitxt.com
 127.0.0.1 ieskok.info
 127.0.0.1 iesnare.co.uk
@@ -51382,7 +51384,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 oazzz.survey9.0236.info
 127.0.0.1 ob1trk.com
 127.0.0.1 obada-konstruktiwa.org
-127.0.0.1 obai.pw
 127.0.0.1 obc99.voluumtrk.com
 127.0.0.1 oberonincredig.112.2o7.net
 127.0.0.1 oberpfal.ivwbox.de
@@ -55854,6 +55855,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 s2hd-plugincom-maynemyltf.netdna-ssl.com
 127.0.0.1 s2wrw.voluumtrk.com
 127.0.0.1 s3-tracking.synthasite.net.s3.amazonaws.com
+127.0.0.1 s3.adbers.com
 127.0.0.1 s3.addthis.com
 127.0.0.1 s3.buysellads.com
 127.0.0.1 s3.cnzz.com
@@ -59159,6 +59161,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 supply.upjers.com
 127.0.0.1 support.carmunity.de
 127.0.0.1 support.carpediem.fr
+127.0.0.1 support.com-support-help.online
 127.0.0.1 support.crittercism.com
 127.0.0.1 support.hasoffers.com
 127.0.0.1 support.kissmetrics.com
