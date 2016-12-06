@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74793 ad serving and malware domains.
+# Currently blocking 74799 ad serving and malware domains.
 #
-# Date Generated: Dec 05 2016
+# Date Generated: Dec 06 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -29390,6 +29390,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bizzibeans.net
 127.0.0.1 bj02.cww.com
 127.0.0.1 bj04.com
+127.0.0.1 bj7kpvd.gandjaltilogoki.com
 127.0.0.1 bjvim.voluumtrk.com
 127.0.0.1 bkrntr.netmng.com
 127.0.0.1 bkrtx.com
@@ -33425,8 +33426,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.kixer.com
 127.0.0.1 cdn.komoona.com
 127.0.0.1 cdn.krxd.net
+127.0.0.1 cdn.lazymem.com
+127.0.0.1 cdn.lazymic.com
 127.0.0.1 cdn.lfstmedia.com
 127.0.0.1 cdn.libraries.inpwrd.com
+127.0.0.1 cdn.likeaced.com
 127.0.0.1 cdn.linksmart.com
 127.0.0.1 cdn.listrakbi.com
 127.0.0.1 cdn.livechatinc.com
@@ -39940,6 +39944,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 error.reporo.com
 127.0.0.1 error404.000webhost.com
 127.0.0.1 errorception.com
+127.0.0.1 errorfixing.tech
 127.0.0.1 errorkillers.net
 127.0.0.1 errors.perfectgonzo.com
 127.0.0.1 errors.servik.com
@@ -60161,6 +60166,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 thebighits.com
 127.0.0.1 theblemish.us.intellitxt.com
 127.0.0.1 thebosh.us.intellitxt.com
+127.0.0.1 thebrighttag.com
 127.0.0.1 thebugs.ws
 127.0.0.1 thecarconnection.us.intellitxt.com
 127.0.0.1 thecelebritycafe.us.intellitxt.com
