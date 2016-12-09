@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 74800 ad serving and malware domains.
 #
-# Date Generated: Dec 08 2016
+# Date Generated: Dec 09 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -42971,7 +42971,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 groupsetzipmyjob.org
 127.0.0.1 groupware.adition.com
 127.0.0.1 grow.kissmetrics.com
-127.0.0.1 growyourownteacher.co.uk
 127.0.0.1 grsyd.voluumtrk.com
 127.0.0.1 grunerandjahr.112.2o7.net
 127.0.0.1 grupoblidoo.go2cloud.org
@@ -66688,6 +66687,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 viglink.pgpartner.com
 127.0.0.1 vignette.com
 127.0.0.1 vikingtrck.com
+127.0.0.1 villagarden.pl
 127.0.0.1 villagevoicecollect.247realmedia.com
 127.0.0.1 villaggiodiitaici.com.br
 127.0.0.1 villalecchi.com
