@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74800 ad serving and malware domains.
+# Currently blocking 74799 ad serving and malware domains.
 #
-# Date Generated: Dec 09 2016
+# Date Generated: Dec 10 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -56039,7 +56039,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sagedigital.checkm8.com
 127.0.0.1 sagent.io
 127.0.0.1 saksfifthavenue.122.2o7.net
-127.0.0.1 salalahashipping.com
 127.0.0.1 salem02.webtrekk.net
 127.0.0.1 sales.liveperson.net
 127.0.0.1 salescast.real.com
