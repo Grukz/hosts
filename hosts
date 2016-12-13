@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74839 ad serving and malware domains.
+# Currently blocking 74851 ad serving and malware domains.
 #
-# Date Generated: Dec 12 2016
+# Date Generated: Dec 13 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2184,6 +2184,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.as-us.falkag.net
 127.0.0.1 a.autoexpress.co.uk
 127.0.0.1 a.avtookazion.bg
+127.0.0.1 a.backclick.net
 127.0.0.1 a.baidu.com
 127.0.0.1 a.beliefnet.com
 127.0.0.1 a.bestmanage.org
@@ -2890,6 +2891,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a97.g.akamai.net
 127.0.0.1 a98.g.akamai.net
 127.0.0.1 a98dc034c7781a941eba-bac02262202668bbe918ea9fb5289cd2.r58.cf2.rackcdn.com
+127.0.0.1 a98spolicies.com
 127.0.0.1 a99.g.akamai.net
 127.0.0.1 a9shd.realshieldlinked.com
 127.0.0.1 aa-d.openx.net
@@ -25753,6 +25755,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 alwaysgirls.com
 127.0.0.1 alwaysgirls.net
 127.0.0.1 alwaysplanetss.com
+127.0.0.1 alxsite.com
 127.0.0.1 alymail.com
 127.0.0.1 alyse-bolster.us
 127.0.0.1 alysia-lenoir.us
@@ -27565,6 +27568,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 b3.rivalgaming.com
 127.0.0.1 b3.toparcadehits.com
 127.0.0.1 b344-7507-e4c2-b742.reporo.net
+127.0.0.1 b34rightym.com
 127.0.0.1 b365.2cnt.net
 127.0.0.1 b36df47b3d.site.internapcdn.net
 127.0.0.1 b3a70b.t.axf8.net
@@ -37685,6 +37689,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dashboard.qubitproducts.com
 127.0.0.1 dashboard.trafficforce.com
 127.0.0.1 dashboardnew.adcalls.nl
+127.0.0.1 dashgreen.online
 127.0.0.1 dasoertl.ivwbox.de
 127.0.0.1 dastelef.ivwbox.de
 127.0.0.1 dat2.ero-advertising.com
@@ -42614,6 +42619,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 go.coxds.com
 127.0.0.1 go.cpmadvisors.com
 127.0.0.1 go.cz.bbelements.com
+127.0.0.1 go.data1rtb.com
 127.0.0.1 go.deliverymodo.com
 127.0.0.1 go.delnapb.com
 127.0.0.1 go.eu.bbelements.com
@@ -52494,6 +52500,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 parkingcrew.net
 127.0.0.1 parradoodle.bravejournal.com
 127.0.0.1 parse.ly
+127.0.0.1 parserworld.info
 127.0.0.1 parship.122.2o7.net
 127.0.0.1 parship.co.uk
 127.0.0.1 parskabab.com
@@ -56963,6 +56970,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 service.bfast.com
 127.0.0.1 service.clicksvenue.com
 127.0.0.1 service.maxymiser.net
+127.0.0.1 service.mm-r-prop-11-16-2.com
 127.0.0.1 service.multi-pops.com
 127.0.0.1 service.persianstat.com
 127.0.0.1 service.sponsorpay.com
@@ -66841,6 +66849,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vmp.boldchat.com
 127.0.0.1 vms.boldchat.com
 127.0.0.1 vmss.boldchat.com
+127.0.0.1 vn.grab-credit4u.com
 127.0.0.1 vnu.eu-adcenter.net
 127.0.0.1 vnumedia01.webtrekk.net
 127.0.0.1 vnumedia02.webtrekk.net
@@ -67694,6 +67703,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 weesh.co.uk
 127.0.0.1 wegcash.com
 127.0.0.1 wegetpaid.net
+127.0.0.1 wegotmedia.co
 127.0.0.1 wehasoffers.go2cloud.org
 127.0.0.1 weight-loss.1.p2l.info
 127.0.0.1 weight-loss.3.p2l.info
@@ -70866,6 +70876,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.iesearch.com
 127.0.0.1 www.iesnare.co.uk
 127.0.0.1 www.iesnare.com
+127.0.0.1 www.ifileyou.com
 127.0.0.1 www.iframehost.com
 127.0.0.1 www.iframes.us
 127.0.0.1 www.ifsmarketing.com
@@ -73528,6 +73539,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.wegetpaid.net
 127.0.0.1 www.weingut-maurer.com
 127.0.0.1 www.weitclick.de
+127.0.0.1 www.wellness.co.rs
 127.0.0.1 www.wellsfarg0-onllne.net
 127.0.0.1 www.wellsfarg0-onllne.netw
 127.0.0.1 www.wendi-bell.us
