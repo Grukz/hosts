@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74850 ad serving and malware domains.
+# Currently blocking 74869 ad serving and malware domains.
 #
-# Date Generated: Dec 18 2016
+# Date Generated: Dec 19 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -32190,6 +32190,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bumperich.ru
 127.0.0.1 bumpshack.us.intellitxt.com
 127.0.0.1 bunchofads.com
+127.0.0.1 bundasnovinhas.com
 127.0.0.1 bunitd.com
 127.0.0.1 bunny-net.com
 127.0.0.1 bunte.de.intellitxt.com
@@ -33754,6 +33755,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdna.runadtag.com
 127.0.0.1 cdna.tremormedia.com
 127.0.0.1 cdnads.cam4.com
+127.0.0.1 cdnaws.mobidea.com
 127.0.0.1 cdncache2-a.akamaihd.net
 127.0.0.1 cdneu.alcoholsoftcdn.com
 127.0.0.1 cdneu.filefactscdn.com
@@ -34259,6 +34261,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cleco.jag.vmsn.de
 127.0.0.1 clepsydre.science
 127.0.0.1 clexchange.usww.net
+127.0.0.1 clhctrk.com
 127.0.0.1 cli.linksynergy.com
 127.0.0.1 clic-exchange.com
 127.0.0.1 clic.reussissonsensemble.fr
@@ -34347,6 +34350,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 click.mz.simba.taobao.com
 127.0.0.1 click.netpondcash.com
 127.0.0.1 click.news2.v3.email-publisher.com
+127.0.0.1 click.newviralmobistore.com
 127.0.0.1 click.oxcash.com
 127.0.0.1 click.pandaapp.com
 127.0.0.1 click.payserve.com
@@ -34499,6 +34503,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 clicks.investors4cash.com
 127.0.0.1 clicks.izea.com
 127.0.0.1 clicks.m4n.nl
+127.0.0.1 clicks.minimob.com
 127.0.0.1 clicks.nastydollars.com
 127.0.0.1 clicks.natwest.com
 127.0.0.1 clicks.net
@@ -37197,6 +37202,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cursor.kvada.globescale.com
 127.0.0.1 curtis-keim.us
 127.0.0.1 custom-wrs.api.responsys.net
+127.0.0.1 custom.allistracking.com
 127.0.0.1 custom.exoclick.com
 127.0.0.1 custom.mobpartner.mobi
 127.0.0.1 custom.serving-sys.com
@@ -44245,7 +44251,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 iframe.mediaplazza.com
 127.0.0.1 iframe.sponsorpay.com
 127.0.0.1 iframe.travel.yahoo.com
-127.0.0.1 iframehost.com
 127.0.0.1 iframes.awempire.com
 127.0.0.1 iframes.hustler.com
 127.0.0.1 iframes.perfectgonzo.com
@@ -45280,6 +45285,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 itcg3.c5369.blueseek.com
 127.0.0.1 itcompany.com
 127.0.0.1 itemagic.net
+127.0.0.1 itempana.site
 127.0.0.1 ithyk.frenchgerlemanelectric.com
 127.0.0.1 itmcash.com
 127.0.0.1 itmedia.122.2o7.net
@@ -48737,6 +48743,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 messagent.duvalguillaume.com
 127.0.0.1 messagent.sanomadigital.nl
 127.0.0.1 messagia.adcentric.proximi-t.com
+127.0.0.1 mesterads.com
 127.0.0.1 mesurer.ovh
 127.0.0.1 met.adwhirl.com
 127.0.0.1 meta.7search.com
@@ -49463,6 +49470,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mobpartner.com
 127.0.0.1 mobpartner.mobi
 127.0.0.1 mobred.net
+127.0.0.1 mobrevflwms.com
 127.0.0.1 mobscan.info
 127.0.0.1 mobscout-stage.dus.vmsn.de
 127.0.0.1 mobscout.dus.vmsn.de
@@ -51504,6 +51512,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 offeredby.net
 127.0.0.1 offerfactory.click
 127.0.0.1 offeroptimizer.com
+127.0.0.1 offerreality.com
 127.0.0.1 offers.affiliatetraction.com
 127.0.0.1 offers.appnext.com
 127.0.0.1 offers.avazuscd.net
@@ -51720,6 +51729,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 oneund.ru
 127.0.0.1 onlamp.us.intellitxt.com
 127.0.0.1 onlgc.voluumtrk.com
+127.0.0.1 onlinadverts.com
 127.0.0.1 online-antispym4.com
 127.0.0.1 online-auto-insurance.petrovka.info
 127.0.0.1 online-bingo.petrovka.info
@@ -51993,6 +52003,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 orange.fr-votre-opinion.xyz
 127.0.0.1 orange.fr-votreopinion.xyz
 127.0.0.1 orange.npix.net
+127.0.0.1 orange.recompenses.win
 127.0.0.1 orange.recompenses.xyz
 127.0.0.1 orange.weborama.fr
 127.0.0.1 orangesoda.com
@@ -60778,6 +60789,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tr7.myroitracking.com
 127.0.0.1 tr8.myroitracking.com
 127.0.0.1 tr9.myroitracking.com
+127.0.0.1 traaaack.com
 127.0.0.1 trace.jdtracker.com
 127.0.0.1 trace.qq.com
 127.0.0.1 traceadmanager.com
@@ -61401,6 +61413,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracking.fanbridge.com
 127.0.0.1 tracking.fathomseo.com
 127.0.0.1 tracking.fccinteractive.com
+127.0.0.1 tracking.feedmob.com
 127.0.0.1 tracking.feedperfect.com
 127.0.0.1 tracking.fitprosperity.net
 127.0.0.1 tracking.fits.me
@@ -61554,10 +61567,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracking.tomsguide.com
 127.0.0.1 tracking.tomshardware.com
 127.0.0.1 tracking.toroadvertising.com
+127.0.0.1 tracking.trackmobistore.com
 127.0.0.1 tracking.trackor.net
 127.0.0.1 tracking.tradeking.com
 127.0.0.1 tracking.trafficjunky.net
 127.0.0.1 tracking.traviangames.com
+127.0.0.1 tracking.trksrv.com
 127.0.0.1 tracking.truthfinder.com
 127.0.0.1 tracking.trutv.com
 127.0.0.1 tracking.ukwm.co.uk
@@ -61924,6 +61939,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trustedads.org
 127.0.0.1 trustedadserver.com
 127.0.0.1 trustedmaccleaner.com
+127.0.0.1 trustedmacleaner.click
 127.0.0.1 trustedmacleaner.work
 127.0.0.1 trustedmarketings.go2cloud.org
 127.0.0.1 trustedtrack.com
@@ -62441,6 +62457,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 u790.60.spylog.com
 127.0.0.1 u790.67.spylog.com
 127.0.0.1 u810.15.spylog.com
+127.0.0.1 u85foldero.com
 127.0.0.1 u8781a21.pw
 127.0.0.1 u899519.sendgrid.org
 127.0.0.1 u904.62.spylog.com
@@ -66871,6 +66888,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 voken.eyereturn.com
 127.0.0.1 volkswagen.122.2o7.net
 127.0.0.1 voluum.redirecting.site
+127.0.0.1 voluumtrk.com
+127.0.0.1 voluumtrk2.com
+127.0.0.1 voluumtrk3.com
 127.0.0.1 vom.sitescout.com
 127.0.0.1 vomba.com
 127.0.0.1 vombashots.com
@@ -70876,7 +70896,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.iesnare.co.uk
 127.0.0.1 www.iesnare.com
 127.0.0.1 www.ifileyou.com
-127.0.0.1 www.iframehost.com
 127.0.0.1 www.iframes.us
 127.0.0.1 www.ifsmarketing.com
 127.0.0.1 www.igain-mail.co.uk
