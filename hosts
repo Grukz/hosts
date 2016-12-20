@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74869 ad serving and malware domains.
+# Currently blocking 74872 ad serving and malware domains.
 #
-# Date Generated: Dec 19 2016
+# Date Generated: Dec 20 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -48168,6 +48168,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mashasedgwick.digidip.net
 127.0.0.1 mashinkhabar.com
 127.0.0.1 mass-traffic.com
+127.0.0.1 massage-v-almaty.kz
 127.0.0.1 massmerchandise.com
 127.0.0.1 masterh1.adriver.ru
 127.0.0.1 masterh2.adriver.ru
@@ -49186,6 +49187,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 microsof.wemfbox.ch
 127.0.0.1 microsoft-sql-server.wp-club.net
 127.0.0.1 microsoft-watch.us.intellitxt.com
+127.0.0.1 microsoft.com-msoft52.info
 127.0.0.1 microsoft.com.org
 127.0.0.1 microsoftconsumermarketing.112.2o7.net
 127.0.0.1 microsofteup.112.2o7.net
@@ -68336,6 +68338,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.1sexsex.com
 127.0.0.1 www.1stmovieclub.net
 127.0.0.1 www.1trac.com
+127.0.0.1 www.1tracksource.online
 127.0.0.1 www.1worldmarket.com
 127.0.0.1 www.2-art-coliseum.com
 127.0.0.1 www.2.livejasmin.com
