@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74872 ad serving and malware domains.
+# Currently blocking 74875 ad serving and malware domains.
 #
-# Date Generated: Dec 20 2016
+# Date Generated: Dec 21 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18585,6 +18585,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adblaster2.info
 127.0.0.1 adblock.com
 127.0.0.1 adblockanalytics.com
+127.0.0.1 adblockerkillswebsites.pw
 127.0.0.1 adbnr.ru
 127.0.0.1 adbonus.com
 127.0.0.1 adboost.com
@@ -51709,6 +51710,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 onclickads.net
 127.0.0.1 onclickads2.net
 127.0.0.1 onclickrev.com
+127.0.0.1 onclkds.com
 127.0.0.1 one-time-offer.com
 127.0.0.1 one.123counters.com
 127.0.0.1 one.cam4ads.com
@@ -61630,6 +61632,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracksy.com
 127.0.0.1 trackthatad.com
 127.0.0.1 tracktrue.clicktrue.biz
+127.0.0.1 trackvoluum.com
 127.0.0.1 trackword.net
 127.0.0.1 trackyourlinks.com
 127.0.0.1 trackyourstats.com
