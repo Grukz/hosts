@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75809 ad serving and malware domains.
+# Currently blocking 75823 ad serving and malware domains.
 #
-# Date Generated: Dec 24 2016
+# Date Generated: Dec 25 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -38864,6 +38864,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dixonscouk.112.2o7.net
 127.0.0.1 dixonslnkcouk.112.2o7.net
 127.0.0.1 diyfood.us.intellitxt.com
+127.0.0.1 dizzcloud.com
 127.0.0.1 dj.renren.com
 127.0.0.1 dj1.baidu.com
 127.0.0.1 djbanners.deadjournal.com
@@ -58598,6 +58599,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 speedclecks.ero-advertising.com
 127.0.0.1 speedclicks.ero-advertising.com
 127.0.0.1 speedclics.ero-advertising.com
+127.0.0.1 speedcurve.com
 127.0.0.1 speedguide.us.intellitxt.com
 127.0.0.1 speedlicks.ero-advertising.com
 127.0.0.1 speednetwork14.adk2x.com
@@ -63806,6 +63808,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 v2.stat.ku6.com
 127.0.0.1 v2.urlads.net
 127.0.0.1 v2.visualwebsiteoptimizer.com
+127.0.0.1 v2profit.com
 127.0.0.1 v3.adition.com
 127.0.0.1 v3.cnzz.com
 127.0.0.1 v3.come.to
@@ -75686,6 +75689,17 @@ ff02::2 ip6-allrouters
 127.0.0.1 zeroclick.sendori.com
 127.0.0.1 zeroredirect.com
 127.0.0.1 zeroredirect1.com
+127.0.0.1 zeroredirect10.com
+127.0.0.1 zeroredirect11.com
+127.0.0.1 zeroredirect12.com
+127.0.0.1 zeroredirect2.com
+127.0.0.1 zeroredirect3.com
+127.0.0.1 zeroredirect4.com
+127.0.0.1 zeroredirect5.com
+127.0.0.1 zeroredirect6.com
+127.0.0.1 zeroredirect7.com
+127.0.0.1 zeroredirect8.com
+127.0.0.1 zeroredirect9.com
 127.0.0.1 zetatrk.com
 127.0.0.1 zetes.vdsinside.com
 127.0.0.1 zettapetta.com
