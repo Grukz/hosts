@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75823 ad serving and malware domains.
+# Currently blocking 75836 ad serving and malware domains.
 #
-# Date Generated: Dec 26 2016
+# Date Generated: Dec 27 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -478,6 +478,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 12place.com
 127.0.0.1 13.6.87.194.dynamic.dol.ru
 127.0.0.1 13.ptp22.com
+127.0.0.1 130.211.230.53
 127.0.0.1 130.6.87.194.dynamic.dol.ru
 127.0.0.1 131.6.87.194.dynamic.dol.ru
 127.0.0.1 131922.131.links4trade.com
@@ -1996,6 +1997,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 8nude.com
 127.0.0.1 8pzcp.voluumtrk.com
 127.0.0.1 8rhf0.voluumtrk.com
+127.0.0.1 8ruzz.allcpa.006238.xyz
 127.0.0.1 8rvlh.voluumtrk.com
 127.0.0.1 8v8.biz
 127.0.0.1 8wtua.voluumtrk.com
@@ -27881,6 +27883,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 backfill.ph.affinity.com
 127.0.0.1 backlink.dichthuat.org
 127.0.0.1 backoffice.adsender.us
+127.0.0.1 backoffice.evobinary.com
 127.0.0.1 backseatcuddler.us.intellitxt.com
 127.0.0.1 backtype.com
 127.0.0.1 backup01.ixn.local.vmsn.de
@@ -42859,6 +42862,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 getmailcounter.com
 127.0.0.1 getmetrical.com
 127.0.0.1 getmusicfree.aavalue.com
+127.0.0.1 getmyads24.com
 127.0.0.1 getmycell.com
 127.0.0.1 getmyfreebabystuff.com
 127.0.0.1 getmyfreegear.com
@@ -43241,6 +43245,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 googlesyndication.com
 127.0.0.1 googletagmanager.com
 127.0.0.1 googletagservices.com
+127.0.0.1 googlewordpad.info
 127.0.0.1 googlus.com
 127.0.0.1 gooool.com
 127.0.0.1 gopacket.goforandroid.com
@@ -47601,6 +47606,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 log.suchen.de
 127.0.0.1 log.superweb.ws
 127.0.0.1 log.sz-online.de
+127.0.0.1 log.tagcade.com
 127.0.0.1 log.tapatalk.com
 127.0.0.1 log.trafic.ro
 127.0.0.1 log.v.iask.com
@@ -56136,6 +56142,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rpg.us.intellitxt.com
 127.0.0.1 rpjf.com
 127.0.0.1 rpm-images.newrelic.com
+127.0.0.1 rpm.newrelisc.com
 127.0.0.1 rpmdo.com
 127.0.0.1 rponl.ivwbox.de
 127.0.0.1 rpt.anchorfree.net
@@ -62580,6 +62587,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trafficmasterz.net
 127.0.0.1 trafficmp.com
 127.0.0.1 trafficneeds.directtrack.com
+127.0.0.1 trafficnetworkads24.com
 127.0.0.1 trafficopen.com
 127.0.0.1 trafficparade.com
 127.0.0.1 trafficpimps.com
@@ -70020,6 +70028,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.b23.ru
 127.0.0.1 www.b3d.com
 127.0.0.1 www.baciotti.com
+127.0.0.1 www.backoffice.evobinary.com
 127.0.0.1 www.backsim.ru
 127.0.0.1 www.backtype.com
 127.0.0.1 www.badassjv.com
@@ -70294,6 +70303,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.buysellad.eu
 127.0.0.1 www.buytraf.ru
 127.0.0.1 www.buzzclick.com
+127.0.0.1 www.buzzonclick.com
 127.0.0.1 www.bwin90.com
 127.0.0.1 www.bytecode.biz
 127.0.0.1 www.c-on-text.com
@@ -71484,6 +71494,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.getloan.com
 127.0.0.1 www.getmetrical.com
 127.0.0.1 www.getmirar.com
+127.0.0.1 www.getmyads24.com
 127.0.0.1 www.getmycell.com
 127.0.0.1 www.getmyfreebabystuff.com
 127.0.0.1 www.getmyfreegear.com
@@ -71559,6 +71570,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.googleadservices.com
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.googletagservices.com
+127.0.0.1 www.googlewordpad.info
 127.0.0.1 www.gooool.com
 127.0.0.1 www.gopath2.xyz
 127.0.0.1 www.gopopup.com
@@ -74153,6 +74165,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.trafficmagnet.net
 127.0.0.1 www.trafficmonster.com
 127.0.0.1 www.trafficmp.com
+127.0.0.1 www.trafficnetworkads24.com
 127.0.0.1 www.trafficoasis.com
 127.0.0.1 www.trafficpace.com
 127.0.0.1 www.trafficresults.com
