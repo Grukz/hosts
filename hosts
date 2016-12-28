@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75836 ad serving and malware domains.
+# Currently blocking 75840 ad serving and malware domains.
 #
-# Date Generated: Dec 27 2016
+# Date Generated: Dec 28 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -14,6 +14,7 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 #  
+127.0.0.1
 127.0.0.1 0.r.msn.com
 127.0.0.1 0.start.bz
 127.0.0.1 000dom.revenuedirect.com
@@ -24234,6 +24235,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adtimes.nytimes.com
 127.0.0.1 adtlgc.com
 127.0.0.1 adtoadd.com
+127.0.0.1 adtogroups.com
 127.0.0.1 adtoll.com
 127.0.0.1 adtology.com
 127.0.0.1 adtology1.com
@@ -35356,6 +35358,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 code.superstats.com
 127.0.0.1 code.taggify.net
 127.0.0.1 code.theads.me
+127.0.0.1 code.vihub.ru
 127.0.0.1 code.visitor-track.com
 127.0.0.1 code.xidx.org
 127.0.0.1 code2.adtlgc.com
@@ -47598,6 +47601,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 log.paulbetts.org
 127.0.0.1 log.pinion.gg
 127.0.0.1 log.pinterest.com
+127.0.0.1 log.pladform.ru
 127.0.0.1 log.popnet.vn
 127.0.0.1 log.shipweb.jp
 127.0.0.1 log.sitemeter.com
