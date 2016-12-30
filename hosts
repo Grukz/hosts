@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75840 ad serving and malware domains.
+# Currently blocking 75839 ad serving and malware domains.
 #
-# Date Generated: Dec 29 2016
+# Date Generated: Dec 30 2016
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -24234,7 +24234,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adtimes.nytimes.com
 127.0.0.1 adtlgc.com
 127.0.0.1 adtoadd.com
-127.0.0.1 adtogroups.com
 127.0.0.1 adtoll.com
 127.0.0.1 adtology.com
 127.0.0.1 adtology1.com
