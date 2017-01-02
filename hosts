@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75838 ad serving and malware domains.
+# Currently blocking 75848 ad serving and malware domains.
 #
-# Date Generated: Jan 01 2017
+# Date Generated: Jan 02 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -33732,6 +33732,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.funnel.naturaltracking.com
 127.0.0.1 cdn.g.promosrv.com
 127.0.0.1 cdn.gameadvert.com
+127.0.0.1 cdn.geni.us
 127.0.0.1 cdn.gigya.com
 127.0.0.1 cdn.go.arbo.bbelements.com
 127.0.0.1 cdn.go.arbopl.bbelements.com
@@ -37358,6 +37359,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 creative.digitaltargetmarketing.com
 127.0.0.1 creative.hatid.com
 127.0.0.1 creative.m2pub.com
+127.0.0.1 creative.medianexusnetwork.com
 127.0.0.1 creative.metalyzer.com
 127.0.0.1 creative.nscash.com
 127.0.0.1 creative.paypopup.com
@@ -38124,6 +38126,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 data.mb8e17f12.website
 127.0.0.1 data.mobclix.com
 127.0.0.1 data.nal.usda.gov
+127.0.0.1 data.namesakeoscilloscopemarquis.com
 127.0.0.1 data.neuroxmedia.com
 127.0.0.1 data.ninemsn.com.au
 127.0.0.1 data.oileddaintiessunset.info
@@ -43153,6 +43156,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 go.trackgold.net
 127.0.0.1 go.tracking222.site
 127.0.0.1 go.trafficshop.com
+127.0.0.1 go.trkreward.com
 127.0.0.1 go.underclick.ru
 127.0.0.1 go.verymuchad.com
 127.0.0.1 go.voice2page.com
@@ -53768,6 +53772,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pixazza.com
 127.0.0.1 pixel-dimestore.dmi.sensic.net
 127.0.0.1 pixel-geo.prfct.co
+127.0.0.1 pixel-secure.solvemedia.com
 127.0.0.1 pixel-user-1039.everesttech.net
 127.0.0.1 pixel.1und1.de
 127.0.0.1 pixel.33across.com
@@ -53779,6 +53784,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pixel.admedia.com
 127.0.0.1 pixel.adsafeprotected.com
 127.0.0.1 pixel.adsniper.ru
+127.0.0.1 pixel.adssafeprotected.com
 127.0.0.1 pixel.advertising.com
 127.0.0.1 pixel.alephd.com
 127.0.0.1 pixel.alexametrics.com
@@ -54107,6 +54113,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pop.net21pk.com
 127.0.0.1 pop.performancerevenues.com
 127.0.0.1 pop.pptw.org
+127.0.0.1 pop.redirect.adsjudo.com
 127.0.0.1 pop.yeahmobi.com
 127.0.0.1 pop.zompmedia.com
 127.0.0.1 pop6.adultfriendfinder.com
@@ -62034,6 +62041,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 track.webtrekk.net
 127.0.0.1 track.webwindows.co.uk
 127.0.0.1 track.wesell.co.il
+127.0.0.1 track.whitespace57.com
 127.0.0.1 track.wildblue.com
 127.0.0.1 track.written.com
 127.0.0.1 track.www.zazzle.com
@@ -67784,6 +67792,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 voken.eyereturn.com
 127.0.0.1 volkswagen.122.2o7.net
 127.0.0.1 voluum.redirecting.site
+127.0.0.1 voluumtracker.com
+127.0.0.1 voluumtracker1.com
 127.0.0.1 voluumtrk.com
 127.0.0.1 voluumtrk2.com
 127.0.0.1 voluumtrk3.com
