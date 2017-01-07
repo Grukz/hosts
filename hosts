@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75859 ad serving and malware domains.
+# Currently blocking 75852 ad serving and malware domains.
 #
-# Date Generated: Jan 06 2017
+# Date Generated: Jan 07 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -38373,7 +38373,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 debservers.pw
 127.0.0.1 debsfunpages.com
 127.0.0.1 debt.shengen.ru
-127.0.0.1 debtbusterloans.com
 127.0.0.1 debug.adfarm1.adition.com
 127.0.0.1 debug.adition.com
 127.0.0.1 debug.gohip.com
@@ -40622,7 +40621,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 exactseek.com
 127.0.0.1 exacttarget.com
 127.0.0.1 exad.mmo1vn.com
-127.0.0.1 exadu.mymag250.co.uk
 127.0.0.1 exadwese.us
 127.0.0.1 exakj.voluumtrk.com
 127.0.0.1 examinercom.122.2o7.net
@@ -43469,7 +43467,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gripfile.net
 127.0.0.1 grippedownloads.co
 127.0.0.1 grmtech.net
-127.0.0.1 groax.mymag250.co.uk
 127.0.0.1 groopz.com
 127.0.0.1 grosirkecantikan.com
 127.0.0.1 group11.iperceptions.com
@@ -45258,7 +45255,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 imitrex.1.p2l.info
 127.0.0.1 imitrex.3.p2l.info
 127.0.0.1 imitrex.4.p2l.info
-127.0.0.1 imitrk.com
 127.0.0.1 imln5.voluumtrk.com
 127.0.0.1 immanalytics.com
 127.0.0.1 immassets.s3.amazonaws.com
@@ -46828,7 +46824,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 kuad.kusogi.com
 127.0.0.1 kudika.2cnt.net
 127.0.0.1 kudrnwosas.faith
-127.0.0.1 kuglu.mymag250.co.uk
 127.0.0.1 kuhdi.com
 127.0.0.1 kuhuz.voluumtrk.com
 127.0.0.1 kuivt.voluumtrk.com
@@ -57947,7 +57942,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 shinystat.shiny.it
 127.0.0.1 shirley-rivet.us
 127.0.0.1 shlinks.industrybrains.com
-127.0.0.1 shoac.mymag250.co.uk
 127.0.0.1 shoal.grahanusareadymix.com
 127.0.0.1 shonda-nowicki.us
 127.0.0.1 shop.adition.com
@@ -58108,7 +58102,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 siteintercept.qualtrics.com
 127.0.0.1 siteinterceptco1.qualtrics.com
 127.0.0.1 sitelife.ehow.com
-127.0.0.1 sitemerkezi.net
 127.0.0.1 sitemeter.com
 127.0.0.1 siteminer.mycomputer.com
 127.0.0.1 siteminer.superstats.com
