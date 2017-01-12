@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75838 ad serving and malware domains.
+# Currently blocking 75837 ad serving and malware domains.
 #
-# Date Generated: Jan 11 2017
+# Date Generated: Jan 12 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -58419,7 +58419,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 snip.answers.com
 127.0.0.1 snipjs.answcdn.com
 127.0.0.1 snippets-stats.mozilla.org
-127.0.0.1 snippets.mozilla.com
 127.0.0.1 snitker.netminers.dk
 127.0.0.1 snonline.ivwbox.de
 127.0.0.1 snoobi.com
