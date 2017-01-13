@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75837 ad serving and malware domains.
+# Currently blocking 75836 ad serving and malware domains.
 #
-# Date Generated: Jan 12 2017
+# Date Generated: Jan 13 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -60164,7 +60164,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 switch6.hitbox.com
 127.0.0.1 switch8.hitbox.com
 127.0.0.1 switch9.hitbox.com
-127.0.0.1 swivalva.com
 127.0.0.1 swordfishdc.com
 127.0.0.1 swr.ivwbox.de
 127.0.0.1 swsoft.122.2o7.net
