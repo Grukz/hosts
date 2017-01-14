@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 75836 ad serving and malware domains.
 #
-# Date Generated: Jan 13 2017
+# Date Generated: Jan 14 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -38370,6 +38370,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 debservers.pw
 127.0.0.1 debsfunpages.com
 127.0.0.1 debt.shengen.ru
+127.0.0.1 debtbusterloans.com
 127.0.0.1 debug.adfarm1.adition.com
 127.0.0.1 debug.adition.com
 127.0.0.1 debug.gohip.com
@@ -40525,6 +40526,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 euroseek.com
 127.0.0.1 eurosponsor.de
 127.0.0.1 eurostar.122.2o7.net
+127.0.0.1 eusta.de
 127.0.0.1 euus7.voluumtrk.com
 127.0.0.1 euwidget.imshopping.com
 127.0.0.1 ev.ads.pointroll.com
@@ -50147,6 +50149,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 monitoring.profi-webhosting.cz
 127.0.0.1 monk.sitescoutadserver.com
 127.0.0.1 monkeyball.osa.pl
+127.0.0.1 monsierdroider.wang
 127.0.0.1 monster-ads.net
 127.0.0.1 monster.gostats.com
 127.0.0.1 monster.gostats.ru
@@ -61488,7 +61491,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 topeuro.biz
 127.0.0.1 topforall.com
 127.0.0.1 topfox.co.uk
-127.0.0.1 topgamesites.net
 127.0.0.1 tophostbg.net
 127.0.0.1 topica.advertserve.com
 127.0.0.1 topixc.net
@@ -68177,7 +68179,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 wac.a164.edgecastcdn.net
 127.0.0.1 wac.a164.taucdn.net
 127.0.0.1 wad.adbasket.net
-127.0.0.1 wads.webteh.com
 127.0.0.1 wafmedia3.com
 127.0.0.1 wahoha.com
 127.0.0.1 wahyufian.zoomshare.com
@@ -71337,7 +71338,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.freefoodsource.com
 127.0.0.1 www.freefuelcard.com
 127.0.0.1 www.freefuelcoupon.com
-127.0.0.1 www.freegames777.net
 127.0.0.1 www.freegasonus.com
 127.0.0.1 www.freegasprovider.com
 127.0.0.1 www.freegiftcardsource.com
