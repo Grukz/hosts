@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75836 ad serving and malware domains.
+# Currently blocking 75838 ad serving and malware domains.
 #
-# Date Generated: Jan 14 2017
+# Date Generated: Jan 15 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -29634,6 +29634,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bild.ivwbox.de
 127.0.0.1 bild01.webtrekk.net
 127.0.0.1 bildwl.mobile.de
+127.0.0.1 bilgenart.com
 127.0.0.1 bill-info.com
 127.0.0.1 bill-support.com
 127.0.0.1 bill.agent.56.com
@@ -68666,6 +68667,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wenda.io
 127.0.0.1 wendi-bell.us
 127.0.0.1 wenner.collect.igodigital.com
+127.0.0.1 wens-chmapio.com
 127.0.0.1 weownthetraffic.com
 127.0.0.1 weporsche.com
 127.0.0.1 wera.popunder.ru
