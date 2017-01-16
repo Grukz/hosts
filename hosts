@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75838 ad serving and malware domains.
+# Currently blocking 75858 ad serving and malware domains.
 #
-# Date Generated: Jan 15 2017
+# Date Generated: Jan 16 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -27006,6 +27006,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 appload.ingest.crittercism.com
 127.0.0.1 applovin.com
 127.0.0.1 applyads.com
+127.0.0.1 applyfix.tech
 127.0.0.1 appnexus.com
 127.0.0.1 appnexus.download.akamai.com
 127.0.0.1 appodeal.com
@@ -38363,6 +38364,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 deanna-husband.us
 127.0.0.1 deansplanet.com
 127.0.0.1 deardrocher.com
+127.0.0.1 dearerfonder.info
 127.0.0.1 debbie-carmen.us
 127.0.0.1 debbie-clifton.us
 127.0.0.1 debnb.imixserver.com
@@ -40798,6 +40800,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 f0nuq.voluumtrk.com
 127.0.0.1 f1.ilivlite.com
 127.0.0.1 f1.p0y.com
+127.0.0.1 f150123.privacy4browsing.com
 127.0.0.1 f1bwg.voluumtrk.com
 127.0.0.1 f2.p0y.com
 127.0.0.1 f2communitynews.112.2o7.net
@@ -40945,6 +40948,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fastdownload10.com
 127.0.0.1 fasteasytraffic.com
 127.0.0.1 fasterbucks.com
+127.0.0.1 fastfixing.tech
 127.0.0.1 fastlinkfinder.com
 127.0.0.1 fastly.bench.cedexis.com
 127.0.0.1 fastnclick.com
@@ -42130,6 +42134,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 freewrinklecream.com
 127.0.0.1 freexxxpages.net
 127.0.0.1 freexxxvideoclip.aebn.net
+127.0.0.1 freezemac.tech
 127.0.0.1 freipres.ivwbox.de
 127.0.0.1 fresh.doublepimp.com
 127.0.0.1 fresh.techdirt.com
@@ -48416,12 +48421,14 @@ ff02::2 ip6-allrouters
 127.0.0.1 macgamefiles.us.intellitxt.com
 127.0.0.1 machine.cu.ma
 127.0.0.1 machine.fairfaxbm.co.nz
+127.0.0.1 mackeeper-center.club
 127.0.0.1 mackeeperapp.mackeeper.com
 127.0.0.1 mackeeperapp1.zeobit.com
 127.0.0.1 mackeeperapp2.mackeeper.com
 127.0.0.1 mackeeperapp3.mackeeper.com
 127.0.0.1 mackenzie-brand.us
 127.0.0.1 macleaner.space
+127.0.0.1 macleaner.work
 127.0.0.1 macmeasurmenthub.club
 127.0.0.1 macmeasurmentpro.club
 127.0.0.1 macmegasite.us.intellitxt.com
@@ -50499,6 +50506,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 my.leadpages.net
 127.0.0.1 my.media-servers.net
 127.0.0.1 my.mobfox.com
+127.0.0.1 my.mystreamdelivery.xyz
 127.0.0.1 my.omniture.com
 127.0.0.1 my.plexapp.com
 127.0.0.1 my.skyhookwireless.com
@@ -54328,6 +54336,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 presleywebs.uk.pn
 127.0.0.1 presspor.ivwbox.de
 127.0.0.1 pressurespot.com
+127.0.0.1 prestoris.com
 127.0.0.1 preteenland.com
 127.0.0.1 preteensite.com
 127.0.0.1 prettyboring.us.intellitxt.com
@@ -55475,6 +55484,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 realitatero.adocean.pl
 127.0.0.1 realitytea.us.intellitxt.com
 127.0.0.1 realitytvmagazine.us.intellitxt.com
+127.0.0.1 realizemobicom.com
 127.0.0.1 reallybig.spinbox.net
 127.0.0.1 realmedia-a592.d4p.net
 127.0.0.1 realmedia-a800.d4p.net
@@ -56833,6 +56843,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 safaribooks.112.2o7.net
 127.0.0.1 safe-es.imrworldwide.com
 127.0.0.1 safe.hyperpaysys.com
+127.0.0.1 safebrowse.com
 127.0.0.1 safedownloadcenter.com
 127.0.0.1 safedownloadnow.work
 127.0.0.1 safedownloadsrus156.com
@@ -57016,6 +57027,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 scorecard.wspisp.net
 127.0.0.1 scorecardresearch.com
 127.0.0.1 scoremygift.com
+127.0.0.1 scorepconline.club
 127.0.0.1 scores-brataudit.2cnt.net
 127.0.0.1 scores01.2cnt.net
 127.0.0.1 scores02.2cnt.net
@@ -59018,6 +59030,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stanzapub.advertserve.com
 127.0.0.1 staples.tt.omtrdc.net
 127.0.0.1 star-advertising.com
+127.0.0.1 star.pulseonclick.com
 127.0.0.1 starcasm.us.intellitxt.com
 127.0.0.1 starchat.oewabox.at
 127.0.0.1 stardk.tradedoubler.com
@@ -59983,6 +59996,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 successalert.com
 127.0.0.1 successetc.go2cloud.org
 127.0.0.1 successful-marketing-now.com
+127.0.0.1 suchaslowmac.tech
 127.0.0.1 suckdude.com
 127.0.0.1 sudcom.org
 127.0.0.1 suddenlyfind.com
@@ -60354,6 +60368,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 t.sf14g.com
 127.0.0.1 t.signaletre.com
 127.0.0.1 t.signauxdeux.com
+127.0.0.1 t.silvinst.com
 127.0.0.1 t.skimresources.com
 127.0.0.1 t.snowball.com
 127.0.0.1 t.svtrd.com
@@ -62535,6 +62550,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 traffic.buyservices.com
 127.0.0.1 traffic.cimedia.com
 127.0.0.1 traffic.firstmobilelink.com
+127.0.0.1 traffic.getmyads.com
 127.0.0.1 traffic.index.hu
 127.0.0.1 traffic.liveuniversenetwork.com
 127.0.0.1 traffic.livevideo.com
@@ -70322,6 +70338,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.c4dl.com
 127.0.0.1 www.caartoonnetwork.com
 127.0.0.1 www.cadaver.org
+127.0.0.1 www.cafecoquin.com
 127.0.0.1 www.cam-traffic.com
 127.0.0.1 www.cam4.fr
 127.0.0.1 www.cambodiaoutsourcing.com
@@ -70504,6 +70521,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.clickriver.com
 127.0.0.1 www.clicks2you.com
 127.0.0.1 www.clicksagent.com
+127.0.0.1 www.clicksgear.com
 127.0.0.1 www.clickshield.net
 127.0.0.1 www.clicksor.com
 127.0.0.1 www.clicksor.net
@@ -71493,6 +71511,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.getacooltv.com
 127.0.0.1 www.getagiftonline.com
 127.0.0.1 www.getdirect.ru
+127.0.0.1 www.getfilesmact.com
 127.0.0.1 www.getfreebl.com
 127.0.0.1 www.getloan.com
 127.0.0.1 www.getmetrical.com
@@ -73344,6 +73363,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.rgadvert.com
 127.0.0.1 www.rgs-rostock.de
 127.0.0.1 www.rhtag.com
+127.0.0.1 www.rhydel.site
 127.0.0.1 www.riccardochinnici.it
 127.0.0.1 www.richelle-crandell.us
 127.0.0.1 www.rickrolling.com
