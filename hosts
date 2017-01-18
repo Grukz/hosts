@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75857 ad serving and malware domains.
+# Currently blocking 75865 ad serving and malware domains.
 #
-# Date Generated: Jan 17 2017
+# Date Generated: Jan 18 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25765,6 +25765,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 akihabaranews.us.intellitxt.com
 127.0.0.1 akillimeyveler.reklamagaci.com
 127.0.0.1 akirkpatrick.com
+127.0.0.1 akm.playnow.guru
 127.0.0.1 akmnetwork.com
 127.0.0.1 aknoj.voluumtrk.com
 127.0.0.1 ako.cc
@@ -32723,6 +32724,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.as-us.falkag.net
 127.0.0.1 c.at.msn.com
 127.0.0.1 c.atdmt.com
+127.0.0.1 c.ato.mx
 127.0.0.1 c.azjmp.com
 127.0.0.1 c.baidu.com
 127.0.0.1 c.be.msn.com
@@ -44491,6 +44493,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 i.nuseek.com
 127.0.0.1 i.offerx.co.uk
 127.0.0.1 i.pcp001.com
+127.0.0.1 i.playnow.guru
 127.0.0.1 i.plug.it
 127.0.0.1 i.po.st
 127.0.0.1 i.psa-ads.openx.com
@@ -44501,6 +44504,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 i.sahcdn.com
 127.0.0.1 i.sbitinbsjs.info
 127.0.0.1 i.securecontactinfo.com
+127.0.0.1 i.serves.live
 127.0.0.1 i.simpli.fi
 127.0.0.1 i.smartwebads.com
 127.0.0.1 i.socdm.com
@@ -45234,6 +45238,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 imgcdn.nrelate.com
 127.0.0.1 imgclck.com
 127.0.0.1 imgfarm.com
+127.0.0.1 imgg-cdn.adskeeper.co.uk
 127.0.0.1 imgg.adskeeper.co.uk
 127.0.0.1 imgg.dt00.net
 127.0.0.1 imgg.dt07.net
@@ -53971,6 +53976,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 playinvaders.com
 127.0.0.1 playlink.pl
 127.0.0.1 playminigolf.com
+127.0.0.1 playnow.guru
 127.0.0.1 playon.domplayer.com
 127.0.0.1 playon.play3w.com
 127.0.0.1 playteen.centralserver.net
@@ -55604,6 +55610,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 redirectx.net
 127.0.0.1 reditions.net
 127.0.0.1 redmas.com
+127.0.0.1 redrct.site
 127.0.0.1 redroomnetwork.com
 127.0.0.1 redsheriff.com
 127.0.0.1 redshiftleads.steele.net
@@ -72894,6 +72901,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.onclickads.net
 127.0.0.1 www.onclickpredictiv.com
 127.0.0.1 www.onclicktop.com
+127.0.0.1 www.onclkds.com
 127.0.0.1 www.one-door.com
 127.0.0.1 www.oneandonlynetwork.com
 127.0.0.1 www.oneclick.bg
