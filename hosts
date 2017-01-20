@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75865 ad serving and malware domains.
+# Currently blocking 75870 ad serving and malware domains.
 #
-# Date Generated: Jan 19 2017
+# Date Generated: Jan 20 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1738,6 +1738,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 6153-8fbc-408b-b36b.reporo.net
 127.0.0.1 6159.genieessp.com
 127.0.0.1 6165.rapidforum.com
+127.0.0.1 61kx.uk-insolvencydirect.com
 127.0.0.1 61qwg.voluumtrk.com
 127.0.0.1 62.6.87.194.dynamic.dol.ru
 127.0.0.1 623.bapi.adsafeprotected.com
@@ -38066,6 +38067,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dapper.net
 127.0.0.1 dara-tolliver.us
 127.0.0.1 darakht.com
+127.0.0.1 daralasnan.com
 127.0.0.1 darangi.ru
 127.0.0.1 daratop.cn
 127.0.0.1 dardenrestaurants.112.2o7.net
@@ -55332,6 +55334,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rampidads.com
 127.0.0.1 randall-mccabe.us
 127.0.0.1 randevumads.com
+127.0.0.1 raneevahijab.id
 127.0.0.1 rank-master.com
 127.0.0.1 rank-master.de
 127.0.0.1 rankchamp.de
@@ -73238,6 +73241,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.qqc.co
 127.0.0.1 www.qrdeom.com
 127.0.0.1 www.qsstats.com
+127.0.0.1 www.quadratus.fr
 127.0.0.1 www.qualaroo.com
 127.0.0.1 www.qualigo.de
 127.0.0.1 www.qualigo.net
@@ -73878,6 +73882,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.stressx.org
 127.0.0.1 www.striemline.de
 127.0.0.1 www.studiochiarelli.eu
+127.0.0.1 www.studiolegaleabbruzzese.com
 127.0.0.1 www.su600.com
 127.0.0.1 www.sublimemedia.net
 127.0.0.1 www.subsitesadserver.co.uk
