@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 75870 ad serving and malware domains.
 #
-# Date Generated: Jan 20 2017
+# Date Generated: Jan 21 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -45266,6 +45266,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 imitrex.3.p2l.info
 127.0.0.1 imitrex.4.p2l.info
 127.0.0.1 imln5.voluumtrk.com
+127.0.0.1 immaculate.tk
 127.0.0.1 immanalytics.com
 127.0.0.1 immassets.s3.amazonaws.com
 127.0.0.1 immediate.mob-alerts15.com
@@ -50489,7 +50490,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mx1.revsci.net
 127.0.0.1 mx3ih.voluumtrk.com
 127.0.0.1 mxmacromedia.112.2o7.net
-127.0.0.1 mxstat230.com
 127.0.0.1 my-cash-bot.co
 127.0.0.1 my-cdn.effectivemeasure.net
 127.0.0.1 my-etracker.com
@@ -61517,6 +61517,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 topeuro.biz
 127.0.0.1 topforall.com
 127.0.0.1 topfox.co.uk
+127.0.0.1 topgamesites.net
 127.0.0.1 tophostbg.net
 127.0.0.1 topica.advertserve.com
 127.0.0.1 topixc.net
@@ -62579,7 +62580,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 traffic.velvet.hu
 127.0.0.1 traffic.webtrafficagents.com
 127.0.0.1 traffic4you.de
-127.0.0.1 trafficadept.com
 127.0.0.1 trafficads.com
 127.0.0.1 trafficads.s3-website-us-west-1.amazonaws.com
 127.0.0.1 trafficbee.com
