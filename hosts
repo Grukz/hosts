@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75870 ad serving and malware domains.
+# Currently blocking 75876 ad serving and malware domains.
 #
-# Date Generated: Jan 22 2017
+# Date Generated: Jan 23 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26975,6 +26975,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 appdev.addthis.com
 127.0.0.1 appdog.com
 127.0.0.1 appel.science
+127.0.0.1 appfixing.space
 127.0.0.1 appflood.com
 127.0.0.1 appflood.go2cloud.org
 127.0.0.1 appfly.mobi
@@ -40512,6 +40513,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 eu0.content-serve.net
 127.0.0.1 eu1.heatmap.it
 127.0.0.1 eu1.madsone.com
+127.0.0.1 eu1.recompenses.win
 127.0.0.1 eu1.snoobi.com
 127.0.0.1 eu2.madsone.com
 127.0.0.1 eu3.madsone.com
@@ -44050,6 +44052,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hlok.qertewrt.com
 127.0.0.1 hlrke.voluumtrk.com
 127.0.0.1 hlt6o.voluumtrk.com
+127.0.0.1 hlu9tseh.men
 127.0.0.1 hm-analytics.com
 127.0.0.1 hm.baidu.com
 127.0.0.1 hm.d1.sc.omtrdc.net
@@ -51343,6 +51346,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nodevice.uk.intellitxt.com
 127.0.0.1 noelle-traxler.us
 127.0.0.1 noen.oewabox.at
+127.0.0.1 nofreezingmac.space
 127.0.0.1 nojsstats.appspot.com
 127.0.0.1 nokby.voluumtrk.com
 127.0.0.1 nol.yahoo.com
@@ -55758,6 +55762,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 renasup-nord-de-france.fr
 127.0.0.1 renata-wenz.us
 127.0.0.1 renata-winstead.us
+127.0.0.1 rencontreavenue.com
 127.0.0.1 renee-gratton.us
 127.0.0.1 renee-neubauer.us
 127.0.0.1 renee-peacock.us
@@ -57466,6 +57471,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 seduction-zone.com
 127.0.0.1 see.hit.gemius.pl
 127.0.0.1 seekbang.com
+127.0.0.1 seemlessfixing.tech
 127.0.0.1 seeq.com.invalid
 127.0.0.1 seeques.com
 127.0.0.1 seervicee.info
