@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75937 ad serving and malware domains.
+# Currently blocking 75957 ad serving and malware domains.
 #
-# Date Generated: Jan 24 2017
+# Date Generated: Jan 25 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26590,6 +26590,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 antventure.com
 127.0.0.1 anxiety.1.p2l.info
 127.0.0.1 any-load.com
+127.0.0.1 any-log.videe.tv
 127.0.0.1 any-porn.com
 127.0.0.1 any.gs
 127.0.0.1 anycast.fw.adsafeprotected.com
@@ -27157,6 +27158,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 arecio.work
 127.0.0.1 arena-quantum.co.uk
 127.0.0.1 arena.altitude-arena.com
+127.0.0.1 arena.altitudeplatform.com
 127.0.0.1 areport.linksynergy.com
 127.0.0.1 arianna-bowerman.us
 127.0.0.1 aribo.net
@@ -33589,6 +33591,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.ajillionmax.com
 127.0.0.1 cdn.allegedmedia.com
 127.0.0.1 cdn.alleliteads.com
+127.0.0.1 cdn.altitudeplatform.com
 127.0.0.1 cdn.amateurmatch.com
 127.0.0.1 cdn.amgdgt.com
 127.0.0.1 cdn.ap.bittorrent.com
@@ -33824,6 +33827,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.media6degrees.com
 127.0.0.1 cdn.mediative.ca
 127.0.0.1 cdn.mediavoice.com
+127.0.0.1 cdn.mega-tags.com
 127.0.0.1 cdn.mercent.com
 127.0.0.1 cdn.merchenta.com
 127.0.0.1 cdn.millennialmedia.com
@@ -40577,6 +40581,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 eveitoki.com
 127.0.0.1 eveley.club
 127.0.0.1 event-dev.adotsolution.com
+127.0.0.1 event-log.videe.tv
 127.0.0.1 event.2leva.bg
 127.0.0.1 event.adotsolution.com
 127.0.0.1 event.adxpose.com
@@ -40599,6 +40604,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 events.readrboard.com
 127.0.0.1 events.realgravity.com
 127.0.0.1 events.redditmedia.com
+127.0.0.1 events.streamrail.net
 127.0.0.1 events.tremorhub.com
 127.0.0.1 events.walla.co.il
 127.0.0.1 events.webflowmetrics.com
@@ -49300,6 +49306,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 meetupdev.122.2o7.net
 127.0.0.1 meevehdar.com
 127.0.0.1 mega-e.org
+127.0.0.1 mega.vast.mega-tags.com
 127.0.0.1 megaats.atspace.cc
 127.0.0.1 megacash.de
 127.0.0.1 megacash.warpnet.com.br
@@ -53456,6 +53463,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pe.5.p2l.info
 127.0.0.1 peakclick.com
 127.0.0.1 peakcounter.dk
+127.0.0.1 peaky.tags.yield-atx.com
 127.0.0.1 pebble-adhese.gva.be
 127.0.0.1 pebble-adhese.hbvl.be
 127.0.0.1 pebble.bnex.com
@@ -54457,6 +54465,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 prochina.work
 127.0.0.1 procinema.2cnt.net
 127.0.0.1 prod-d.openx.com
+127.0.0.1 prod-e.sprtad.com
 127.0.0.1 prod-js.aws.y-track.com
 127.0.0.1 prod-services.interactiveone.com
 127.0.0.1 prod.ipav.xyz
@@ -57234,6 +57243,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sdk-controller.widespace.com
 127.0.0.1 sdk.appbrain.com
 127.0.0.1 sdk.justad.mobi
+127.0.0.1 sdk.streamrail.com
 127.0.0.1 sdk.testflightapp.com
 127.0.0.1 sdkm.w.inmobi.com
 127.0.0.1 sdo.oewabox.at
@@ -58957,6 +58967,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 sso.conduit.com
 127.0.0.1 ssp.adplus.co.id
 127.0.0.1 ssp.adriver.ru
+127.0.0.1 ssp.anyclip-media.com
+127.0.0.1 ssp.streamrail.net
 127.0.0.1 ssp.virool.com
 127.0.0.1 sspcash.adxcore.com
 127.0.0.1 ssprings.rotator.hadj7.adjuggler.net
@@ -59001,6 +59013,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 st.smartredirect.de
 127.0.0.1 st.top100.ru
 127.0.0.1 st.valueclick.com
+127.0.0.1 st.videojam.tv
 127.0.0.1 st.vq.ku6.cn
 127.0.0.1 st.wetrack.it
 127.0.0.1 st.xhamster.com
@@ -59435,6 +59448,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.styria-digital.com
 127.0.0.1 static.superfish.com
 127.0.0.1 static.t4btv.com
+127.0.0.1 static.tags.yield-atx.com
 127.0.0.1 static.teasermedia.net
 127.0.0.1 static.tellapart.com
 127.0.0.1 static.tellaparts.com
@@ -59448,7 +59462,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.trafficstars.com
 127.0.0.1 static.uk.addynamo.com
 127.0.0.1 static.unister-adservices.com
+127.0.0.1 static.unocdn.com
 127.0.0.1 static.uolcontent.com
+127.0.0.1 static.vertamedia.com
 127.0.0.1 static.verticalscope.com
 127.0.0.1 static.vinsight.de
 127.0.0.1 static.virgul.com
@@ -60611,6 +60627,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tags.pixnet.net
 127.0.0.1 tags.pubgears.com
 127.0.0.1 tags.qservz.com
+127.0.0.1 tags.rllcll.com
 127.0.0.1 tags.rtbidder.net
 127.0.0.1 tags.smowtion.com
 127.0.0.1 tags.spider-mails.com
@@ -63998,9 +64015,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 vast.bp3855989.btrll.com
 127.0.0.1 vast.bp3855991.btrll.com
 127.0.0.1 vast.bp3855992.btrll.com
+127.0.0.1 vast.deliads.com
 127.0.0.1 vast.moatads.com
 127.0.0.1 vast.optimatic.com
 127.0.0.1 vast.tubemogul.com
+127.0.0.1 vast.vertamedia.com
 127.0.0.1 vastx.moatads.com
 127.0.0.1 vatrack.hinet.net
 127.0.0.1 vault9.us.intellitxt.com
@@ -64171,6 +64190,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 video.adaptv.advertising.com
 127.0.0.1 video.begun.ru
 127.0.0.1 video.cld.startappexchange.com
+127.0.0.1 video.cynogage.com
 127.0.0.1 video.digidip.net
 127.0.0.1 video.dmtracker.com
 127.0.0.1 video.flashtalking.com
