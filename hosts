@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75957 ad serving and malware domains.
+# Currently blocking 75961 ad serving and malware domains.
 #
-# Date Generated: Jan 25 2017
+# Date Generated: Jan 26 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25577,6 +25577,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 afinder.oewabox.at
 127.0.0.1 afkarehroshan.com
 127.0.0.1 aflrm.com
+127.0.0.1 afobal.cl
 127.0.0.1 afp.qiyi.com
 127.0.0.1 afraidtoask.us.intellitxt.com
 127.0.0.1 afreehome.com
@@ -29524,6 +29525,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 betclic.com
 127.0.0.1 betcollect.247realmedia.com
 127.0.0.1 bethany-wentz.us
+127.0.0.1 bethelmhss.com
 127.0.0.1 betrad.com
 127.0.0.1 betstarwager.cn
 127.0.0.1 betsy-folkes.us
@@ -29787,7 +29789,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 blog.byethost.com
 127.0.0.1 blog.chartboost.com
 127.0.0.1 blog.data.ero-advertising.com
-127.0.0.1 blog.disqus.com
 127.0.0.1 blog.duba.net
 127.0.0.1 blog.ero-advertising.com
 127.0.0.1 blog.intext.ero-advertising.com
@@ -40890,6 +40891,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fairfaxau.demdex.net
 127.0.0.1 faith-weissman.us
 127.0.0.1 faiyazahmed.com
+127.0.0.1 falconsafe.com.sg
 127.0.0.1 falk.ivwbox.de
 127.0.0.1 falk.speedera.net
 127.0.0.1 falkag.net
@@ -60300,6 +60302,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sync.richmetrics.com
 127.0.0.1 sync.search.spotxchange.com
 127.0.0.1 sync.smarttds.ru
+127.0.0.1 sync.teads.tv
 127.0.0.1 sync.zenoviaexchange.com
 127.0.0.1 sync2.adsniper.ru
 127.0.0.1 syncaccess.net
@@ -72320,6 +72323,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.liana-millican.us
 127.0.0.1 www.liczniki.org
 127.0.0.1 www.lifeforminc.com
+127.0.0.1 www.lifelabs.vn
 127.0.0.1 www.lightedpages.com
 127.0.0.1 www.lijit.com
 127.0.0.1 www.likebtn.com
