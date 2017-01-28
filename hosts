@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75963 ad serving and malware domains.
+# Currently blocking 75962 ad serving and malware domains.
 #
-# Date Generated: Jan 27 2017
+# Date Generated: Jan 28 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18853,6 +18853,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adex.adchakra.net
 127.0.0.1 adex.admailtiser.com
 127.0.0.1 adexc.net
+127.0.0.1 adexce.net
 127.0.0.1 adexchangeprediction.com
 127.0.0.1 adexcite.com
 127.0.0.1 adexit.com
@@ -50554,7 +50555,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 my.iconadserver.com
 127.0.0.1 my.iheartradio.com
 127.0.0.1 my.iwon.com
-127.0.0.1 my.leadpages.net
 127.0.0.1 my.media-servers.net
 127.0.0.1 my.mobfox.com
 127.0.0.1 my.mystreamdelivery.xyz
@@ -50847,6 +50847,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nandomedia.112.2o7.net
 127.0.0.1 nandp.go2cloud.org
 127.0.0.1 nanigans.com
+127.0.0.1 nanoadexchange.com
 127.0.0.1 nanocluster.reklamz.com
 127.0.0.1 nanostats.nanopress.it
 127.0.0.1 naomi-thorn.us
@@ -51695,6 +51696,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 o.mylifetime.com
 127.0.0.1 o.opentable.com
 127.0.0.1 o.sa.aol.com
+127.0.0.1 o.ss2.us
 127.0.0.1 o.swisscom.ch
 127.0.0.1 o.xbox.com
 127.0.0.1 o.yieldsquare.com
@@ -55278,7 +55280,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 r.zeroredirect2.com
 127.0.0.1 r01.ibg.bg
 127.0.0.1 r0d2x.voluumtrk.com
-127.0.0.1 r1---sn-vgqsen7z.googlevideo.com
 127.0.0.1 r1-ads.ace.advertising.com
 127.0.0.1 r1.ace.advertising.com
 127.0.0.1 r1.affiliatefuel.com
@@ -55289,29 +55290,22 @@ ff02::2 ip6-allrouters
 127.0.0.1 r1.literotica.com
 127.0.0.1 r1.pcwelt.de
 127.0.0.1 r1.plugrush.com
-127.0.0.1 r1.sn-vgqsen7z.googlevideo.com
 127.0.0.1 r1.zedo.com
 127.0.0.1 r10.cooleremail.com
 127.0.0.1 r11.cooleremail.com
-127.0.0.1 r17---sn-vgqsenes.googlevideo.com
-127.0.0.1 r2---sn-vgqs7n7k.googlevideo.com
 127.0.0.1 r2.adwo.com
 127.0.0.1 r2.cooleremail.com
 127.0.0.1 r2.linksynergy.com
 127.0.0.1 r2.plugrush.com
-127.0.0.1 r20---sn-vgqs7ne7.googlevideo.com
 127.0.0.1 r20.rs6.net
-127.0.0.1 r20.sn-vgqs7ne7.googlevideo.com
 127.0.0.1 r2d2.adman.gr
 127.0.0.1 r2fjs.voluumtrk.com
 127.0.0.1 r2jmarketing.go2cloud.org
 127.0.0.1 r2v3n.voluumtrk.com
 127.0.0.1 r3.cooleremail.com
 127.0.0.1 r3.plugrush.com
-127.0.0.1 r4---sn-vgqs7nez.googlevideo.com
 127.0.0.1 r4.cooleremail.com
 127.0.0.1 r4.plugrush.com
-127.0.0.1 r4.sn-vgqs7nez.googlevideo.com
 127.0.0.1 r4zih.voluumtrk.com
 127.0.0.1 r5.cooleremail.com
 127.0.0.1 r5.dir.bg
@@ -62480,6 +62474,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracking.pennystockpicks.net
 127.0.0.1 tracking.peopletomysite.com
 127.0.0.1 tracking.percentmobile.com
+127.0.0.1 tracking.perfecttoolmedia.com
 127.0.0.1 tracking.perfectwaterpurifier.net
 127.0.0.1 tracking.performancerevenues.com
 127.0.0.1 tracking.plattformad.com
@@ -62855,6 +62850,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trk.kissmetrics.com
 127.0.0.1 trk.m.libero.it
 127.0.0.1 trk.mailtoward.com
+127.0.0.1 trk.meacashtrk.com
 127.0.0.1 trk.mobile-setting.com
 127.0.0.1 trk.newtention.net
 127.0.0.1 trk.pswec.com
@@ -67974,6 +67970,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vte.nexteramedia.com
 127.0.0.1 vtncmn.com
 127.0.0.1 vtot.proxy.aol.com
+127.0.0.1 vtrack.larvtrk.com
 127.0.0.1 vtracking.in.com
 127.0.0.1 vtrtl.de
 127.0.0.1 vu.adschoom.com
@@ -69591,6 +69588,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.adelixir.com
 127.0.0.1 www.ademails.com
 127.0.0.1 www.adengage.com
+127.0.0.1 www.adexce.net
 127.0.0.1 www.adexchangecloud.com
 127.0.0.1 www.adexcite.com
 127.0.0.1 www.adexit.com
@@ -75382,6 +75380,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 xkxempire.com
 127.0.0.1 xkygmtrrjalx.com
 127.0.0.1 xl.topstat.com
+127.0.0.1 xl415.com
 127.0.0.1 xlite.counterpath.com
 127.0.0.1 xlivehost.com
 127.0.0.1 xlocator.com
