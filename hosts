@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75962 ad serving and malware domains.
+# Currently blocking 75963 ad serving and malware domains.
 #
-# Date Generated: Jan 29 2017
+# Date Generated: Jan 30 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -70623,6 +70623,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.clicksrvr.co
 127.0.0.1 www.clickstotrack.com
 127.0.0.1 www.clicksurecpa.com
+127.0.0.1 www.clicksyndicatetracking.com
 127.0.0.1 www.clicktale.com
 127.0.0.1 www.clicktale.net
 127.0.0.1 www.clickterra.net
