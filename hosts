@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75963 ad serving and malware domains.
+# Currently blocking 75964 ad serving and malware domains.
 #
-# Date Generated: Jan 30 2017
+# Date Generated: Jan 31 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -41113,6 +41113,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ferrago.uk.intellitxt.com
 127.0.0.1 ferrari1.info
 127.0.0.1 fertyu.allgreatvideo.com
+127.0.0.1 fervortracer.com
 127.0.0.1 fessr.voluumtrk.com
 127.0.0.1 fetishfitnessbabes.com
 127.0.0.1 fetishlocator.com
