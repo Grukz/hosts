@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75964 ad serving and malware domains.
+# Currently blocking 75966 ad serving and malware domains.
 #
-# Date Generated: Feb 01 2017
+# Date Generated: Feb 02 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -51316,6 +51316,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nl4.hit.stat24.com
 127.0.0.1 nlbanner.nl
 127.0.0.1 nlconsulateorlandoorg.siteprotect.net
+127.0.0.1 nlett3r.com
 127.0.0.1 nlhra.voluumtrk.com
 127.0.0.1 nm.5.p2l.info
 127.0.0.1 nm.netmng.com
@@ -72919,6 +72920,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ninjadollars.com
 127.0.0.1 www.njashka.ru
 127.0.0.1 www.nlbanner.nl
+127.0.0.1 www.nlett3r.com
 127.0.0.1 www.nngalleries2.com
 127.0.0.1 www.noadnetwork.com
 127.0.0.1 www.nobleppc.com
