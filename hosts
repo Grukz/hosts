@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75966 ad serving and malware domains.
+# Currently blocking 75974 ad serving and malware domains.
 #
-# Date Generated: Feb 02 2017
+# Date Generated: Feb 03 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1531,6 +1531,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 4228414.fls.doubleclick.net
 127.0.0.1 4235225.fls.doubleclick.net
 127.0.0.1 4236808.fls.doubleclick.net
+127.0.0.1 4294919531.kt.mixmarket.biz
 127.0.0.1 4299553.fls.doubleclick.net
 127.0.0.1 43.6.87.194.dynamic.dol.ru
 127.0.0.1 4331660.fls.doubleclick.net
@@ -23809,6 +23810,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserver.ugo.com
 127.0.0.1 adserver.ugo.nl
 127.0.0.1 adserver.ukplus.co.uk
+127.0.0.1 adserver.unityads.unity3d.com
 127.0.0.1 adserver.uproxx.com
 127.0.0.1 adserver.usermagnet.com
 127.0.0.1 adserver.van.net
@@ -33528,6 +33530,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn-analytics.ladmedia.fr
 127.0.0.1 cdn-ci34.actonsoftware.com
 127.0.0.1 cdn-gl.imrworldwide.com
+127.0.0.1 cdn-highwinds.unityads.unity3d.com
 127.0.0.1 cdn-i.dmdentertainment.com
 127.0.0.1 cdn-rtb.sape.ru
 127.0.0.1 cdn-social.janrain.com
@@ -34420,6 +34423,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 choicesurveypanel.com
 127.0.0.1 choicetitle.net
 127.0.0.1 chokertraffic.com
+127.0.0.1 chokoladsrv.net
 127.0.0.1 chope-co.b.appier.net
 127.0.0.1 chosurvey.net
 127.0.0.1 christianbusinessadvertising.com
@@ -38164,6 +38168,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 data.marketgid.com
 127.0.0.1 data.mb8e17f12.website
 127.0.0.1 data.mobclix.com
+127.0.0.1 data.mozilla.com
 127.0.0.1 data.nal.usda.gov
 127.0.0.1 data.namesakeoscilloscopemarquis.com
 127.0.0.1 data.neuroxmedia.com
@@ -41145,6 +41150,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fhm.uk.intellitxt.com
 127.0.0.1 fhm.valueclick.net
 127.0.0.1 fhmonline.us.intellitxt.com
+127.0.0.1 fhr.data.mozilla.com
 127.0.0.1 fhserve.com
 127.0.0.1 fi.sitestat.com
 127.0.0.1 fiacardservicesgroup.tt.omtrdc.net
@@ -56873,6 +56879,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 s99.cnzz.com
 127.0.0.1 s9kpd.voluumtrk.com
 127.0.0.1 sO.2mdn.net
+127.0.0.1 sa-receiver.sematext.com
 127.0.0.1 sa.aol.com.122.2o7.net
 127.0.0.1 sa.bbc.co.uk
 127.0.0.1 sa.bbc.com
@@ -57571,7 +57578,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 selina-wimmer.us
 127.0.0.1 sellads.eu
 127.0.0.1 sem.shopexplorer.com
-127.0.0.1 sematext.com
 127.0.0.1 semengineers.com
 127.0.0.1 semiyun.com
 127.0.0.1 semrush.com
@@ -61709,6 +61715,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tr.interlake.net
 127.0.0.1 tr.mobiadserv.com
 127.0.0.1 tr.newsletter.capdecision.fr
+127.0.0.1 tr.note001.com
 127.0.0.1 tr.prospecteye.com
 127.0.0.1 tr.sjc.contextweb.com
 127.0.0.1 tr.tu.connect.wunderloop.net
@@ -69590,6 +69597,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.adelixir.com
 127.0.0.1 www.ademails.com
 127.0.0.1 www.adengage.com
+127.0.0.1 www.adexc.net
 127.0.0.1 www.adexce.net
 127.0.0.1 www.adexchangecloud.com
 127.0.0.1 www.adexcite.com
@@ -70548,6 +70556,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.choicedealz.com
 127.0.0.1 www.choicesurveypanel.com
 127.0.0.1 www.chokertraffic.com
+127.0.0.1 www.chokoladsrv.net
 127.0.0.1 www.christi-canfield.us
 127.0.0.1 www.christianbusinessadvertising.com
 127.0.0.1 www.christie-hanlon.us
@@ -73671,7 +73680,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.selipuquoe.com
 127.0.0.1 www.sellads.eu
 127.0.0.1 www.sellmeyourtraffic.com
-127.0.0.1 www.sematext.com
 127.0.0.1 www.semrush.com
 127.0.0.1 www.send-safe.com
 127.0.0.1 www.send4fun.com
