@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75974 ad serving and malware domains.
+# Currently blocking 75973 ad serving and malware domains.
 #
-# Date Generated: Feb 03 2017
+# Date Generated: Feb 04 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -29155,6 +29155,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bannersworld.com
 127.0.0.1 bannersxchange.com
 127.0.0.1 bannert.ru
+127.0.0.1 bannertesting.com
 127.0.0.1 bannerus1.axelsfun.com
 127.0.0.1 bannerus2.axelsfun.com
 127.0.0.1 bannerus3.axelsfun.com
@@ -40777,7 +40778,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 extntechnologies.us.intellitxt.com
 127.0.0.1 extra.wavecdn.net
 127.0.0.1 extra33.com
-127.0.0.1 extractorandburner.com
 127.0.0.1 extranet.ilius.net
 127.0.0.1 extreembilisim.com
 127.0.0.1 extreme-dm.com
@@ -52431,7 +52431,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 onet.hit.stat.pl
 127.0.0.1 onetoone.112.2o7.net
 127.0.0.1 oneund.ru
-127.0.0.1 onewaylinkexchange.net
 127.0.0.1 onlamp.us.intellitxt.com
 127.0.0.1 onlgc.voluumtrk.com
 127.0.0.1 onlinadverts.com
