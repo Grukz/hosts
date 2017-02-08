@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75913 ad serving and malware domains.
+# Currently blocking 75915 ad serving and malware domains.
 #
-# Date Generated: Feb 07 2017
+# Date Generated: Feb 08 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -29666,6 +29666,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 biopharmastore.com
 127.0.0.1 biosmagazine.uk.intellitxt.com
 127.0.0.1 biowebb-data.s3.amazonaws.com
+127.0.0.1 bir.snjack.info
 127.0.0.1 birta.stats.is
 127.0.0.1 birth-control.1.p2l.info
 127.0.0.1 bist.ailsg.com
@@ -53899,6 +53900,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pixetrk.com
 127.0.0.1 pixiedust.buzzfeed.com
 127.0.0.1 pixxur.com
+127.0.0.1 pizhma.ru
 127.0.0.1 pk-cdn.effectivemeasure.net
 127.0.0.1 pk.adlandpro.com
 127.0.0.1 pk5qr.voluumtrk.com
@@ -57379,6 +57381,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 secure-us.imrworldwide.com
 127.0.0.1 secure-yt.imrworldwide.com
 127.0.0.1 secure-za.imrworldwide.com
+127.0.0.1 secure.160117rd.xyz
 127.0.0.1 secure.33drugs.com
 127.0.0.1 secure.ace-tag.advertising.com
 127.0.0.1 secure.ace.advertising.com
@@ -68747,7 +68750,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 westeins.2cnt.net
 127.0.0.1 westeros.go2cloud.org
 127.0.0.1 westjet.112.2o7.net
-127.0.0.1 westlifego.com
 127.0.0.1 westwickfarrow.122.2o7.net
 127.0.0.1 wetjane.x10.mx
 127.0.0.1 wetpaint-d.openx.net
