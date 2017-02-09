@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75915 ad serving and malware domains.
+# Currently blocking 75926 ad serving and malware domains.
 #
-# Date Generated: Feb 08 2017
+# Date Generated: Feb 09 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25576,6 +25576,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ag.yieldoptimizer.com
 127.0.0.1 ag1.hitbox.com
 127.0.0.1 agamgreetingscom.112.2o7.net
+127.0.0.1 agardomains.com
 127.0.0.1 agata-lillard.us
 127.0.0.1 agata-wadlington.us
 127.0.0.1 agbmcom.112.2o7.net
@@ -26970,9 +26971,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 apple-protection.info
 127.0.0.1 apple-trusted.com
 127.0.0.1 apple.com------support.host
+127.0.0.1 apple.com-----scanner.club
 127.0.0.1 apple.com-safetyalert.com
 127.0.0.1 apple.com-scan-virus-detected.com
 127.0.0.1 apple.com-store.me
+127.0.0.1 apple.com-supportcenter.website
+127.0.0.1 apple.com.virus-mac.com
 127.0.0.1 applebarq.com
 127.0.0.1 appledaily.apx.appier.net
 127.0.0.1 appleglobal.112.2o7.net
@@ -33201,6 +33205,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 callmd5map.com
 127.0.0.1 calme.science
 127.0.0.1 cam.demdex.net
+127.0.0.1 cam2cam.xlovecam.com
 127.0.0.1 cambonanza.com
 127.0.0.1 cameraboys.com
 127.0.0.1 cameron-wolter.us
@@ -35792,6 +35797,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 copilul.2cnt.net
 127.0.0.1 copperheadsecurity.com
 127.0.0.1 copyright-reform.info
+127.0.0.1 coquine-dispo.com
 127.0.0.1 corba.adtech.de
 127.0.0.1 corba.adtech.fr
 127.0.0.1 corba.adtech.us
@@ -48432,6 +48438,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ma9jh.voluumtrk.com
 127.0.0.1 mabping.chartbeat.net
 127.0.0.1 mac-os.apple.com-secured.online
+127.0.0.1 mac-osx.message-warning.net
 127.0.0.1 mac-protection.info
 127.0.0.1 mac-system-alert.com
 127.0.0.1 mac.system-alert1.com
@@ -50629,6 +50636,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 myoffertracking.com
 127.0.0.1 mypagerank.net
 127.0.0.1 mypagerank.ru
+127.0.0.1 myperiod.club
 127.0.0.1 mypersonalhttp.com
 127.0.0.1 myphentermine.polybuild.ru
 127.0.0.1 mypoints.com
@@ -50715,6 +50723,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 n.ads3-adnow.com
 127.0.0.1 n.betus.com
 127.0.0.1 n.bodybuilding.com
+127.0.0.1 n.fclick-adnow.com
 127.0.0.1 n.gemini.yahoo.com
 127.0.0.1 n.ladycash.ru
 127.0.0.1 n.lcads.ru
@@ -54292,6 +54301,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ppcindo.com
 127.0.0.1 ppctracking.net
 127.0.0.1 ppctrck.com
+127.0.0.1 pple.com.virus-mac.com
 127.0.0.1 ppp.voice2page.com
 127.0.0.1 pppads.com
 127.0.0.1 pptrk.com
@@ -57471,6 +57481,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 securitas493maximus.xyz
 127.0.0.1 securitas611maximus.xyz
 127.0.0.1 securite.01net.com
+127.0.0.1 security-alert.zs2vm.top
 127.0.0.1 security.ivwbox.de
 127.0.0.1 securityandroidupdate.dinamikaprinting.com
 127.0.0.1 securityscan.us
