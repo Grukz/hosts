@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75926 ad serving and malware domains.
+# Currently blocking 75920 ad serving and malware domains.
 #
-# Date Generated: Feb 09 2017
+# Date Generated: Feb 10 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2920,6 +2920,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aad73c550c.se
 127.0.0.1 aadcom.com
 127.0.0.1 aaddzz.com
+127.0.0.1 aadroid.net
 127.0.0.1 aads.go2cloud.org
 127.0.0.1 aads.treehugger.com
 127.0.0.1 aads.us
@@ -26470,7 +26471,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 anitivirus.com
 127.0.0.1 ankieta-online.pl
 127.0.0.1 anklets.shengen.ru
-127.0.0.1 anlacviettravel.com.vn
 127.0.0.1 anlle.com
 127.0.0.1 anlt.dnsdynamic.com
 127.0.0.1 anm.112.2o7.net
@@ -27229,7 +27229,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 as1.suitesmart.com
 127.0.0.1 as1image1.adshuffle.com
 127.0.0.1 as1image2.adshuffle.com
-127.0.0.1 as2.advfn.com
 127.0.0.1 as2.autoforums.com
 127.0.0.1 as2.falkag.de
 127.0.0.1 as3.falkag.de
@@ -40893,7 +40892,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 fanrep.oewabox.at
 127.0.0.1 fanserv-d.openx.net
 127.0.0.1 fansign.streamray.com
-127.0.0.1 fapet.ipb.ac.id
 127.0.0.1 faq-candrive.tk
 127.0.0.1 faq.carpediem.fr
 127.0.0.1 faqts.us.intellitxt.com
@@ -41387,6 +41385,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fnlpic.com
 127.0.0.1 fo-api.omnitagjs.com
 127.0.0.1 fo4n.com
+127.0.0.1 fo5.a1-downloader.org
 127.0.0.1 foaks.com
 127.0.0.1 focalink.com
 127.0.0.1 focas.jp
@@ -45436,7 +45435,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 indisancal.com
 127.0.0.1 indium.openx.net
 127.0.0.1 indocpa.go2cloud.org
-127.0.0.1 indongsang.com
 127.0.0.1 indumag.oewabox.at
 127.0.0.1 industry-deals.com
 127.0.0.1 industrybrains.com
@@ -46813,7 +46811,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 krafteurope.112.2o7.net
 127.0.0.1 kraftfoodseurope.d3.sc.omtrdc.net
 127.0.0.1 kraken-measurements.s3.amazonaws.com
-127.0.0.1 kraonkelaere.com
 127.0.0.1 krater.iprom.net
 127.0.0.1 kreaffiliation.com
 127.0.0.1 kreapixel.go2cloud.org
@@ -55964,7 +55961,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 rextrk.com
 127.0.0.1 rey3935.112.2o7.net
 127.0.0.1 rezrezwhistler.112.2o7.net
-127.0.0.1 rfvn.vn
 127.0.0.1 rg.revolvermaps.com
 127.0.0.1 rg.yieldoptimizer.com
 127.0.0.1 rg1.com
@@ -67946,7 +67942,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 vu.adschoom.com
 127.0.0.1 vu.moatads.com
 127.0.0.1 vu.veoxa.com
-127.0.0.1 vuanongsan.vn
 127.0.0.1 vug.in
 127.0.0.1 vulcan.doublepimp.com
 127.0.0.1 vungle.com
@@ -73232,7 +73227,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.prizes.co.uk
 127.0.0.1 www.pro-partners.nl
 127.0.0.1 www.pro.webstat.pl
-127.0.0.1 www.proacti.com.br
 127.0.0.1 www.proascolcolombia.com
 127.0.0.1 www.probabilidades.net
 127.0.0.1 www.probux.com
