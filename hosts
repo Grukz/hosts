@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75921 ad serving and malware domains.
+# Currently blocking 75919 ad serving and malware domains.
 #
-# Date Generated: Feb 12 2017
+# Date Generated: Feb 13 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -69406,7 +69406,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.961.com
 127.0.0.1 www.9991.com
 127.0.0.1 www.99stats.com
-127.0.0.1 www.9mode-clothing-manufacturer.com
 127.0.0.1 www.a-ads.com
 127.0.0.1 www.a.ero-advertising.com
 127.0.0.1 www.a.websponsors.com
@@ -75818,7 +75817,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 zhcn.admob.com
 127.0.0.1 zhirok.com
 127.0.0.1 zhopa.net
-127.0.0.1 zhyravlik.ru
 127.0.0.1 zi.zeroredirect1.com
 127.0.0.1 zibup.csheaven.com
 127.0.0.1 ziccardia.com
