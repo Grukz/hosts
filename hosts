@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75919 ad serving and malware domains.
+# Currently blocking 75937 ad serving and malware domains.
 #
-# Date Generated: Feb 13 2017
+# Date Generated: Feb 14 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1957,6 +1957,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 8b3439.r.axf8.net
 127.0.0.1 8bdnl.voluumtrk.com
 127.0.0.1 8cb8a3.r.axf8.net
+127.0.0.1 8cr.purredheanb.online
 127.0.0.1 8cynz.voluumtrk.com
 127.0.0.1 8d6274.r.axf8.net
 127.0.0.1 8d6274.t.axf8.net
@@ -32796,6 +32797,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.msnbc.com
 127.0.0.1 c.msparktrk.com
 127.0.0.1 c.mtro.co
+127.0.0.1 c.mttwtrack.com
 127.0.0.1 c.munmedtrflow.com
 127.0.0.1 c.my.msn.com
 127.0.0.1 c.mystat-in.net
@@ -39187,6 +39189,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 download.errorsafe.com
 127.0.0.1 download.errorsmart.com
 127.0.0.1 download.favorit-network.com
+127.0.0.1 download.filmfanatic.com
 127.0.0.1 download.fordaleltd.com
 127.0.0.1 download.funwebproducts.com
 127.0.0.1 download.getmirar.com
@@ -41173,6 +41176,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 filmati-porno.hardsu.net
 127.0.0.1 filmboxlive.go2cloud.org
 127.0.0.1 filmdrunk.us.intellitxt.com
+127.0.0.1 filmfanatic.com
 127.0.0.1 filmforcedvd.ign.us.intellitxt.com
 127.0.0.1 filmrepo.ivwbox.de
 127.0.0.1 filmschoolrejects.us.intellitxt.com
@@ -42963,6 +42967,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gif.hitx.net
 127.0.0.1 gifastcompanycom.112.2o7.net
 127.0.0.1 gifs.burstnet.com
+127.0.0.1 gift-today85.online
 127.0.0.1 giftcardchallenge.com
 127.0.0.1 giftcardsurveys.us.com
 127.0.0.1 gifthulk.go2cloud.org
@@ -44600,6 +44605,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 i46rz.voluumtrk.com
 127.0.0.1 i4927.voluumtrk.com
 127.0.0.1 i4c.go2cloud.org
+127.0.0.1 i4track.net
 127.0.0.1 i4u.us.intellitxt.com
 127.0.0.1 i5.cmail2.com
 127.0.0.1 i5.cmail5.com
@@ -52177,6 +52183,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 offended.feenode.net
 127.0.0.1 offer.17bullets.com
 127.0.0.1 offer.alibaba.com
+127.0.0.1 offer.camp
 127.0.0.1 offerannex.go2cloud.org
 127.0.0.1 offerdeliver.com
 127.0.0.1 offeredby.net
@@ -52814,6 +52821,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 overturecomvista.112.2o7.net
 127.0.0.1 ovhomes.com
 127.0.0.1 owa.moxs.net
+127.0.0.1 owabgxis.wp.pl
 127.0.0.1 owebmoney.ru
 127.0.0.1 owha.vancouverco.com
 127.0.0.1 owlonl.ivwbox.de
@@ -54102,6 +54110,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pokasvobodna.justclick.ru
 127.0.0.1 poker-games.e-online-poker-4u.net
 127.0.0.1 pol.bbelements.com
+127.0.0.1 poland.gift-today85.online
 127.0.0.1 polaris.tns-cs.net
 127.0.0.1 poldk.nuggad.net
 127.0.0.1 pole.6rooms.com
@@ -54113,6 +54122,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pollserver.interpolls.com
 127.0.0.1 polluxnetwork.com
 127.0.0.1 polly-hammack.us
+127.0.0.1 polskasupermarkecie.website
 127.0.0.1 pomeranian99.sitetracker.com
 127.0.0.1 pong.qubitproducts.com
 127.0.0.1 pongoresume.com
@@ -54335,6 +54345,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 precisioncounter.com
 127.0.0.1 precisionleads.go2cloud.org
 127.0.0.1 predictad.com
+127.0.0.1 predictivadvertising.com
 127.0.0.1 predictivenetworks.com
 127.0.0.1 predictivesearch.com
 127.0.0.1 preferences.truste.com
@@ -54977,6 +54988,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 purethc.com
 127.0.0.1 purgecolon.net
 127.0.0.1 purgrobi.com
+127.0.0.1 purredheanb.online
 127.0.0.1 purryowl.com
 127.0.0.1 push.appsgeyser.com
 127.0.0.1 push.cdnads.com
@@ -62258,6 +62270,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracking.247search.com
 127.0.0.1 tracking.3com.com
 127.0.0.1 tracking.45-fe6b6-aah.co.uk
+127.0.0.1 tracking.4v4jfe79erfxfu8z8.com
 127.0.0.1 tracking.absolstats.com
 127.0.0.1 tracking.actionads.ru
 127.0.0.1 tracking.adalyser.com
@@ -68382,6 +68395,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wdm29.com
 127.0.0.1 wdr.ivwbox.de
 127.0.0.1 wdxcyber.us.intellitxt.com
+127.0.0.1 we-are-gamers.com
 127.0.0.1 weatherbugbrowserbar.mywebsearch.com
 127.0.0.1 web-amz.adotube.com
 127.0.0.1 web-ccfr.tsinghua.edu.cn
@@ -73153,6 +73167,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.politicalopinionsurvey.com
 127.0.0.1 www.pollmonkey.com
 127.0.0.1 www.polly-hammack.us
+127.0.0.1 www.polskasupermarkecie.website
 127.0.0.1 www.pongoresume.com
 127.0.0.1 www.popads.ero-advertising.com
 127.0.0.1 www.popadscdn.net
@@ -73204,6 +73219,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.precisioncounter.com
 127.0.0.1 www.predictad.com
 127.0.0.1 www.predictivadnetwork.com
+127.0.0.1 www.predictivadvertising.com
 127.0.0.1 www.premieropinion.com
 127.0.0.1 www.premium-reward-club.com
 127.0.0.1 www.premiumhdv.com
@@ -73271,6 +73287,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.puppykibble.com
 127.0.0.1 www.pureadexchange.com
 127.0.0.1 www.purplehorses.net
+127.0.0.1 www.purredheanb.online
 127.0.0.1 www.pussybabes.net
 127.0.0.1 www.pussyharem.com
 127.0.0.1 www.puush.in
@@ -75185,6 +75202,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wwwthesharperimage.com
 127.0.0.1 wwwview.atdmt.com.1520.302br.net
 127.0.0.1 wwwview.atdmt.com.801.8000.302br.net
+127.0.0.1 wwww.8cr.purredheanb.online
 127.0.0.1 wwww.adleads.com
 127.0.0.1 wwww.woolik.com
 127.0.0.1 wxdownloadmanager.com
