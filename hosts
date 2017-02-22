@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75934 ad serving and malware domains.
+# Currently blocking 75944 ad serving and malware domains.
 #
-# Date Generated: Feb 21 2017
+# Date Generated: Feb 22 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26976,7 +26976,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 apple.com-safetyalert.com
 127.0.0.1 apple.com-scan-virus-detected.com
 127.0.0.1 apple.com-store.me
+127.0.0.1 apple.com-supportcenter.pro
 127.0.0.1 apple.com-supportcenter.website
+127.0.0.1 apple.com.clean-virus-mac.com
 127.0.0.1 apple.com.virus-mac.com
 127.0.0.1 applebarq.com
 127.0.0.1 appledaily.apx.appier.net
@@ -27900,6 +27902,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bafn.bursttraffic.net
 127.0.0.1 bafn.trafficrevmaster.com
 127.0.0.1 bagslap.com
+127.0.0.1 baiduccdn1.com
 127.0.0.1 baiducdn.biz
 127.0.0.1 baidutv.baidu.com
 127.0.0.1 baisser.science
@@ -33628,6 +33631,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.comparemetrics.com
 127.0.0.1 cdn.complexmedianetwork.com
 127.0.0.1 cdn.connatix.com
+127.0.0.1 cdn.constafun.com
 127.0.0.1 cdn.content.exoticads.com
 127.0.0.1 cdn.contentadserver.com
 127.0.0.1 cdn.contentspread.net
@@ -33759,6 +33763,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.herezera.com
 127.0.0.1 cdn.hgdat.com
 127.0.0.1 cdn.hiido.cn
+127.0.0.1 cdn.holdlads.com
 127.0.0.1 cdn.hyperpromote.com
 127.0.0.1 cdn.iasrv.com
 127.0.0.1 cdn.idtargeting.com
@@ -33944,6 +33949,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.vlexokrako.com
 127.0.0.1 cdn.voscast.com
 127.0.0.1 cdn.w55c.net
+127.0.0.1 cdn.westbaud.com
 127.0.0.1 cdn.wg.uproxx.com
 127.0.0.1 cdn.widgets.webengage.com
 127.0.0.1 cdn.wigetmedia.com
@@ -43824,6 +43830,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 helpint.mywebsearch.com
 127.0.0.1 helpmedb.com
 127.0.0.1 helpmedownload.com
+127.0.0.1 helpmymacfaster.club
 127.0.0.1 henex.net.ua
 127.0.0.1 hentaicounter.com
 127.0.0.1 herbalaffiliateprogram.com
@@ -61039,6 +61046,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 testing02.bob.local.vmsn.de
 127.0.0.1 testing02.con.local.vmsn.de
 127.0.0.1 testpc24.profitableads.online
+127.0.0.1 testpconly12.prepare2upvideosafesystem4setnow.online
 127.0.0.1 testserver121.webtrekk.net
 127.0.0.1 testserver121int.webtrekk.net
 127.0.0.1 testserver122.webtrekk.net
@@ -64055,6 +64063,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vermontteddybear.112.2o7.net
 127.0.0.1 vernoblisk.com
 127.0.0.1 veronica-moore.us
+127.0.0.1 versionsupport.set2updatenowsafesystemset4now.info
 127.0.0.1 vertadnet.com
 127.0.0.1 vertical-leap.co.uk
 127.0.0.1 vertical-stats.huffpost.com
@@ -75870,6 +75879,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 zk9.zeroredirect1.com
 127.0.0.1 zkic.com
 127.0.0.1 zl.zeroredirect1.com
+127.0.0.1 zl1.bravo-deg.com
 127.0.0.1 zlothonline.info
 127.0.0.1 zm.zeroredirect1.com
 127.0.0.1 zm1.zeroredirect5.com
