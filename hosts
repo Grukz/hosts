@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 75944 ad serving and malware domains.
 #
-# Date Generated: Feb 22 2017
+# Date Generated: Feb 23 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -40208,6 +40208,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 enfintrouver.com
 127.0.0.1 engage.com
 127.0.0.1 engage.everyone.net
+127.0.0.1 engage.morespeck.com
 127.0.0.1 engage.speedera.net
 127.0.0.1 engage2.advanstar.com
 127.0.0.1 engagebdr.com
@@ -60331,7 +60332,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 system.picreel.com
 127.0.0.1 systemhelpr.com
 127.0.0.1 systemmonitoring.badgeville.com
-127.0.0.1 systemscfg.olympe.in
 127.0.0.1 systemscheckusa.com
 127.0.0.1 systweak.com
 127.0.0.1 sz.met.vgwort.de
