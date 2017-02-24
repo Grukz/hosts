@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 75944 ad serving and malware domains.
 #
-# Date Generated: Feb 23 2017
+# Date Generated: Feb 24 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -21197,7 +21197,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.pitchforkmedia.com
 127.0.0.1 ads.pittsburghlive.com
 127.0.0.1 ads.pixiq.com
-127.0.0.1 ads.pkr.com
 127.0.0.1 ads.place1.com
 127.0.0.1 ads.placester.net
 127.0.0.1 ads.planet-f1.com
@@ -55381,7 +55380,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ranking-liste.de
 127.0.0.1 ranking-street.de
 127.0.0.1 ranking.ynet.com
-127.0.0.1 rankingchart.de
 127.0.0.1 rankingscout.com
 127.0.0.1 rankingscout.org
 127.0.0.1 rankmytattoos.us.intellitxt.com
@@ -62638,6 +62636,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 traffic.velvet.hu
 127.0.0.1 traffic.webtrafficagents.com
 127.0.0.1 traffic4you.de
+127.0.0.1 trafficadept.com
 127.0.0.1 trafficads.com
 127.0.0.1 trafficads.s3-website-us-west-1.amazonaws.com
 127.0.0.1 trafficbee.com
@@ -75214,6 +75213,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wxdownloadmanager.com
 127.0.0.1 wy.5.p2l.info
 127.0.0.1 wykop.hit.gemius.pl
+127.0.0.1 wypratama.co.id
 127.0.0.1 wz.tynt.com
 127.0.0.1 wzeu.ask.com
 127.0.0.1 wznews.ivwbox.de
