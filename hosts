@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75944 ad serving and malware domains.
+# Currently blocking 75942 ad serving and malware domains.
 #
-# Date Generated: Feb 26 2017
+# Date Generated: Feb 27 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -38706,7 +38706,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 di1.shopping.com
 127.0.0.1 di63.shoppingshadow.com
 127.0.0.1 diablo.name
-127.0.0.1 diagnosticdubai.com
 127.0.0.1 dialer.adultplex.com
 127.0.0.1 dialer.cjb.net
 127.0.0.1 dialer.eurodialer.com
@@ -43440,7 +43439,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gpaper246.112.2o7.net
 127.0.0.1 gpapercareer.112.2o7.net
 127.0.0.1 gpapermom104.112.2o7.net
-127.0.0.1 gpdi-lippocikarang.com
 127.0.0.1 gpftt.com
 127.0.0.1 gpr.hu
 127.0.0.1 gqe0d.voluumtrk.com
