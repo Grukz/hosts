@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75942 ad serving and malware domains.
+# Currently blocking 75944 ad serving and malware domains.
 #
-# Date Generated: Feb 27 2017
+# Date Generated: Feb 28 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -49275,6 +49275,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mediavine-d.openx.net
 127.0.0.1 mediavisor.doubleclick.com
 127.0.0.1 mediavisor.doubleclick.net
+127.0.0.1 mediawhirl.net
 127.0.0.1 mediax.angloinfo.com
 127.0.0.1 mediaz.angloinfo.com
 127.0.0.1 medical-offer.com
@@ -72571,6 +72572,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.mediasheva.com
 127.0.0.1 www.mediaswitch.nl
 127.0.0.1 www.mediatraffic.com
+127.0.0.1 www.mediawhirl.net
 127.0.0.1 www.medical-offer.com
 127.0.0.1 www.medical-research-books.com
 127.0.0.1 www.medical-rewardpath.com
