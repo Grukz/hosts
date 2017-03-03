@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75945 ad serving and malware domains.
+# Currently blocking 75947 ad serving and malware domains.
 #
-# Date Generated: Mar 02 2017
+# Date Generated: Mar 03 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -37302,6 +37302,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cpx.v1.de.euserv.adm.adaos-ads.net
 127.0.0.1 cpxadroit.com
 127.0.0.1 cpxcenter.com
+127.0.0.1 cpxdeliv.com
 127.0.0.1 cpxinteractive.com
 127.0.0.1 cpxl.golem.de
 127.0.0.1 cpxmobile.go2cloud.org
@@ -42698,6 +42699,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 geo.ziffdavis.com
 127.0.0.1 geo2.adobe.com
 127.0.0.1 geoaddicted.net
+127.0.0.1 geoads.com
 127.0.0.1 geoads.eurorevenue.com
 127.0.0.1 geoads.osdn.com
 127.0.0.1 geoadserver.com
