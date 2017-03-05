@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75947 ad serving and malware domains.
+# Currently blocking 75945 ad serving and malware domains.
 #
-# Date Generated: Mar 04 2017
+# Date Generated: Mar 05 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26972,6 +26972,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 apple-trusted.com
 127.0.0.1 apple.com------support.host
 127.0.0.1 apple.com-----scanner.club
+127.0.0.1 apple.com-onlinesupport.host
 127.0.0.1 apple.com-safetyalert.com
 127.0.0.1 apple.com-scan-virus-detected.com
 127.0.0.1 apple.com-store.me
@@ -37842,10 +37843,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 d1pdpbxj733bb1.cloudfront.net
 127.0.0.1 d1piupybsgr6dr.cloudfront.net
 127.0.0.1 d1qpxk1wfeh8v1.cloudfront.net
-127.0.0.1 d1qqddufal4d58.cloudfront.net
 127.0.0.1 d1rdh3xxuqlqfo.cloudfront.net
 127.0.0.1 d1rgnfh960lz2b.cloudfront.net
-127.0.0.1 d1ros97qkrwjf5.cloudfront.net
 127.0.0.1 d1tprjo2w7krrh.cloudfront.net
 127.0.0.1 d1uwd25yvxu96k.cloudfront.net
 127.0.0.1 d1vbm0eveofcle.cloudfront.net
@@ -37983,7 +37982,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 d5e1ef2qzo-8108dl9wk1l8m59.hop.clickbank.net
 127.0.0.1 d5grz.voluumtrk.com
 127.0.0.1 d5nxst8fruw4z.cloudfront.net
-127.0.0.1 d5phz18u4wuww.cloudfront.net
 127.0.0.1 d5pvnbpawsaav.cloudfront.net
 127.0.0.1 d6.c5.b0.a2.top.mail.ru
 127.0.0.1 d6.zedo.com
