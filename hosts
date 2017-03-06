@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75945 ad serving and malware domains.
+# Currently blocking 75951 ad serving and malware domains.
 #
-# Date Generated: Mar 05 2017
+# Date Generated: Mar 06 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -29361,6 +29361,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 beanstock.com
 127.0.0.1 beanstockmedia.com
 127.0.0.1 beap.adx.yahoo.com
+127.0.0.1 beap.gemini.yahoo.com
 127.0.0.1 beastasuum.a.ssl.fastly.net
 127.0.0.1 beasttube.biz
 127.0.0.1 beatyhousesupporte.su
@@ -34627,6 +34628,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 clearwebstats.com
 127.0.0.1 cleco.jag.vmsn.de
 127.0.0.1 clepsydre.science
+127.0.0.1 clevernt.com
 127.0.0.1 clexchange.usww.net
 127.0.0.1 clhctrk.com
 127.0.0.1 cli.linksynergy.com
@@ -38918,6 +38920,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dl-plugin.com
 127.0.0.1 dl.adshooter.com
 127.0.0.1 dl.alphagirlz.mobi
+127.0.0.1 dl.bestofupload.info
 127.0.0.1 dl.clicktraffix.com
 127.0.0.1 dl.downf468.com
 127.0.0.1 dl.dropbox.com
@@ -38931,6 +38934,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dl.keywordstrategy.org
 127.0.0.1 dl.microsword.net
 127.0.0.1 dl.ncbuy.com
+127.0.0.1 dl.neodownload.webcam
 127.0.0.1 dl.webprodcdn.com
 127.0.0.1 dl01.faddmr.com
 127.0.0.1 dl1.ezthemes.com
@@ -50313,7 +50317,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mrjeweller.us
 127.0.0.1 mrktrecord3.com
 127.0.0.1 mrp.rubiconproject.com
-127.0.0.1 mrpeter.it
 127.0.0.1 mrskin.netmng.com
 127.0.0.1 mrskincash.com
 127.0.0.1 mrss.ads.moguldom.com
@@ -53483,7 +53486,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 penton.us.intellitxt.com
 127.0.0.1 pentonmedia.122.2o7.net
 127.0.0.1 pentos-cdn.polarmobile.com
-127.0.0.1 penwithian.co.uk
 127.0.0.1 people-choice-sites.com
 127.0.0.1 people-group.su
 127.0.0.1 people.searchwho.com
@@ -60091,6 +60093,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 superfish.com
 127.0.0.1 superherohype.us.intellitxt.com
 127.0.0.1 superill.ivwbox.de
+127.0.0.1 superinterstitial.com
 127.0.0.1 superloofy.com
 127.0.0.1 supermed.oewabox.at
 127.0.0.1 supernaturalart.com
@@ -70565,6 +70568,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.clear-search.com
 127.0.0.1 www.clearspring.com
 127.0.0.1 www.clearwebstats.com
+127.0.0.1 www.clevernt.com
 127.0.0.1 www.click-find-save.com
 127.0.0.1 www.click-ice.com
 127.0.0.1 www.click-linking.com
@@ -72719,7 +72723,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.mpsnare.iesnare.co.uk
 127.0.0.1 www.mpsnare.iesnare.com
 127.0.0.1 www.mrktrecord3.com
-127.0.0.1 www.mrpeter.it
 127.0.0.1 www.ms-mvp.org
 127.0.0.1 www.msgtag.com
 127.0.0.1 www.mshelp247.weebly.com
@@ -73966,6 +73969,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.superclix.de
 127.0.0.1 www.superfastsservers.com
 127.0.0.1 www.superfish.com
+127.0.0.1 www.superinterstitial.com
 127.0.0.1 www.supersexpass.com
 127.0.0.1 www.supersonicads.com
 127.0.0.1 www.superstat.info
@@ -74831,6 +74835,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.zugo.com
 127.0.0.1 www.zugosearch.com
 127.0.0.1 www.zxcvbnmjkl.com
+127.0.0.1 www.zytpirwai.net
 127.0.0.1 www.zyxyfy.com
 127.0.0.1 www.zzztech.com
 127.0.0.1 www1.ad.tomshardware.com
@@ -75956,6 +75961,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 zyrtec.1.p2l.info
 127.0.0.1 zyrtec.3.p2l.info
 127.0.0.1 zyrtec.4.p2l.info
+127.0.0.1 zytpirwai.net
 127.0.0.1 zz.cqcounter.com
 127.0.0.1 zz.zeroredirect1.com
 127.0.0.1 zzz.clickbank.net
