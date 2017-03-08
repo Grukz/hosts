@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76124 ad serving and malware domains.
+# Currently blocking 76127 ad serving and malware domains.
 #
-# Date Generated: Mar 07 2017
+# Date Generated: Mar 08 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -44385,6 +44385,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hrdya.voluumtrk.com
 127.0.0.1 hrgde.adocean.pl
 127.0.0.1 hruner.com
+127.0.0.1 hs-analytics.net
 127.0.0.1 hs-sites.com
 127.0.0.1 hs.interpolls.com
 127.0.0.1 hs4rs.voluumtrk.com
@@ -52596,6 +52597,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 oolsi.frost-electric-supply.com
 127.0.0.1 oosee.barginginfrance.net
 127.0.0.1 oowhe.frost-electric-supply.com
+127.0.0.1 ooyala.com
 127.0.0.1 op.standartnews.com
 127.0.0.1 op4g.go2cloud.org
 127.0.0.1 opads.ero-advertising.com
@@ -57735,6 +57737,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 serve.williamhill.it
 127.0.0.1 serve.williamhillcasino.com.27688.9216.302br.net
 127.0.0.1 servecontent.net
+127.0.0.1 servedby-buysellads.com
 127.0.0.1 servedby.adcombination.com
 127.0.0.1 servedby.adsdumpo.com
 127.0.0.1 servedby.adsfactor.net
