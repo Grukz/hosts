@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76127 ad serving and malware domains.
+# Currently blocking 76106 ad serving and malware domains.
 #
-# Date Generated: Mar 08 2017
+# Date Generated: Mar 09 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18855,7 +18855,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adextension.com
 127.0.0.1 adextensioncontrol.tudou.com
 127.0.0.1 adextent.com
-127.0.0.1 adf.com.cy
 127.0.0.1 adf.ero-advertising.com
 127.0.0.1 adf.ly
 127.0.0.1 adf.send.microad.jp
@@ -29533,7 +29532,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 betclic.com
 127.0.0.1 betcollect.247realmedia.com
 127.0.0.1 bethany-wentz.us
-127.0.0.1 bethelmhss.com
 127.0.0.1 betrad.com
 127.0.0.1 betstarwager.cn
 127.0.0.1 betsy-folkes.us
@@ -39091,7 +39089,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 doityourselfbuilder.com
 127.0.0.1 doktester.orgfree.com
 127.0.0.1 dolce-sportro.count.brat-online.ro
-127.0.0.1 dolcezzashop.com
 127.0.0.1 doll.home.ro
 127.0.0.1 dolores-parra.us
 127.0.0.1 dolores-vanallen.us
@@ -39462,7 +39459,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dv1970.freestats.com
 127.0.0.1 dv1ih.voluumtrk.com
 127.0.0.1 dv4uxy777adjt.cloudfront.net
-127.0.0.1 dvantagecorp.com
 127.0.0.1 dvdbeats.com
 127.0.0.1 dvdcovers.spacash.com
 127.0.0.1 dvdhentai.net
@@ -43557,7 +43553,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 greasypalm.com
 127.0.0.1 greatarcadehits.com
 127.0.0.1 greatcpm.com
-127.0.0.1 greaternoakhali.net.bd
 127.0.0.1 greatoffers.aavalue.com
 127.0.0.1 gredinatib.org
 127.0.0.1 green.erne.co
@@ -43590,7 +43585,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 grunerandjahr.112.2o7.net
 127.0.0.1 grupoblidoo.go2cloud.org
 127.0.0.1 grupocava-mx.com
-127.0.0.1 grupojpdecarvalho.com.br
 127.0.0.1 gruppoespresso01.webtrekk.net
 127.0.0.1 grz67.com
 127.0.0.1 gs.spylog.ru
@@ -44847,7 +44841,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ientrymail.com
 127.0.0.1 ientrynetwork.net
 127.0.0.1 ieplugin.com
-127.0.0.1 ieqpiracicaba.com.br
 127.0.0.1 iesb.us.intellitxt.com
 127.0.0.1 ieskok.info
 127.0.0.1 iesnare.co.uk
@@ -45515,7 +45508,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 india-forums.us.intellitxt.com
 127.0.0.1 indiads.com
 127.0.0.1 indianapolis.hosted.xms.keynote.com
-127.0.0.1 indianshippingservices.com
 127.0.0.1 indicate.to
 127.0.0.1 indicative.com
 127.0.0.1 indieclick.3janecdn.com
@@ -47220,7 +47212,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 leapfind.com
 127.0.0.1 learn.doubleclick.net
 127.0.0.1 learning-offer.com
-127.0.0.1 learninginstitute.co.uk
 127.0.0.1 leave.exacttarget.com
 127.0.0.1 leeenterprises.112.2o7.net
 127.0.0.1 lefos.net
@@ -54019,7 +54010,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pixetrk.com
 127.0.0.1 pixiedust.buzzfeed.com
 127.0.0.1 pixxur.com
-127.0.0.1 pizhma.ru
 127.0.0.1 pk-cdn.effectivemeasure.net
 127.0.0.1 pk.adlandpro.com
 127.0.0.1 pk5qr.voluumtrk.com
@@ -54349,6 +54339,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pornolist.org
 127.0.0.1 pornoxads.com
 127.0.0.1 pornsoon.com
+127.0.0.1 pornstarl33t.org
 127.0.0.1 pornstarss.tk
 127.0.0.1 porntrack.com
 127.0.0.1 porntraff.com
@@ -55899,7 +55890,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 remotead-internal.cnet.com
 127.0.0.1 remotead.cnet.com
 127.0.0.1 remotrk.com
-127.0.0.1 renasup-nord-de-france.fr
 127.0.0.1 renata-wenz.us
 127.0.0.1 renata-winstead.us
 127.0.0.1 rencontreavenue.com
@@ -61298,7 +61288,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 thegauntlet.us.intellitxt.com
 127.0.0.1 theglobeandmail.us.intellitxt.com
 127.0.0.1 thegloss.us.intellitxt.com
-127.0.0.1 thegreenwayup.com
 127.0.0.1 thegroup.112.2o7.net
 127.0.0.1 thehdroom.us.intellitxt.com
 127.0.0.1 thehitsusa.com
@@ -61368,7 +61357,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 thevanda.tk
 127.0.0.1 thevictorynetwork.com
 127.0.0.1 theweatherspace.com
-127.0.0.1 thewindsorclinic.co.uk
 127.0.0.1 thewinesteward.com
 127.0.0.1 thewrap.rotator.hadj7.adjuggler.net
 127.0.0.1 thexor.com
@@ -63677,7 +63665,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 uk.websearchnow.net
 127.0.0.1 uk1.siteimprove.com
 127.0.0.1 uk4.hit.stat24.com
-127.0.0.1 ukabenerji.com
 127.0.0.1 ukaffiliates2.com
 127.0.0.1 ukbanners.com
 127.0.0.1 ukonline.hc0.me
@@ -67898,7 +67885,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 vikingtrck.com
 127.0.0.1 villagarden.pl
 127.0.0.1 villagevoicecollect.247realmedia.com
-127.0.0.1 villaggiodiitaici.com.br
 127.0.0.1 villalecchi.com
 127.0.0.1 vimage.com
 127.0.0.1 vimages.videoprofessor.com
@@ -68800,7 +68786,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 websitepromote.com
 127.0.0.1 websitesponsor.de
 127.0.0.1 websitetrafficreport.com
-127.0.0.1 webspace.ph
 127.0.0.1 webspace.webhoster.de
 127.0.0.1 webspectator.com
 127.0.0.1 websponsors.com
@@ -70864,7 +70849,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.connectlinking7.com
 127.0.0.1 www.connectlinking8.com
 127.0.0.1 www.connectlinking9.com
-127.0.0.1 www.connet.net.mx
 127.0.0.1 www.connexionsecure.com
 127.0.0.1 www.connextra.com
 127.0.0.1 www.consolefiles.info
@@ -71113,7 +71097,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.dgmaustralia.com
 127.0.0.1 www.dia-traffic.com
 127.0.0.1 www.dialerplatform.com
-127.0.0.1 www.dialogosdospovos.org
 127.0.0.1 www.diana-buchheit.us
 127.0.0.1 www.dianomi.com
 127.0.0.1 www.dianomioffers.co.uk
@@ -71857,7 +71840,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.gprapps.com
 127.0.0.1 www.grabbit-rabbit.com
 127.0.0.1 www.grace-hansley.us
-127.0.0.1 www.gracefalcao.com
 127.0.0.1 www.gradportal.org
 127.0.0.1 www.gratis-counter-gratis.de
 127.0.0.1 www.gratis-toplist.de
@@ -72352,7 +72334,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.kdukvh.com
 127.0.0.1 www.keen.io
 127.0.0.1 www.keisha-kimes.us
-127.0.0.1 www.kelinac.com
 127.0.0.1 www.kelley-eggert.us
 127.0.0.1 www.kelly-duby.us
 127.0.0.1 www.kendra-mcgarry.us
@@ -73478,7 +73459,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.qqc.co
 127.0.0.1 www.qrdeom.com
 127.0.0.1 www.qsstats.com
-127.0.0.1 www.quadratus.fr
 127.0.0.1 www.qualaroo.com
 127.0.0.1 www.qualigo.de
 127.0.0.1 www.qualigo.net
@@ -74755,7 +74735,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.weedoit.fr
 127.0.0.1 www.wegetpaid.net
 127.0.0.1 www.weitclick.de
-127.0.0.1 www.wellness.co.rs
 127.0.0.1 www.wellsfarg0-onllne.net
 127.0.0.1 www.wendi-bell.us
 127.0.0.1 www.weownthetraffic.com
