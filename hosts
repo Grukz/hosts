@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76106 ad serving and malware domains.
+# Currently blocking 76105 ad serving and malware domains.
 #
-# Date Generated: Mar 09 2017
+# Date Generated: Mar 10 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -4019,7 +4019,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad.3dnews.ru
 127.0.0.1 ad.51yes.com
 127.0.0.1 ad.71i.de
-127.0.0.1 ad.980x.com
 127.0.0.1 ad.9tv.co.il
 127.0.0.1 ad.a-ads.com
 127.0.0.1 ad.a8.net
@@ -49906,6 +49905,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 microsoftmachinetranslation.112.2o7.net
 127.0.0.1 microsoftoffice.112.2o7.net
 127.0.0.1 microsoftsto.112.2o7.net
+127.0.0.1 microsoftsupport.com-support0206.info
 127.0.0.1 microsoftuk.122.2o7.net
 127.0.0.1 microsoftwga.112.2o7.net
 127.0.0.1 microsoftwindows.112.2o7.net
@@ -53584,7 +53584,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 perezhilton.us.intellitxt.com
 127.0.0.1 perf.mmstat.com
 127.0.0.1 perf.overture.com
-127.0.0.1 perf.weborama.fr
 127.0.0.1 perfect-privacy.postaffiliatepro.com
 127.0.0.1 perfectaudience.com
 127.0.0.1 perfectgirls.net
