@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76105 ad serving and malware domains.
+# Currently blocking 76110 ad serving and malware domains.
 #
-# Date Generated: Mar 11 2017
+# Date Generated: Mar 12 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -20288,6 +20288,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.dfiles.ru
 127.0.0.1 ads.dgonn.com
 127.0.0.1 ads.dhakatribune.com
+127.0.0.1 ads.diamonds
 127.0.0.1 ads.dichtbij.adhese.com
 127.0.0.1 ads.didactic.ro
 127.0.0.1 ads.digital-digest.com
@@ -38048,6 +38049,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 d8rk54i4mohrb.cloudfront.net
 127.0.0.1 d9.zedo.com
 127.0.0.1 d9ae99824.se
+127.0.0.1 d9ae99824.se[server
 127.0.0.1 d9b05-pgfb01xj76ljh8o4sg3f.hop.clickbank.net
 127.0.0.1 d9d0e0.r.axf8.net
 127.0.0.1 d9iwc.voluumtrk.com
@@ -59774,6 +59776,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stats.ign.com
 127.0.0.1 stats.ilius.net
 127.0.0.1 stats.ilsemedia.nl
+127.0.0.1 stats.ilsemedia.nl[server
 127.0.0.1 stats.immense.net
 127.0.0.1 stats.inciteminds.com
 127.0.0.1 stats.independent.co.uk
@@ -62980,6 +62983,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trk.vindicosuite.com
 127.0.0.1 trk.yadomedia.com
 127.0.0.1 trk02.gtrk.info
+127.0.0.1 trk1.opanw.com
 127.0.0.1 trk14.logger.co.kr
 127.0.0.1 trk2it4.com
 127.0.0.1 trk365.com
@@ -75835,6 +75839,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 z.ceotrk.com
 127.0.0.1 z.eosads.com
 127.0.0.1 z.extreme-dm.com
+127.0.0.1 z.gameslivetv.com
 127.0.0.1 z.junksport.com
 127.0.0.1 z.moatads.com
 127.0.0.1 z.nightchan.com
