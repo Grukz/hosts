@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76110 ad serving and malware domains.
+# Currently blocking 76128 ad serving and malware domains.
 #
-# Date Generated: Mar 12 2017
+# Date Generated: Mar 13 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2145,6 +2145,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a-msedge.net
 127.0.0.1 a-scrip.org
 127.0.0.1 a-search.biz
+127.0.0.1 a-ssl.ligatus.com
 127.0.0.1 a.0day.kiev.ua
 127.0.0.1 a.1nimo.com
 127.0.0.1 a.abnad.net
@@ -3112,6 +3113,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 accelerator-media.com
 127.0.0.1 accerispartners.com
 127.0.0.1 acces-direct.net
+127.0.0.1 acces.streaming-direct.co
 127.0.0.1 accesoplugin.com
 127.0.0.1 accesorapido.com
 127.0.0.1 access-free.com
@@ -32867,6 +32869,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.sexcounter.com
 127.0.0.1 c.sg.msn.com
 127.0.0.1 c.sgbfjs.info
+127.0.0.1 c.silvinst.com
 127.0.0.1 c.smartclick.net
 127.0.0.1 c.spiegel.de
 127.0.0.1 c.statcounter.com
@@ -33618,6 +33621,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.applebarq.com
 127.0.0.1 cdn.applifier.com
 127.0.0.1 cdn.apptv.com
+127.0.0.1 cdn.askosshunt.com
 127.0.0.1 cdn.asooda.com
 127.0.0.1 cdn.assets.craveonline.com
 127.0.0.1 cdn.assets.gorillanation.com
@@ -40720,6 +40724,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 examinercom.122.2o7.net
 127.0.0.1 examnotes.us.intellitxt.com
 127.0.0.1 exasked.com
+127.0.0.1 excellent.michaelanthonyrobinson.com
 127.0.0.1 excelpractic.justclick.ru
 127.0.0.1 exch-e.atdmt.com
 127.0.0.1 exch-eu.atdmt.com
@@ -44682,6 +44687,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 i46rz.voluumtrk.com
 127.0.0.1 i4927.voluumtrk.com
 127.0.0.1 i4c.go2cloud.org
+127.0.0.1 i4eg76.vindicated-shelter.space
 127.0.0.1 i4track.net
 127.0.0.1 i4u.us.intellitxt.com
 127.0.0.1 i5.cmail2.com
@@ -46280,6 +46286,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jmplink.com
 127.0.0.1 jmsri.voluumtrk.com
 127.0.0.1 jmsyap.112.2o7.net
+127.0.0.1 jmvjmgofvxnu.com
 127.0.0.1 jnova.cjt1.net
 127.0.0.1 joan-moronta.us
 127.0.0.1 joanna-cohen.us
@@ -46553,6 +46560,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jur.unn.ac.ru
 127.0.0.1 justad.mobi
 127.0.0.1 justcounter.com
+127.0.0.1 justdating.online
 127.0.0.1 juste.ru
 127.0.0.1 justgetitfaster.com
 127.0.0.1 justjared.crwdcntrl.net
@@ -48531,6 +48539,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 maccity.it.intellitxt.com
 127.0.0.1 maccleanersecurity.com
 127.0.0.1 macdailynews.us.intellitxt.com
+127.0.0.1 macdamaged.tech
 127.0.0.1 macfixingsoftware.space
 127.0.0.1 macgamefiles.us.intellitxt.com
 127.0.0.1 machine.cu.ma
@@ -50250,6 +50259,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 monetisevideo.com
 127.0.0.1 monetize.applift.com
 127.0.0.1 monetizemore.com
+127.0.0.1 monetizer.com-01.site
 127.0.0.1 money--bux2013.justclick.ru
 127.0.0.1 money.2cnt.net
 127.0.0.1 money4exit.de
@@ -52289,6 +52299,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 offers.bycontext.com
 127.0.0.1 offers.impower.com
 127.0.0.1 offers.keynote.com
+127.0.0.1 offers.royalvegascasino.com
 127.0.0.1 offerservice.go2cloud.org
 127.0.0.1 offersinternational.go2cloud.org
 127.0.0.1 offersquared.go2cloud.org
@@ -52364,6 +52375,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 okadsweb.tiscali.it
 127.0.0.1 okcounter.com
 127.0.0.1 okeanbg.com
+127.0.0.1 okel.co
 127.0.0.1 oklahomadepartmentofcommerce.112.2o7.net
 127.0.0.1 okmagazine.us.intellitxt.com
 127.0.0.1 oknarai.ru
@@ -56996,6 +57008,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 safari-critical-alert.com
 127.0.0.1 safaribooks.112.2o7.net
 127.0.0.1 safe-es.imrworldwide.com
+127.0.0.1 safe.bestapps.com-protection.info
 127.0.0.1 safe.hyperpaysys.com
 127.0.0.1 safebrowse.com
 127.0.0.1 safedownloadcenter.com
@@ -58710,6 +58723,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sonyglobal.112.2o7.net
 127.0.0.1 sonyscei.112.2o7.net
 127.0.0.1 soongu.info
+127.0.0.1 sophang8.com
 127.0.0.1 soros.departamentosejecutivos.cl
 127.0.0.1 sosharpcorporation.go2cloud.org
 127.0.0.1 soski.popunder.ru
@@ -62265,6 +62279,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 track.zapromotions.com
 127.0.0.1 track.zipalerts.com
 127.0.0.1 track.ziprecruiter.com
+127.0.0.1 track.zmsndy.com
 127.0.0.1 track.zomato.com
 127.0.0.1 track.zugo.com
 127.0.0.1 track.zulumarketing.com
@@ -62310,6 +62325,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracker.btarena.org
 127.0.0.1 tracker.buscape.com.br
 127.0.0.1 tracker.calameo.com
+127.0.0.1 tracker.cdn-analytics.host
 127.0.0.1 tracker.cds-tracking.com
 127.0.0.1 tracker.cedarfinance.com
 127.0.0.1 tracker.celebtaboo.com
@@ -72760,6 +72776,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.metareward.com
 127.0.0.1 www.metavertising.com
 127.0.0.1 www.methodcasino2015.com
+127.0.0.1 www.methode-binaire.com
 127.0.0.1 www.metricology.com
 127.0.0.1 www.metricsimage.com
 127.0.0.1 www.mfsuite.com
@@ -75595,6 +75612,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 xsltcache.alexa.com
 127.0.0.1 xstat.pl
 127.0.0.1 xstatic.nk-net.pl
+127.0.0.1 xsztfrlkphqy.com
 127.0.0.1 xtainment.net
 127.0.0.1 xtds.info
 127.0.0.1 xtendmedia.com
