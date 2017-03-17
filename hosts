@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76128 ad serving and malware domains.
+# Currently blocking 76127 ad serving and malware domains.
 #
-# Date Generated: Mar 16 2017
+# Date Generated: Mar 17 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26999,6 +26999,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 apple.com------support.host
 127.0.0.1 apple.com-----scanner.club
 127.0.0.1 apple.com-onlinesupport.host
+127.0.0.1 apple.com-onlinesupport.site
 127.0.0.1 apple.com-safetyalert.com
 127.0.0.1 apple.com-scan-virus-detected.com
 127.0.0.1 apple.com-store.me
@@ -39828,7 +39829,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ed.koeln.de
 127.0.0.1 eddamedia.linkpulse.com
 127.0.0.1 eddamedia.tns-cs.net
-127.0.0.1 eddenya.com
 127.0.0.1 eddie-theriot.us
 127.0.0.1 edf.fr.kfskz.com
 127.0.0.1 edgar.ivwbox.de
@@ -58730,7 +58730,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sostats.mozilla.com
 127.0.0.1 soundadgroup.go2cloud.org
 127.0.0.1 soundbeat.go2cloud.org
-127.0.0.1 soundcomputers.net
 127.0.0.1 soundslam.us.intellitxt.com
 127.0.0.1 soundwave.mobile.yahoo.com
 127.0.0.1 sourceforgemedia-computing.t.domdex.com
