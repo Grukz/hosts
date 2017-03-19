@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76129 ad serving and malware domains.
+# Currently blocking 76131 ad serving and malware domains.
 #
-# Date Generated: Mar 18 2017
+# Date Generated: Mar 19 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -29656,6 +29656,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bigwebtools.com
 127.0.0.1 biipe.voluumtrk.com
 127.0.0.1 bikeforumsnet.skimlinks.com
+127.0.0.1 bikeshophaidli.com
 127.0.0.1 bikinicollection.com
 127.0.0.1 bilbaopisos.es
 127.0.0.1 bilbo.counted.com
@@ -37708,6 +37709,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cxtad.specificmedia.com
 127.0.0.1 cxw73.voluumtrk.com
 127.0.0.1 cy-m0ld.com
+127.0.0.1 cy-stuffs.ga
 127.0.0.1 cya2.net
 127.0.0.1 cyber-incentives.com
 127.0.0.1 cyber-shop.net
