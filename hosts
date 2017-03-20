@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76131 ad serving and malware domains.
+# Currently blocking 76135 ad serving and malware domains.
 #
-# Date Generated: Mar 19 2017
+# Date Generated: Mar 20 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25813,6 +25813,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 alea.adam.daum.net
 127.0.0.1 aleah-wilfong.us
 127.0.0.1 alegratka.eu
+127.0.0.1 alegroup.info
 127.0.0.1 alehop.com
 127.0.0.1 alenty.2cnt.net
 127.0.0.1 alenty.com
@@ -38798,6 +38799,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dietpharmacyrx.net
 127.0.0.1 dietsinreview.us.intellitxt.com
 127.0.0.1 diettopseek.cn
+127.0.0.1 dieutribenhkhop.com
 127.0.0.1 diff.smartadserver.com
 127.0.0.1 diff1.smartadserver.com
 127.0.0.1 diff2.smartadserver.com
@@ -41558,6 +41560,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fotolog.crwdcntrl.net
 127.0.0.1 foundguide.com
 127.0.0.1 foundmoney.com
+127.0.0.1 fourthgate.org
 127.0.0.1 fourthgearmedia.go2cloud.org
 127.0.0.1 foxamw.112.2o7.net
 127.0.0.1 foxcom.112.2o7.net
@@ -63806,6 +63809,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 update.timstackleshop.es
 127.0.0.1 update4soft.fixbugs2update.org
 127.0.0.1 updateacces.org
+127.0.0.1 updateauto.preparevideosafesystem4unow.site
 127.0.0.1 updated.com
 127.0.0.1 updates.advert-network.com
 127.0.0.1 updates.desktop.ak-networks.com
