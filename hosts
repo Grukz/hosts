@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 76135 ad serving and malware domains.
 #
-# Date Generated: Mar 20 2017
+# Date Generated: Mar 21 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -41457,6 +41457,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 flyingmag.us.intellitxt.com
 127.0.0.1 flymedia-mladnet.medialand.ru
 127.0.0.1 fmads.osdn.com
+127.0.0.1 fmarchzeetequwxtw.wang
 127.0.0.1 fmaster.webtrekk.net
 127.0.0.1 fmdwbsfxf0.com
 127.0.0.1 fmmlk.voluumtrk.com
@@ -56249,7 +56250,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 rok.com.com
 127.0.0.1 roks.ua
 127.0.0.1 rolemodelstreetteam.invasioncrew.com
-127.0.0.1 rollbar.com
 127.0.0.1 romanticfm.2cnt.net
 127.0.0.1 romdiscover.com
 127.0.0.1 rome.specificclick.net
@@ -68978,6 +68978,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 white.sexer.com
 127.0.0.1 whitecastle.122.2o7.net
 127.0.0.1 whitehorsetechnologies.net
+127.0.0.1 whiteonline.ru
 127.0.0.1 whitney-swindell.us
 127.0.0.1 who.knows.com
 127.0.0.1 whoads.net
@@ -73648,7 +73649,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.roispy.com
 127.0.0.1 www.roitracker.com
 127.0.0.1 www.rokus-tgy.hu
-127.0.0.1 www.rollbar.com
 127.0.0.1 www.roltek.com.tr
 127.0.0.1 www.romanticmaui.net
 127.0.0.1 www.romepartners.com
