@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 76135 ad serving and malware domains.
 #
-# Date Generated: Mar 21 2017
+# Date Generated: Mar 22 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -54374,6 +54374,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 portal.scanscout.com
 127.0.0.1 portal.skyhookwireless.com
 127.0.0.1 portal.zedo.com
+127.0.0.1 portalcentr.ru
 127.0.0.1 portalfiremasters.com.br
 127.0.0.1 portaligrejavidanova.com.br
 127.0.0.1 portia-mota.us
@@ -68978,7 +68979,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 white.sexer.com
 127.0.0.1 whitecastle.122.2o7.net
 127.0.0.1 whitehorsetechnologies.net
-127.0.0.1 whiteonline.ru
 127.0.0.1 whitney-swindell.us
 127.0.0.1 who.knows.com
 127.0.0.1 whoads.net
