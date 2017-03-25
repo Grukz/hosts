@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76137 ad serving and malware domains.
+# Currently blocking 76136 ad serving and malware domains.
 #
-# Date Generated: Mar 24 2017
+# Date Generated: Mar 25 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -52610,7 +52610,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 oolsi.frost-electric-supply.com
 127.0.0.1 oosee.barginginfrance.net
 127.0.0.1 oowhe.frost-electric-supply.com
-127.0.0.1 ooyala.com
 127.0.0.1 op.standartnews.com
 127.0.0.1 op4g.go2cloud.org
 127.0.0.1 opads.ero-advertising.com
@@ -55504,6 +55503,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ranking-liste.de
 127.0.0.1 ranking-street.de
 127.0.0.1 ranking.ynet.com
+127.0.0.1 rankingchart.de
 127.0.0.1 rankingscout.com
 127.0.0.1 rankingscout.org
 127.0.0.1 rankmytattoos.us.intellitxt.com
@@ -62008,7 +62008,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 track.greatofferstoyou.net
 127.0.0.1 track.grmtracking.com
 127.0.0.1 track.happylifestylestoday.com
-127.0.0.1 track.happysitewriter.com
 127.0.0.1 track.homestead.com
 127.0.0.1 track.hotdrugsstore.in
 127.0.0.1 track.hubspot.com
