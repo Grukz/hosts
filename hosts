@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76136 ad serving and malware domains.
+# Currently blocking 76148 ad serving and malware domains.
 #
-# Date Generated: Mar 25 2017
+# Date Generated: Mar 26 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -24561,6 +24561,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 advert.exaccess.ru
 127.0.0.1 advert.funimation.com
 127.0.0.1 advert.gamedp.com
+127.0.0.1 advert.gameranger.com
 127.0.0.1 advert.gittigidiyor.com
 127.0.0.1 advert.heise.org
 127.0.0.1 advert.hpg.com.br
@@ -26698,6 +26699,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ap1.alphagirlz.mobi
 127.0.0.1 ap101.curves.com
 127.0.0.1 ap2.alphagirlz.mobi
+127.0.0.1 ap76rmx3.accountant
 127.0.0.1 apac.analytics.yahoo.com
 127.0.0.1 apac.rel.msn.com
 127.0.0.1 apachestat.cimedia.net
@@ -27274,6 +27276,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aschreib.oewabox.at
 127.0.0.1 ascout24.oewabox.at
 127.0.0.1 asd.tynt.com
+127.0.0.1 asddssdasifdf.ru
 127.0.0.1 asecurevillage.com
 127.0.0.1 aserve.directorym.com
 127.0.0.1 asg01.casalemedia.com
@@ -33642,6 +33645,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.beaconads.com
 127.0.0.1 cdn.beaconpush.com
 127.0.0.1 cdn.behavioralengine.com
+127.0.0.1 cdn.bestssaker.com
 127.0.0.1 cdn.betrad.com
 127.0.0.1 cdn.bidvertiser.com
 127.0.0.1 cdn.blackberryempire.com
@@ -33701,6 +33705,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.downloaddabs.com
 127.0.0.1 cdn.drivecleaner.com
 127.0.0.1 cdn.dsultra.com
+127.0.0.1 cdn.dustyorate.com
 127.0.0.1 cdn.dynamicyield.com
 127.0.0.1 cdn.earnify.com
 127.0.0.1 cdn.easy-ads.com
@@ -33780,6 +33785,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.freehonor.com
 127.0.0.1 cdn.freeimply.com
 127.0.0.1 cdn.freeinfringe.com
+127.0.0.1 cdn.freejabs.com
 127.0.0.1 cdn.freejars.com
 127.0.0.1 cdn.freejaw.com
 127.0.0.1 cdn.freejax.com
@@ -33890,6 +33896,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.performance.hlads.com
 127.0.0.1 cdn.permutive.com
 127.0.0.1 cdn.petametrics.com
+127.0.0.1 cdn.pickyopahs.com
 127.0.0.1 cdn.pinion.gg
 127.0.0.1 cdn.polmontventures.com
 127.0.0.1 cdn.popcash.net
@@ -37486,6 +37493,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cribdare2no.com
 127.0.0.1 crimg.sv.publicus.com
 127.0.0.1 crimunalbot001.ga
+127.0.0.1 criskolak.i.ng
 127.0.0.1 crispads.com
 127.0.0.1 crispadvertising.com
 127.0.0.1 crispmedia.com
@@ -40491,6 +40499,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 error.reporo.com
 127.0.0.1 error404.000webhost.com
 127.0.0.1 errorception.com
+127.0.0.1 errorfixing.space
 127.0.0.1 errorfixing.tech
 127.0.0.1 errorkillers.net
 127.0.0.1 errors.perfectgonzo.com
@@ -41584,6 +41593,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fp.buy.com
 127.0.0.1 fp.fraudmetrix.cn
 127.0.0.1 fp.gad-network.com
+127.0.0.1 fp.oneshotdate.com
 127.0.0.1 fp.uclo.net
 127.0.0.1 fp.valueclick.com
 127.0.0.1 fp108.digitaloptout.com
@@ -47254,6 +47264,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lesbian-erotica.hitbox.com
 127.0.0.1 lesechos.ezakus.net
 127.0.0.1 lesview.com
+127.0.0.1 letmefind.co
 127.0.0.1 letsfinder.com
 127.0.0.1 letsgodigital.uk.intellitxt.com
 127.0.0.1 letsrun.us.intellitxt.com
@@ -54374,7 +54385,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 portal.scanscout.com
 127.0.0.1 portal.skyhookwireless.com
 127.0.0.1 portal.zedo.com
-127.0.0.1 portalcentr.ru
 127.0.0.1 portalfiremasters.com.br
 127.0.0.1 portaligrejavidanova.com.br
 127.0.0.1 portia-mota.us
@@ -60657,6 +60667,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 t6.formalyzer.com
 127.0.0.1 t6.leadlander.com
 127.0.0.1 t6.trackalyzer.com
+127.0.0.1 t61haber.com
 127.0.0.1 t7.formalyzer.com
 127.0.0.1 t7.leadlander.com
 127.0.0.1 t7.trackalyzer.com
@@ -63812,6 +63823,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 update4soft.fixbugs2update.org
 127.0.0.1 updateacces.org
 127.0.0.1 updateauto.preparevideosafesystem4unow.site
+127.0.0.1 updateauto.preparevideosafesystem4unow.space
 127.0.0.1 updated.com
 127.0.0.1 updates.advert-network.com
 127.0.0.1 updates.desktop.ak-networks.com
