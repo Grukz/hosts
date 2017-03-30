@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76148 ad serving and malware domains.
+# Currently blocking 76145 ad serving and malware domains.
 #
-# Date Generated: Mar 29 2017
+# Date Generated: Mar 30 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -27276,7 +27276,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 aschreib.oewabox.at
 127.0.0.1 ascout24.oewabox.at
 127.0.0.1 asd.tynt.com
-127.0.0.1 asddssdasifdf.ru
 127.0.0.1 asecurevillage.com
 127.0.0.1 aserve.directorym.com
 127.0.0.1 asg01.casalemedia.com
@@ -52401,7 +52400,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 okohp.voluumtrk.com
 127.0.0.1 okpgn.voluumtrk.com
 127.0.0.1 okrg0.voluumtrk.com
-127.0.0.1 oksagroupinc.ru
 127.0.0.1 oktfest.ivwbox.de
 127.0.0.1 ol.uk.at.atwola.com
 127.0.0.1 ol14x.voluumtrk.com
@@ -54370,7 +54368,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pornolist.org
 127.0.0.1 pornoxads.com
 127.0.0.1 pornsoon.com
-127.0.0.1 pornstarl33t.org
 127.0.0.1 pornstarss.tk
 127.0.0.1 porntrack.com
 127.0.0.1 porntraff.com
