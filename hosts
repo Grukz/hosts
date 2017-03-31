@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76145 ad serving and malware domains.
+# Currently blocking 76146 ad serving and malware domains.
 #
-# Date Generated: Mar 30 2017
+# Date Generated: Mar 31 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25581,6 +25581,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 afreehome.com
 127.0.0.1 africandevelopmentbank.com
 127.0.0.1 africaspromise.org
+127.0.0.1 afrirent.net
 127.0.0.1 afs.ero-advertising.com
 127.0.0.1 afs.googlesyndication.com
 127.0.0.1 afs.googleusercontent.com
