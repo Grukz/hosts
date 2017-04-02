@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76147 ad serving and malware domains.
+# Currently blocking 76149 ad serving and malware domains.
 #
-# Date Generated: Apr 01 2017
+# Date Generated: Apr 02 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -770,6 +770,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 2.ptp22.com
 127.0.0.1 2.rubanners.com
 127.0.0.1 2.s09.flagcounter.com
+127.0.0.1 2.speedknow.co
 127.0.0.1 20-yrs-1.info
 127.0.0.1 20.ptp22.com
 127.0.0.1 20.sharedsource.org
@@ -73113,6 +73114,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.nudecash.com
 127.0.0.1 www.nudegalleries.org
 127.0.0.1 www.nutabuse.com
+127.0.0.1 www.nutaku.com
 127.0.0.1 www.nutten-verzeichnis.cxa.de
 127.0.0.1 www.nuvon.com
 127.0.0.1 www.nvtrak.com
