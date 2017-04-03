@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76149 ad serving and malware domains.
+# Currently blocking 76152 ad serving and malware domains.
 #
-# Date Generated: Apr 02 2017
+# Date Generated: Apr 03 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -27928,6 +27928,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 baden24.ivwbox.de
 127.0.0.1 badge.stumbleupon.com
 127.0.0.1 badges.instagram.com
+127.0.0.1 badlywantyou.top
 127.0.0.1 badoink.com
 127.0.0.1 badservant.guj.de
 127.0.0.1 badults.se
@@ -33912,6 +33913,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.putono5.com
 127.0.0.1 cdn.qbaka.net
 127.0.0.1 cdn.qservz.com
+127.0.0.1 cdn.radiatewheel.info
 127.0.0.1 cdn.ramctrlgate.com
 127.0.0.1 cdn.redlightcenter.com
 127.0.0.1 cdn.reporo.net
@@ -51001,6 +51003,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nats.hushmoney.com
 127.0.0.1 nats4.fetishbucks.com
 127.0.0.1 natural.buckeyeenergyforum.com
+127.0.0.1 naturaldieta.com.br
 127.0.0.1 naturalhealth.us.intellitxt.com
 127.0.0.1 naturalsearchtoolresults.com
 127.0.0.1 natureworldnews.us.intellitxt.com
