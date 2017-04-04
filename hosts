@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76152 ad serving and malware domains.
+# Currently blocking 76155 ad serving and malware domains.
 #
-# Date Generated: Apr 03 2017
+# Date Generated: Apr 04 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -45395,6 +45395,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 immaculate.tk
 127.0.0.1 immanalytics.com
 127.0.0.1 immassets.s3.amazonaws.com
+127.0.0.1 immediadement-arretez-ezhez-identfcie-jasdasd1233-9057.com
 127.0.0.1 immediate.mob-alerts15.com
 127.0.0.1 immediateresponseforcomputer.com
 127.0.0.1 immobili.oewabox.at
@@ -50242,6 +50243,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 modelatos.com
 127.0.0.1 modemspeedbooster.com
 127.0.0.1 moderninstalls.go2cloud.org
+127.0.0.1 modescrips.info
 127.0.0.1 modifiedlife.us.intellitxt.com
 127.0.0.1 moe.jlist.com
 127.0.0.1 mofox.com
@@ -51496,6 +51498,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 noelle-traxler.us
 127.0.0.1 noen.oewabox.at
 127.0.0.1 nofreezingmac.space
+127.0.0.1 nofreezingmac.work
 127.0.0.1 nojsstats.appspot.com
 127.0.0.1 nokby.voluumtrk.com
 127.0.0.1 nol.yahoo.com
