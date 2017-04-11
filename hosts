@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75856 ad serving and malware domains.
+# Currently blocking 75870 ad serving and malware domains.
 #
-# Date Generated: Apr 10 2017
+# Date Generated: Apr 11 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -32983,6 +32983,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 callingcardsinstantly.com
 127.0.0.1 callloop.com
 127.0.0.1 callmd5map.com
+127.0.0.1 calltostophack.info
 127.0.0.1 calme.science
 127.0.0.1 cam.demdex.net
 127.0.0.1 cam2cam.xlovecam.com
@@ -33062,6 +33063,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 caprewards.go2cloud.org
 127.0.0.1 capture.condenastdigital.com
 127.0.0.1 capture.trackjs.com
+127.0.0.1 caqm.ca
 127.0.0.1 car-donation.shengen.ru
 127.0.0.1 car-insurance.inshurance-from.com
 127.0.0.1 car-loan.shengen.ru
@@ -42146,6 +42148,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fxt.go2cloud.org
 127.0.0.1 fxyc0dwa.com
 127.0.0.1 fyber.com
+127.0.0.1 fydoratot.com
 127.0.0.1 fyhjs.voluumtrk.com
 127.0.0.1 fynskemedieradmin.adservinginternational.com
 127.0.0.1 fyvzz.survey7.adsservingtwig.xyz
@@ -44503,6 +44506,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ibanners.empoweredcomms.com.au
 127.0.0.1 ibario.com
 127.0.0.1 ibeat.indiatimes.com
+127.0.0.1 ibeglobal.biz
 127.0.0.1 ibeu2.mookie1.com
 127.0.0.1 ibg.hitbox.com
 127.0.0.1 ibibo.112.2o7.net
@@ -49221,6 +49225,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mercury.tiser.com.au
 127.0.0.1 meredithlocal-d.openx.net
 127.0.0.1 meredithtv.us.intellitxt.com
+127.0.0.1 meredondidn.com
 127.0.0.1 meridia.1.p2l.info
 127.0.0.1 meridia.3.p2l.info
 127.0.0.1 meridia.4.p2l.info
@@ -51475,6 +51480,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nvtrak.com
 127.0.0.1 nvy.sharesix.com
 127.0.0.1 nw.ads.doko.jp
+127.0.0.1 nwbusinessschool.org
 127.0.0.1 nwidget.networkedblogs.com
 127.0.0.1 nws.naltis.com
 127.0.0.1 nwz.ivwbox.de
@@ -53226,6 +53232,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 patrickhickey.eu
 127.0.0.1 patrickhillery.112.2o7.net
 127.0.0.1 patriothealth.go2cloud.org
+127.0.0.1 paulsalendepute.fr
 127.0.0.1 paulsnetwork.com
 127.0.0.1 pave.elisecries.com
 127.0.0.1 pavelbagryancev.justclick.ru
@@ -57467,6 +57474,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sender.megapopads.com
 127.0.0.1 seniorttub.bid
 127.0.0.1 senseiproducts.com
+127.0.0.1 senseofsensation.nl
 127.0.0.1 sensic.net
 127.0.0.1 sensismediasmart.com.au
 127.0.0.1 sensor.org.ua
@@ -58462,6 +58470,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 softwares.timesink.com
 127.0.0.1 softwareupdaterlp.com
 127.0.0.1 sohh.us.intellitxt.com
+127.0.0.1 soinwarep.com
 127.0.0.1 sokrates.adtech.de
 127.0.0.1 sokrates.adtech.fr
 127.0.0.1 sokrates.adtech.us
@@ -61274,6 +61283,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tinbuadserv.com
 127.0.0.1 ting.7eer.net
 127.0.0.1 tinglog.baidu.com
+127.0.0.1 tinjecofsand.com
 127.0.0.1 tinnily.info
 127.0.0.1 tinybar.com
 127.0.0.1 tinytracker.onion.com
@@ -61978,6 +61988,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 track.roiservice.com
 127.0.0.1 track.roularta.adhese.com
 127.0.0.1 track.rtb-media.ru
+127.0.0.1 track.scanguard.com
 127.0.0.1 track.scanmyphones.com
 127.0.0.1 track.scorpiointeractive.com
 127.0.0.1 track.scrillaspace.com
@@ -62794,6 +62805,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 troopersiccy.bravejournal.com
 127.0.0.1 tropiccritics.com
 127.0.0.1 tropo01.webtrekk.net
+127.0.0.1 troverylit.com
 127.0.0.1 trovi.com
 127.0.0.1 trovus.co.uk
 127.0.0.1 troytempest.com
@@ -63939,6 +63951,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vastx.moatads.com
 127.0.0.1 vatrack.hinet.net
 127.0.0.1 vault9.us.intellitxt.com
+127.0.0.1 vaulttherapy.com
 127.0.0.1 vayavicio.com
 127.0.0.1 vb1700.mgmt.somee.com
 127.0.0.1 vbadbg.hit.gemius.pl
@@ -68853,6 +68866,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 windows7news.uk.intellitxt.com
 127.0.0.1 windowsbbs.us.intellitxt.com
 127.0.0.1 windowserror7.tech
+127.0.0.1 windowshelp44.info
 127.0.0.1 windowsitpro.us.intellitxt.com
 127.0.0.1 windowslive.tt.omtrdc.net
 127.0.0.1 windspotter.net
