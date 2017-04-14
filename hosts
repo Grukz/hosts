@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75822 ad serving and malware domains.
+# Currently blocking 75823 ad serving and malware domains.
 #
-# Date Generated: Apr 13 2017
+# Date Generated: Apr 14 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -21509,7 +21509,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.thumbr.com
 127.0.0.1 ads.thzhost.com
 127.0.0.1 ads.tibaco.net
-127.0.0.1 ads.timeout.com
 127.0.0.1 ads.timesdaily.com
 127.0.0.1 ads.timesink.com
 127.0.0.1 ads.timesunion.com
@@ -33528,6 +33527,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.gumgum.com
 127.0.0.1 cdn.hadj7.adjuggler.net
 127.0.0.1 cdn.hanaprop.com
+127.0.0.1 cdn.hauleddes.com
 127.0.0.1 cdn.heapanalytics.com
 127.0.0.1 cdn.herezera.com
 127.0.0.1 cdn.hgdat.com
@@ -63551,6 +63551,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 updateauto.preparevideosafesystem4unow.site
 127.0.0.1 updateauto.preparevideosafesystem4unow.space
 127.0.0.1 updated.com
+127.0.0.1 updatehere.ultimatesetnewfreeallsoftupgradesystems.pw
 127.0.0.1 updates.advert-network.com
 127.0.0.1 updates.desktop.ak-networks.com
 127.0.0.1 updating-flash.cloudapp.net
