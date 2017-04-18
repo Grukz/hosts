@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75824 ad serving and malware domains.
+# Currently blocking 75833 ad serving and malware domains.
 #
-# Date Generated: Apr 17 2017
+# Date Generated: Apr 18 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18365,6 +18365,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adblaster.com
 127.0.0.1 adblock.com
 127.0.0.1 adblockanalytics.com
+127.0.0.1 adblockdetect.xyz
 127.0.0.1 adblockerkillswebsites.pw
 127.0.0.1 adbnr.ru
 127.0.0.1 adbonus.com
@@ -30900,6 +30901,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 browseraccelerator.com
 127.0.0.1 browseraid.com
 127.0.0.1 browserbreckalarm.info
+127.0.0.1 browserprotecter.com
 127.0.0.1 browsertest.web.aol.com
 127.0.0.1 browsesafemac.com
 127.0.0.1 brqvld0p.com
@@ -43733,6 +43735,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hisnakiamotors.122.2o7.net
 127.0.0.1 histats.com
 127.0.0.1 histats2014.simply-webspace.it
+127.0.0.1 histock.info
 127.0.0.1 hit-counter.5u.com
 127.0.0.1 hit-counter.info
 127.0.0.1 hit-counter.udub.com
@@ -46837,6 +46840,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lastminengb.112.2o7.net
 127.0.0.1 lat34.us.intellitxt.com
 127.0.0.1 latency-pixel.ic-live.com
+127.0.0.1 latency.ttrraacckkrr.com
 127.0.0.1 latest-369538.ahtamsu.ru
 127.0.0.1 latestsearch.website
 127.0.0.1 latin3.directtrack.com
@@ -49798,6 +49802,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mlook.mcdstorage.com
 127.0.0.1 mlpoint.pt
 127.0.0.1 mlsglobal.112.2o7.net
+127.0.0.1 mlvc4zzw.space
 127.0.0.1 mlvrp.voluumtrk.com
 127.0.0.1 mlweb.dmlab.hu
 127.0.0.1 mm.777-partner.com
@@ -50056,6 +50061,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mopub.com
 127.0.0.1 mopub.web107-east.manage.com
 127.0.0.1 more-games.creative-mobile.com
+127.0.0.1 morefastermac.trade
 127.0.0.1 morefreecamsecrets.com
 127.0.0.1 morehitserver.com
 127.0.0.1 morenews3.net
@@ -55013,6 +55019,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 qs.wemfbox.ch
 127.0.0.1 qsearch.media.net
 127.0.0.1 qss-client.qq.com
+127.0.0.1 qto.reprintingstakeholder.com
 127.0.0.1 quad.yadro.ru
 127.0.0.1 quakemarketing.com
 127.0.0.1 qualaroo.com
@@ -55231,6 +55238,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rampidads.com
 127.0.0.1 randall-mccabe.us
 127.0.0.1 randevumads.com
+127.0.0.1 randki-sex.com
 127.0.0.1 raneevahijab.id
 127.0.0.1 rank-master.com
 127.0.0.1 rank-master.de
@@ -58265,7 +58273,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 smartabouthealth.us.intellitxt.com
 127.0.0.1 smartad.mercadolibre.com.ar
 127.0.0.1 smartad.mercadolivre.com.br
-127.0.0.1 smartadserver
 127.0.0.1 smartadserver.com
 127.0.0.1 smartadv.ru
 127.0.0.1 smartbizsearch.com
@@ -61445,6 +61452,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 topadult10.com
 127.0.0.1 topadvancedsearch.com
 127.0.0.1 topbarh.box.sk
+127.0.0.1 topbestgames.com
 127.0.0.1 topbinaryaffiliates.ck-cdn.com
 127.0.0.1 topblogarea.se
 127.0.0.1 topbrandrewards.com
@@ -63718,6 +63726,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 usr.mgid.com
 127.0.0.1 ussearch.122.2o7.net
 127.0.0.1 usseek.com
+127.0.0.1 usswrite.com
 127.0.0.1 usun.112.2o7.net
 127.0.0.1 ut.5.p2l.info
 127.0.0.1 ut.addthis.com
