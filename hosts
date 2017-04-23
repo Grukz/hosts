@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75810 ad serving and malware domains.
+# Currently blocking 75811 ad serving and malware domains.
 #
-# Date Generated: Apr 22 2017
+# Date Generated: Apr 23 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -23353,6 +23353,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserver.html.it
 127.0.0.1 adserver.humanux.com
 127.0.0.1 adserver.hwupgrade.it
+127.0.0.1 adserver.icmedienhaus.de
 127.0.0.1 adserver.idg.de
 127.0.0.1 adserver.ifmagazine.com
 127.0.0.1 adserver.ig.com.br
