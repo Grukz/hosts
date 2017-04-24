@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75811 ad serving and malware domains.
+# Currently blocking 75817 ad serving and malware domains.
 #
-# Date Generated: Apr 23 2017
+# Date Generated: Apr 24 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -40316,6 +40316,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 etonovosti.biz
 127.0.0.1 etonovosti.net
 127.0.0.1 etoys.bfast.com
+127.0.0.1 etr-interac.com
 127.0.0.1 etrack51.com
 127.0.0.1 etracker.com
 127.0.0.1 etracker.de
@@ -46548,6 +46549,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kitcg.voluumtrk.com
 127.0.0.1 kitchen-island.mensk.us
 127.0.0.1 kithrup.matchlogic.com
+127.0.0.1 kitsjim.com
 127.0.0.1 kixer.com
 127.0.0.1 kizash.com
 127.0.0.1 kjolj.voluumtrk.com
@@ -49815,6 +49817,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mmpstats.mirror-image.com
 127.0.0.1 mmptrack.com
 127.0.0.1 mmsshopcom.112.2o7.net
+127.0.0.1 mmstat.com
 127.0.0.1 mmtracking.com
 127.0.0.1 mmtrkdb.com
 127.0.0.1 mmtrkmc.com
@@ -53269,6 +53272,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pcmega.hasoffers.com
 127.0.0.1 pcmightymax.net
 127.0.0.1 pcnetworkreliablecloudservices.online
+127.0.0.1 pcookie.aliexpress.com
 127.0.0.1 pcookie.cnzz.com
 127.0.0.1 pcookie.taobao.com
 127.0.0.1 pcper.us.intellitxt.com
@@ -54077,6 +54081,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 popupnation.com
 127.0.0.1 popupremoval.com
 127.0.0.1 popups.ad-logics.com
+127.0.0.1 popups.afftrack001.com
 127.0.0.1 popups.infostart.com
 127.0.0.1 popuptraf.ru
 127.0.0.1 popuptraffic.com
@@ -74758,6 +74763,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www13.yesadvertising.com
 127.0.0.1 www14.a8.net
 127.0.0.1 www14.ad.tomshardware.com
+127.0.0.1 www14.smartadserver.com
 127.0.0.1 www14.yesadvertising.com
 127.0.0.1 www15.ad.tomshardware.com
 127.0.0.1 www15.yesadvertising.com
