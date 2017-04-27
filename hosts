@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75831 ad serving and malware domains.
+# Currently blocking 75826 ad serving and malware domains.
 #
-# Date Generated: Apr 26 2017
+# Date Generated: Apr 27 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2674,7 +2674,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 aad73c550c.se
 127.0.0.1 aadcom.com
 127.0.0.1 aaddzz.com
-127.0.0.1 aadroid.net
 127.0.0.1 aads.go2cloud.org
 127.0.0.1 aads.treehugger.com
 127.0.0.1 aads.us
@@ -56840,7 +56839,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 saturn1.appads.com
 127.0.0.1 saturn2.appads.com
 127.0.0.1 saturn3.appads.com
-127.0.0.1 saturnleague.com
 127.0.0.1 save-plan.com
 127.0.0.1 savemanny.us.intellitxt.com
 127.0.0.1 saveology.go2cloud.org
@@ -59861,7 +59859,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 stork.escortfinder.cl
 127.0.0.1 storknet.us.intellitxt.com
 127.0.0.1 storm.applifier.com
-127.0.0.1 stormpages.com
 127.0.0.1 storroliko.club
 127.0.0.1 stpetersburgtimes.122.2o7.net
 127.0.0.1 str.hit.gemius.pl
@@ -70240,7 +70237,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.broadcastpc.tv
 127.0.0.1 www.broadspring.com
 127.0.0.1 www.brokertraffic.com
-127.0.0.1 www.brollopsguiden.se
 127.0.0.1 www.brook-durante.us
 127.0.0.1 www.brook-rosen.us
 127.0.0.1 www.browntrkn.com
@@ -73822,7 +73818,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.stockway.net
 127.0.0.1 www.stopphoulplay.com
 127.0.0.1 www.storedsearch.com
-127.0.0.1 www.stormpages.com
 127.0.0.1 www.strawpoii.me
 127.0.0.1 www.stream-online.net
 127.0.0.1 www.stream4u.me
