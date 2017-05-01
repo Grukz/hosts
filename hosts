@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 75826 ad serving and malware domains.
 #
-# Date Generated: Apr 30 2017
+# Date Generated: May 01 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -38130,6 +38130,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ddgmb.voluumtrk.com
 127.0.0.1 ddi2.com
 127.0.0.1 ddnk.advertur.ru
+127.0.0.1 ddobnajanu.club
 127.0.0.1 ddors.info
 127.0.0.1 ddos.bob.local.vmsn.de
 127.0.0.1 ddos.con.local.vmsn.de
@@ -53385,7 +53386,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 petfooddirect.d1.sc.omtrdc.net
 127.0.0.1 petra.nic.gov.jo
 127.0.0.1 petrenko.biz
-127.0.0.1 petroyeda.com
 127.0.0.1 pets.finaltips.com
 127.0.0.1 petsmovies.com
 127.0.0.1 pezrphjl.com
