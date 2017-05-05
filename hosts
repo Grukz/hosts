@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 75833 ad serving and malware domains.
 #
-# Date Generated: May 04 2017
+# Date Generated: May 05 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -751,7 +751,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 1w0xj.voluumtrk.com
 127.0.0.1 1worldmarket.com
 127.0.0.1 1wu2u.voluumtrk.com
-127.0.0.1 1x1rank.com
 127.0.0.1 1xxx.cqcounter.com
 127.0.0.1 1zl86.voluumtrk.com
 127.0.0.1 1zlni.voluumtrk.com
@@ -21276,7 +21275,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.roularta.adhese.com
 127.0.0.1 ads.royalmail.com
 127.0.0.1 ads.rp-online.de
-127.0.0.1 ads.rpgdot.com
 127.0.0.1 ads.rpmseek.com
 127.0.0.1 ads.rtbidder.net
 127.0.0.1 ads.rte.ie
@@ -46606,6 +46604,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 knc.lv
 127.0.0.1 knigge.webtrekk.net
 127.0.0.1 knight.economist.com
+127.0.0.1 kniverto.com
 127.0.0.1 known.counsellor.gov.cn
 127.0.0.1 knowyourmobile.uk.intellitxt.com
 127.0.0.1 kntksales.tk
@@ -47307,6 +47306,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 litas.com
 127.0.0.1 litiumo.com
 127.0.0.1 littwronthath.net
+127.0.0.1 liuz112.ddns.net
 127.0.0.1 live-2.carpediem.fr
 127.0.0.1 live-cams-0.livejasmin.com
 127.0.0.1 live-cams-1.livejasmin.com
