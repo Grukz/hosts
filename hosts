@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75833 ad serving and malware domains.
+# Currently blocking 75837 ad serving and malware domains.
 #
-# Date Generated: May 05 2017
+# Date Generated: May 06 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1158,6 +1158,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 247adbiz.net
 127.0.0.1 247media.com
 127.0.0.1 247media.net
+127.0.0.1 247playz.com
 127.0.0.1 247realmedia.com
 127.0.0.1 247support.adtech.fr
 127.0.0.1 247support.adtech.us
@@ -56787,6 +56788,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sageanalyst.net
 127.0.0.1 sagedigital.checkm8.com
 127.0.0.1 sagent.io
+127.0.0.1 sail-horizon.com
 127.0.0.1 saksfifthavenue.122.2o7.net
 127.0.0.1 salem02.webtrekk.net
 127.0.0.1 sales.liveperson.net
@@ -63560,6 +63562,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 updateacces.org
 127.0.0.1 updateauto.preparevideosafesystem4unow.site
 127.0.0.1 updateauto.preparevideosafesystem4unow.space
+127.0.0.1 updated.com
 127.0.0.1 updatehere.ultimatesetnewfreeallsoftupgradesystems.pw
 127.0.0.1 updates.advert-network.com
 127.0.0.1 updates.desktop.ak-networks.com
@@ -70174,6 +70177,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.blankrefer.com
 127.0.0.1 www.blasphemysfhs.info
 127.0.0.1 www.blatant8jh.info
+127.0.0.1 www.blazingtrader.biz
 127.0.0.1 www.blenz-me.net
 127.0.0.1 www.blkget6.com
 127.0.0.1 www.blog-hits.com
