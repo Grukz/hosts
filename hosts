@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75839 ad serving and malware domains.
+# Currently blocking 75857 ad serving and malware domains.
 #
-# Date Generated: May 09 2017
+# Date Generated: May 10 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -449,6 +449,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 123jmdmediagroupllc.go2cloud.org
 127.0.0.1 123keno.com
 127.0.0.1 123p29404.sbvr.com
+127.0.0.1 123plays.com
 127.0.0.1 123search.com
 127.0.0.1 123specialgifts.com
 127.0.0.1 123spill.no
@@ -1485,6 +1486,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 411affiliates.ca
 127.0.0.1 411eshopping.com
 127.0.0.1 411mania.us.intellitxt.com
+127.0.0.1 411playz.com
 127.0.0.1 411vegas.com
 127.0.0.1 411worldtravel.com
 127.0.0.1 4133.88.primosearch.com
@@ -25848,6 +25850,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ampya.ivwbox.de
 127.0.0.1 ampya01.wt-eu02.net
 127.0.0.1 amres.voluumtrk.com
+127.0.0.1 amrytt.adk2x.com
 127.0.0.1 ams-download.nocreditcardgay.com
 127.0.0.1 ams.addflow.ru
 127.0.0.1 ams.toxity.biz
@@ -26714,6 +26717,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 apple.com------support.host
 127.0.0.1 apple.com-----scanner.club
 127.0.0.1 apple.com-internet-security-review.info
+127.0.0.1 apple.com-internet-security-review.review
 127.0.0.1 apple.com-onlinesupport.host
 127.0.0.1 apple.com-onlinesupport.site
 127.0.0.1 apple.com-safetyalert.com
@@ -30746,6 +30750,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 boutique.telecharger.com
 127.0.0.1 bouygues-care.inq.com
 127.0.0.1 bowlgirl.com
+127.0.0.1 bowlingle.com
 127.0.0.1 box.anchorfree.net
 127.0.0.1 box.mylinkbox.com
 127.0.0.1 box002.2cnt.net
@@ -33260,6 +33265,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cd-ads.com
 127.0.0.1 cd-ladsp-com.s3.amazonaws.com
 127.0.0.1 cd31411.tmweb.ru
+127.0.0.1 cd8iw9mh.cricket
 127.0.0.1 cdata.carambo.la
 127.0.0.1 cdate.122.2o7.net
 127.0.0.1 cdb.hitbox.com
@@ -33569,6 +33575,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.livechatinc.com
 127.0.0.1 cdn.liverail.com
 127.0.0.1 cdn.luckyorange.com
+127.0.0.1 cdn.mahmukhach.info
 127.0.0.1 cdn.marketgid.com
 127.0.0.1 cdn.matheranalytics.com
 127.0.0.1 cdn.mb.datingadzone.com
@@ -33611,6 +33618,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.optmd.com
 127.0.0.1 cdn.orarala.com
 127.0.0.1 cdn.orbengine.com
+127.0.0.1 cdn.palomatik.info
 127.0.0.1 cdn.pardot.com
 127.0.0.1 cdn.performance.hlads.com
 127.0.0.1 cdn.permutive.com
@@ -48692,6 +48700,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 maximumpcads.imaginemedia.com
 127.0.0.1 maxisoft.co.uk
 127.0.0.1 maxmedia.sgaonline.com
+127.0.0.1 maxmusics.com
 127.0.0.1 maxonclick.com
 127.0.0.1 maxserving.com
 127.0.0.1 maxspeedcdn.com
@@ -49653,6 +49662,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 michelle-laird.us
 127.0.0.1 michellerodriguez.sexybabesx.com
 127.0.0.1 michellewie.sexybabesx.com
+127.0.0.1 micmusik.com
 127.0.0.1 micraamber.net
 127.0.0.1 micro.marketo.com
 127.0.0.1 microad.net
@@ -50347,9 +50357,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 musecdn.businesscatalyst.com
 127.0.0.1 music.ign.us.intellitxt.com
 127.0.0.1 music102.awardspace.com
+127.0.0.1 music611.com
 127.0.0.1 musiccounter.ru
 127.0.0.1 musicmembersarea.com
 127.0.0.1 musicoffaith.aavalue.com
+127.0.0.1 musikzoo.com
 127.0.0.1 mustangevolution.us.intellitxt.com
 127.0.0.1 muv.famousintactswitch.com
 127.0.0.1 muwmedia.com
@@ -51289,6 +51301,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 novostimira.biz
 127.0.0.1 now.eloqua.com
 127.0.0.1 nowina.info
+127.0.0.1 nowinstallupgrade.clickforultimateandbest2updatingpc.top
 127.0.0.1 nowlucky.go2cloud.org
 127.0.0.1 nowruzbakher.com
 127.0.0.1 nowtestpc.updatenewfresh4u.top
@@ -53900,6 +53913,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 plista.com
 127.0.0.1 pll28.voluumtrk.com
 127.0.0.1 plmokn.pw
+127.0.0.1 ploaz54.com
 127.0.0.1 plocia.com
 127.0.0.1 ploko.voluumtrk.com
 127.0.0.1 pls.webtype.com
@@ -61996,6 +62010,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 track.topromotion.net
 127.0.0.1 track.tracking85.com
 127.0.0.1 track.trademail.fr
+127.0.0.1 track.traffcdn.com
 127.0.0.1 track.trafficholder.com
 127.0.0.1 track.trafiz.net
 127.0.0.1 track.turboyourpc.com
@@ -71475,6 +71490,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.getacooltv.com
 127.0.0.1 www.getagiftonline.com
 127.0.0.1 www.getdirect.ru
+127.0.0.1 www.getfilemacgetdmg.com
 127.0.0.1 www.getfilesmact.com
 127.0.0.1 www.getfreebl.com
 127.0.0.1 www.getloan.com
@@ -74172,6 +74188,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.traficmax.fr
 127.0.0.1 www.trafix.ro
 127.0.0.1 www.trafsearchonline.com
+127.0.0.1 www.traktrafficflow.com
 127.0.0.1 www.traktum.com
 127.0.0.1 www.transferhit.com
 127.0.0.1 www.transparty.net
@@ -74275,6 +74292,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.upsellit.com
 127.0.0.1 www.upv4.moatads.com
 127.0.0.1 www.uqz.com
+127.0.0.1 www.urdoot.win
 127.0.0.1 www.uriyuri.com
 127.0.0.1 www.urlcash.net
 127.0.0.1 www.urlstats.com
