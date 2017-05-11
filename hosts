@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75857 ad serving and malware domains.
+# Currently blocking 75856 ad serving and malware domains.
 #
-# Date Generated: May 10 2017
+# Date Generated: May 11 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -71013,7 +71013,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.effectivemeasure.net
 127.0.0.1 www.efficienttraffic.com
 127.0.0.1 www.ehg-rr.hitbox.com
-127.0.0.1 www.eielectronics.com
 127.0.0.1 www.eightfoldlogic.com
 127.0.0.1 www.eivamos.com
 127.0.0.1 www.ek21.com
