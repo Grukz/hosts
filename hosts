@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75856 ad serving and malware domains.
+# Currently blocking 75855 ad serving and malware domains.
 #
-# Date Generated: May 11 2017
+# Date Generated: May 12 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -23892,7 +23892,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adsweb.tiscali.cz
 127.0.0.1 adsweb.tiscali.de
 127.0.0.1 adsweb.tiscali.it
-127.0.0.1 adswitcher.com
 127.0.0.1 adswizz.com
 127.0.0.1 adsx.greystripe.com
 127.0.0.1 adsxgm.com
@@ -61101,7 +61100,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 themoneyclippodcast.com
 127.0.0.1 themusicnetwork.co.uk
 127.0.0.1 theoads.com
-127.0.0.1 theoads.com.
 127.0.0.1 theodosium.com
 127.0.0.1 theonenetwork.us.intellitxt.com
 127.0.0.1 thepaparazzis.us.intellitxt.com
@@ -62378,6 +62376,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracking.opencandy.com.s3.amazonaws.com
 127.0.0.1 tracking.opienetwork.com
 127.0.0.1 tracking.optimatic.com
+127.0.0.1 tracking.orixa-media.com
 127.0.0.1 tracking.paymentfindermail.net
 127.0.0.1 tracking.pennystockpicks.net
 127.0.0.1 tracking.percentmobile.com
