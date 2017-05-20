@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75920 ad serving and malware domains.
+# Currently blocking 75918 ad serving and malware domains.
 #
-# Date Generated: May 19 2017
+# Date Generated: May 20 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -50982,7 +50982,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 network.bazaarvoice.com
 127.0.0.1 network.bemyapp.com
 127.0.0.1 network.bildderfrau.de
-127.0.0.1 network.business.com
 127.0.0.1 network.clickconversion.net
 127.0.0.1 network.coull.com
 127.0.0.1 network.gofeminin.de
@@ -53036,7 +53035,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pagepeels.sexmoney.com
 127.0.0.1 pagerank-ranking.de
 127.0.0.1 pagerank-submitter.de
-127.0.0.1 pagerank-suchmaschine.de
 127.0.0.1 pagerank-united.de
 127.0.0.1 pagerank.jklir.net
 127.0.0.1 pagerank.scambiositi.com
