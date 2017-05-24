@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75922 ad serving and malware domains.
+# Currently blocking 75924 ad serving and malware domains.
 #
-# Date Generated: May 23 2017
+# Date Generated: May 24 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26247,6 +26247,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 anonymoussurfing.net
 127.0.0.1 anorak.uk.intellitxt.com
 127.0.0.1 anothersite.com
+127.0.0.1 anouslab.cmail20.com
 127.0.0.1 anpqt.voluumtrk.com
 127.0.0.1 anrtx.tacoda.net
 127.0.0.1 anrysys.popunder.ru
@@ -70707,6 +70708,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.coreglead.co.uk
 127.0.0.1 www.coremetrics.com
 127.0.0.1 www.corinne-gump.us
+127.0.0.1 www.cornomase.win
 127.0.0.1 www.corrie-mchale.us
 127.0.0.1 www.corrine-scroggins.us
 127.0.0.1 www.cortesidesign.com
