@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75973 ad serving and malware domains.
+# Currently blocking 75974 ad serving and malware domains.
 #
-# Date Generated: Jun 12 2017
+# Date Generated: Jun 13 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -50153,6 +50153,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 motortrend.us.intellitxt.com
 127.0.0.1 motorvis.ivwbox.de
 127.0.0.1 motorward.us.intellitxt.com
+127.0.0.1 motosal.net
 127.0.0.1 motradon.ivwbox.de
 127.0.0.1 mottnow.adk2x.com
 127.0.0.1 mouads.com
