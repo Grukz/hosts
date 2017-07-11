@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76006 ad serving and malware domains.
+# Currently blocking 76005 ad serving and malware domains.
 #
-# Date Generated: Jul 10 2017
+# Date Generated: Jul 11 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -34274,7 +34274,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ciaoshopde.122.2o7.net
 127.0.0.1 ciaoshopit.122.2o7.net
 127.0.0.1 ciara.sexybabesx.com
-127.0.0.1 cibleclick.com
+127.0.0.1 cibleclick.com.invalid
 127.0.0.1 ciceidr.top
 127.0.0.1 cicero-dropbox.tk
 127.0.0.1 ciclismovalenciano.com
@@ -53278,7 +53278,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 partners.priceline.com
 127.0.0.1 partners.realgirlsmedia.com
 127.0.0.1 partners.rochen.com
-127.0.0.1 partners.salesforce.com
 127.0.0.1 partners.sportingbet.com.au
 127.0.0.1 partners.sprintrade.com
 127.0.0.1 partners.topadmarket.com
