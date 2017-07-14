@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76009 ad serving and malware domains.
+# Currently blocking 76008 ad serving and malware domains.
 #
-# Date Generated: Jul 13 2017
+# Date Generated: Jul 14 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18525,7 +18525,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 addash.co
 127.0.0.1 addbonus.com
 127.0.0.1 addbtest.timesink.com
-127.0.0.1 addealing.com
 127.0.0.1 addebris.link
 127.0.0.1 addelivery.thestreet.com
 127.0.0.1 addeppo.com
