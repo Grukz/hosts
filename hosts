@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76013 ad serving and malware domains.
+# Currently blocking 76014 ad serving and malware domains.
 #
-# Date Generated: Jul 21 2017
+# Date Generated: Jul 22 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -45724,6 +45724,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 istats.nl
 127.0.0.1 istockbargains.com
 127.0.0.1 istrack.com
+127.0.0.1 istyle.ge
 127.0.0.1 iswwwup.com
 127.0.0.1 it.adserver.yahoo.com
 127.0.0.1 it.bannerout.com
