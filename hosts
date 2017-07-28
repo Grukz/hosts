@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76015 ad serving and malware domains.
+# Currently blocking 76014 ad serving and malware domains.
 #
-# Date Generated: Jul 27 2017
+# Date Generated: Jul 28 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -28148,7 +28148,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 banner.europacasino.com
 127.0.0.1 banner.everestpoker.com
 127.0.0.1 banner.fairpoker.com
-127.0.0.1 banner.featuredusers.com
 127.0.0.1 banner.finn.no
 127.0.0.1 banner.finzoom.ro
 127.0.0.1 banner.fotor.com
