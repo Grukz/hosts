@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76014 ad serving and malware domains.
+# Currently blocking 76018 ad serving and malware domains.
 #
-# Date Generated: Jul 28 2017
+# Date Generated: Jul 29 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -46556,6 +46556,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 keygen.us
 127.0.0.1 keymedia.hu
 127.0.0.1 keynotedeviceanywhere.com
+127.0.0.1 keyoptimize.com
 127.0.0.1 keys.dmtracker.com
 127.0.0.1 keystat.com
 127.0.0.1 keytarget.adnet.lt
@@ -49635,6 +49636,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 metrics.zales.com
 127.0.0.1 metrics.zillow.com
 127.0.0.1 metrics2.pricegrabber.com
+127.0.0.1 metricskey.net
 127.0.0.1 metrika.yandex.by
 127.0.0.1 metrika.yandex.com
 127.0.0.1 metrika.yandex.com.tr
@@ -72247,6 +72249,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.keybinary.com
 127.0.0.1 www.keygen.us
 127.0.0.1 www.keyofhealth.com
+127.0.0.1 www.keyoptimize.com
 127.0.0.1 www.keywordblocks.com
 127.0.0.1 www.keywordmax.com
 127.0.0.1 www.kickassratios.com
@@ -72666,6 +72669,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.methode-binaire.com
 127.0.0.1 www.metricology.com
 127.0.0.1 www.metricsimage.com
+127.0.0.1 www.metricskey.net
 127.0.0.1 www.mfsuite.com
 127.0.0.1 www.mftracking.com
 127.0.0.1 www.mgcash.com
