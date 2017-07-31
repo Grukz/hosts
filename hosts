@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76018 ad serving and malware domains.
+# Currently blocking 76028 ad serving and malware domains.
 #
-# Date Generated: Jul 30 2017
+# Date Generated: Jul 31 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2727,6 +2727,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ab163949.adbutler-kaon.com
 127.0.0.1 ab3a-f9be-43ed-76ca.reporo.net
 127.0.0.1 ab44aa.r.axf8.net
+127.0.0.1 ab913aa797e78b3.com
 127.0.0.1 abacho.net
 127.0.0.1 abacus.geocities.com
 127.0.0.1 abacus.go2cloud.org
@@ -32904,6 +32905,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ca.origin.startappservice.com
 127.0.0.1 ca1.bluestreak.com
 127.0.0.1 ca305656.luckyorange.com
+127.0.0.1 ca4.revieworbit.com
 127.0.0.1 caartoonnetwork.com
 127.0.0.1 caasco.go2cloud.org
 127.0.0.1 cablevision.112.2o7.net
@@ -42870,6 +42872,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 git01.dus.local.vmsn.de
 127.0.0.1 git01.dus.vmsn.de
 127.0.0.1 gitlab.con.local.vmsn.de
+127.0.0.1 giu9aab.bid
 127.0.0.1 giveaboost.go2cloud.org
 127.0.0.1 givemefreestuff.com
 127.0.0.1 givememyremote.us.intellitxt.com
@@ -45220,6 +45223,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 implt.tradedoubler.com
 127.0.0.1 impnl.tradedoubler.com
 127.0.0.1 impno.tradedoubler.com
+127.0.0.1 import.globalsources.com
 127.0.0.1 imppl.tradedoubler.com
 127.0.0.1 impr.superpages.com
 127.0.0.1 imprese.cz
@@ -45543,6 +45547,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 interyield.jmp9.cominteryield.jmp9.com
 127.0.0.1 interyield.td553.com
 127.0.0.1 interyield.td563.com
+127.0.0.1 interyield.td573.com
 127.0.0.1 interyieldw.jmp9.com
 127.0.0.1 interyieldww.jmp9.com
 127.0.0.1 interyieldwww.jmp9.com
@@ -48995,6 +49000,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 media.popmarker.com
 127.0.0.1 media.popunder.com
 127.0.0.1 media.popuptraffic.com
+127.0.0.1 media.primalforce.net
 127.0.0.1 media.privatporevo.com
 127.0.0.1 media.pussycash.com
 127.0.0.1 media.rapid-pass.net
@@ -51380,6 +51386,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 noveslovo.com
 127.0.0.1 novostimira.biz
 127.0.0.1 now.eloqua.com
+127.0.0.1 nowcheck.seethisamazinguogradeswinmacawesome.win
 127.0.0.1 nowina.info
 127.0.0.1 nowinstallupgrade.clickforultimateandbest2updatingpc.top
 127.0.0.1 nowlucky.go2cloud.org
@@ -60100,6 +60107,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sugar.gameforge.com
 127.0.0.1 suggest.infospace.com
 127.0.0.1 sugoicounter.com
+127.0.0.1 suhprdfb.bid
 127.0.0.1 summitbusinessmedia.112.2o7.net
 127.0.0.1 sumo.com
 127.0.0.1 sumome.com
@@ -61478,6 +61486,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 toads.osdn.com
 127.0.0.1 todacell.com
 127.0.0.1 todayads.com
+127.0.0.1 todayresearch.com
 127.0.0.1 todayshow.us.intellitxt.com
 127.0.0.1 toddscarwash.com
 127.0.0.1 toggo.ivwbox.de
@@ -70070,6 +70079,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.apmebf.com
 127.0.0.1 www.app-authority.com
 127.0.0.1 www.app4us.info
+127.0.0.1 www.appafile.com
 127.0.0.1 www.apparel-offer.com
 127.0.0.1 www.apparelncs.com
 127.0.0.1 www.appfindr.org
