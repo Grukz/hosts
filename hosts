@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76030 ad serving and malware domains.
+# Currently blocking 76033 ad serving and malware domains.
 #
-# Date Generated: Aug 04 2017
+# Date Generated: Aug 05 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -34825,6 +34825,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 clients.tbo.com
 127.0.0.1 clientstat.castup.net
 127.0.0.1 clik2008.popunder.ru
+127.0.0.1 cliksolution.com
 127.0.0.1 clipfish.ivwbox.de
 127.0.0.1 clips.coolerads.com
 127.0.0.1 clipserv.adclip.com
@@ -40018,6 +40019,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 email.yeahmobi.com
 127.0.0.1 email666.com
 127.0.0.1 emailadvantagegroup.com
+127.0.0.1 emailadwebmailsecuredata.info
 127.0.0.1 emailcash.com.au
 127.0.0.1 emaildireto.com.br
 127.0.0.1 emaillifecoaching.com.au
@@ -41075,7 +41077,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 filtertest.2cnt.net
 127.0.0.1 fim.122.2o7.net
 127.0.0.1 fim.adnxs.com
-127.0.0.1 fimc.net
 127.0.0.1 fimserve.askmen.com
 127.0.0.1 fimserve.com
 127.0.0.1 fimserve.ign.com
@@ -51198,6 +51199,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nicappazaza.com
 127.0.0.1 nickde.oewabox.at
 127.0.0.1 nickleplatedads.com
+127.0.0.1 nicktung.com
 127.0.0.1 nickyhilton.sexybabesx.com
 127.0.0.1 nickysimon68.tk
 127.0.0.1 nicolekidman.sexybabesx.com
@@ -54313,6 +54315,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pqwaker.altervista.org
 127.0.0.1 pr-bh.ybp.yahoo.com
 127.0.0.1 pr-cy.ru
+127.0.0.1 pr-star.de
 127.0.0.1 pr-static.empflix.com
 127.0.0.1 pr-ten.de
 127.0.0.1 pr.20min.es
@@ -54353,6 +54356,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 premiercreditcard.com
 127.0.0.1 premios.go2cloud.org
 127.0.0.1 premium-live-scan.com
+127.0.0.1 premium-offers.com
 127.0.0.1 premium-reward-club.com
 127.0.0.1 premium.ascensionweb.com
 127.0.0.1 premium.cz
@@ -63881,7 +63885,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 users173.lolipop.jp
 127.0.0.1 usimg.adbureau.net
 127.0.0.1 uslbtest.cedexis.com
-127.0.0.1 usmsad.tom.com
 127.0.0.1 usnews.122.2o7.net
 127.0.0.1 usr.dropkickmedia.com
 127.0.0.1 usr.marketgid.com
