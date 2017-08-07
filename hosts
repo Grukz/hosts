@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76034 ad serving and malware domains.
+# Currently blocking 76038 ad serving and malware domains.
 #
-# Date Generated: Aug 06 2017
+# Date Generated: Aug 07 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2128,6 +2128,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 _thums.ero-advertising.com
 127.0.0.1 a-a-access.com
 127.0.0.1 a-ads.com
+127.0.0.1 a-blog.eu
 127.0.0.1 a-counter.com.ua
 127.0.0.1 a-counter.kiev.ua
 127.0.0.1 a-fast.com
@@ -45694,6 +45695,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 irepdeliver.com
 127.0.0.1 iris-derryberry.us
 127.0.0.1 irondel.swisshost.by
+127.0.0.1 ironevenger.com
 127.0.0.1 irozb.voluumtrk.com
 127.0.0.1 irpopup.ir
 127.0.0.1 irs01.net
@@ -47980,6 +47982,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lunaticjazz.com
 127.0.0.1 lunho.com
 127.0.0.1 lup5z.voluumtrk.com
+127.0.0.1 lurdinha.psc.br
 127.0.0.1 lustler.com
 127.0.0.1 luu.lightquartrate.com
 127.0.0.1 luvianetwork.hasoffers.com
@@ -62683,6 +62686,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 traffic.buyservices.com
 127.0.0.1 traffic.cimedia.com
 127.0.0.1 traffic.firstmobilelink.com
+127.0.0.1 traffic.focuusing.com
 127.0.0.1 traffic.getmyads.com
 127.0.0.1 traffic.index.hu
 127.0.0.1 traffic.liveuniversenetwork.com
