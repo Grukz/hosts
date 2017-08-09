@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76109 ad serving and malware domains.
+# Currently blocking 76099 ad serving and malware domains.
 #
-# Date Generated: Aug 08 2017
+# Date Generated: Aug 09 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -35364,7 +35364,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 commonssearch.com
 127.0.0.1 commonwealth.riddler.com
 127.0.0.1 community.adlandpro.com
-127.0.0.1 comon.monlineserviceplc.com
 127.0.0.1 comonets.com
 127.0.0.1 compactbanner.com
 127.0.0.1 compagnie.science
@@ -37310,7 +37309,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cri.d1.sc.omtrdc.net
 127.0.0.1 cribdare2no.com
 127.0.0.1 crimg.sv.publicus.com
-127.0.0.1 crimunalbot001.ga
 127.0.0.1 crispads.com
 127.0.0.1 crispadvertising.com
 127.0.0.1 crispmedia.com
@@ -38950,7 +38948,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dompark.dadapro.com
 127.0.0.1 domseo.com.edgesuite.net
 127.0.0.1 domwpm.stream
-127.0.0.1 donaldhoyes.tk
 127.0.0.1 done.witchcraftcash.com
 127.0.0.1 donkeymails.com
 127.0.0.1 donna-borst.us
@@ -40524,7 +40521,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 evepdbrazossports.112.2o7.net
 127.0.0.1 evepdcharleston.112.2o7.net
 127.0.0.1 evepdeagledev.112.2o7.net
-127.0.0.1 everbless.biz
 127.0.0.1 evergage.com
 127.0.0.1 everstring.com
 127.0.0.1 everydayhealth.demdex.net
@@ -42373,7 +42369,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gamrfeed.vgchartz.com.9.302br.net
 127.0.0.1 gan.doubleclick.net
 127.0.0.1 gan.wavecdn.net
-127.0.0.1 ganhedwakar.tk
 127.0.0.1 gannett.demdex.net
 127.0.0.1 gannett.gcion.com
 127.0.0.1 gannettbroadcast.us.intellitxt.com
@@ -43217,7 +43212,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gopacket.goforandroid.com
 127.0.0.1 gopath2.xyz
 127.0.0.1 gopopup.com
-127.0.0.1 gorainbowzone.tk
 127.0.0.1 goreal.at
 127.0.0.1 gorilla.go2cloud.org
 127.0.0.1 gorillanation.us.intellitxt.com
@@ -46450,7 +46444,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 jvzoo.com
 127.0.0.1 jwebbsense.cjt1.net
 127.0.0.1 jwner.voluumtrk.com
-127.0.0.1 jworld.monlineserviceplc.com
 127.0.0.1 jwpltx.com
 127.0.0.1 jxliu.com
 127.0.0.1 jxzmo.voluumtrk.com
@@ -50465,7 +50458,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mtvu.112.2o7.net
 127.0.0.1 mu-in-f167.1e100.net
 127.0.0.1 muas4.voluumtrk.com
-127.0.0.1 muazymaur.tk
 127.0.0.1 muchmarketing.go2cloud.org
 127.0.0.1 mudfall.com
 127.0.0.1 mudmonster.org
@@ -51254,7 +51246,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 nickleplatedads.com
 127.0.0.1 nicktung.com
 127.0.0.1 nickyhilton.sexybabesx.com
-127.0.0.1 nickysimon68.tk
 127.0.0.1 nicolekidman.sexybabesx.com
 127.0.0.1 nicolerichie.sexybabesx.com
 127.0.0.1 nicolette-brier.us
@@ -58002,7 +57993,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sexzoznamka.eu
 127.0.0.1 seznam.hit.gemius.pl
 127.0.0.1 sf.vserv.mobi
-127.0.0.1 sface549.tk
 127.0.0.1 sfads.osdn.com
 127.0.0.1 sfl.downloadfilesnow.info
 127.0.0.1 sfl.erw.downloadfilesnow.info
@@ -59014,6 +59004,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sshtunnel.at
 127.0.0.1 ssi.go2cloud.org
 127.0.0.1 ssl-6582datamanager.de
+127.0.0.1 ssl-cd.com
 127.0.0.1 ssl-compass.oewabox.at
 127.0.0.1 ssl-default.2cnt.net
 127.0.0.1 ssl-error.2cnt.net
@@ -69064,7 +69055,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 williamhill.es
 127.0.0.1 willie.ixn.local.vmsn.de
 127.0.0.1 willysy.com
-127.0.0.1 wilworld.monlineserviceplc.com
 127.0.0.1 win-spy.com
 127.0.0.1 win.bannersbucket.xyz
 127.0.0.1 win.openvn.com
@@ -74048,6 +74038,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.srver110.xyz
 127.0.0.1 www.srvpub.com
 127.0.0.1 www.ssangyong.co.il
+127.0.0.1 www.ssl-cd.com
 127.0.0.1 www.stacia-jose.us
 127.0.0.1 www.stacia-ware.us
 127.0.0.1 www.stamplive.com
@@ -74735,7 +74726,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.webwise.com
 127.0.0.1 www.webwise.net
 127.0.0.1 www.webwise.org
-127.0.0.1 www.wecontrol-com.tk
 127.0.0.1 www.wee.co.il
 127.0.0.1 www.weebecash.com
 127.0.0.1 www.weedoit.fr
