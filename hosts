@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76099 ad serving and malware domains.
+# Currently blocking 76107 ad serving and malware domains.
 #
-# Date Generated: Aug 09 2017
+# Date Generated: Aug 10 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2997,6 +2997,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 acuityads.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 acustat.com
+127.0.0.1 acuty1adsrv.com
 127.0.0.1 acvs.mediaonenetwork.net
 127.0.0.1 acvsrv.mediaonenetwork.net
 127.0.0.1 acxiom.com
@@ -19382,6 +19383,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adready.com
 127.0.0.1 adready.net
 127.0.0.1 adreadytractions.com
+127.0.0.1 adreclaim.com
 127.0.0.1 adrecom.net
 127.0.0.1 adrecreate.com
 127.0.0.1 adrelevance.com
@@ -27408,6 +27410,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 avsads.com
 127.0.0.1 avscanonline.com
 127.0.0.1 avt.hit.gemius.pl
+127.0.0.1 avzadsrv.com
 127.0.0.1 aw.masterstats.com
 127.0.0.1 awaps.yandex.ru
 127.0.0.1 award.sitekeuring.net
@@ -42894,6 +42897,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gifttracker.com
 127.0.0.1 gifttree.track4.com
 127.0.0.1 gigwise.us.intellitxt.com
+127.0.0.1 gigya.com
 127.0.0.1 gili-lankanfushi-com.b.appier.net
 127.0.0.1 gillian-boissonneault.us
 127.0.0.1 gillian-leavens.us
@@ -44617,6 +44621,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 icentric.us.intellitxt.com
 127.0.0.1 icestorm.com
 127.0.0.1 ichef.us.intellitxt.com
+127.0.0.1 iclear.studentworkbook.pw
 127.0.0.1 icm.go2cloud.org
 127.0.0.1 ico.freelogs.com
 127.0.0.1 icompass.insightexpressai.com
@@ -50702,6 +50707,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mytraf.info
 127.0.0.1 mytraf.ru
 127.0.0.1 mytraff.com
+127.0.0.1 mytrafficads.com
 127.0.0.1 mytrafficbuilder.info
 127.0.0.1 mytrannycams.com
 127.0.0.1 myusersonline.com
@@ -54052,6 +54058,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 playinvaders.com
 127.0.0.1 playlink.pl
 127.0.0.1 playminigolf.com
+127.0.0.1 playmobileads.com
 127.0.0.1 playnow.guru
 127.0.0.1 playon.domplayer.com
 127.0.0.1 playon.play3w.com
@@ -69218,6 +69225,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wroclawski.com.pl
 127.0.0.1 ws-ea.amazon-adsystem.com
 127.0.0.1 ws-eu.amazon-adsystem.com
+127.0.0.1 ws-gateway.com
 127.0.0.1 ws-na.amazon-adsystem.com
 127.0.0.1 ws.00zasdf.pw
 127.0.0.1 ws.abbp1.pw
