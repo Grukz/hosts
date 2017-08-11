@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76107 ad serving and malware domains.
+# Currently blocking 76116 ad serving and malware domains.
 #
-# Date Generated: Aug 10 2017
+# Date Generated: Aug 11 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18868,6 +18868,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adinch.com
 127.0.0.1 adincl.go2net.com
 127.0.0.1 adincl.gopher.com
+127.0.0.1 adincube.com
 127.0.0.1 adindex.citypages.com
 127.0.0.1 adindex.laweekly.com
 127.0.0.1 adindex.ocweekly.com
@@ -26336,6 +26337,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 antventure.com
 127.0.0.1 antyweb.push-ad.com
 127.0.0.1 anxiety.1.p2l.info
+127.0.0.1 anxiousapples.com
 127.0.0.1 any-load.com
 127.0.0.1 any-log.videe.tv
 127.0.0.1 any-porn.com
@@ -30707,6 +30709,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 boerseon.ivwbox.de
 127.0.0.1 bofa.demdex.net
 127.0.0.1 boh00.voluumtrk.com
+127.0.0.1 boilingbeetle.com
 127.0.0.1 boingdragon.com
 127.0.0.1 bokee.allyes.com
 127.0.0.1 bokotraffic.com
@@ -30868,6 +30871,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 brandrewardcentral.com
 127.0.0.1 brandsurveypanel.com
 127.0.0.1 branovate.com
+127.0.0.1 brassrule.com
 127.0.0.1 brataudit-offloader.2cnt.net
 127.0.0.1 bratro-a.2cnt.net
 127.0.0.1 bratro-s.2cnt.net
@@ -30937,6 +30941,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 brittny-vargas.us
 127.0.0.1 brnys.netmng.com
 127.0.0.1 bro1.s3.amazonaws.com
+127.0.0.1 broadboundary.com
 127.0.0.1 broadcast.piximedia.fr
 127.0.0.1 broadcaster.streamate.com
 127.0.0.1 broadcastpc.tv
@@ -34225,6 +34230,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 chi-only.outbrain.com
 127.0.0.1 chi2only.outbrain.com
 127.0.0.1 chicagosuntimes.122.2o7.net
+127.0.0.1 chiefcurrent.com
 127.0.0.1 childhe.com
 127.0.0.1 chillout.real.com
 127.0.0.1 china.inmobi.com
@@ -42171,6 +42177,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fun.searchwho.com
 127.0.0.1 funchill.com
 127.0.0.1 functional-business.com
+127.0.0.1 functionalclam.com
 127.0.0.1 fundownloads102.com
 127.0.0.1 fungamesmobile.com
 127.0.0.1 funklicks.com
@@ -61139,6 +61146,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 test.applifier.com
 127.0.0.1 test.coremetrics.com
 127.0.0.1 test.doublepimp.com
+127.0.0.1 test.invalid
 127.0.0.1 test.iovation.com
 127.0.0.1 test.ishvara-yoga.com
 127.0.0.1 test.ivwbox.de
@@ -63751,6 +63759,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 universityherald.us.intellitxt.com
 127.0.0.1 unk.vver.kiae.rr
 127.0.0.1 unknown.counsellor.gov.cn
+127.0.0.1 unknowntray.com
 127.0.0.1 unlck.net
 127.0.0.1 unlim-app.tk
 127.0.0.1 unlimitedtextads.com
