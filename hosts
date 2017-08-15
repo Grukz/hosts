@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76223 ad serving and malware domains.
+# Currently blocking 76239 ad serving and malware domains.
 #
-# Date Generated: Aug 14 2017
+# Date Generated: Aug 15 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2072,6 +2072,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 9c1f917.se
 127.0.0.1 9c4e-159e-38f6-08ea.reporo.net
 127.0.0.1 9cc85d.se
+127.0.0.1 9cd76b4462bb.com
 127.0.0.1 9cf9.v.fwmrm.net
 127.0.0.1 9cfa-356e-ec76-7adf.reporo.net
 127.0.0.1 9ctyz.voluumtrk.com
@@ -2886,6 +2887,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 accounting.livejasmin.com
 127.0.0.1 accountlock-demo.iovation.com
 127.0.0.1 accountonline.bridgetrack.com
+127.0.0.1 accountprotection.xyz
 127.0.0.1 accounts.pkr.com
 127.0.0.1 accounts.pkr.com.invalid
 127.0.0.1 accuprod.amobee.com
@@ -26784,6 +26786,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 appledaily.apx.appier.net
 127.0.0.1 appleglobal.112.2o7.net
 127.0.0.1 appleitl.rewards-bonanza-2.com
+127.0.0.1 appleld.apple.com.t5j2kdkc88dd2m423-verif.info
 127.0.0.1 applestore.com-mobile.gift
 127.0.0.1 applestoreus.112.2o7.net
 127.0.0.1 application.bfast.com
@@ -29269,6 +29272,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bestorican.com
 127.0.0.1 bestprizedraw.com
 127.0.0.1 bestproduct.in
+127.0.0.1 bestreview.site
 127.0.0.1 bestrxcanada.com
 127.0.0.1 bestscannerever.com
 127.0.0.1 bestsearch.com
@@ -37349,6 +37353,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 critictruck.com
 127.0.0.1 crittercism.com
 127.0.0.1 crkld.voluumtrk.com
+127.0.0.1 crllmzsy.top
 127.0.0.1 crm.3dots.co.il
 127.0.0.1 crm.pinion.gg
 127.0.0.1 crmbuyer.us.intellitxt.com
@@ -40870,6 +40875,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fashioncargo.pt
 127.0.0.1 fashiontrafficdemo.go2cloud.org
 127.0.0.1 fast-adv.it
+127.0.0.1 fast-mac-upp.com
 127.0.0.1 fast-route.com
 127.0.0.1 fast.adobe.demdex.net
 127.0.0.1 fast.anz.demdex.net
@@ -40952,6 +40958,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fatbackandcollards.us.intellitxt.com
 127.0.0.1 fatbackmedia.us.intellitxt.com
 127.0.0.1 fatcatrewards.com
+127.0.0.1 fatfasts-4tmz.world
 127.0.0.1 fatfreekitchen.us.intellitxt.com
 127.0.0.1 faz.ivwbox.de
 127.0.0.1 faz.met.vgwort.de
@@ -44841,6 +44848,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ilovemobi.com
 127.0.0.1 iltempo.com.au
 127.0.0.1 ilu.troughtheend.com
+127.0.0.1 ilumigrafias.adriancugar.com
 127.0.0.1 iluv.clickbooth.com
 127.0.0.1 ilzzf.voluumtrk.com
 127.0.0.1 im.405d5700.1ff6a9b.ads.a4cdn.contentabc.com
@@ -46206,6 +46214,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jmsyap.112.2o7.net
 127.0.0.1 jmvjmgofvxnu.com
 127.0.0.1 jnova.cjt1.net
+127.0.0.1 jnpzz.1445tzvxq.firc.gdn
 127.0.0.1 joan-moronta.us
 127.0.0.1 joanna-cohen.us
 127.0.0.1 joanna-ruckman.us
@@ -48511,6 +48520,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 macnn.us.intellitxt.com
 127.0.0.1 macobserver.us.intellitxt.com
 127.0.0.1 macpurifier.com
+127.0.0.1 macshield8.club
 127.0.0.1 macuser.uk.intellitxt.com
 127.0.0.1 macwelt.de.intellitxt.com
 127.0.0.1 macwelt.ivwbox.de
@@ -48818,6 +48828,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mashable.d2.sc.omtrdc.net
 127.0.0.1 mashasedgwick.digidip.net
 127.0.0.1 mashinkhabar.com
+127.0.0.1 masoic.com.ng
 127.0.0.1 mass-traffic.com
 127.0.0.1 massage-v-almaty.kz
 127.0.0.1 massmerchandise.com
@@ -51003,6 +51014,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nbjmp.com
 127.0.0.1 nbnkg.voluumtrk.com
 127.0.0.1 nbook.far.ru
+127.0.0.1 nbriskerry.com
 127.0.0.1 nbrtrack.com
 127.0.0.1 nbsmr.voluumtrk.com
 127.0.0.1 nc.5.p2l.info
@@ -68548,6 +68560,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 walmart.112.2o7.net
 127.0.0.1 walmartcom.112.2o7.net
 127.0.0.1 walp.atm.youku.com
+127.0.0.1 walternse.com
 127.0.0.1 wam-ads.sitescout.com
 127.0.0.1 wan.duba.net
 127.0.0.1 wangluoruanjian.com
@@ -71923,6 +71936,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.googletagservices.com
 127.0.0.1 www.googlewordpad.info
+127.0.0.1 www.googmel.win
 127.0.0.1 www.gooool.com
 127.0.0.1 www.gopath2.xyz
 127.0.0.1 www.gopopup.com
@@ -72716,6 +72730,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.m-barati.de
 127.0.0.1 www.mac.com-w.net
 127.0.0.1 www.macaddictads.snv.futurenet.nl
+127.0.0.1 www.macfillerck.com
 127.0.0.1 www.macombdisplayads.com
 127.0.0.1 www.madblast.com
 127.0.0.1 www.madisonlogic.com
@@ -74625,6 +74640,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.typepad.com
 127.0.0.1 www.typiol.com
 127.0.0.1 www.tyxo.bg
+127.0.0.1 www.u1trkqf.com
 127.0.0.1 www.uclick.com
 127.0.0.1 www.ucmore.com
 127.0.0.1 www.udmserve.net
