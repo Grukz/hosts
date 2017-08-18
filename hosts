@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76239 ad serving and malware domains.
+# Currently blocking 76242 ad serving and malware domains.
 #
-# Date Generated: Aug 17 2017
+# Date Generated: Aug 18 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26734,6 +26734,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 app.yesware.com
 127.0.0.1 app.yieldify.com
 127.0.0.1 app2.letmacwork.world
+127.0.0.1 app2.letslowbefast.life
 127.0.0.1 app2.salesmanago.pl
 127.0.0.1 app2.vinsight.de
 127.0.0.1 app3.letmacwork.world
@@ -40790,6 +40791,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 f1.ilivlite.com
 127.0.0.1 f1.p0y.com
 127.0.0.1 f150123.privacy4browsing.com
+127.0.0.1 f18085.privacy4browsers.com
 127.0.0.1 f1bwg.voluumtrk.com
 127.0.0.1 f2.p0y.com
 127.0.0.1 f2communitynews.112.2o7.net
@@ -55805,6 +55807,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 redirectx.net
 127.0.0.1 reditions.net
 127.0.0.1 redmas.com
+127.0.0.1 redonetype.com
 127.0.0.1 redrct.site
 127.0.0.1 redroomnetwork.com
 127.0.0.1 redsheriff.com
