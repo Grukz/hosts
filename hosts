@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 76242 ad serving and malware domains.
 #
-# Date Generated: Aug 18 2017
+# Date Generated: Aug 19 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26688,6 +26688,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 app-sjo.marketo.com
 127.0.0.1 app-storage.elicitapp.com
 127.0.0.1 app.activetrail.com
+127.0.0.1 app.adblockhyper.us
 127.0.0.1 app.adjust.io
 127.0.0.1 app.adsbrook.com
 127.0.0.1 app.androidphone.mobi
@@ -41162,7 +41163,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 filtertest.2cnt.net
 127.0.0.1 fim.122.2o7.net
 127.0.0.1 fim.adnxs.com
-127.0.0.1 fimc.net
 127.0.0.1 fimserve.askmen.com
 127.0.0.1 fimserve.com
 127.0.0.1 fimserve.ign.com
