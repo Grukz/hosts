@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76242 ad serving and malware domains.
+# Currently blocking 76241 ad serving and malware domains.
 #
-# Date Generated: Aug 19 2017
+# Date Generated: Aug 20 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -59135,7 +59135,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ssl-karriere.oewabox.at
 127.0.0.1 ssl-msn.oewabox.at
 127.0.0.1 ssl-munchkin.marketo.net
-127.0.0.1 ssl-nl.persgroep.edgekey.net
 127.0.0.1 ssl-offloader.2cnt.net
 127.0.0.1 ssl-sl-retargeting.adsonar.com
 127.0.0.1 ssl-static.vinsight.de
