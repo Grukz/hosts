@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76252 ad serving and malware domains.
+# Currently blocking 76250 ad serving and malware domains.
 #
-# Date Generated: Aug 25 2017
+# Date Generated: Aug 26 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -60361,7 +60361,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 supportnet.de.intellitxt.com
 127.0.0.1 supremeadserver.com
 127.0.0.1 supremeadsonline.com
-127.0.0.1 suptullog.com
 127.0.0.1 sureads.com
 127.0.0.1 surebaby.us.intellitxt.com
 127.0.0.1 surehits.com
@@ -61327,7 +61326,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 textads.adultadworld.com
 127.0.0.1 textads.biz
 127.0.0.1 textads.madisonavenue.com
-127.0.0.1 textads.opera.com
 127.0.0.1 textads.sexmoney.com
 127.0.0.1 textadvertising.adclickmedia.com
 127.0.0.1 textlinkcash.de
