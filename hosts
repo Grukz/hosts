@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76253 ad serving and malware domains.
+# Currently blocking 76256 ad serving and malware domains.
 #
-# Date Generated: Aug 30 2017
+# Date Generated: Aug 31 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -35294,6 +35294,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 coke.nuggad.net
 127.0.0.1 col.eum-appdynamics.com
 127.0.0.1 col.mobileads.msn.com
+127.0.0.1 coldcertainchannel.com
 127.0.0.1 coldfusion.affiliateshop.com
 127.0.0.1 colette-connell.us
 127.0.0.1 colle.ovh
@@ -48042,6 +48043,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lqipx.voluumtrk.com
 127.0.0.1 lrpush.apxlv.com
 127.0.0.1 lrpush.cogocast.net
+127.0.0.1 lrt7a.coldcertainchannel.com
 127.0.0.1 lrytasadlt.hit.gemius.pl
 127.0.0.1 lrytaslt.adocean.pl
 127.0.0.1 lrzxk.voluumtrk.com
@@ -49291,6 +49293,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mediabistro.112.2o7.net
 127.0.0.1 mediabistrocom.112.2o7.net
 127.0.0.1 mediabreakaway.com
+127.0.0.1 mediabridge.cc
 127.0.0.1 mediabuilder.com
 127.0.0.1 mediacampaign.org
 127.0.0.1 mediacdn.discus.com
