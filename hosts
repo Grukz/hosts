@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76256 ad serving and malware domains.
+# Currently blocking 76258 ad serving and malware domains.
 #
-# Date Generated: Aug 31 2017
+# Date Generated: Sep 01 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -32346,6 +32346,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 buongiorno.go2cloud.org
 127.0.0.1 bupropion-hcl.1.p2l.info
 127.0.0.1 burgerspendingbusiness.kz
+127.0.0.1 burn.settingsdata.store
 127.0.0.1 burnads.com
 127.0.0.1 burns.adtech.de
 127.0.0.1 burns.adtech.fr
@@ -76032,6 +76033,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 za8.delta-boa.com
 127.0.0.1 za9.delta-boa.com
 127.0.0.1 zabava-bel.ru
+127.0.0.1 zadmj.cp-addltives.com
 127.0.0.1 zads.zedo.com
 127.0.0.1 zafiti01.webtrekk-us.net
 127.0.0.1 zag.112.2o7.net
