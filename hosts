@@ -1,5 +1,5 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76258 ad serving and malware domains.
+# Currently blocking 76256 ad serving and malware domains.
 #
 # Date Generated: Sep 01 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
@@ -57759,7 +57759,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sensor.org.ua
 127.0.0.1 sento.122.2o7.net
 127.0.0.1 sentrol.cl
-127.0.0.1 seo4india.com
 127.0.0.1 seoholding.com
 127.0.0.1 seomatrix.webtrackingservices.com
 127.0.0.1 seonetwizard.com
@@ -58086,7 +58085,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sex-and-animals.com
 127.0.0.1 sex-now5.com
 127.0.0.1 sex-sex-sex5.com
-127.0.0.1 sexaddpro.de
 127.0.0.1 sexadvertentiesite.nl
 127.0.0.1 sexcount.de
 127.0.0.1 sexcounter.com
