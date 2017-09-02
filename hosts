@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76256 ad serving and malware domains.
+# Currently blocking 76258 ad serving and malware domains.
 #
-# Date Generated: Sep 01 2017
+# Date Generated: Sep 02 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -37197,6 +37197,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cpm.wargaming.net
 127.0.0.1 cpm.worldofwarplanes.com
 127.0.0.1 cpm1.affiz.net
+127.0.0.1 cpm10.com
 127.0.0.1 cpm2.admob.com
 127.0.0.1 cpmadvisors.com
 127.0.0.1 cpmaffiliation.com
@@ -43436,6 +43437,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gr8nk.voluumtrk.com
 127.0.0.1 grab.nastydollars.com
 127.0.0.1 grabbit-rabbit.com
+127.0.0.1 grabify.link
 127.0.0.1 grabtrk.com
 127.0.0.1 grace-hansley.us
 127.0.0.1 grade.market.yandex.ru
