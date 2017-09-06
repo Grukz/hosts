@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76261 ad serving and malware domains.
+# Currently blocking 76265 ad serving and malware domains.
 #
-# Date Generated: Sep 05 2017
+# Date Generated: Sep 06 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -575,6 +575,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 17.ptp22.com
 127.0.0.1 17.sharedsource.org
 127.0.0.1 170.6.87.194.dynamic.dol.ru
+127.0.0.1 17003124.xyz
 127.0.0.1 1703.ic-live.com
 127.0.0.1 17067.dialer.lincassa.com
 127.0.0.1 1707489.r.msn.com
@@ -40886,6 +40887,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fashioncargo.pt
 127.0.0.1 fashiontrafficdemo.go2cloud.org
 127.0.0.1 fast-adv.it
+127.0.0.1 fast-lost4tmz.world
 127.0.0.1 fast-mac-upp.com
 127.0.0.1 fast-route.com
 127.0.0.1 fast.adobe.demdex.net
@@ -43278,6 +43280,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gooool.com
 127.0.0.1 gopacket.goforandroid.com
 127.0.0.1 gopath2.xyz
+127.0.0.1 goplayz.com
 127.0.0.1 gopopup.com
 127.0.0.1 goreal.at
 127.0.0.1 gorgeousground.com
@@ -61765,6 +61768,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tools.ztod.com
 127.0.0.1 tools2.hitbox.com
 127.0.0.1 toolsa.hitbox.com
+127.0.0.1 toolsins.com
 127.0.0.1 toon-families.com
 127.0.0.1 toonfamilies.net
 127.0.0.1 top-casting-termine.de
