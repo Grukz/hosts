@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76265 ad serving and malware domains.
+# Currently blocking 76274 ad serving and malware domains.
 #
-# Date Generated: Sep 06 2017
+# Date Generated: Sep 07 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -38907,6 +38907,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dmp.gravity4.com
 127.0.0.1 dmp.springserve.com
 127.0.0.1 dmp.theadex.com
+127.0.0.1 dmp.vihub.ru
 127.0.0.1 dmpnetwork.go2cloud.org
 127.0.0.1 dmros.ysm.yahoo.com
 127.0.0.1 dms.netmng.com
@@ -40496,6 +40497,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 eu.link.decideinteractive.com
 127.0.0.1 eu.npario-inc.net
 127.0.0.1 eu.nuggad.net
+127.0.0.1 eu.track.digitaladsystems.com
 127.0.0.1 eu.webprodcdn.com
 127.0.0.1 eu.winninganswers.net
 127.0.0.1 eu.xtms.net
@@ -41073,6 +41075,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fengfengtiecrv.com.cn
 127.0.0.1 fengfengtiessp.com.cn
 127.0.0.1 fengyixin.com
+127.0.0.1 fenipourashava.com
 127.0.0.1 fenix-translation.com.ua
 127.0.0.1 ferdy.org
 127.0.0.1 fermakontenta.justclick.ru
@@ -48864,6 +48867,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 masterzonex.com
 127.0.0.1 mata.ero-advertising.com
 127.0.0.1 match.admailtiser.com
+127.0.0.1 match.ads.betweendigital.com
 127.0.0.1 match.adsrvr.org
 127.0.0.1 match.basebanner.com
 127.0.0.1 match.rtbidder.net
@@ -59236,6 +59240,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 st.seblg.com
 127.0.0.1 st.shinobi.jp
 127.0.0.1 st.smartredirect.de
+127.0.0.1 st.targetix.net
 127.0.0.1 st.top100.ru
 127.0.0.1 st.valueclick.com
 127.0.0.1 st.videojam.tv
@@ -60514,6 +60519,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 synad2.nuffnang.com.my
 127.0.0.1 synad2.nuffnang.com.ph
 127.0.0.1 synad2.nuffnang.com.sg
+127.0.0.1 sync-eu.exe.bid
 127.0.0.1 sync.1rx.io
 127.0.0.1 sync.adap.tv
 127.0.0.1 sync.adaptv.advertising.com
@@ -60522,7 +60528,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 sync.adtech.zenoviaexchange.com
 127.0.0.1 sync.apnx.zenoviaexchange.com
 127.0.0.1 sync.atomex.net
+127.0.0.1 sync.audtd.com
 127.0.0.1 sync.cmedia.s3.amazonaws.com
+127.0.0.1 sync.credebat.com
 127.0.0.1 sync.darikweb.com
 127.0.0.1 sync.go.sonobi.com
 127.0.0.1 sync.livejasmin.com
@@ -60533,6 +60541,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sync.search.spotxchange.com
 127.0.0.1 sync.smarttds.ru
 127.0.0.1 sync.teads.tv
+127.0.0.1 sync.upravel.com
 127.0.0.1 sync.zenoviaexchange.com
 127.0.0.1 sync2.adsniper.ru
 127.0.0.1 syncaccess.net
