@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76274 ad serving and malware domains.
+# Currently blocking 76276 ad serving and malware domains.
 #
-# Date Generated: Sep 07 2017
+# Date Generated: Sep 08 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -53527,6 +53527,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pbid.pro-market.net
 127.0.0.1 pbm7t.voluumtrk.com
 127.0.0.1 pbnet.ru
+127.0.0.1 pbterra.com
 127.0.0.1 pbtool.adition.com
 127.0.0.1 pc-gizmos-ssl.com
 127.0.0.1 pc-infopratique.fr.intellitxt.com
@@ -55966,6 +55967,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rem.go2cloud.org
 127.0.0.1 rem.rezonmedia.eu
 127.0.0.1 remarketing.doubleclick.net
+127.0.0.1 remarketingpixel.com
 127.0.0.1 remodelingonlinecom.112.2o7.net
 127.0.0.1 remotead-internal.cnet.com
 127.0.0.1 remotead.cnet.com
