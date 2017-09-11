@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76275 ad serving and malware domains.
+# Currently blocking 76277 ad serving and malware domains.
 #
-# Date Generated: Sep 10 2017
+# Date Generated: Sep 11 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26742,6 +26742,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 app3.letmacwork.world
 127.0.0.1 app3.rutarget.ru
 127.0.0.1 app3.vinsight.de
+127.0.0.1 app4.letslowbefast.life
 127.0.0.1 app4.letslowbefast.site
 127.0.0.1 app4.letslowbefast.today
 127.0.0.1 app4us.info
@@ -40801,6 +40802,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 f0nuq.voluumtrk.com
 127.0.0.1 f1.ilivlite.com
 127.0.0.1 f1.p0y.com
+127.0.0.1 f11098.privacy4browsers.com
 127.0.0.1 f150123.privacy4browsing.com
 127.0.0.1 f18085.privacy4browsers.com
 127.0.0.1 f1bwg.voluumtrk.com
