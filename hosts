@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76277 ad serving and malware domains.
+# Currently blocking 76278 ad serving and malware domains.
 #
-# Date Generated: Sep 12 2017
+# Date Generated: Sep 13 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -40752,6 +40752,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ey4uh.voluumtrk.com
 127.0.0.1 eyaxf.voluumtrk.com
 127.0.0.1 eyeblaster.com
+127.0.0.1 eyeota.net
 127.0.0.1 eyereact.eyereturn.com
 127.0.0.1 eyereturn.com
 127.0.0.1 eyescream-com-tw.b.appier.net
