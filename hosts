@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76302 ad serving and malware domains.
+# Currently blocking 76299 ad serving and malware domains.
 #
-# Date Generated: Sep 14 2017
+# Date Generated: Sep 15 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -27234,7 +27234,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 atgratis.com
 127.0.0.1 athena-ads.wikia.com
 127.0.0.1 athena-dirksen.us
-127.0.0.1 atikcookies.co.id
 127.0.0.1 atinternet.com
 127.0.0.1 ativan.ourtablets.com
 127.0.0.1 atkeg.voluumtrk.com
@@ -27630,6 +27629,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 b.zeroredirect.com
 127.0.0.1 b.zeroredirect1.com
 127.0.0.1 b.zog.link
+127.0.0.1 b0b1o.bid
 127.0.0.1 b0bsi.voluumtrk.com
 127.0.0.1 b1.2cnt.net
 127.0.0.1 b1.adbrite.com
@@ -38660,6 +38660,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 diana-buchheit.us
 127.0.0.1 dianepiette.co.uk
 127.0.0.1 dianna-gannon.us
+127.0.0.1 dianomi.com
 127.0.0.1 dianomioffers.co.uk
 127.0.0.1 diapi.webgains.com
 127.0.0.1 diaryofagameaddict.com
@@ -40905,7 +40906,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 farmius.org
 127.0.0.1 farmville2.visits.lt
 127.0.0.1 fashion-tube.be
-127.0.0.1 fashioncargo.pt
 127.0.0.1 fashiontrafficdemo.go2cloud.org
 127.0.0.1 fast-adv.it
 127.0.0.1 fast-lost4tmz.world
@@ -48870,7 +48870,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mashable.d2.sc.omtrdc.net
 127.0.0.1 mashasedgwick.digidip.net
 127.0.0.1 mashinkhabar.com
-127.0.0.1 masoic.com.ng
 127.0.0.1 mass-traffic.com
 127.0.0.1 massage-v-almaty.kz
 127.0.0.1 massmerchandise.com
@@ -51017,7 +51016,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 nats.hushmoney.com
 127.0.0.1 nats4.fetishbucks.com
 127.0.0.1 natural.buckeyeenergyforum.com
-127.0.0.1 naturaldieta.com.br
 127.0.0.1 naturalhealth.us.intellitxt.com
 127.0.0.1 naturalsearchtoolresults.com
 127.0.0.1 natureworldnews.us.intellitxt.com
@@ -54353,6 +54351,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 popcounter.com
 127.0.0.1 popdirt.us.intellitxt.com
 127.0.0.1 popfill.us.intellitxt.com
+127.0.0.1 popflawlessads.com
 127.0.0.1 popfree.adultcash.com
 127.0.0.1 popinads.com
 127.0.0.1 popit.mediumpimpin.com
@@ -58841,6 +58840,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sonia-pantoja.us
 127.0.0.1 sonia-wedge.us
 127.0.0.1 sonja-rascon.us
+127.0.0.1 sonobi.com
 127.0.0.1 sony.demdex.net
 127.0.0.1 sony.tcliveus.com
 127.0.0.1 sonya-howland.us
@@ -68170,7 +68170,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 vktr073.net
 127.0.0.1 vladtv.us.intellitxt.com
 127.0.0.1 vlbalash.justclick.ru
-127.0.0.1 vlc-group.com
 127.0.0.1 vlexokrako.com
 127.0.0.1 vlibs.advertising.com
 127.0.0.1 vlog.leadformix.com
@@ -70985,7 +70984,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.codeads.com
 127.0.0.1 www.codez-knacken.de
 127.0.0.1 www.cogtree.com
-127.0.0.1 www.coilprofil.ro
 127.0.0.1 www.coinurl.com
 127.0.0.1 www.coinvisitor.com
 127.0.0.1 www.colette-connell.us
@@ -74383,7 +74381,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.tekeffect.com
 127.0.0.1 www.tekyalhaja.xyz
 127.0.0.1 www.telechargerantivirus.net
-127.0.0.1 www.teleeye.com.ph
 127.0.0.1 www.teligo-ads.de
 127.0.0.1 www.tencent.com
 127.0.0.1 www.tenzero.com
