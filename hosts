@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 76301 ad serving and malware domains.
 #
-# Date Generated: Sep 16 2017
+# Date Generated: Sep 17 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -32967,6 +32967,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ca.livestat.com
 127.0.0.1 ca.origin.startappservice.com
 127.0.0.1 ca1.bluestreak.com
+127.0.0.1 ca3.revieworbit.com
 127.0.0.1 ca305656.luckyorange.com
 127.0.0.1 ca4.revieworbit.com
 127.0.0.1 caartoonnetwork.com
@@ -56123,7 +56124,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 results.cafefind.net
 127.0.0.1 resultsz.com
 127.0.0.1 resumeshop.ru
-127.0.0.1 resvnew.ru
 127.0.0.1 retail-affiliates.com
 127.0.0.1 retaildirect.realmedia.com
 127.0.0.1 retainguaninefluorite.info
