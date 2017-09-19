@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76300 ad serving and malware domains.
+# Currently blocking 76312 ad serving and malware domains.
 #
-# Date Generated: Sep 18 2017
+# Date Generated: Sep 19 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26749,17 +26749,27 @@ ff02::2 ip6-allrouters
 127.0.0.1 app.winwords.adhood.com
 127.0.0.1 app.yesware.com
 127.0.0.1 app.yieldify.com
+127.0.0.1 app1.letitbefaster.life
+127.0.0.1 app1.letitbefaster.website
+127.0.0.1 app2.letitbefaster.life
+127.0.0.1 app2.letitbefaster.website
 127.0.0.1 app2.letmacwork.world
 127.0.0.1 app2.letslowbefast.life
 127.0.0.1 app2.salesmanago.pl
 127.0.0.1 app2.vinsight.de
+127.0.0.1 app3.letitbefaster.life
+127.0.0.1 app3.letitbefaster.website
 127.0.0.1 app3.letmacwork.world
 127.0.0.1 app3.rutarget.ru
 127.0.0.1 app3.vinsight.de
+127.0.0.1 app4.letitbefaster.life
+127.0.0.1 app4.letitbefaster.website
 127.0.0.1 app4.letslowbefast.life
 127.0.0.1 app4.letslowbefast.site
 127.0.0.1 app4.letslowbefast.today
 127.0.0.1 app4us.info
+127.0.0.1 app5.letitbefaster.life
+127.0.0.1 app5.letitbefaster.website
 127.0.0.1 appads.com
 127.0.0.1 appapi.inspsearchapi.com
 127.0.0.1 apparel-offer.com
@@ -53668,6 +53678,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 perfectionautorepairs.com
 127.0.0.1 perfiliate.com
 127.0.0.1 performance.affiliaxe.com
+127.0.0.1 performanceadexchange.com
 127.0.0.1 performancerevenue.com
 127.0.0.1 performancerevenues.com
 127.0.0.1 performances.bestofmedia.com
@@ -54343,6 +54354,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pop.performancerevenues.com
 127.0.0.1 pop.pptw.org
 127.0.0.1 pop.redirect.adsjudo.com
+127.0.0.1 pop.revimedia.com
 127.0.0.1 pop.yeahmobi.com
 127.0.0.1 pop.zompmedia.com
 127.0.0.1 pop6.adultfriendfinder.com
