@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76312 ad serving and malware domains.
+# Currently blocking 76319 ad serving and malware domains.
 #
-# Date Generated: Sep 20 2017
+# Date Generated: Sep 21 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -43512,6 +43512,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gredinatib.org
 127.0.0.1 green.erne.co
 127.0.0.1 green.virtual-nights.com
+127.0.0.1 greeninst.com
 127.0.0.1 greenlightmedia.go2cloud.org
 127.0.0.1 greensmoke.com
 127.0.0.1 greentooth.xtgem.com
@@ -43846,6 +43847,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hello.myfonts.net
 127.0.0.1 hello.sexer.com
 127.0.0.1 hello.staticstuff.net
+127.0.0.1 hellobar.com
 127.0.0.1 hellomagazine.uk.intellitxt.com
 127.0.0.1 helloyoungmanqq.com
 127.0.0.1 helltraffic.com
@@ -48737,6 +48739,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mako.checkm8.com
 127.0.0.1 malachite.bnex.com
 127.0.0.1 malest.com
+127.0.0.1 malikshabas.com
 127.0.0.1 malinda-covin.us
 127.0.0.1 malinda-spillman.us
 127.0.0.1 malware-live-pro-scanv1.com
@@ -50778,6 +50781,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mymediadownloadsthirtytwo.com
 127.0.0.1 mymoneymakingapp.com
 127.0.0.1 mymytonnymaxltd.org
+127.0.0.1 mynewnation.org
 127.0.0.1 myns-v1.websys.aol.com
 127.0.0.1 myoffertracking.com
 127.0.0.1 mypagerank.net
@@ -53350,6 +53354,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 panasonic-jp.b.appier.net
 127.0.0.1 pandaapp.us.intellitxt.com
 127.0.0.1 pandasoftware.112.2o7.net
+127.0.0.1 pandyi.com
 127.0.0.1 panel-metrica.2cnt.net
 127.0.0.1 panel.adtify.pl
 127.0.0.1 panel.ioam.de
@@ -57330,6 +57335,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 scratch2cash.com
 127.0.0.1 scream.garudamp3.com
 127.0.0.1 screen-mates.com
+127.0.0.1 screenaddict.thewhizproducts.com
 127.0.0.1 screencapturewidget.aebn.net
 127.0.0.1 screensavers.lookoutsoft.net
 127.0.0.1 screensavers.us.intellitxt.com
@@ -75969,6 +75975,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 youradexchange.com
 127.0.0.1 youradslab.com
 127.0.0.1 yourcartoons.com
+127.0.0.1 yourdailytrailer.yournewtab.com
 127.0.0.1 yourdvdplayer.com
 127.0.0.1 yourfreegascard.com
 127.0.0.1 yourgascards.com
