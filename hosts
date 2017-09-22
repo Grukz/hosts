@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76319 ad serving and malware domains.
+# Currently blocking 76316 ad serving and malware domains.
 #
-# Date Generated: Sep 21 2017
+# Date Generated: Sep 22 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -24949,6 +24949,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 adz.afterdawn.net
 127.0.0.1 adz.mobi
 127.0.0.1 adz.zwee.ly
+127.0.0.1 adz2you.com
+127.0.0.1 adzbazar.com
 127.0.0.1 adzerk-www.s3.amazonaws.com
 127.0.0.1 adzerk.net
 127.0.0.1 adzerk.s3.amazonaws.com
@@ -27274,7 +27276,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 atsfi.de
 127.0.0.1 atspace.de.intellitxt.com
 127.0.0.1 attadworks.turn.com
-127.0.0.1 attawala.com.sa
 127.0.0.1 atti.velti.com
 127.0.0.1 atticwicket.com
 127.0.0.1 attirer.science
@@ -34320,7 +34321,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 chsplantsales.co.uk
 127.0.0.1 chtatic.appspot.com
 127.0.0.1 chuknu.sokrati.com
-127.0.0.1 chukskel.ddns.net
 127.0.0.1 chumtv.122.2o7.net
 127.0.0.1 chunkypig.com
 127.0.0.1 chunkytgp.net
@@ -34909,6 +34909,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 clients.tbo.com
 127.0.0.1 clientstat.castup.net
 127.0.0.1 clik2008.popunder.ru
+127.0.0.1 clikerz.net
 127.0.0.1 cliksolution.com
 127.0.0.1 clipfish.ivwbox.de
 127.0.0.1 clips.coolerads.com
@@ -40797,7 +40798,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ezec.co.uk
 127.0.0.1 ezgds.112.2o7.net
 127.0.0.1 ezgreets.aavalue.com
-127.0.0.1 ezpa.ga
 127.0.0.1 ezpoll.superstats.com
 127.0.0.1 ezpolls.superstats.com
 127.0.0.1 ezrsd.voluumtrk.com
@@ -41420,7 +41420,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 fodder.qq.com
 127.0.0.1 fodder.tc.qq.com
 127.0.0.1 foi8q.voluumtrk.com
-127.0.0.1 fojasoftwareaudio.ignorelist.com
 127.0.0.1 folkd.put.omnimon.de
 127.0.0.1 followerscounter.com
 127.0.0.1 following-technology.com
@@ -44118,7 +44117,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 hln-frinfos.metriweb.be
 127.0.0.1 hln7sur7.tnsinternet.be
 127.0.0.1 hlok.qertewrt.com
-127.0.0.1 hlookehab.top
 127.0.0.1 hlrke.voluumtrk.com
 127.0.0.1 hlt6o.voluumtrk.com
 127.0.0.1 hlu9tseh.men
@@ -47993,7 +47991,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 lohud.us.intellitxt.com
 127.0.0.1 lokalavisendk.nuggad.net
 127.0.0.1 lokhlp.com
-127.0.0.1 lokpanels.info
 127.0.0.1 lol.to
 127.0.0.1 lolfun.com
 127.0.0.1 lolhello.com
@@ -48630,7 +48627,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 madvertise.de
 127.0.0.1 maeas.voluumtrk.com
 127.0.0.1 maedge.com
-127.0.0.1 mafian222.myftp.org
 127.0.0.1 magazines.sp1.convertro.com
 127.0.0.1 magdalena-pollak.us
 127.0.0.1 magentanews.com
@@ -54319,6 +54315,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 polluxnetwork.com
 127.0.0.1 polly-hammack.us
 127.0.0.1 polskasupermarkecie.website
+127.0.0.1 polyseed.my
 127.0.0.1 pomeranian99.sitetracker.com
 127.0.0.1 pong.qubitproducts.com
 127.0.0.1 pongoresume.com
@@ -55773,7 +55770,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 realtimeads.com
 127.0.0.1 realtouchbannerwidget.aebn.net
 127.0.0.1 realtracker.com
-127.0.0.1 realwire123.ddns.net
 127.0.0.1 reanimapedia.org
 127.0.0.1 rebecca-smythe.us
 127.0.0.1 rebellionmedia.rotator.hadj7.adjuggler.net
@@ -63892,6 +63888,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ulock.it
 127.0.0.1 ultimacash.go2cloud.org
 127.0.0.1 ultimate-guitar.us.intellitxt.com
+127.0.0.1 ultimateclixx.com
 127.0.0.1 ultimatecounter.com
 127.0.0.1 ultimatefashiongifts.com
 127.0.0.1 ultimategracelessness.info
