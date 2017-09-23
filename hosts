@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76316 ad serving and malware domains.
+# Currently blocking 76314 ad serving and malware domains.
 #
-# Date Generated: Sep 22 2017
+# Date Generated: Sep 23 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -20408,7 +20408,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.hooqy.com
 127.0.0.1 ads.hornymatches.com
 127.0.0.1 ads.hornypharaoh.com
-127.0.0.1 ads.horsehero.com
 127.0.0.1 ads.horyzon-media.com
 127.0.0.1 ads.host.camz.com
 127.0.0.1 ads.hosting.vcmedia.vn
@@ -50777,7 +50776,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mymediadownloadsthirtytwo.com
 127.0.0.1 mymoneymakingapp.com
 127.0.0.1 mymytonnymaxltd.org
-127.0.0.1 mynewnation.org
 127.0.0.1 myns-v1.websys.aol.com
 127.0.0.1 myoffertracking.com
 127.0.0.1 mypagerank.net
