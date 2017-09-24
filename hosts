@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76314 ad serving and malware domains.
+# Currently blocking 76321 ad serving and malware domains.
 #
-# Date Generated: Sep 23 2017
+# Date Generated: Sep 24 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -38729,6 +38729,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 digitalhomediscountptyltd.122.2o7.net
 127.0.0.1 digitalmediaonline.us.intellitxt.com
 127.0.0.1 digitalmediawire.us.intellitxt.com
+127.0.0.1 digitalmerkat.com
 127.0.0.1 digitalnames.net
 127.0.0.1 digitalone.go2cloud.org
 127.0.0.1 digitalsalesmedia.go2cloud.org
@@ -44292,6 +44293,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hot2015rewards.com
 127.0.0.1 hot50.net
 127.0.0.1 hotbar.dgndesign.com
+127.0.0.1 hotchatdate.com
 127.0.0.1 hotchix.servepics.com
 127.0.0.1 hotdatinglist.com
 127.0.0.1 hotel-las-vegas.gloses.net
@@ -46731,6 +46733,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 keystat.com
 127.0.0.1 keytarget.adnet.lt
 127.0.0.1 keyupgrade.stableupdate.space
+127.0.0.1 keyupgrade.thecentral2updating.bid
 127.0.0.1 keyways.pt
 127.0.0.1 keywebtracker.com
 127.0.0.1 keyword.cpvfeed.com
@@ -51578,6 +51581,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nowcheck.seethisamazinguogradeswinmacawesome.win
 127.0.0.1 nowina.info
 127.0.0.1 nowinstallupgrade.clickforultimateandbest2updatingpc.top
+127.0.0.1 nowinstallupgrade.goodcentralupdatesall.bid
 127.0.0.1 nowlucky.go2cloud.org
 127.0.0.1 nowruzbakher.com
 127.0.0.1 nowtestpc.updatenewfresh4u.top
@@ -56010,6 +56014,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 remotead-internal.cnet.com
 127.0.0.1 remotead.cnet.com
 127.0.0.1 remotrk.com
+127.0.0.1 remox.com
 127.0.0.1 renata-wenz.us
 127.0.0.1 renata-winstead.us
 127.0.0.1 rencontreavenue.com
@@ -59060,6 +59065,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 spycash.biz
 127.0.0.1 spyhunter-download.s3.amazonaws.com
 127.0.0.1 spykemedia.go2cloud.org
+127.0.0.1 spykemediatrack.co
+127.0.0.1 spykemediatrack.com
 127.0.0.1 spykit.110mb.com
 127.0.0.1 spylog.com
 127.0.0.1 spylog.ru
