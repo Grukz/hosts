@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76321 ad serving and malware domains.
+# Currently blocking 76342 ad serving and malware domains.
 #
-# Date Generated: Sep 25 2017
+# Date Generated: Sep 26 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -35771,6 +35771,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 coriolis.accuweather.com
 127.0.0.1 corm.hit.gemius.pl
 127.0.0.1 cornflakes.pathfinder.com
+127.0.0.1 corolate.win
 127.0.0.1 corpext.msitadfs.glbdns2.microsoft.com
 127.0.0.1 corporate.crakmedia.com
 127.0.0.1 corrie-deloney.us
@@ -38060,6 +38061,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dash.qsrch.com
 127.0.0.1 dash.scorpiointeractive.com
 127.0.0.1 dash001.prxio.site
+127.0.0.1 dashbo15myapp.com
 127.0.0.1 dashboard.adcalls.nl
 127.0.0.1 dashboard.chartboost.com
 127.0.0.1 dashboard.gumgum.com
@@ -43922,6 +43924,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hi.hellobar.com
 127.0.0.1 hi.pacehillel.org
 127.0.0.1 hickoryfarms.112.2o7.net
+127.0.0.1 hicpm5.com
 127.0.0.1 hidden.gogoceleb.com
 127.0.0.1 hide.io
 127.0.0.1 hideaway.com
@@ -44407,6 +44410,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 htmldialer.parisvoyeur.com
 127.0.0.1 htmlhubing.xyz
 127.0.0.1 htmlwww.youfck.com
+127.0.0.1 htmonster.com
 127.0.0.1 hts2.adpremium.org
 127.0.0.1 hts4.adpremium.org
 127.0.0.1 htt.jmp9.com
@@ -46013,6 +46017,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 j5g2b.voluumtrk.com
 127.0.0.1 j5sjr.voluumtrk.com
 127.0.0.1 j8r2b.voluumtrk.com
+127.0.0.1 j94kp2o.com
 127.0.0.1 ja.revolvermaps.com
 127.0.0.1 jaaphram.com
 127.0.0.1 jaapt.voluumtrk.com
@@ -48007,6 +48012,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 look.urs.tw
 127.0.0.1 look2me.com
 127.0.0.1 lookcpm.com
+127.0.0.1 lookest.win
 127.0.0.1 lookoutsoft.net
 127.0.0.1 looksa.com
 127.0.0.1 looksmart.com
@@ -52553,6 +52559,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 onclasrv.com
 127.0.0.1 onclickads.net
 127.0.0.1 onclickads2.net
+127.0.0.1 onclickmax.com
 127.0.0.1 onclickrev.com
 127.0.0.1 onclkds.com
 127.0.0.1 one-time-offer.com
@@ -52978,6 +52985,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ovalpigs.com
 127.0.0.1 overblog.ezakus.net
 127.0.0.1 overclockersonline.us.intellitxt.com
+127.0.0.1 overely.com
 127.0.0.1 overflow.adsoftware.com
 127.0.0.1 overlay.ringtonematcher.com
 127.0.0.1 overpro.com
@@ -53513,6 +53521,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 partygamingglobal.122.2o7.net
 127.0.0.1 pas.private4.com
 127.0.0.1 pass.duba.net
+127.0.0.1 passinst.com
 127.0.0.1 passion-4.net
 127.0.0.1 passport.pfn.bz
 127.0.0.1 passpport.com
@@ -56204,6 +56213,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rewardster.com
 127.0.0.1 rewqs.com
 127.0.0.1 rexafajay.axfree.com
+127.0.0.1 rexmox.com
 127.0.0.1 rextk.com
 127.0.0.1 rextopia.com
 127.0.0.1 rextrk.com
@@ -57540,6 +57550,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 search.thinktarget.com
 127.0.0.1 search.url.com
 127.0.0.1 search.us.com
+127.0.0.1 search.vertoz.com
 127.0.0.1 search.xrenoder.com
 127.0.0.1 search123.com
 127.0.0.1 search2007.info
@@ -58818,6 +58829,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 software.xoomcounter.com
 127.0.0.1 softwarepiset.com
 127.0.0.1 softwares.timesink.com
+127.0.0.1 softwareupdate.thebestevercentralsystoupdate.stream
 127.0.0.1 softwareupdaterlp.com
 127.0.0.1 sohh.us.intellitxt.com
 127.0.0.1 soka-adserver.c1exchange.com
@@ -61598,6 +61610,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 thrnt.com
 127.0.0.1 throattrees.com
 127.0.0.1 thruport.com
+127.0.0.1 ths9j89.com
 127.0.0.1 thumb.ero-advertising.com
 127.0.0.1 thumbads.ero-advertising.com
 127.0.0.1 thumbplay.aavalue.com
@@ -71090,6 +71103,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.coremetrics.com
 127.0.0.1 www.corinne-gump.us
 127.0.0.1 www.cornomase.win
+127.0.0.1 www.corolate.win
 127.0.0.1 www.corrie-mchale.us
 127.0.0.1 www.corrine-scroggins.us
 127.0.0.1 www.cortesidesign.com
@@ -72113,6 +72127,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.hermoment.com
 127.0.0.1 www.heusmarketing.nl
 127.0.0.1 www.hey.lt
+127.0.0.1 www.hicpm5.com
 127.0.0.1 www.hiddenserver.com
 127.0.0.1 www.hide-ip.com
 127.0.0.1 www.hide.io
@@ -72217,6 +72232,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.html-email-marketing.com
 127.0.0.1 www.html5zombo.com
 127.0.0.1 www.htmlcounter.com
+127.0.0.1 www.htmonster.com
 127.0.0.1 www.http-proxy.com
 127.0.0.1 www.huberts-kochseite.de
 127.0.0.1 www.hubtraffic.com
@@ -72420,6 +72436,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.iws.ro
 127.0.0.1 www.iwstats.com
 127.0.0.1 www.iyfnzgb.com
+127.0.0.1 www.j94kp2o.com
 127.0.0.1 www.jade-aultman.us
 127.0.0.1 www.jadina-counter.de
 127.0.0.1 www.jag.vmsn.de
@@ -72758,6 +72775,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.lomalindasda.org
 127.0.0.1 www.lonelycheatingwives.com
 127.0.0.1 www.lookcpm.com
+127.0.0.1 www.lookest.win
 127.0.0.1 www.lookoutsoft.net
 127.0.0.1 www.looksmart.com
 127.0.0.1 www.looksmartclicks.com
@@ -73333,6 +73351,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.on2url.com
 127.0.0.1 www.onadstracker.com
 127.0.0.1 www.onclickads.net
+127.0.0.1 www.onclickmax.com
 127.0.0.1 www.onclickpredictiv.com
 127.0.0.1 www.onclicktop.com
 127.0.0.1 www.onclkds.com
@@ -73430,6 +73449,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.partner.googleadservices.com
 127.0.0.1 www.partnercash.com
 127.0.0.1 www.partycasino.com
+127.0.0.1 www.passinst.com
 127.0.0.1 www.passwordbyphone.com
 127.0.0.1 www.pastilon.com
 127.0.0.1 www.path-tracker.com
@@ -74478,6 +74498,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.thoughtfully-free.com
 127.0.0.1 www.threatnuker.com
 127.0.0.1 www.thruport.com
+127.0.0.1 www.ths9j89.com
 127.0.0.1 www.thumb.ero-advertising.com
 127.0.0.1 www.thunder-ball.net
 127.0.0.1 www.tickerassist.co.uk
