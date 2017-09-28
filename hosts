@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76342 ad serving and malware domains.
+# Currently blocking 76347 ad serving and malware domains.
 #
-# Date Generated: Sep 27 2017
+# Date Generated: Sep 28 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -286,6 +286,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 0wptk.voluumtrk.com
 127.0.0.1 0x.x.gg
 127.0.0.1 0yn3h.voluumtrk.com
+127.0.0.1 1-1ads.com
 127.0.0.1 1-2-free.com
 127.0.0.1 1-domains-registrations.com
 127.0.0.1 1-se.com
@@ -29534,6 +29535,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bitcast-a.v1.iad1.bitgravity.com
 127.0.0.1 bitcast-d.bitgravity.com
 127.0.0.1 bitcoinadvertisers.com
+127.0.0.1 bitcoinplus.com
 127.0.0.1 bitmedianetwork.com
 127.0.0.1 bitsonthewire.com
 127.0.0.1 bittenandbound.us.intellitxt.com
@@ -35321,6 +35323,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 coffeol.com
 127.0.0.1 cogtree.com
 127.0.0.1 cohortdigital.go2cloud.org
+127.0.0.1 coin-hive.com
 127.0.0.1 coinurl.com
 127.0.0.1 coinvisitor.com
 127.0.0.1 coke.nuggad.net
@@ -45987,6 +45990,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 iyfnzgb.com
 127.0.0.1 iymaw.voluumtrk.com
 127.0.0.1 iyogi.demdex.net
+127.0.0.1 izeselet.hu
 127.0.0.1 izitracking.izimailing.com
 127.0.0.1 izzonet.go2cloud.org
 127.0.0.1 izzy-cars.nl
@@ -47587,6 +47591,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 livecamgirls.streamray.com
 127.0.0.1 livecams.nl
 127.0.0.1 livechat.s3.amazonaws.com
+127.0.0.1 livecheck.theperfectsystoupdating.date
 127.0.0.1 livecounter.dk
 127.0.0.1 livedealcom.112.2o7.net
 127.0.0.1 livedelivery.com
