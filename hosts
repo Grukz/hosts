@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76347 ad serving and malware domains.
+# Currently blocking 76349 ad serving and malware domains.
 #
-# Date Generated: Sep 28 2017
+# Date Generated: Sep 29 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1180,6 +1180,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 24ratownik.hit.gemius.pl
 127.0.0.1 24start.com
 127.0.0.1 24trk.com
+127.0.0.1 24upgradecheck.thesteadysystemforupgrades.download
 127.0.0.1 24web.nl
 127.0.0.1 24wrestling.us.intellitxt.com
 127.0.0.1 24x7.soliday.org
@@ -50626,6 +50627,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 multiply.112.2o7.net
 127.0.0.1 multiply.crwdcntrl.net
 127.0.0.1 multipops.com
+127.0.0.1 munachiiwiw.in
 127.0.0.1 munaluchibridal.munaluchibridema.netdna-cdn.com
 127.0.0.1 munchkin.marketo.net
 127.0.0.1 munin2.superfish.com
