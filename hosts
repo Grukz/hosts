@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76349 ad serving and malware domains.
+# Currently blocking 76351 ad serving and malware domains.
 #
-# Date Generated: Sep 29 2017
+# Date Generated: Sep 30 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -30806,6 +30806,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 boots.fotopyra.pl
 127.0.0.1 bootstrap.livefyre.com
 127.0.0.1 bootstraps.timesink.com
+127.0.0.1 bora.studentworkbook.pw
 127.0.0.1 borat.elticket.com.ar
 127.0.0.1 bornaz.com
 127.0.0.1 bororango.com
@@ -51227,6 +51228,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 netstats-1.www.ibm.com
 127.0.0.1 netstats-2.www.ibm.com
 127.0.0.1 netstorage.taboola.com
+127.0.0.1 nettech.org.in
 127.0.0.1 nettno.nuggad.net
 127.0.0.1 nettown.com
 127.0.0.1 netweather.accuweather.com
