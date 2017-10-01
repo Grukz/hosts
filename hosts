@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76351 ad serving and malware domains.
+# Currently blocking 76350 ad serving and malware domains.
 #
-# Date Generated: Sep 30 2017
+# Date Generated: Oct 01 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -43647,6 +43647,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gwynethpaltrow.ca.tt
 127.0.0.1 gwynethpaltrow.sexybabesx.com
 127.0.0.1 gx-in-f109.1e100.net
+127.0.0.1 gyalkingerz.com
 127.0.0.1 gyboo.cruisingsmallship.com
 127.0.0.1 gylra.cruisingsmallship.com
 127.0.0.1 gymboree.hs.llnwd.net
@@ -50628,7 +50629,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 multiply.112.2o7.net
 127.0.0.1 multiply.crwdcntrl.net
 127.0.0.1 multipops.com
-127.0.0.1 munachiiwiw.in
 127.0.0.1 munaluchibridal.munaluchibridema.netdna-cdn.com
 127.0.0.1 munchkin.marketo.net
 127.0.0.1 munin2.superfish.com
@@ -59556,7 +59556,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.adclick.lt
 127.0.0.1 static.adclick.lv
 127.0.0.1 static.addinto.com
-127.0.0.1 static.addtoany.com
 127.0.0.1 static.addynamo.net
 127.0.0.1 static.adfarm1.adition.com
 127.0.0.1 static.adfclick1.com
