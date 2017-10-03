@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76219 ad serving and malware domains.
+# Currently blocking 76220 ad serving and malware domains.
 #
-# Date Generated: Oct 02 2017
+# Date Generated: Oct 03 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -24972,6 +24972,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adxpop.com
 127.0.0.1 adxpose.com
 127.0.0.1 adxpower.com
+127.0.0.1 adxprts.com
 127.0.0.1 adxregie.com
 127.0.0.1 adxrnet.net
 127.0.0.1 adxserve.net
