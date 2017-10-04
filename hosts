@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76220 ad serving and malware domains.
+# Currently blocking 76237 ad serving and malware domains.
 #
-# Date Generated: Oct 03 2017
+# Date Generated: Oct 04 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1928,6 +1928,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 80gw6ry3i3x3qbrkwhxhw.032439.com
 127.0.0.1 80pictures.com
 127.0.0.1 81.6.87.194.dynamic.dol.ru
+127.0.0.1 810f3f9dde63ae3.com
 127.0.0.1 811b-7d4e-7abb-a29e.reporo.net
 127.0.0.1 815.hittail.com
 127.0.0.1 8185.237.asklots.com
@@ -18637,6 +18638,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adexc.net
 127.0.0.1 adexce.net
 127.0.0.1 adexchange.guru
+127.0.0.1 adexchangeperformance.com
 127.0.0.1 adexchangeprediction.com
 127.0.0.1 adexcite.com
 127.0.0.1 adexit.com
@@ -18657,6 +18659,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adf.send.microad.jp
 127.0.0.1 adfacten.go2cloud.org
 127.0.0.1 adfactor.nl
+127.0.0.1 adfactor.nl.invalid
 127.0.0.1 adfactory88.com
 127.0.0.1 adfarm.mediaplex.com
 127.0.0.1 adfarm.mediaplex.com.22114.9130.302br.net
@@ -37985,6 +37988,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 da.newstogram.com
 127.0.0.1 da.virginmedia.com
 127.0.0.1 da5c8.voluumtrk.com
+127.0.0.1 da60995df247712.com
 127.0.0.1 daaa.ero-advertising.com
 127.0.0.1 dabcc.us.intellitxt.com
 127.0.0.1 dacgb.voluumtrk.com
@@ -38660,6 +38664,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dgm2.com
 127.0.0.1 dgmaustralia.com
 127.0.0.1 dgqxhburlt16t.cloudfront.net
+127.0.0.1 dh956.com
 127.0.0.1 dhauzja511.co.cc
 127.0.0.1 dhd.ivwbox.de
 127.0.0.1 dhmonitor.dinaserver.com
@@ -48694,6 +48699,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 main.abqjournal.netdna-cdn.com
 127.0.0.1 main.atdmt.com
 127.0.0.1 main.clicksor.com
+127.0.0.1 main.exdynsrv.com
 127.0.0.1 main.exoclick.com
 127.0.0.1 main.exosrv.com
 127.0.0.1 main.rampidads.com
@@ -57696,6 +57702,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 securityandroidupdate.dinamikaprinting.com
 127.0.0.1 securityscan.us
 127.0.0.1 securitywebservices.com
+127.0.0.1 secursors.com
 127.0.0.1 sedesol.sedesol.gob.mx
 127.0.0.1 sedoparking.com
 127.0.0.1 sedotracker.com
@@ -58441,6 +58448,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 skyhookwireless.com
 127.0.0.1 skyhorn.com
 127.0.0.1 skyios.2cnt.net
+127.0.0.1 skyligh.co
 127.0.0.1 skylink.vn
 127.0.0.1 skype.tt.omtrdc.net
 127.0.0.1 skypronz6j.s.ad6media.fr
@@ -58764,6 +58772,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 softonic.us.intellitxt.com
 127.0.0.1 softpedia.uk.intellitxt.com
 127.0.0.1 softpedia.us.intellitxt.com
+127.0.0.1 softreadynow.thebigforeverupgrade.review
 127.0.0.1 softreadynow.thespaceupdatespcandmac.info
 127.0.0.1 software-updates.co
 127.0.0.1 software-wenc.co.cc
@@ -61544,6 +61553,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 thoughtsmedia.us.intellitxt.com
 127.0.0.1 threadwatch.us.intellitxt.com
 127.0.0.1 threivetrack.com
+127.0.0.1 thrgo.pro
 127.0.0.1 thrnt.com
 127.0.0.1 throattrees.com
 127.0.0.1 thruport.com
@@ -62507,6 +62517,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracker.nmp1.com
 127.0.0.1 tracker.offermarket.net
 127.0.0.1 tracker.onapps.org
+127.0.0.1 tracker.peerclick.io
 127.0.0.1 tracker.pinnaclesports.com
 127.0.0.1 tracker.plan2.net
 127.0.0.1 tracker.promosvc.com
@@ -69855,6 +69866,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.adexc.net
 127.0.0.1 www.adexce.net
 127.0.0.1 www.adexchangecloud.com
+127.0.0.1 www.adexchangeperformance.com
 127.0.0.1 www.adexcite.com
 127.0.0.1 www.adexit.com
 127.0.0.1 www.adexm.com
@@ -71231,6 +71243,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.detroithardcore.com
 127.0.0.1 www.dezuiderwaard.nl
 127.0.0.1 www.dgmaustralia.com
+127.0.0.1 www.dh956.com
 127.0.0.1 www.dia-traffic.com
 127.0.0.1 www.diana-buchheit.us
 127.0.0.1 www.dianomi.com
@@ -74063,6 +74076,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.skimlinks.com
 127.0.0.1 www.skyenetmedia.com
 127.0.0.1 www.skyhookwireless.com
+127.0.0.1 www.skyligh.co
 127.0.0.1 www.slapintins.publicvm.com
 127.0.0.1 www.slidesearch.net
 127.0.0.1 www.slivki.com.ua
@@ -74396,6 +74410,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.thisteddagblad.dk
 127.0.0.1 www.thor-cpa.com
 127.0.0.1 www.thoughtfully-free.com
+127.0.0.1 www.thrgo.pro
 127.0.0.1 www.thruport.com
 127.0.0.1 www.ths9j89.com
 127.0.0.1 www.thumb.ero-advertising.com
@@ -74500,6 +74515,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.trackalyzer.com
 127.0.0.1 www.trackbacksecure.com
 127.0.0.1 www.trackedclicks.com
+127.0.0.1 www.tracker.peerclick.io
 127.0.0.1 www.trackermodules.com
 127.0.0.1 www.trackflv.net
 127.0.0.1 www.trackhost.com
@@ -75670,6 +75686,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 xml.seekandsee.com
 127.0.0.1 xml.trafficsyndicate.com
 127.0.0.1 xml.weather.overture.com
+127.0.0.1 xml.xmlwizard.com
 127.0.0.1 xml2.nbcsearch.com
 127.0.0.1 xml2.trafficsyndicate.com
 127.0.0.1 xmlheads.com
