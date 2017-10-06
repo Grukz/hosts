@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76237 ad serving and malware domains.
+# Currently blocking 76238 ad serving and malware domains.
 #
-# Date Generated: Oct 05 2017
+# Date Generated: Oct 06 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -34672,6 +34672,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 click.top10sites.com
 127.0.0.1 click.topica.com
 127.0.0.1 click.trafikkfondet.no
+127.0.0.1 click.trklinklog.com
 127.0.0.1 click.tv.repubblica.it
 127.0.0.1 click.tz.simba.taobao.com
 127.0.0.1 click.uamtrk.com
