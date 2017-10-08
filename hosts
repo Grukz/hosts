@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76239 ad serving and malware domains.
+# Currently blocking 76243 ad serving and malware domains.
 #
-# Date Generated: Oct 07 2017
+# Date Generated: Oct 08 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -444,6 +444,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 123counter.superstats.com
 127.0.0.1 123counts.com
 127.0.0.1 123found.com
+127.0.0.1 123freeavatars.com
 127.0.0.1 123go.com
 127.0.0.1 123go.net
 127.0.0.1 123greetings.com
@@ -18638,6 +18639,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adexc.net
 127.0.0.1 adexce.net
 127.0.0.1 adexchange.guru
+127.0.0.1 adexchangegate.com
 127.0.0.1 adexchangeperformance.com
 127.0.0.1 adexchangeprediction.com
 127.0.0.1 adexcite.com
@@ -54283,6 +54285,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 polaris.tns-cs.net
 127.0.0.1 poldk.nuggad.net
 127.0.0.1 pole.6rooms.com
+127.0.0.1 police-fbi.securityservice.review
 127.0.0.1 police11.provenprotection.net
 127.0.0.1 politads.com
 127.0.0.1 politicalopinionsurvey.com
@@ -58898,6 +58901,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 spe.atdmt.com
 127.0.0.1 special-movies.com
 127.0.0.1 specialgiftrewards.com
+127.0.0.1 specially4u.net
 127.0.0.1 specialoffers.aol.com
 127.0.0.1 specialonlinegifts.com
 127.0.0.1 specials-rewardpath.com
