@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76247 ad serving and malware domains.
+# Currently blocking 76257 ad serving and malware domains.
 #
-# Date Generated: Oct 09 2017
+# Date Generated: Oct 10 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2934,6 +2934,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aciphex.about-tabs.com
 127.0.0.1 acjp.com
 127.0.0.1 ackjeeves.com
+127.0.0.1 acknowing.com
 127.0.0.1 aclasscelebs.us.intellitxt.com
 127.0.0.1 aclick.adhoc1.net
 127.0.0.1 aclickads.com
@@ -25353,6 +25354,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 affrh2019.com
 127.0.0.1 affrh2023.com
 127.0.0.1 affscout.go2cloud.org
+127.0.0.1 affsharkoffer.com
 127.0.0.1 afftrack.box.tmpds286.trkag1.com
 127.0.0.1 afftrack.com
 127.0.0.1 afftrack001.com
@@ -34268,6 +34270,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cheapxanax.hut1.ru
 127.0.0.1 cheatcc.us.intellitxt.com
 127.0.0.1 cheatingdome.us.intellitxt.com
+127.0.0.1 check.goodroundtoupdates.date
 127.0.0.1 check.tamobi.net
 127.0.0.1 checker.admitad.com
 127.0.0.1 checker.cityads.com
@@ -37866,6 +37869,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 d2nlytvx51ywh9.cloudfront.net
 127.0.0.1 d2nq0f8d9ofdwv.cloudfront.net
 127.0.0.1 d2o307dm5mqftz.cloudfront.net
+127.0.0.1 d2o9ozfswytaqz.cloudfront.net
 127.0.0.1 d2oallm7wrqvmi.cloudfront.net
 127.0.0.1 d2oh4tlt9mrke9.cloudfront.net
 127.0.0.1 d2pgy8h4i30on1.cloudfront.net
@@ -43933,6 +43937,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 highcpms.com
 127.0.0.1 highdefforum.us.intellitxt.com
 127.0.0.1 higher.dwebsi.tk
+127.0.0.1 higheurest.com
 127.0.0.1 highflyingfood.com
 127.0.0.1 highpro1.com
 127.0.0.1 highscanprotect.com
@@ -45658,6 +45663,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 intelliseek.com
 127.0.0.1 intellitxt.com
 127.0.0.1 intensedigital.adk2x.com
+127.0.0.1 interac.refund-canada.com
 127.0.0.1 interactive-assets.s3.amazonaws.com
 127.0.0.1 interactive.forthnet.gr
 127.0.0.1 interactivearea.ru
@@ -55550,6 +55556,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rainbowdisplays.com
 127.0.0.1 rainbowmedia.122.2o7.net
 127.0.0.1 rainmaker.digitalbrandsinc.netdna-cdn.com
+127.0.0.1 rainoffers.afftrack.com
 127.0.0.1 raiss.voluumtrk.com
 127.0.0.1 rake2mysweeps.com
 127.0.0.1 rakuten.112.2o7.net
@@ -62132,6 +62139,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 track.exclusivecpa.com
 127.0.0.1 track.eyeviewads.com
 127.0.0.1 track.flexlinks.com
+127.0.0.1 track.flexlinkspro.com
 127.0.0.1 track.fling.com
 127.0.0.1 track.floppybank.com
 127.0.0.1 track.ft.com
@@ -63413,7 +63421,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 u-porn.mp1.mobi
 127.0.0.1 u.admob.com
 127.0.0.1 u.begun.ru
-127.0.0.1 u.cubeupload.com
 127.0.0.1 u.extreme-dm.com
 127.0.0.1 u.heatmap.it
 127.0.0.1 u.moatads.com
@@ -69106,6 +69113,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 whentheyopened.com
 127.0.0.1 whenu.com
 127.0.0.1 whenusearch.com
+127.0.0.1 whenvideoup.thebigandfreesystemupdate.website
 127.0.0.1 whenvideoup.thebigandfreesystemupdating.date
 127.0.0.1 whereapps.com
 127.0.0.1 whinteryield.jmp9.com
@@ -70216,6 +70224,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.affordablewebsitetraffic.com
 127.0.0.1 www.afform.co.uk
 127.0.0.1 www.affpartners.com
+127.0.0.1 www.affsharkoffer.com
 127.0.0.1 www.afftrack.com
 127.0.0.1 www.afftracker.info
 127.0.0.1 www.afftrackinglinks.com
@@ -73492,6 +73501,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.popadvert.com
 127.0.0.1 www.popblocker.com
 127.0.0.1 www.popboxads.com
+127.0.0.1 www.popcash.net
 127.0.0.1 www.popinads.com
 127.0.0.1 www.poponclick.com
 127.0.0.1 www.popstrap.com
