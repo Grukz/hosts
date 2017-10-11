@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76257 ad serving and malware domains.
+# Currently blocking 76258 ad serving and malware domains.
 #
-# Date Generated: Oct 10 2017
+# Date Generated: Oct 11 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -34948,6 +34948,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 clips.coolerads.com
 127.0.0.1 clipserv.adclip.com
 127.0.0.1 clipztube.com
+127.0.0.1 cliqz.com
 127.0.0.1 clit.sextracker.com
 127.0.0.1 clit1.sextracker.be
 127.0.0.1 clit1.sextracker.com
@@ -48144,7 +48145,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 lugiy.ru
 127.0.0.1 luisa-hayden.us
 127.0.0.1 luisa-rester.us
-127.0.0.1 lukakuu.com
 127.0.0.1 luksona.popunder.ru
 127.0.0.1 lumdf.voluumtrk.com
 127.0.0.1 luminate.com
@@ -52670,6 +52670,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 open.4info.net
 127.0.0.1 open.ad.yieldmanager.net
 127.0.0.1 open.mkt1397.com
+127.0.0.1 open.oneplus.net
 127.0.0.1 open.vmdb.se
 127.0.0.1 openad.infobel.com
 127.0.0.1 openad.tf1.fr
