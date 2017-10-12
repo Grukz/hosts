@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76258 ad serving and malware domains.
+# Currently blocking 76262 ad serving and malware domains.
 #
-# Date Generated: Oct 11 2017
+# Date Generated: Oct 12 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -35356,6 +35356,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cohortdigital.go2cloud.org
 127.0.0.1 coin-hive.com
 127.0.0.1 coin-media.com
+127.0.0.1 coinhive.com
 127.0.0.1 coinurl.com
 127.0.0.1 coinvisitor.com
 127.0.0.1 coke.nuggad.net
@@ -38509,6 +38510,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 deliverymailsysytem.co.uk
 127.0.0.1 dellinc.tt.omtrdc.net
 127.0.0.1 deloo.de
+127.0.0.1 deloton.com
 127.0.0.1 delshikandco.com
 127.0.0.1 delta.rspcdn.com
 127.0.0.1 delta210.rtb.appier.net
@@ -46568,6 +46570,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jvz9.com
 127.0.0.1 jvzoo.com
 127.0.0.1 jwebbsense.cjt1.net
+127.0.0.1 jwljj.adsb4track.com
 127.0.0.1 jwner.voluumtrk.com
 127.0.0.1 jwpltx.com
 127.0.0.1 jxliu.com
@@ -72454,6 +72457,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.jvz8.com
 127.0.0.1 www.jvz9.com
 127.0.0.1 www.jvzoo.com
+127.0.0.1 www.jwljj.adsb4track.com
 127.0.0.1 www.jxliu.com
 127.0.0.1 www.jzigsobgsmxdmr.bid
 127.0.0.1 www.kaaza-legal.de
