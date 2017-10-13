@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76262 ad serving and malware domains.
+# Currently blocking 76276 ad serving and malware domains.
 #
-# Date Generated: Oct 12 2017
+# Date Generated: Oct 13 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -27044,6 +27044,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 art-photo-music-premiumblvd.com
 127.0.0.1 art-photo-music-rewardempire.com
 127.0.0.1 art-photo-music-savingblvd.com
+127.0.0.1 artbreat.com
 127.0.0.1 artcomix.com
 127.0.0.1 artella.biz
 127.0.0.1 artemis.porntrack.net
@@ -34206,6 +34207,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ch2lb.checkm8.com
 127.0.0.1 chacha.112.2o7.net
 127.0.0.1 chaine.science
+127.0.0.1 chainmychonga.com
 127.0.0.1 chainsawoffer.com
 127.0.0.1 chambercb.tk
 127.0.0.1 chameleon.ad
@@ -34948,7 +34950,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 clips.coolerads.com
 127.0.0.1 clipserv.adclip.com
 127.0.0.1 clipztube.com
-127.0.0.1 cliqz.com
 127.0.0.1 clit.sextracker.com
 127.0.0.1 clit1.sextracker.be
 127.0.0.1 clit1.sextracker.com
@@ -38742,6 +38743,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 diginetlt.hit.gemius.pl
 127.0.0.1 digistats.westjet.com
 127.0.0.1 digit-life.uk.intellitxt.com
+127.0.0.1 digital-ads.s3.amazonaws.com
 127.0.0.1 digital-cable-descrambler.planet-high-heels.com
 127.0.0.1 digital-world.de.intellitxt.com
 127.0.0.1 digital.datalabusa.com
@@ -47099,6 +47101,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 latency-pixel.ic-live.com
 127.0.0.1 latency.ttrraacckkrr.com
 127.0.0.1 latest-369538.ahtamsu.ru
+127.0.0.1 latest-460050.ebeda.info
 127.0.0.1 latestsearch.website
 127.0.0.1 latin3.directtrack.com
 127.0.0.1 latinoreview.us.intellitxt.com
@@ -47748,6 +47751,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 log.tagcade.com
 127.0.0.1 log.tapatalk.com
 127.0.0.1 log.trafic.ro
+127.0.0.1 log.user-clicks.com
 127.0.0.1 log.v.iask.com
 127.0.0.1 log.vdn.apps.cntv.cn
 127.0.0.1 log.viva.co.id
@@ -48458,6 +48462,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 m6.ve.2mdn.net
 127.0.0.1 m6.webstats.motigo.com
 127.0.0.1 m6.za.2mdn.net
+127.0.0.1 m62-genreal.com
 127.0.0.1 m6dqx-ad3hl.ads.tremorhub.com
 127.0.0.1 m7.ae.2mdn.net
 127.0.0.1 m7.au.2mdn.net
@@ -50880,6 +50885,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 n.mplxtms.com
 127.0.0.1 n.pay-click.ru
 127.0.0.1 n.pcads.ru
+127.0.0.1 n.popclck.org
 127.0.0.1 n.targetbtracker.com
 127.0.0.1 n.targetdtracker.com
 127.0.0.1 n.thestar.com
@@ -54380,6 +54386,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pops.freeze.com
 127.0.0.1 pops.velmedia.net
 127.0.0.1 popsci.com.122.2o7.net
+127.0.0.1 popserve.adscpm.net
 127.0.0.1 popstats.com.br
 127.0.0.1 popstrap.com
 127.0.0.1 poptm.com
@@ -68441,6 +68448,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 w2.hitbox.com
 127.0.0.1 w20.am15.net
 127.0.0.1 w20.hitbox.com
+127.0.0.1 w20.iit.guru
 127.0.0.1 w21.am15.net
 127.0.0.1 w21.hitbox.com
 127.0.0.1 w22.am15.net
@@ -70815,6 +70823,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.cerquasas.it
 127.0.0.1 www.certified-email.com
 127.0.0.1 www.cetrk.com
+127.0.0.1 www.chainmychonga.com
 127.0.0.1 www.chainsawoffer.com
 127.0.0.1 www.champrank.de
 127.0.0.1 www.chango.com
@@ -71251,6 +71260,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.delfinproject.com
 127.0.0.1 www.delia-galvin.us
 127.0.0.1 www.delishows.com
+127.0.0.1 www.deloton.com
 127.0.0.1 www.delta-search.com
 127.0.0.1 www.deltahost.de
 127.0.0.1 www.demandbase.com
@@ -72575,6 +72585,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.laptoprewardszone.com
 127.0.0.1 www.larivieracasino.com
 127.0.0.1 www.lasthr.info
+127.0.0.1 www.latest-460050.ebeda.info
 127.0.0.1 www.laugh-mail.com
 127.0.0.1 www.laugh-mail.net
 127.0.0.1 www.launch1.co
@@ -73127,6 +73138,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.mywebsearch.com
 127.0.0.1 www.mywebsearch.net
 127.0.0.1 www.mywebstats.org
+127.0.0.1 www.n.popclck.org
 127.0.0.1 www.n60adserv.com
 127.0.0.1 www.n61adserv.com
 127.0.0.1 www.n62adserv.com
@@ -75141,6 +75153,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ztrack.net
 127.0.0.1 www.zugo.com
 127.0.0.1 www.zugosearch.com
+127.0.0.1 www.zxtrace.com
 127.0.0.1 www.zytpirwai.net
 127.0.0.1 www.zyxyfy.com
 127.0.0.1 www.zzztech.com
@@ -76261,6 +76274,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 zww.ero-advertising.com
 127.0.0.1 zx.zeroredirect1.com
 127.0.0.1 zxcvb.space
+127.0.0.1 zxtrace.com
 127.0.0.1 zxypenguin.people-group.su
 127.0.0.1 zy.zeroredirect1.com
 127.0.0.1 zyban-store.shengen.ru
