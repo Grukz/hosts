@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76276 ad serving and malware domains.
+# Currently blocking 76279 ad serving and malware domains.
 #
-# Date Generated: Oct 14 2017
+# Date Generated: Oct 15 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18655,6 +18655,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adexprt.me
 127.0.0.1 adexprts.com
 127.0.0.1 adext.inkclub.com
+127.0.0.1 adexten.com
 127.0.0.1 adextensioncontrol.tudou.com
 127.0.0.1 adextent.com
 127.0.0.1 adf.ero-advertising.com
@@ -59134,6 +59135,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 srv3.adnetworkme.com
 127.0.0.1 srv3.bannercommunity.de
 127.0.0.1 srv3.wa.marketingsolutions.yahoo.com
+127.0.0.1 srv6.admedit.me
 127.0.0.1 srv6.mobpedia.com
 127.0.0.1 srvabc.com
 127.0.0.1 srver110.xyz
@@ -69900,6 +69902,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.adexcite.com
 127.0.0.1 www.adexit.com
 127.0.0.1 www.adexm.com
+127.0.0.1 www.adexten.com
 127.0.0.1 www.adfactor.nl
 127.0.0.1 www.adfest.com
 127.0.0.1 www.adfirmative.com
