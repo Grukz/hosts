@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76279 ad serving and malware domains.
+# Currently blocking 76287 ad serving and malware domains.
 #
-# Date Generated: Oct 16 2017
+# Date Generated: Oct 17 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25633,6 +25633,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 alexandria90.etcserver.com
 127.0.0.1 alfaromeu.com
 127.0.0.1 alfatraffic.com
+127.0.0.1 alfredean.com
 127.0.0.1 alfreethought.org
 127.0.0.1 alfy.com
 127.0.0.1 aliaz.go2cloud.org
@@ -40367,6 +40368,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 equitymarketingsolutions.com
 127.0.0.1 eqx.smartadserver.com
 127.0.0.1 er20090515.com
+127.0.0.1 eratrf.com
 127.0.0.1 ercva.com
 127.0.0.1 erectile.byethost33.com
 127.0.0.1 eremedia.112.2o7.net
@@ -54892,6 +54894,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 protvadmd.hit.gemius.pl
 127.0.0.1 protvmd.adocean.pl
 127.0.0.1 proudclick.com
+127.0.0.1 provenfeedback.com
 127.0.0.1 provexia.com
 127.0.0.1 providence.voxmedia.com
 127.0.0.1 provideplant.com
@@ -60680,6 +60683,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 t.hypers.com.cn
 127.0.0.1 t.insigit.com
 127.0.0.1 t.invitemedia.com
+127.0.0.1 t.irtya.com
 127.0.0.1 t.ivwbox.de
 127.0.0.1 t.jobthread.com
 127.0.0.1 t.ktxtr.com
@@ -61453,6 +61457,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 theclickmagnets.go2cloud.org
 127.0.0.1 thecoolpics.com
 127.0.0.1 thecounter.com
+127.0.0.1 thecounter.com.invalid
 127.0.0.1 thedailystarcom.112.2o7.net
 127.0.0.1 thedatesafe.com
 127.0.0.1 theeldergeek.us.intellitxt.com
@@ -64111,6 +64116,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 usatravel-specials.com
 127.0.0.1 usatravel-specials.net
 127.0.0.1 usbanners.com
+127.0.0.1 usd.bravo-dog.com
 127.0.0.1 usdm.122.2o7.net
 127.0.0.1 usdtop.58.com
 127.0.0.1 use-tor.adsrvr.org
@@ -71488,6 +71494,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.epharm4u.com
 127.0.0.1 www.epicgameads.com
 127.0.0.1 www.equitymarketingsolutions.com
+127.0.0.1 www.eratrf.com
 127.0.0.1 www.ercva.com
 127.0.0.1 www.ericka-riffle.us
 127.0.0.1 www.erin-hartwell.us
@@ -74740,6 +74747,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.usarevenue.com
 127.0.0.1 www.usatravel-specials.com
 127.0.0.1 www.usatravel-specials.net
+127.0.0.1 www.usd.bravo-dog.com
 127.0.0.1 www.usearchmedia.com
 127.0.0.1 www.usemax.de
 127.0.0.1 www.usenetjunction.com
