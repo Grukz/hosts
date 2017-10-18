@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 76287 ad serving and malware domains.
 #
-# Date Generated: Oct 17 2017
+# Date Generated: Oct 18 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -46820,6 +46820,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kitchen-island.mensk.us
 127.0.0.1 kithrup.matchlogic.com
 127.0.0.1 kitsjim.com
+127.0.0.1 kiwifarms.net
 127.0.0.1 kixer.com
 127.0.0.1 kizash.com
 127.0.0.1 kjolj.voluumtrk.com
@@ -64183,7 +64184,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 utm2.smileycentral.com
 127.0.0.1 utmtrk2.smileycentral.com
 127.0.0.1 utokapa.com
-127.0.0.1 utopia-muenchen.de
 127.0.0.1 utopiad.com
 127.0.0.1 utorrentinstall.com
 127.0.0.1 utrack.hexun.com
