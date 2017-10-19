@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76287 ad serving and malware domains.
+# Currently blocking 76288 ad serving and malware domains.
 #
-# Date Generated: Oct 18 2017
+# Date Generated: Oct 19 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -46034,6 +46034,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jacksonsun.us.intellitxt.com
 127.0.0.1 jacoblanderville.myjino.ru
 127.0.0.1 jact.atdmt.com
+127.0.0.1 jad.fisbonline.com
 127.0.0.1 jadcenter.com
 127.0.0.1 jade-aultman.us
 127.0.0.1 jade.bnex.com
