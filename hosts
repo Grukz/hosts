@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76288 ad serving and malware domains.
+# Currently blocking 76289 ad serving and malware domains.
 #
-# Date Generated: Oct 20 2017
+# Date Generated: Oct 21 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -20309,7 +20309,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.fulltiltpoker.com
 127.0.0.1 ads.fulltraffic.net
 127.0.0.1 ads.funfarsi.ir
-127.0.0.1 ads.futurenet.com
 127.0.0.1 ads.futurenetworkusa.com
 127.0.0.1 ads.fuzzster.com
 127.0.0.1 ads.g-media.com
@@ -48884,7 +48883,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 marlena-ellingson.us
 127.0.0.1 marlene-baley.us
 127.0.0.1 marlene-hunsinger.us
-127.0.0.1 maroonspider.com
 127.0.0.1 marriottinternationa.tt.omtrdc.net
 127.0.0.1 marsha-hoppe.us
 127.0.0.1 marsoffset.goforandroid.com
@@ -53912,6 +53910,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pigment-adv.co.il
 127.0.0.1 pigra.csheaven.com
 127.0.0.1 pigredoben12.sytes.net
+127.0.0.1 pillscash.com
 127.0.0.1 pilltabletsrxbargain.net
 127.0.0.1 pilmedia.ads.visionweb.no
 127.0.0.1 pimpout.com
@@ -58488,6 +58487,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 skysport.oewabox.at
 127.0.0.1 sl-retargeting.adsonar.com
 127.0.0.1 sl3tsw6.com
+127.0.0.1 slanted.excelonlinereader.services
 127.0.0.1 slashfilm.us.intellitxt.com
 127.0.0.1 slashphone.us.intellitxt.com
 127.0.0.1 slate-ad-scripts.s3.amazonaws.com
@@ -72791,6 +72791,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.m-barati.de
 127.0.0.1 www.mac.com-w.net
 127.0.0.1 www.macaddictads.snv.futurenet.nl
+127.0.0.1 www.macaheadapps.com
 127.0.0.1 www.macfillerck.com
 127.0.0.1 www.macombdisplayads.com
 127.0.0.1 www.madblast.com
