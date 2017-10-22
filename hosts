@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76289 ad serving and malware domains.
+# Currently blocking 76295 ad serving and malware domains.
 #
-# Date Generated: Oct 21 2017
+# Date Generated: Oct 22 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -540,6 +540,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 157.6.87.194.dynamic.dol.ru
 127.0.0.1 158.6.87.194.dynamic.dol.ru
 127.0.0.1 159.6.87.194.dynamic.dol.ru
+127.0.0.1 15cen.redirectvoluum.com
 127.0.0.1 15minadlt.hit.gemius.pl
 127.0.0.1 15qhn.voluumtrk.com
 127.0.0.1 15view.atdmt.com.319.6000.302br.net
@@ -31002,6 +31003,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 brighthouse.122.2o7.net
 127.0.0.1 brighthub.us.intellitxt.com
 127.0.0.1 brightinfo.com
+127.0.0.1 brightonclick.com
 127.0.0.1 brightroll.com
 127.0.0.1 brightshare.com
 127.0.0.1 brigitte-burtch.us
@@ -41087,6 +41089,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 feedads.g.doubleclick.net
 127.0.0.1 feedads.googleadservices.com
 127.0.0.1 feedback.microsoft-hohm.com
+127.0.0.1 feedbackcensus.com
 127.0.0.1 feedbackexplorer.com
 127.0.0.1 feedbackresearch.com
 127.0.0.1 feedblitz.com
@@ -70265,6 +70268,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.airbornehydrography.com
 127.0.0.1 www.airpush.com
 127.0.0.1 www.airsonett.se
+127.0.0.1 www.ajalis.com
 127.0.0.1 www.akoneplatit.sk
 127.0.0.1 www.alanna-annunziata.us
 127.0.0.1 www.albiondrugs.com
@@ -71863,6 +71867,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.fxcounters.com
 127.0.0.1 www.fxstyle.net
 127.0.0.1 www.gabia.com
+127.0.0.1 www.gacatl.com
 127.0.0.1 www.galileounaluna.com
 127.0.0.1 www.gallerytrafficservice.com
 127.0.0.1 www.gallfree.com
@@ -72264,6 +72269,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.imagenes.de
 127.0.0.1 www.imagerieduroc.com
 127.0.0.1 www.imagine-inc.com
+127.0.0.1 www.imcounting.com
 127.0.0.1 www.imctraffic.com
 127.0.0.1 www.imgclck.com
 127.0.0.1 www.imiclk.com
