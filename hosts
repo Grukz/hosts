@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76295 ad serving and malware domains.
+# Currently blocking 76297 ad serving and malware domains.
 #
-# Date Generated: Oct 22 2017
+# Date Generated: Oct 23 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -41345,6 +41345,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fledn.voluumtrk.com
 127.0.0.1 fleshlightcash.com
 127.0.0.1 flex.atdmt.com
+127.0.0.1 flex.comonwealthplc.com
 127.0.0.1 flex.msn.com
 127.0.0.1 flexbanner.com
 127.0.0.1 flexbeta.us.intellitxt.com
@@ -46826,6 +46827,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kiwifarms.net
 127.0.0.1 kixer.com
 127.0.0.1 kizash.com
+127.0.0.1 kjkdndskjl.info
 127.0.0.1 kjolj.voluumtrk.com
 127.0.0.1 kjos.vo.llnwd.net
 127.0.0.1 kjswp.voluumtrk.com
