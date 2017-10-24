@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76297 ad serving and malware domains.
+# Currently blocking 76300 ad serving and malware domains.
 #
-# Date Generated: Oct 23 2017
+# Date Generated: Oct 24 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26838,6 +26838,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 apple.com--------scanner.bid
 127.0.0.1 apple.com------support.host
 127.0.0.1 apple.com-----scanner.club
+127.0.0.1 apple.com-analysis-safety-antimalware-support.accountant
 127.0.0.1 apple.com-internet-security-review.info
 127.0.0.1 apple.com-internet-security-review.review
 127.0.0.1 apple.com-onlinesupport.host
@@ -38903,6 +38904,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dkdwv3lcby5zi.cloudfront.net
 127.0.0.1 dkj2m377b0yzw.cloudfront.net
 127.0.0.1 dkonline.ivwbox.de
+127.0.0.1 dkspqpprnsmmte.com
 127.0.0.1 dl-plugin.com
 127.0.0.1 dl.adshooter.com
 127.0.0.1 dl.alphagirlz.mobi
@@ -54745,6 +54747,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 promo.awempire.com
 127.0.0.1 promo.badoink.com
 127.0.0.1 promo.begun.ru
+127.0.0.1 promo.betcity.net
 127.0.0.1 promo.blackcrush.com
 127.0.0.1 promo.bluesq.com
 127.0.0.1 promo.bongacash.com
