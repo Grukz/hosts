@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76300 ad serving and malware domains.
+# Currently blocking 76305 ad serving and malware domains.
 #
-# Date Generated: Oct 24 2017
+# Date Generated: Oct 25 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -17048,6 +17048,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad2.trafficgate.net
 127.0.0.1 ad2.turn.com
 127.0.0.1 ad2.vuiads.net
+127.0.0.1 ad2.xrea.com
 127.0.0.1 ad2.yam.com
 127.0.0.1 ad2.yam.com.tw
 127.0.0.1 ad2.zapmedya.com
@@ -17561,6 +17562,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad3.sbs.co.kr
 127.0.0.1 ad3.sina.com.cn
 127.0.0.1 ad3.speedbit.com
+127.0.0.1 ad3.xrea.com
 127.0.0.1 ad30.checkm8.com
 127.0.0.1 ad30.ezcybersearch.com
 127.0.0.1 ad30.hpg.com.br
@@ -18796,6 +18798,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 adforce.ru
 127.0.0.1 adforgames.com
 127.0.0.1 adform.com
+127.0.0.1 adform.net
+127.0.0.1 adformdsp.net
 127.0.0.1 adfornepal.com
 127.0.0.1 adfox.ru
 127.0.0.1 adfpaces.ero-advertising.com
@@ -45776,6 +45780,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 invites.infoaxe.net
 127.0.0.1 inze5.voluumtrk.com
 127.0.0.1 ioads.ero-advertising.com
+127.0.0.1 ioam.de
 127.0.0.1 iocdn.coremetrics.com
 127.0.0.1 ioit.iovation.com
 127.0.0.1 ionamin.1.p2l.info
@@ -45968,6 +45973,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ivw.dumontreise.de
 127.0.0.1 ivw.fem.com
 127.0.0.1 ivw.rtl.de
+127.0.0.1 ivwbox.de
 127.0.0.1 ivwextern.prosieben.de
 127.0.0.1 ivwextern.sat1.de
 127.0.0.1 ivykiosk.com
@@ -75779,7 +75785,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 xq1.net
 127.0.0.1 xr.h4ck.la
 127.0.0.1 xratedtracking.com
-127.0.0.1 xrea.com
 127.0.0.1 xrenoder.com
 127.0.0.1 xrevtrk.com
 127.0.0.1 xs.mochiads.com
