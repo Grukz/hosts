@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76305 ad serving and malware domains.
+# Currently blocking 76307 ad serving and malware domains.
 #
-# Date Generated: Oct 25 2017
+# Date Generated: Oct 26 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26849,6 +26849,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 apple.com-onlinesupport.site
 127.0.0.1 apple.com-safetyalert.com
 127.0.0.1 apple.com-scan-virus-detected.com
+127.0.0.1 apple.com-security-desktop-antimalware-support.download
 127.0.0.1 apple.com-store.me
 127.0.0.1 apple.com-supportcenter.pro
 127.0.0.1 apple.com-supportcenter.website
@@ -41220,6 +41221,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 filter.adxfactory.com
 127.0.0.1 filter.bluemediappc.com
 127.0.0.1 filter.eclickz.com
+127.0.0.1 filter.mediacpc.com
 127.0.0.1 filter.online-adnetwork.com
 127.0.0.1 filter.onwardclick.com
 127.0.0.1 filtertest.2cnt.net
