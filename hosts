@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76307 ad serving and malware domains.
+# Currently blocking 76319 ad serving and malware domains.
 #
-# Date Generated: Oct 26 2017
+# Date Generated: Oct 27 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1591,6 +1591,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 4see.mobi
 127.0.0.1 4seeresults.com
 127.0.0.1 4spp2.voluumtrk.com
+127.0.0.1 4th3d48.com
 127.0.0.1 4thegame.uk.intellitxt.com
 127.0.0.1 4ur.click
 127.0.0.1 4uxl.go2cloud.org
@@ -2938,6 +2939,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 acknowing.com
 127.0.0.1 aclasscelebs.us.intellitxt.com
 127.0.0.1 aclick.adhoc1.net
+127.0.0.1 aclick.adhoc2.net
 127.0.0.1 aclickads.com
 127.0.0.1 acme.bfast.com
 127.0.0.1 acmeaffiliate.go2cloud.org
@@ -26799,6 +26801,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 app.yieldify.com
 127.0.0.1 app1.letitbefaster.life
 127.0.0.1 app1.letitbefaster.website
+127.0.0.1 app1.letmacworkfaster.site
 127.0.0.1 app2.letitbefaster.life
 127.0.0.1 app2.letitbefaster.website
 127.0.0.1 app2.letmacwork.world
@@ -29321,6 +29324,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 best-tube-portal.net
 127.0.0.1 best-video-2008.com
 127.0.0.1 best100catfights.com
+127.0.0.1 best2017games.com
 127.0.0.1 bestadbid.com
 127.0.0.1 bestadmedia.com
 127.0.0.1 bestaffiliates.go2cloud.org
@@ -35741,6 +35745,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cookie.fdih.dk
 127.0.0.1 cookie.monster.com
 127.0.0.1 cookie.pebblemedia.be
+127.0.0.1 cookieanalyze.info
 127.0.0.1 cookiecontainer.blox.pl
 127.0.0.1 cookies.cmpnet.com
 127.0.0.1 cookies.reedbusiness.nl
@@ -38402,6 +38407,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 decografix.com
 127.0.0.1 decorator.crabgrab.cl
 127.0.0.1 decota.es
+127.0.0.1 decouvre.la
 127.0.0.1 decrolyschool.be
 127.0.0.1 ded.gostats.com
 127.0.0.1 dedicatedads.go2cloud.org
@@ -44248,7 +44254,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 honarkhaneh.net
 127.0.0.1 hondahookup.us.intellitxt.com
 127.0.0.1 honestme.com.ua
-127.0.0.1 honeybadger.io
 127.0.0.1 hongkiat.us.intellitxt.com
 127.0.0.1 hongkongdisneyland-com.b.appier.net
 127.0.0.1 honolulu.app.ur.gcion.com
@@ -46414,7 +46419,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 js.geoads.com
 127.0.0.1 js.goods.redtram.com
 127.0.0.1 js.himediads.com
-127.0.0.1 js.honeybadger.io
 127.0.0.1 js.hotkeys.com
 127.0.0.1 js.hotlog.ru
 127.0.0.1 js.hs-analytics.net
@@ -46834,7 +46838,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 kitchen-island.mensk.us
 127.0.0.1 kithrup.matchlogic.com
 127.0.0.1 kitsjim.com
-127.0.0.1 kiwifarms.net
 127.0.0.1 kixer.com
 127.0.0.1 kizash.com
 127.0.0.1 kjkdndskjl.info
@@ -47327,6 +47330,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 liczniki.org
 127.0.0.1 lidl.adspirit.de
 127.0.0.1 lidlretargeting.adspirit.de
+127.0.0.1 lie2anyone.com
 127.0.0.1 life-in-travels.justclick.ru
 127.0.0.1 life.imagepix.org
 127.0.0.1 lifeisgoodwhenu2.info
@@ -53871,6 +53875,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 photos6.pop6.com
 127.0.0.1 photos7.pop6.com
 127.0.0.1 photos8.pop6.com
+127.0.0.1 photoscape.ch
 127.0.0.1 photoshop-master.org
 127.0.0.1 phox2ey.bid
 127.0.0.1 php-mag.de.intellitxt.com
@@ -54576,6 +54581,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 prefix.hit.gemius.pl
 127.0.0.1 preisver.ivwbox.de
 127.0.0.1 preland.softmonetize.com
+127.0.0.1 preligions.com
 127.0.0.1 premiercreditcard.com
 127.0.0.1 premios.go2cloud.org
 127.0.0.1 premium-live-scan.com
@@ -55947,6 +55953,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 register.inner-active.mobi
 127.0.0.1 register.leadbolt.com
 127.0.0.1 register.screensaver.com
+127.0.0.1 register.silverscreen.cc
 127.0.0.1 registercom.122.2o7.net
 127.0.0.1 registerdrivegoogle.sytes.net
 127.0.0.1 registration.livejasmin.com
@@ -64135,6 +64142,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 usatravel-specials.net
 127.0.0.1 usbanners.com
 127.0.0.1 usd.bravo-dog.com
+127.0.0.1 usd.sierra-boa.com
 127.0.0.1 usdm.122.2o7.net
 127.0.0.1 usdtop.58.com
 127.0.0.1 use-tor.adsrvr.org
@@ -71281,6 +71289,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.deepcom.com
 127.0.0.1 www.deepmetrix.com
 127.0.0.1 www.default-homepage-network.com
+127.0.0.1 www.defaultinternet.com
 127.0.0.1 www.definitelyfind.com
 127.0.0.1 www.deirdre-dahl.us
 127.0.0.1 www.del-marine.com
@@ -72415,6 +72424,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.iws.ro
 127.0.0.1 www.iwstats.com
 127.0.0.1 www.iyfnzgb.com
+127.0.0.1 www.izalingi.com
 127.0.0.1 www.j94kp2o.com
 127.0.0.1 www.jade-aultman.us
 127.0.0.1 www.jadina-counter.de
@@ -74798,6 +74808,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.vertourmer.com
 127.0.0.1 www.veruta.com
 127.0.0.1 www.veryfastsearch.com
+127.0.0.1 www.verypositiveus.com
 127.0.0.1 www.via22.net
 127.0.0.1 www.via99.org
 127.0.0.1 www.viagra-home.com
@@ -75463,6 +75474,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www5.paypopup.com
 127.0.0.1 www5.smartadserver.com
 127.0.0.1 www5.yesadvertising.com
+127.0.0.1 www5.zoosi.club
 127.0.0.1 www6.ad.tomshardware.com
 127.0.0.1 www6.addfreestats.com
 127.0.0.1 www6.bannerspace.com
