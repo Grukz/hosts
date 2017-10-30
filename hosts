@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76311 ad serving and malware domains.
+# Currently blocking 76330 ad serving and malware domains.
 #
-# Date Generated: Oct 29 2017
+# Date Generated: Oct 30 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18648,6 +18648,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adexchangegate.com
 127.0.0.1 adexchangeperformance.com
 127.0.0.1 adexchangeprediction.com
+127.0.0.1 adexchangetracker.com
 127.0.0.1 adexcite.com
 127.0.0.1 adexit.com
 127.0.0.1 adexit.de
@@ -26817,6 +26818,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 app4.letslowbefast.life
 127.0.0.1 app4.letslowbefast.site
 127.0.0.1 app4.letslowbefast.today
+127.0.0.1 app4com.bestgrade4update.trade
 127.0.0.1 app4us.info
 127.0.0.1 app5.letitbefaster.life
 127.0.0.1 app5.letitbefaster.website
@@ -32549,6 +32551,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 buyviagra.polybuild.ru
 127.0.0.1 buyvicodinonline.veryweird.com
 127.0.0.1 buzz.igg.com
+127.0.0.1 buzzadnetwork.com
 127.0.0.1 buzzbox.buzzfeed.com
 127.0.0.1 buzzfeed.d1.sc.omtrdc.net
 127.0.0.1 buzzfoto.us.intellitxt.com
@@ -38608,6 +38611,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 deskwizz.com
 127.0.0.1 deskwww.s3.amazonaws.com
 127.0.0.1 destre45.com
+127.0.0.1 destricso.com
 127.0.0.1 destructoid.us.intellitxt.com
 127.0.0.1 desv383oqqc0.cloudfront.net
 127.0.0.1 deta.ero-advertising.com
@@ -38762,6 +38766,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 digital4adro.hit.gemius.pl
 127.0.0.1 digital4ro.adocean.pl
 127.0.0.1 digitaladvisor.go2cloud.org
+127.0.0.1 digitaldsp.com
 127.0.0.1 digitalfernsehen.de.intellitxt.com
 127.0.0.1 digitalfirst-d.openx.net
 127.0.0.1 digitalhome.us.intellitxt.com
@@ -39618,6 +39623,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 e46fa8d94b17745ac277-ae524ab82d83e9108c081b44b53c4ff2.r94.cf2.rackcdn.com
 127.0.0.1 e4sa0.voluumtrk.com
 127.0.0.1 e64cf.voluumtrk.com
+127.0.0.1 e85440ec98f04725.com
 127.0.0.1 e89.friendfinder.com
 127.0.0.1 e8obj.voluumtrk.com
 127.0.0.1 e97527f0.se
@@ -41183,6 +41189,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 figlobal.112.2o7.net
 127.0.0.1 fiksu.com
 127.0.0.1 filament-stats.herokuapp.com
+127.0.0.1 file-error-09x38.gq
 127.0.0.1 file.adgatemedia.com
 127.0.0.1 file.ipinyou.com.cn
 127.0.0.1 file00.dus.local.vmsn.de
@@ -47121,6 +47128,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 latency.ttrraacckkrr.com
 127.0.0.1 latest-369538.ahtamsu.ru
 127.0.0.1 latest-460050.ebeda.info
+127.0.0.1 latest-461069.dochyedu.info
 127.0.0.1 latestsearch.website
 127.0.0.1 latin3.directtrack.com
 127.0.0.1 latinoreview.us.intellitxt.com
@@ -48263,6 +48271,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 m.friendlyduck.com
 127.0.0.1 m.leadbolt.com
 127.0.0.1 m.livejasmin.com
+127.0.0.1 m.loading-content.net
 127.0.0.1 m.matdm.com
 127.0.0.1 m.millennialmedia.com
 127.0.0.1 m.mirmay.com
@@ -52571,6 +52580,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 onclickads.net
 127.0.0.1 onclickads2.net
 127.0.0.1 onclickmax.com
+127.0.0.1 onclickprediction.com
 127.0.0.1 onclickrev.com
 127.0.0.1 onclkds.com
 127.0.0.1 one-time-offer.com
@@ -54569,6 +54579,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 precisionleads.go2cloud.org
 127.0.0.1 precisionpop.com
 127.0.0.1 predictad.com
+127.0.0.1 predictiondisplay.com
+127.0.0.1 predictivadnetwork.com
 127.0.0.1 predictivadvertising.com
 127.0.0.1 predictivenetworks.com
 127.0.0.1 predictivesearch.com
@@ -61596,6 +61608,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 this.content.served.by.adshuffle.com.12408.9035.302br.net
 127.0.0.1 this.content.served.by.adshuffle.com.12417.9035.302br.net
 127.0.0.1 thisbanner.com
+127.0.0.1 thisclickisforyou.com
 127.0.0.1 thisteddagblad.dk
 127.0.0.1 thomasvillefurniture.122.2o7.net
 127.0.0.1 thome.112.2o7.net
@@ -62866,6 +62879,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracking.veoxa.com
 127.0.0.1 tracking.vindicosuite.com
 127.0.0.1 tracking.voltagesearch.com
+127.0.0.1 tracking.w2mobile.com
 127.0.0.1 tracking.waterfrontmedia.com
 127.0.0.1 tracking.we7.com
 127.0.0.1 tracking.websitealive.com
@@ -63420,6 +63434,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tweets.kissmetrics.com
 127.0.0.1 tweetsoup.us.intellitxt.com
 127.0.0.1 twiant.com
+127.0.0.1 twilightdata.com
 127.0.0.1 twinedigital.go2cloud.org
 127.0.0.1 twitchguru.us.intellitxt.com
 127.0.0.1 twitchtv.ivwbox.de
@@ -72618,6 +72633,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.larivieracasino.com
 127.0.0.1 www.lasthr.info
 127.0.0.1 www.latest-460050.ebeda.info
+127.0.0.1 www.latest-461069.dochyedu.info
 127.0.0.1 www.laugh-mail.com
 127.0.0.1 www.laugh-mail.net
 127.0.0.1 www.launch1.co
@@ -72810,6 +72826,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.lzjl.com
 127.0.0.1 www.lzxrz.net
 127.0.0.1 www.m-barati.de
+127.0.0.1 www.m.loading-content.net
 127.0.0.1 www.mac.com-w.net
 127.0.0.1 www.macaddictads.snv.futurenet.nl
 127.0.0.1 www.macaheadapps.com
@@ -73586,6 +73603,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.postmasterdirect.com
 127.0.0.1 www.postnewsads.com
 127.0.0.1 www.power-cleaner.com
+127.0.0.1 www.poweredbyliquidfire.mobi
 127.0.0.1 www.powerlinks.com
 127.0.0.1 www.poxudeli.ru
 127.0.0.1 www.ppcindo.com
@@ -74591,6 +74609,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.trackhost.com
 127.0.0.1 www.trackimpression.com
 127.0.0.1 www.tracking.mobitracker.info
+127.0.0.1 www.tracking.w2mobile.com
 127.0.0.1 www.tracking999.com
 127.0.0.1 www.trackingbin.com
 127.0.0.1 www.trackingclick.net
