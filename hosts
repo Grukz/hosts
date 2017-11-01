@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76330 ad serving and malware domains.
+# Currently blocking 76332 ad serving and malware domains.
 #
-# Date Generated: Oct 31 2017
+# Date Generated: Nov 01 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -597,6 +597,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 178.6.87.194.dynamic.dol.ru
 127.0.0.1 179.6.87.194.dynamic.dol.ru
 127.0.0.1 17b4-7817-18f7-3abd.reporo.net
+127.0.0.1 17k.originalsafteyredir.com
 127.0.0.1 17money.com
 127.0.0.1 17oez.voluumtrk.com
 127.0.0.1 18.6.87.194.dynamic.dol.ru
@@ -69696,6 +69697,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.12place.com
 127.0.0.1 www.1414.de
 127.0.0.1 www.160tracker.com
+127.0.0.1 www.17k.originalsafteyredir.com
 127.0.0.1 www.1800banners.com
 127.0.0.1 www.180searchassistant.com
 127.0.0.1 www.18access.com
