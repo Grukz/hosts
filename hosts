@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76337 ad serving and malware domains.
+# Currently blocking 76353 ad serving and malware domains.
 #
-# Date Generated: Nov 05 2017
+# Date Generated: Nov 06 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2160,6 +2160,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a-fast.com
 127.0.0.1 a-maze.com
 127.0.0.1 a-msedge.net
+127.0.0.1 a-nj.1rx.io
 127.0.0.1 a-scrip.org
 127.0.0.1 a-search.biz
 127.0.0.1 a-ssl.ligatus.com
@@ -2487,6 +2488,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.plapre.no
 127.0.0.1 a.pokerplayermagazine.co.uk
 127.0.0.1 a.postrelease.com
+127.0.0.1 a.predictvideo.com
 127.0.0.1 a.press24.mk
 127.0.0.1 a.prisacom.com
 127.0.0.1 a.raasnet.com
@@ -2806,6 +2808,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 abosearch.com
 127.0.0.1 abotv.com
 127.0.0.1 abou.com
+127.0.0.1 abourselfi.com
 127.0.0.1 about-sexy.com
 127.0.0.1 about.com
 127.0.0.1 about.elicitapp.com
@@ -26331,6 +26334,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 anon.doubleclick.speedera.net
 127.0.0.1 anonymizer.com
 127.0.0.1 anonymousads.com
+127.0.0.1 anonymousdemographics.com
 127.0.0.1 anonymousstats.keefox.org
 127.0.0.1 anonymoussurfing.net
 127.0.0.1 anorak.uk.intellitxt.com
@@ -26805,15 +26809,18 @@ ff02::2 ip6-allrouters
 127.0.0.1 app1.letitbefaster.life
 127.0.0.1 app1.letitbefaster.website
 127.0.0.1 app1.letmacworkfaster.site
+127.0.0.1 app1.letslowbefast.site
 127.0.0.1 app2.letitbefaster.life
 127.0.0.1 app2.letitbefaster.website
 127.0.0.1 app2.letmacwork.world
 127.0.0.1 app2.letslowbefast.life
+127.0.0.1 app2.letslowbefast.site
 127.0.0.1 app2.salesmanago.pl
 127.0.0.1 app2.vinsight.de
 127.0.0.1 app3.letitbefaster.life
 127.0.0.1 app3.letitbefaster.website
 127.0.0.1 app3.letmacwork.world
+127.0.0.1 app3.letslowbefast.site
 127.0.0.1 app3.rutarget.ru
 127.0.0.1 app3.vinsight.de
 127.0.0.1 app4.letitbefaster.life
@@ -26825,6 +26832,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 app4us.info
 127.0.0.1 app5.letitbefaster.life
 127.0.0.1 app5.letitbefaster.website
+127.0.0.1 app5.letslowbefast.site
 127.0.0.1 appads.com
 127.0.0.1 appapi.inspsearchapi.com
 127.0.0.1 apparel-offer.com
@@ -29339,6 +29347,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bestdigitalrewards.com
 127.0.0.1 bestdove.in.ua
 127.0.0.1 bestestporn.com
+127.0.0.1 bestframingnailerreview.com
 127.0.0.1 bestfwdservice.com
 127.0.0.1 bestga.biz
 127.0.0.1 bestgift4you.cn
@@ -34290,6 +34299,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cheatingdome.us.intellitxt.com
 127.0.0.1 check.goodroundtoupdates.date
 127.0.0.1 check.tamobi.net
+127.0.0.1 check.thealwaysnewandfreeupdating.stream
 127.0.0.1 checker.admitad.com
 127.0.0.1 checker.cityads.com
 127.0.0.1 checker.cityads.com.br
@@ -35736,6 +35746,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 conversions.rts.doublepimp.com
 127.0.0.1 convertglobal.s3.amazonaws.com
 127.0.0.1 convertro.com
+127.0.0.1 convnjmp.basebanner.com
 127.0.0.1 convoad.technoratimedia.com.21929.9047.302br.net
 127.0.0.1 convoad.technoratimedia.com.22787.9068.302br.net
 127.0.0.1 convoad.technoratimedia.com.22788.9068.302br.net
@@ -47290,6 +47301,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 letmefind.co
 127.0.0.1 letsfinder.com
 127.0.0.1 letsgodigital.uk.intellitxt.com
+127.0.0.1 letslowbefast.site
 127.0.0.1 letsrun.us.intellitxt.com
 127.0.0.1 letssearch.com
 127.0.0.1 lettre.research-int.fr
@@ -49537,6 +49549,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 messagent.duvalguillaume.com
 127.0.0.1 messagent.sanomadigital.nl
 127.0.0.1 messagia.adcentric.proximi-t.com
+127.0.0.1 messardu.com
 127.0.0.1 mesterads.com
 127.0.0.1 mesurer.ovh
 127.0.0.1 met.adwhirl.com
@@ -56695,6 +56708,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rytj3.voluumtrk.com
 127.0.0.1 ryuitaqw.pw
 127.0.0.1 rzr.tractionize.com
+127.0.0.1 s-39.predictvideo.com
 127.0.0.1 s-adserver.cxad.cxense.com
 127.0.0.1 s-adserver.sandbox.cxad.cxense.com
 127.0.0.1 s-assets.tp-cdn.com
@@ -60603,6 +60617,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sync.apnx.zenoviaexchange.com
 127.0.0.1 sync.atomex.net
 127.0.0.1 sync.audtd.com
+127.0.0.1 sync.bfmio.com
 127.0.0.1 sync.cmedia.s3.amazonaws.com
 127.0.0.1 sync.credebat.com
 127.0.0.1 sync.darikweb.com
@@ -62969,6 +62984,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 traffic.acwebconnecting.com
 127.0.0.1 traffic.adwitty.com
 127.0.0.1 traffic.adxprts.com
+127.0.0.1 traffic.adxprtz.com
 127.0.0.1 traffic.alexa.com
 127.0.0.1 traffic.bannerator.com
 127.0.0.1 traffic.bokecc.com
