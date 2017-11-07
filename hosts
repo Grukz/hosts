@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76353 ad serving and malware domains.
+# Currently blocking 76357 ad serving and malware domains.
 #
-# Date Generated: Nov 06 2017
+# Date Generated: Nov 07 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -51329,6 +51329,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 newbe122.homestead.com
 127.0.0.1 newbestsellers.justclick.ru
 127.0.0.1 newbie.com
+127.0.0.1 newbritmoneymethod.com
 127.0.0.1 newbrowse.livehelper.com
 127.0.0.1 newbs.hutz.co.il
 127.0.0.1 newbuzz-collection-1925855828.us-east-1.elb.amazonaws.com
@@ -58536,6 +58537,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sl-retargeting.adsonar.com
 127.0.0.1 sl3tsw6.com
 127.0.0.1 slanted.excelonlinereader.services
+127.0.0.1 slap.alliancekl.com
 127.0.0.1 slashfilm.us.intellitxt.com
 127.0.0.1 slashphone.us.intellitxt.com
 127.0.0.1 slate-ad-scripts.s3.amazonaws.com
@@ -60428,6 +60430,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 supercars.us.intellitxt.com
 127.0.0.1 superclix.de
 127.0.0.1 superegler.net
+127.0.0.1 superfastcdn.com
 127.0.0.1 superfastsservers.com
 127.0.0.1 superficial.crwdcntrl.net
 127.0.0.1 superficialsink.com
@@ -64421,6 +64424,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 veille-referencement.com
 127.0.0.1 veksi.barginginfrance.net
 127.0.0.1 velismedia.go2cloud.org
+127.0.0.1 velocecdn.com
 127.0.0.1 velocity.go2cloud.org
 127.0.0.1 velti.com
 127.0.0.1 vemna.go2cloud.org
