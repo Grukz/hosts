@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76357 ad serving and malware domains.
+# Currently blocking 76362 ad serving and malware domains.
 #
-# Date Generated: Nov 07 2017
+# Date Generated: Nov 08 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1161,6 +1161,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 2449650414.log.optimizely.com
 127.0.0.1 245.bitterstrawberry.com
 127.0.0.1 2463678.fls.doubleclick.net
+127.0.0.1 2468.go2cloud.org
 127.0.0.1 247-host.com
 127.0.0.1 24725.hittail.com
 127.0.0.1 247590.r.axf8.net
@@ -17530,6 +17531,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad2digital.checkm8.com
 127.0.0.1 ad2flash.com
 127.0.0.1 ad2games.com
+127.0.0.1 ad2games.com.invalid
 127.0.0.1 ad2m.adk2.co
 127.0.0.1 ad2play.ftv-publicite.fr
 127.0.0.1 ad2up.com
@@ -19376,6 +19378,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adparlor.com
 127.0.0.1 adpath.mobi
 127.0.0.1 adpay.com
+127.0.0.1 adpenguin.biz
 127.0.0.1 adpepper.com
 127.0.0.1 adpepper.dk
 127.0.0.1 adpepper.nl
@@ -26333,6 +26336,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 anomaly.realgravity.com
 127.0.0.1 anon.doubleclick.speedera.net
 127.0.0.1 anonymizer.com
+127.0.0.1 anonymous-net.com
 127.0.0.1 anonymousads.com
 127.0.0.1 anonymousdemographics.com
 127.0.0.1 anonymousstats.keefox.org
@@ -54872,6 +54876,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 prosieben01.webtrekk.net
 127.0.0.1 prosperent.com
 127.0.0.1 protect-x.com
+127.0.0.1 protect-your-privacy.net
 127.0.0.1 protection.ALpolice.com
 127.0.0.1 protection.ASpolice.com
 127.0.0.1 protection.AUpolice.com
