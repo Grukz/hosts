@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76356 ad serving and malware domains.
+# Currently blocking 76359 ad serving and malware domains.
 #
-# Date Generated: Nov 12 2017
+# Date Generated: Nov 13 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1819,6 +1819,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 71.6.87.194.dynamic.dol.ru
 127.0.0.1 71158.hittail.com
 127.0.0.1 718unlimited.com
+127.0.0.1 71aa8ed2ff1c8f.com
 127.0.0.1 71i.nuggad.net
 127.0.0.1 72.6.87.194.dynamic.dol.ru
 127.0.0.1 72.view.atdmt.com.303.6000.302br.net
@@ -53994,6 +53995,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pinktrkn.com
 127.0.0.1 pinoy-topsites.com
 127.0.0.1 pipedream.wistia.com
+127.0.0.1 pipeschannels.com
 127.0.0.1 piranho.com
 127.0.0.1 piranho.de
 127.0.0.1 piratinviaggio.digidip.net
@@ -75819,6 +75821,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 xobor.miranus.com
 127.0.0.1 xonio.ivwbox.de
 127.0.0.1 xoomer.alice.it
+127.0.0.1 xoredi.com
 127.0.0.1 xorgwebs.webs.com
 127.0.0.1 xotsa.frenchgerlemanelectric.com
 127.0.0.1 xp1.zedo.com
