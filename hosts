@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76359 ad serving and malware domains.
+# Currently blocking 76384 ad serving and malware domains.
 #
-# Date Generated: Nov 13 2017
+# Date Generated: Nov 14 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2200,6 +2200,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.androidandme.com
 127.0.0.1 a.answers.com
 127.0.0.1 a.applovin.com
+127.0.0.1 a.applvn.com
 127.0.0.1 a.aproductmsg.com
 127.0.0.1 a.as-eu.falkag.net
 127.0.0.1 a.as-us.falkag.net
@@ -24265,6 +24266,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adv.netinfo.bg
 127.0.0.1 adv.neto.net.il
 127.0.0.1 adv.netshelter.net
+127.0.0.1 adv.nexthardware.com
 127.0.0.1 adv.noblepoker.com
 127.0.0.1 adv.novinar.bg
 127.0.0.1 adv.p2pbg.com
@@ -27214,6 +27216,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 assets-polarb-com.a.ssl.fastly.net
 127.0.0.1 assets.adobedtm.com
 127.0.0.1 assets.adtaily.com
+127.0.0.1 assets.applovin.com
 127.0.0.1 assets.bravenet.com
 127.0.0.1 assets.buysellads.com
 127.0.0.1 assets.cntdy.mobi
@@ -37453,6 +37456,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 crochet.ovh
 127.0.0.1 croix.science
 127.0.0.1 crops.dunight.eu
+127.0.0.1 crossout.net
 127.0.0.1 crosspixel.demdex.net
 127.0.0.1 crosspromotion.ubi.com
 127.0.0.1 crowdcontrol.lotame.com
@@ -39571,6 +39575,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 e.analytics.yahoo.com
 127.0.0.1 e.as-eu.falkag.net
 127.0.0.1 e.baidu.com
+127.0.0.1 e.crashlytics.com
 127.0.0.1 e.digitalnectar.co.uk
 127.0.0.1 e.domob.cn
 127.0.0.1 e.dtscout.com
@@ -39755,6 +39760,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ec2-54-225-149-4.compute-1.amazonaws.com
 127.0.0.1 ec2-54-235-183-132.compute-1.amazonaws.com
 127.0.0.1 ec90-e3eb-7fb8-2a1c.reporo.net
+127.0.0.1 ecadutaro.yadozalamom.pw
 127.0.0.1 ecanadanow.us.intellitxt.com
 127.0.0.1 ecard4all.com
 127.0.0.1 ecb.onejumpwebinc.netdna-cdn.com
@@ -42728,6 +42734,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 genericshotsale.com
 127.0.0.1 genetree.112.2o7.net
 127.0.0.1 genhit.com
+127.0.0.1 geniusdisplay.com
 127.0.0.1 genmay.us.intellitxt.com
 127.0.0.1 genorithm.com
 127.0.0.1 genteatsss.com
@@ -43400,6 +43407,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gotphaze.com
 127.0.0.1 gottabemobile.us.intellitxt.com
 127.0.0.1 gourmetgiftbaskets.112.2o7.net
+127.0.0.1 govahoyuge.itup.pw
 127.0.0.1 goviral.com
 127.0.0.1 goviralnetwork.com
 127.0.0.1 goviralnetwork.net
@@ -44761,6 +44769,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ibanners.empoweredcomms.com.au
 127.0.0.1 ibannerx.com
 127.0.0.1 ibario.com
+127.0.0.1 ibaveh.yadozalamom.pw
 127.0.0.1 ibeat.indiatimes.com
 127.0.0.1 ibeu2.mookie1.com
 127.0.0.1 ibg.hitbox.com
@@ -46347,6 +46356,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 johnlewis.112.2o7.net
 127.0.0.1 johnluis33.tk
 127.0.0.1 joigd.voluumtrk.com
+127.0.0.1 join.pro-gaming-world.com
 127.0.0.1 join.whitegfs.com
 127.0.0.1 join1.winhundred.com
 127.0.0.1 join2.winhundred.com
@@ -48218,6 +48228,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 luycos.com
 127.0.0.1 lv.adocean.pl
 127.0.0.1 lv.hit.gemius.pl
+127.0.0.1 lvbet.pl
 127.0.0.1 lvler.voluumtrk.com
 127.0.0.1 lvs.truehits.in.th
 127.0.0.1 lvtxg.voluumtrk.com
@@ -50097,6 +50108,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 misti-smythe.us
 127.0.0.1 misti-weigel.us
 127.0.0.1 mitel.marketbright.com
+127.0.0.1 mitobeb.yadozalamom.pw
 127.0.0.1 mitsubishi.112.2o7.net
 127.0.0.1 mix-test.uts.ngdata.com
 127.0.0.1 mixadvert.com
@@ -50165,6 +50177,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mmismm.com
 127.0.0.1 mmm.vindy.com
 127.0.0.1 mmnetwork.mobi
+127.0.0.1 mmofreegames.online
 127.0.0.1 mmotraffic.com
 127.0.0.1 mmpstats.mirror-image.com
 127.0.0.1 mmptrack.com
@@ -52033,6 +52046,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 oasc18.247realmedia.com
 127.0.0.1 oasc18005.247realmedia.com
 127.0.0.1 oasc18015.247realmedia.com
+127.0.0.1 oasc18065.247realmedia.com
 127.0.0.1 oascenral.phoenixnewtimes.com
 127.0.0.1 oascentral.123greetings.com
 127.0.0.1 oascentral.abclocal.go.com
@@ -54720,6 +54734,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 probux.com
 127.0.0.1 prochina.work
 127.0.0.1 procinema.2cnt.net
+127.0.0.1 prod-a.applovin.com
 127.0.0.1 prod-d.openx.com
 127.0.0.1 prod-e.sprtad.com
 127.0.0.1 prod-js.aws.y-track.com
@@ -54819,6 +54834,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 promo.passioncams.com
 127.0.0.1 promo.pegcweb.com
 127.0.0.1 promo.pimproll.com
+127.0.0.1 promo.profxbrokers.com
 127.0.0.1 promo.selbstaendig20.12227.digistore24.com
 127.0.0.1 promo.sensationalcash.com
 127.0.0.1 promo.streaming-illimite.net
@@ -54837,6 +54853,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 promobenef.com
 127.0.0.1 promolnk.com
 127.0.0.1 promos.adlead.com
+127.0.0.1 promos.bwin.it
 127.0.0.1 promos.camsoda.com
 127.0.0.1 promos.fling.com
 127.0.0.1 promos.gpniches.com
@@ -56113,6 +56130,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 reportimage.adtech.de
 127.0.0.1 reportimage.adtech.fr
 127.0.0.1 reportimage.adtech.us
+127.0.0.1 reporting.aatkit.com
 127.0.0.1 reporting.cpxinteractive.com
 127.0.0.1 reporting.eu-survey.com
 127.0.0.1 reporting.flymonarch.com
@@ -56135,6 +56153,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 reports.superfish.com
 127.0.0.1 reports.wes.df.telemetry.microsoft.com
 127.0.0.1 reports.zedo.com
+127.0.0.1 repostuj.push-ad.com
 127.0.0.1 reprox01.dus.local.vmsn.de
 127.0.0.1 republer.com
 127.0.0.1 republika.onet.pl
@@ -56153,6 +56172,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 res.adplus.co.id
 127.0.0.1 res.lazyswipe.com
 127.0.0.1 res.levexis.com
+127.0.0.1 res1.applovin.com
 127.0.0.1 res3.feedsportal.com
 127.0.0.1 resanium.com
 127.0.0.1 research-artisan.com
@@ -57659,6 +57679,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 secimage.adtech.fr
 127.0.0.1 secimage.adtech.us
 127.0.0.1 secoptim.com
+127.0.0.1 secret.ɢoogle.com
 127.0.0.1 secretgrowth-00866.us
 127.0.0.1 secretgrowth-12198.us
 127.0.0.1 secretgrowth-53664.us
@@ -59878,6 +59899,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stats.airfarewatchdog.com
 127.0.0.1 stats.allliquid.com
 127.0.0.1 stats.applifier.com
+127.0.0.1 stats.appsflyer.com
 127.0.0.1 stats.appsgeyser.com
 127.0.0.1 stats.apptornado.com
 127.0.0.1 stats.ars4real.com
@@ -62652,6 +62674,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracking.3com.com
 127.0.0.1 tracking.45-fe6b6-aah.co.uk
 127.0.0.1 tracking.4v4jfe79erfxfu8z8.com
+127.0.0.1 tracking.aatkit.com
 127.0.0.1 tracking.absolstats.com
 127.0.0.1 tracking.actionads.ru
 127.0.0.1 tracking.adalyser.com
@@ -63940,6 +63963,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ultram.1.p2l.info
 127.0.0.1 ultramercial.com
 127.0.0.1 ultraministry.xyz
+127.0.0.1 ultramole.xyz
 127.0.0.1 ultrasponsor.com
 127.0.0.1 ultsearch.com
 127.0.0.1 um-per.com
@@ -76373,3 +76397,4 @@ ff02::2 ip6-allrouters
 127.0.0.1 zz.cqcounter.com
 127.0.0.1 zz.zeroredirect1.com
 127.0.0.1 zzz.clickbank.net
+127.0.0.1 ɢoogle.com
