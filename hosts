@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76385 ad serving and malware domains.
+# Currently blocking 76383 ad serving and malware domains.
 #
-# Date Generated: Nov 15 2017
+# Date Generated: Nov 16 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -58915,7 +58915,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 soma.3xforum.ro
 127.0.0.1 soma.smaato.net
 127.0.0.1 somanyhits.info
-127.0.0.1 someonewhocares.com
 127.0.0.1 somethingawful.crwdcntrl.net
 127.0.0.1 somethingawful.us.intellitxt.com
 127.0.0.1 somethingnice.hc0.me
@@ -74265,7 +74264,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.software-hq.net
 127.0.0.1 www.software4yoursuccess.com
 127.0.0.1 www.somanyhits.info
-127.0.0.1 www.someonewhocares.com
 127.0.0.1 www.sondra-donalson.us
 127.0.0.1 www.sonia-pantoja.us
 127.0.0.1 www.sonja-rascon.us
