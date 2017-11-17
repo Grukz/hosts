@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76383 ad serving and malware domains.
+# Currently blocking 76404 ad serving and malware domains.
 #
-# Date Generated: Nov 16 2017
+# Date Generated: Nov 17 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2971,7 +2971,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 acs.agent.56.com
 127.0.0.1 acs.agent.v-56.com
 127.0.0.1 acspaces.ero-advertising.com
-127.0.0.1 acsseo.com
 127.0.0.1 act.webmasterplan.com
 127.0.0.1 actforvictory.112.2o7.net
 127.0.0.1 action.ientry.net
@@ -26618,6 +26617,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.innomdc.com
 127.0.0.1 api.instantdollarz.com
 127.0.0.1 api.intensifier.de
+127.0.0.1 api.inwemo.com
 127.0.0.1 api.iperceptions.com
 127.0.0.1 api.ipinfodb.com
 127.0.0.1 api.iris.tv
@@ -27604,6 +27604,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 azsearch.org
 127.0.0.1 azubi.adition.com
 127.0.0.1 azureteens.com
+127.0.0.1 azvjudwr.info
 127.0.0.1 azweb.ivwbox.de
 127.0.0.1 azz.badazz.org
 127.0.0.1 b-1st.com
@@ -35268,6 +35269,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cnhitribunestara.122.2o7.net
 127.0.0.1 cnhregisterherald.122.2o7.net
 127.0.0.1 cnhsq.voluumtrk.com
+127.0.0.1 cnhv.co
 127.0.0.1 cnn.122.2o7.net
 127.0.0.1 cnn.dyn.cnn.com
 127.0.0.1 cnn.entertainment.printthis.clickability.com
@@ -35385,8 +35387,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 coffeol.com
 127.0.0.1 cogtree.com
 127.0.0.1 cohortdigital.go2cloud.org
+127.0.0.1 coin-have.com
 127.0.0.1 coin-hive.com
 127.0.0.1 coin-media.com
+127.0.0.1 coinerra.com
 127.0.0.1 coinhive.com
 127.0.0.1 coinurl.com
 127.0.0.1 coinvisitor.com
@@ -37481,6 +37485,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 crx92.voluumtrk.com
 127.0.0.1 crxbh.voluumtrk.com
 127.0.0.1 cryptmyexe.pw
+127.0.0.1 crypto-loot.com
 127.0.0.1 crystal-eisenberg.us
 127.0.0.1 cs.adcastplus.net
 127.0.0.1 cs.adingo.jp
@@ -43670,6 +43675,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 guru.sitescout.netdna-cdn.com
 127.0.0.1 guru3d.us.intellitxt.com
 127.0.0.1 guruads.de
+127.0.0.1 gus.host
 127.0.0.1 gutefrage.de.intellitxt.com
 127.0.0.1 guterrat.ivwbox.de
 127.0.0.1 guyism.us.intellitxt.com
@@ -46403,6 +46409,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jrcdelcotimescom.122.2o7.net
 127.0.0.1 jrcom.112.2o7.net
 127.0.0.1 jrjdn.voluumtrk.com
+127.0.0.1 jroqvbvw.info
 127.0.0.1 jrtux.com
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 js-at.goldbach.com
@@ -46629,6 +46636,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jwpltx.com
 127.0.0.1 jxliu.com
 127.0.0.1 jxzmo.voluumtrk.com
+127.0.0.1 jyhfuqoh.info
 127.0.0.1 jzclick.soso.com
 127.0.0.1 jzgng.voluumtrk.com
 127.0.0.1 jzigsobgsmxdmr.bid
@@ -46746,6 +46754,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kddi.122.2o7.net
 127.0.0.1 kdhhl.voluumtrk.com
 127.0.0.1 kdovs.voluumtrk.com
+127.0.0.1 kdowqlpt.info
 127.0.0.1 kds.ero-advertising.com
 127.0.0.1 kdzwk.voluumtrk.com
 127.0.0.1 kea98.voluumtrk.com
@@ -47723,6 +47732,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 load.exelator.com
 127.0.0.1 load.focalex.com
 127.0.0.1 load.instinctiveads.com
+127.0.0.1 load.jsecoin.com
 127.0.0.1 load.passionfruitads.com
 127.0.0.1 load.s3.amazonaws.com
 127.0.0.1 load.scanscout.com
@@ -50081,6 +50091,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 mimicrice.com
 127.0.0.1 mindstormstudio.ro
 127.0.0.1 mindy-sawyer.us
+127.0.0.1 minemytraffic.com
+127.0.0.1 miner.pr0gramm.com
+127.0.0.1 minero-proxy-01.now.sh
+127.0.0.1 minero-proxy-02.now.sh
+127.0.0.1 minero-proxy-03.now.sh
+127.0.0.1 minero.pw
 127.0.0.1 minerva.healthcentral.com
 127.0.0.1 mini.activeshopper.com
 127.0.0.1 mini.videostrip.com
@@ -50529,8 +50545,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 ms.ligatus.com
 127.0.0.1 ms.onscroll.com
 127.0.0.1 ms.yandex.ru
-127.0.0.1 ms0x0000001341.club
 127.0.0.1 ms11.net
+127.0.0.1 ms127.0.0.101341.club
 127.0.0.1 ms49r.voluumtrk.com
 127.0.0.1 msalt.mysearch.com
 127.0.0.1 msbmopod.vo.llnwd.net
@@ -54579,6 +54595,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ppctracking.net
 127.0.0.1 ppctrck.com
 127.0.0.1 pple.com.virus-mac.com
+127.0.0.1 ppoi.org
 127.0.0.1 ppp.voice2page.com
 127.0.0.1 pppads.com
 127.0.0.1 pptrk.com
@@ -54794,6 +54811,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 projectorpeople.112.2o7.net
 127.0.0.1 projectorreviews.advertserve.com
 127.0.0.1 projectorreviews.us.intellitxt.com
+127.0.0.1 projectpoi.com
 127.0.0.1 projects.globaltronics.net
 127.0.0.1 projectvrtcl.go2cloud.org
 127.0.0.1 projectw.skimlinks.com
@@ -55902,6 +55920,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 redir.adap.tv
 127.0.0.1 redir.adsonar.com
 127.0.0.1 redir.aitrkng.com
+127.0.0.1 redir.bebi.com
 127.0.0.1 redir.juicyads.com
 127.0.0.1 redir.metaservices.microsoft.com
 127.0.0.1 redir.overture.com
@@ -56409,6 +56428,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rockdirt.us.intellitxt.com
 127.0.0.1 rocketfuel.com
 127.0.0.1 rockoneinnovations.go2cloud.org
+127.0.0.1 rocks.io
 127.0.0.1 rocksresort.com.au
 127.0.0.1 rockstaralliance.go2cloud.org
 127.0.0.1 rockyou.go2cloud.org
@@ -75748,6 +75768,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 xaxis.com
 127.0.0.1 xb11776.com
 127.0.0.1 xban.walla.co.il
+127.0.0.1 xbasfbno.info
 127.0.0.1 xbfk51p7.review
 127.0.0.1 xblasterads1.com
 127.0.0.1 xbonus.net
