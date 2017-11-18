@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76404 ad serving and malware domains.
+# Currently blocking 76409 ad serving and malware domains.
 #
-# Date Generated: Nov 17 2017
+# Date Generated: Nov 18 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -53079,6 +53079,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 owebmoney.ru
 127.0.0.1 owha.vancouverco.com
 127.0.0.1 owlonl.ivwbox.de
+127.0.0.1 owneriq.net
 127.0.0.1 owzdu.voluumtrk.com
 127.0.0.1 ox-d.aa.com
 127.0.0.1 ox-d.adobe.com
@@ -54864,7 +54865,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 promo.worldprofitcenter.com
 127.0.0.1 promo.yahoo.com
 127.0.0.1 promo1.c-rewards.com
-127.0.0.1 promo1.webcams.nl
 127.0.0.1 promo2.c-rewards.com
 127.0.0.1 promo3.c-rewards.com
 127.0.0.1 promo4.c-rewards.com
@@ -58758,6 +58758,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 smartify.org
 127.0.0.1 smartinit.webads.nl
 127.0.0.1 smartlog.ru
+127.0.0.1 smartlook.com
 127.0.0.1 smartmediamarketing.go2cloud.org
 127.0.0.1 smartmoney.112.2o7.net
 127.0.0.1 smartshare.lgtvsdp.com
@@ -58785,6 +58786,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 smetrics.southwest.com
 127.0.0.1 smetrics.starwoodhotels.com
 127.0.0.1 smetrics.toptenreviews.com
+127.0.0.1 smetrics.walgreens.com
 127.0.0.1 smetrics.yellowbook.com
 127.0.0.1 smf.spring-tns.net
 127.0.0.1 smfgroup.cjb.net
@@ -64234,6 +64236,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 user-sync.adhese.com
 127.0.0.1 userlog.synapseip.tv
 127.0.0.1 username1.link
+127.0.0.1 userreplay.com
+127.0.0.1 userreplay.net
 127.0.0.1 users.effectivebrand.com
 127.0.0.1 users.ero-advertising.com
 127.0.0.1 users.marketleverage.com
@@ -76022,6 +76026,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 yigitakcali.com
 127.0.0.1 ying.hitbox.com
 127.0.0.1 yj.moatads.com
+127.0.0.1 yldbt.com
 127.0.0.1 yllix.com
 127.0.0.1 ylpzt.juzojossai.net
 127.0.0.1 ylu7k4i2o7.s.ad6media.fr
