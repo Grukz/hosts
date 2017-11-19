@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76409 ad serving and malware domains.
+# Currently blocking 76411 ad serving and malware domains.
 #
-# Date Generated: Nov 18 2017
+# Date Generated: Nov 19 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25442,6 +25442,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 agosar.com
 127.0.0.1 agp-one.net
 127.0.0.1 agpaffiliates.go2cloud.org
+127.0.0.1 agreemand.com
 127.0.0.1 agroeconom.kz
 127.0.0.1 ags.beta.advertising.com
 127.0.0.1 agsteier.com
@@ -37422,6 +37423,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 creativshik.justclick.ru
 127.0.0.1 creatrixads.com
 127.0.0.1 crediblegfj.info
+127.0.0.1 credishe.com
 127.0.0.1 credit-card-application.now-cash.com
 127.0.0.1 credit-cards.com
 127.0.0.1 credit-cards.de
