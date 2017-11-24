@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76413 ad serving and malware domains.
+# Currently blocking 76416 ad serving and malware domains.
 #
-# Date Generated: Nov 23 2017
+# Date Generated: Nov 24 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2971,6 +2971,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 acs.agent.56.com
 127.0.0.1 acs.agent.v-56.com
 127.0.0.1 acspaces.ero-advertising.com
+127.0.0.1 acsseo.com
 127.0.0.1 act.webmasterplan.com
 127.0.0.1 actforvictory.112.2o7.net
 127.0.0.1 action.ientry.net
@@ -19478,6 +19479,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adrotate.se
 127.0.0.1 adrotator.com
 127.0.0.1 adrotator.se
+127.0.0.1 adrotic.girlonthenet.com
 127.0.0.1 adrs.hit.gemius.pl
 127.0.0.1 adrspain.go2cloud.org
 127.0.0.1 adrta.com
@@ -39068,6 +39070,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dofollinz.net
 127.0.0.1 dogcustom-works.com
 127.0.0.1 dogpile.112.2o7.net
+127.0.0.1 dohillright.com
 127.0.0.1 dohod-inet.justclick.ru
 127.0.0.1 doityourselfbuilder.com
 127.0.0.1 doktester.orgfree.com
@@ -42416,7 +42419,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 g.promosrv.com
 127.0.0.1 g.searchgist.com
 127.0.0.1 g.seoparts.net
-127.0.0.1 g.symcd.com
 127.0.0.1 g.thinktarget.com
 127.0.0.1 g.websponsors.com
 127.0.0.1 g.zedo.com
@@ -46378,6 +46380,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jolene-mclin.us
 127.0.0.1 jomo.in.ua
 127.0.0.1 jonathanleger.com
+127.0.0.1 joneself.com
 127.0.0.1 jorel.radfellas.com
 127.0.0.1 josephine-youngberg.us
 127.0.0.1 joshtest1.evsuite.com
@@ -71016,7 +71019,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.click2site.co
 127.0.0.1 www.click4click.com
 127.0.0.1 www.clickaction.net
-127.0.0.1 www.clickadu.com
 127.0.0.1 www.clickagents.com
 127.0.0.1 www.clickansave.net
 127.0.0.1 www.clickauditor.net
@@ -71452,6 +71454,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.doctor-alex.com
 127.0.0.1 www.doctortrusted.org
 127.0.0.1 www.dodostats.com
+127.0.0.1 www.dohillright.com
 127.0.0.1 www.dolanadserver.com
 127.0.0.1 www.doll.home.ro
 127.0.0.1 www.dolores-parra.us
