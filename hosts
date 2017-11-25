@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76416 ad serving and malware domains.
+# Currently blocking 76414 ad serving and malware domains.
 #
-# Date Generated: Nov 24 2017
+# Date Generated: Nov 25 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -43680,7 +43680,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 guru.sitescout.netdna-cdn.com
 127.0.0.1 guru3d.us.intellitxt.com
 127.0.0.1 guruads.de
-127.0.0.1 gus.host
 127.0.0.1 gutefrage.de.intellitxt.com
 127.0.0.1 guterrat.ivwbox.de
 127.0.0.1 guyism.us.intellitxt.com
@@ -47005,7 +47004,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 kserv.krldysh.ru
 127.0.0.1 ksta.ivwbox.de
 127.0.0.1 kszmp.voluumtrk.com
-127.0.0.1 kt-g.de
 127.0.0.1 kt.tns-gallup.dk
 127.0.0.1 kt4.kliptracker.com
 127.0.0.1 ktmoh.voluumtrk.com
@@ -58236,7 +58234,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sex-and-animals.com
 127.0.0.1 sex-now5.com
 127.0.0.1 sex-sex-sex5.com
-127.0.0.1 sexadvertentiesite.nl
 127.0.0.1 sexcount.de
 127.0.0.1 sexcounter.com
 127.0.0.1 sexinyourcity.com
@@ -64087,6 +64084,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 updateacces.org
 127.0.0.1 updateauto.preparevideosafesystem4unow.site
 127.0.0.1 updateauto.preparevideosafesystem4unow.space
+127.0.0.1 updated.com
 127.0.0.1 updatehere.ultimatesetnewfreeallsoftupgradesystems.pw
 127.0.0.1 updates.advert-network.com
 127.0.0.1 updates.desktop.ak-networks.com
