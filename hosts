@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76414 ad serving and malware domains.
+# Currently blocking 76417 ad serving and malware domains.
 #
-# Date Generated: Nov 25 2017
+# Date Generated: Nov 26 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -27332,7 +27332,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 atlassian.122.2o7.net
 127.0.0.1 atlcourier.com
 127.0.0.1 atm.youku.com
-127.0.0.1 atmape.ru
 127.0.0.1 atmek.voluumtrk.com
 127.0.0.1 atomicleads.go2cloud.org
 127.0.0.1 atout-energie-69.com
@@ -46707,6 +46706,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 karla-law.us
 127.0.0.1 karma-bodrum.com
 127.0.0.1 karoline-fortin.us
+127.0.0.1 karonty.com
 127.0.0.1 karriere.oewabox.at
 127.0.0.1 kaspersky.122.2o7.net
 127.0.0.1 kasperthreatpostprod.112.2o7.net
@@ -51224,6 +51224,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 neorandom.dothome.co.kr
 127.0.0.1 neoseeker.us.intellitxt.com
 127.0.0.1 neowin.us.intellitxt.com
+127.0.0.1 nephritish.com
 127.0.0.1 neptune.appads.com
 127.0.0.1 neptune1.appads.com
 127.0.0.1 neptune2.appads.com
@@ -53990,6 +53991,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pics3.inxhost.com
 127.0.0.1 picture-uploads.com
 127.0.0.1 picupload.tnaflix.com
+127.0.0.1 piet2eix3l.com
 127.0.0.1 pietexture.com
 127.0.0.1 pigment-adv.co.il
 127.0.0.1 pigra.csheaven.com
@@ -58733,6 +58735,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 smart-scripts.com
 127.0.0.1 smart.allocine.fr
 127.0.0.1 smart.besonders.ru
+127.0.0.1 smart.brvaffs.com
 127.0.0.1 smart.hola.com
 127.0.0.1 smart.montiera.com
 127.0.0.1 smart.styria-digital.com
