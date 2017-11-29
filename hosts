@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76491 ad serving and malware domains.
+# Currently blocking 76504 ad serving and malware domains.
 #
-# Date Generated: Nov 28 2017
+# Date Generated: Nov 29 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -50497,6 +50497,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mopo.ivwbox.de
 127.0.0.1 mopub.com
 127.0.0.1 mopub.web107-east.manage.com
+127.0.0.1 moradu.com
 127.0.0.1 more-games.creative-mobile.com
 127.0.0.1 morefastermac.trade
 127.0.0.1 morefreecamsecrets.com
@@ -57457,6 +57458,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 scarcestream.com
 127.0.0.1 scarlett-esser.us
 127.0.0.1 scarlett.sexybabesx.com
+127.0.0.1 scbl54virared.com
 127.0.0.1 scd.secureintl.com
 127.0.0.1 scdn.cxense.com
 127.0.0.1 scdown.qq.com
@@ -57822,7 +57824,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 secure.applifier.com
 127.0.0.1 secure.asiansluttease.com
 127.0.0.1 secure.audienceinsights.net
-127.0.0.1 secure.avangate.com
 127.0.0.1 secure.bidvertiser.com
 127.0.0.1 secure.bidvertiserr.com
 127.0.0.1 secure.bigfatjuicylesbians.com
@@ -69626,8 +69627,13 @@ ff02::2 ip6-allrouters
 127.0.0.1 ws03.home.sapo.pt
 127.0.0.1 ws04.do.nu
 127.0.0.1 ws04.home.sapo.pt
+127.0.0.1 ws05.crypto-loot.com
 127.0.0.1 ws05.home.sapo.pt
+127.0.0.1 ws06.crypto-loot.com
 127.0.0.1 ws06.home.sapo.pt
+127.0.0.1 ws07.crypto-loot.com
+127.0.0.1 ws08.crypto-loot.com
+127.0.0.1 ws09.crypto-loot.com
 127.0.0.1 ws1.15x.net
 127.0.0.1 ws1.2020search.com
 127.0.0.1 ws1.appswebservice.com
@@ -69647,8 +69653,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 ws20.surf-town.net
 127.0.0.1 ws21.surf-town.net
 127.0.0.1 ws22.surf-town.net
+127.0.0.1 ws23.crypto-loot.com
 127.0.0.1 ws23.surf-town.net
+127.0.0.1 ws24.crypto-loot.com
 127.0.0.1 ws24.surf-town.net
+127.0.0.1 ws25.crypto-loot.com
 127.0.0.1 ws25.surf-town.net
 127.0.0.1 ws26.surf-town.net
 127.0.0.1 ws27.surf-town.net
@@ -69657,7 +69666,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 ws3.15x.net
 127.0.0.1 ws3.surf-town.net
 127.0.0.1 ws4.surf-town.net
+127.0.0.1 ws42.crypto-loot.com
+127.0.0.1 ws48.crypto-loot.com
+127.0.0.1 ws49.crypto-loot.com
 127.0.0.1 ws5.surf-town.net
+127.0.0.1 ws50.crypto-loot.com
 127.0.0.1 ws6.surf-town.net
 127.0.0.1 ws7.surf-town.net
 127.0.0.1 ws8.surf-town.net
