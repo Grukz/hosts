@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76504 ad serving and malware domains.
+# Currently blocking 76508 ad serving and malware domains.
 #
-# Date Generated: Nov 29 2017
+# Date Generated: Nov 30 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -40239,6 +40239,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 eloqua.com
 127.0.0.1 elsa-curry.us
 127.0.0.1 eltern.ivwbox.de
+127.0.0.1 elthamely.com
 127.0.0.1 eltiempocitytv.112.2o7.net
 127.0.0.1 eltiempocom.112.2o7.net
 127.0.0.1 eltrafiko.com
@@ -43882,6 +43883,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hata.ero-advertising.com
 127.0.0.1 hatbo.voluumtrk.com
 127.0.0.1 hatelive.site
+127.0.0.1 hatevery.info
 127.0.0.1 hathor.eztonez.com
 127.0.0.1 hatmedia.go2cloud.org
 127.0.0.1 hatrecord.ru
@@ -58601,6 +58603,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sitestatz.com
 127.0.0.1 sitetagger.co.uk
 127.0.0.1 sitetracker.com
+127.0.0.1 siteverification.online
 127.0.0.1 sixapart.adbureau.net
 127.0.0.1 sixpackshortcuts.go2cloud.org
 127.0.0.1 sixsigmatraffic.com
@@ -75905,6 +75908,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 xhealth.112.2o7.net
 127.0.0.1 xhealthmobiletools.112.2o7.net
 127.0.0.1 xhealthmobiltools.112.2o7.net
+127.0.0.1 xhr.tikodala.com
 127.0.0.1 xiazai.duba.net
 127.0.0.1 xicaxique.com.br
 127.0.0.1 xindalawyer.com
