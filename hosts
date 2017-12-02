@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76738 ad serving and malware domains.
+# Currently blocking 76743 ad serving and malware domains.
 #
-# Date Generated: Dec 01 2017
+# Date Generated: Dec 02 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -35468,6 +35468,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 coin-media.com
 127.0.0.1 coinerra.com
 127.0.0.1 coinhive.com
+127.0.0.1 cointraffic.io
 127.0.0.1 coinurl.com
 127.0.0.1 coinvisitor.com
 127.0.0.1 coke.nuggad.net
@@ -37650,6 +37651,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cti.w55c.net
 127.0.0.1 ctix8.cheaptickets.com
 127.0.0.1 ctn.go2cloud.org
+127.0.0.1 ctnet2.in
 127.0.0.1 ctnetwork.hu
 127.0.0.1 ctnsnet.com
 127.0.0.1 ctologger01.analytics.go.com
@@ -43826,6 +43828,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 h1317070.stratoserver.net
 127.0.0.1 h1666015.stratoserver.net
 127.0.0.1 h2.msn.com
+127.0.0.1 h6.msn.com
 127.0.0.1 h8lku.voluumtrk.com
 127.0.0.1 h9diz.voluumtrk.com
 127.0.0.1 hab3n.trackvoluum.com
@@ -47024,6 +47027,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 koeln.ivwbox.de
 127.0.0.1 koelnrsc.ivwbox.de
 127.0.0.1 kohls.tt.omtrdc.net
+127.0.0.1 koinser.in
 127.0.0.1 kollagen4you.se
 127.0.0.1 komoona.com
 127.0.0.1 kompasads.com
@@ -47201,6 +47205,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 labs-cdn.revcontent.com
 127.0.0.1 labs.natpal.com
 127.0.0.1 labs.stoodioo.com
+127.0.0.1 lacerta.space
 127.0.0.1 lacie-heberling.us
 127.0.0.1 lacodeworks.com
 127.0.0.1 lacy-dobson.us
