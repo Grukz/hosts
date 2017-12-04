@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 76743 ad serving and malware domains.
 #
-# Date Generated: Dec 03 2017
+# Date Generated: Dec 04 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1939,6 +1939,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 81ynv.voluumtrk.com
 127.0.0.1 82.6.87.194.dynamic.dol.ru
 127.0.0.1 8200.6639.asklots.com
+127.0.0.1 8233fa03a40c92d.com
 127.0.0.1 82430.com
 127.0.0.1 82435.com
 127.0.0.1 824le.voluumtrk.com
@@ -73916,7 +73917,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.postmasterdirect.com
 127.0.0.1 www.postnewsads.com
 127.0.0.1 www.power-cleaner.com
-127.0.0.1 www.poweredbyliquidfire.mobi
 127.0.0.1 www.powerlinks.com
 127.0.0.1 www.poxudeli.ru
 127.0.0.1 www.ppcindo.com
