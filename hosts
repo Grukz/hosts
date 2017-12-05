@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76743 ad serving and malware domains.
+# Currently blocking 76736 ad serving and malware domains.
 #
-# Date Generated: Dec 04 2017
+# Date Generated: Dec 05 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -27037,6 +27037,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 apture.com
 127.0.0.1 apu04c0.audientia.net
 127.0.0.1 apu0640.audientia.net
+127.0.0.1 apusx.com
 127.0.0.1 apx.avazutracking.net
 127.0.0.1 apx.internal-redirect.avazutracking.net
 127.0.0.1 apx.irck.avazutracking.net
@@ -27384,7 +27385,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 atdmt.com.55788.9391.302br.net
 127.0.0.1 atdmt.com.72669.9596.302br.net
 127.0.0.1 ate.spritmonitor.de
-127.0.0.1 atelierprincesse.web.fc2.com
 127.0.0.1 atemda.com
 127.0.0.1 atgratis.com
 127.0.0.1 athena-ads.wikia.com
@@ -27878,7 +27878,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bafn.bursttraffic.net
 127.0.0.1 bafn.trafficrevmaster.com
 127.0.0.1 bagslap.com
-127.0.0.1 bahubalime.com
 127.0.0.1 baiduccdn1.com
 127.0.0.1 baiducdn.biz
 127.0.0.1 baidutv.baidu.com
@@ -33183,7 +33182,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cacheserve.williamhill.com
 127.0.0.1 cachewww.europacasino.com
 127.0.0.1 cacl.fr
-127.0.0.1 caclclo.web.fc2.com
 127.0.0.1 cad.chosun.com
 127.0.0.1 cadaver.org
 127.0.0.1 cadillacforums.us.intellitxt.com
@@ -38682,7 +38680,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 denofgeek.uk.intellitxt.com
 127.0.0.1 densite.science
 127.0.0.1 densmail.com
-127.0.0.1 dent-lux.com.pl
 127.0.0.1 dentairemalin.com
 127.0.0.1 denver.cbslocal.us.intellitxt.com
 127.0.0.1 denverpost.112.2o7.net
@@ -46138,7 +46135,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 iyfnzgb.com
 127.0.0.1 iymaw.voluumtrk.com
 127.0.0.1 iyogi.demdex.net
-127.0.0.1 izeselet.hu
 127.0.0.1 izitracking.izimailing.com
 127.0.0.1 izzonet.go2cloud.org
 127.0.0.1 izzy-cars.nl
@@ -46410,7 +46406,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 jkeyp.voluumtrk.com
 127.0.0.1 jkgah.voluumtrk.com
 127.0.0.1 jkontherun.us.intellitxt.com
-127.0.0.1 jktdc.in
 127.0.0.1 jl29jd25sm24mc29.com
 127.0.0.1 jlh9b.voluumtrk.com
 127.0.0.1 jlinks.industrybrains.com
@@ -53414,7 +53409,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ozonemedia.adbureau.net
 127.0.0.1 ozowarac.com
 127.0.0.1 ozzhf.voluumtrk.com
-127.0.0.1 ozzysixsixsix.web.fc2.com
 127.0.0.1 p-alpha.ooo.al
 127.0.0.1 p-bandai-hk.b.appier.net
 127.0.0.1 p-log.ykimg.com
@@ -61690,6 +61684,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 textomatic.superstats.com
 127.0.0.1 textron.vo.llnwd.net
 127.0.0.1 textsex.tk
+127.0.0.1 textspeier.de
 127.0.0.1 textsrv.com
 127.0.0.1 tf.nexac.com
 127.0.0.1 tfag.de
@@ -71158,7 +71153,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.catoonetwork.com
 127.0.0.1 www.catrina-linzy.us
 127.0.0.1 www.catrina-mcrae.us
-127.0.0.1 www.caue971.org
 127.0.0.1 www.cbeckads.com
 127.0.0.1 www.cbgoto.com
 127.0.0.1 www.cbpassiveincome.com
@@ -71670,7 +71664,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.disable-uac.com
 127.0.0.1 www.discount-savings-more.com
 127.0.0.1 www.discoverexactly.com
-127.0.0.1 www.divshare.com
 127.0.0.1 www.divx.it
 127.0.0.1 www.djugoogs.com
 127.0.0.1 www.dl-plugin.com
