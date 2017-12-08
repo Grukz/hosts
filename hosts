@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75920 ad serving and malware domains.
+# Currently blocking 75922 ad serving and malware domains.
 #
-# Date Generated: Dec 07 2017
+# Date Generated: Dec 08 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -50068,6 +50068,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 modifiedlife.us.intellitxt.com
 127.0.0.1 moe.jlist.com
 127.0.0.1 mofox.com
+127.0.0.1 moggattice.com
 127.0.0.1 mogreet.com
 127.0.0.1 mojiva.com
 127.0.0.1 mojiva2-13fc.kxcdn.com
@@ -58699,6 +58700,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 speednetwork14.adk2.co
 127.0.0.1 speednetwork14.adk2x.com
 127.0.0.1 speednetwork6.adk2x.com
+127.0.0.1 speedomizer.com
 127.0.0.1 speedtestbeta.com
 127.0.0.1 speedtrap.shopdirect.com
 127.0.0.1 speedtv.us.intellitxt.com
