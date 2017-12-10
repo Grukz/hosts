@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75927 ad serving and malware domains.
+# Currently blocking 75924 ad serving and malware domains.
 #
-# Date Generated: Dec 09 2017
+# Date Generated: Dec 10 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -19395,6 +19395,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adoringyou.com
 127.0.0.1 adosia.com
 127.0.0.1 adotic.com
+127.0.0.1 adotmob.com
 127.0.0.1 adotmobanalytics.go2cloud.org
 127.0.0.1 adotomy.com
 127.0.0.1 adotsolution.com
@@ -35481,6 +35482,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 conforama.commander1.com
 127.0.0.1 conforama.ugc.bazaarvoice.com
 127.0.0.1 congdongtinhoc.info
+127.0.0.1 connatix.com
 127.0.0.1 connect.247media.ads.link4ads.com
 127.0.0.1 connect.appflood.com
 127.0.0.1 connect.de.intellitxt.com
@@ -37987,7 +37989,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 danielahantuchova.sexybabesx.com
 127.0.0.1 danielle-guo.us
 127.0.0.1 danieltan.evplayer.com
-127.0.0.1 danislenefc.info
 127.0.0.1 daniweb.us.intellitxt.com
 127.0.0.1 danser.science
 127.0.0.1 danskebank.122.207.net
@@ -38482,6 +38483,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 depesche01.webtrekk.net
 127.0.0.1 depici.2cnt.net
 127.0.0.1 deplayer.net
+127.0.0.1 deployads.com
 127.0.0.1 depo.realist.gen.tr
 127.0.0.1 depolakoeasre.pw
 127.0.0.1 deposer.science
@@ -38946,7 +38948,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 domainsteam.de
 127.0.0.1 domdex.com
 127.0.0.1 domifondery.com
-127.0.0.1 domifondery3d.com
 127.0.0.1 dominionenterprises.112.2o7.net
 127.0.0.1 dominoad.com
 127.0.0.1 dominoziele.pw
@@ -39341,6 +39342,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dync.c.appier.net
 127.0.0.1 dynmedia.matcash.com
 127.0.0.1 dyntraq.mtree.com
+127.0.0.1 dyntrk.com
 127.0.0.1 dypbo.voluumtrk.com
 127.0.0.1 dyppl.com
 127.0.0.1 dz2fz0bgyq9tn.cloudfront.net
@@ -43176,7 +43178,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 good.9downloadall.com
 127.0.0.1 goodbizez.com
 127.0.0.1 goodbookbook.com
-127.0.0.1 goodbytoname.com
 127.0.0.1 gooddata.com
 127.0.0.1 goodiemob.com
 127.0.0.1 goods.marketgid.com
@@ -43528,7 +43529,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gyodundena.hotmail.ru
 127.0.0.1 gyros.es
 127.0.0.1 gzadt.voluumtrk.com
-127.0.0.1 gzhueyuatex.com
 127.0.0.1 gzwku.voluumtrk.com
 127.0.0.1 h-afnetwww.adshuffle.com
 127.0.0.1 h.admob.com
@@ -45735,7 +45735,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 istats.nl
 127.0.0.1 istockbargains.com
 127.0.0.1 istrack.com
-127.0.0.1 istyle.ge
 127.0.0.1 iswwwup.com
 127.0.0.1 it.adserver.yahoo.com
 127.0.0.1 it.bannerout.com
@@ -50576,7 +50575,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mylottoadserv.com
 127.0.0.1 mymediadownloadsthirtytwo.com
 127.0.0.1 mymoneymakingapp.com
-127.0.0.1 mymytonnymaxltd.org
 127.0.0.1 myns-v1.websys.aol.com
 127.0.0.1 myoffertracking.com
 127.0.0.1 mypagerank.net
@@ -52961,7 +52959,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 oz.valueclick.ne.jp
 127.0.0.1 ozertesa.com
 127.0.0.1 ozonemedia.adbureau.net
-127.0.0.1 ozowarac.com
 127.0.0.1 ozzhf.voluumtrk.com
 127.0.0.1 p-alpha.ooo.al
 127.0.0.1 p-bandai-hk.b.appier.net
@@ -54996,6 +54993,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 push.cdnads.com
 127.0.0.1 push.poptm.com
 127.0.0.1 push.senddroid.com
+127.0.0.1 pushengage.com
 127.0.0.1 pussybabes.net
 127.0.0.1 pussygreen.com
 127.0.0.1 putbid.net
@@ -57472,7 +57470,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 securestudies.com
 127.0.0.1 securetabs.com
 127.0.0.1 securetalk.cwsurf.de
-127.0.0.1 securetestingnetwotk.com
 127.0.0.1 securetracking2.com
 127.0.0.1 securinews.free.fr
 127.0.0.1 securitas232maximus.xyz
@@ -58621,6 +58618,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sophang8.com
 127.0.0.1 sophiabush.sexybabesx.com
 127.0.0.1 soros.departamentosejecutivos.cl
+127.0.0.1 sortable.com
 127.0.0.1 sosharpcorporation.go2cloud.org
 127.0.0.1 soski.popunder.ru
 127.0.0.1 sostats.mozilla.com
@@ -63612,7 +63610,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 update.cpc.sogou.com
 127.0.0.1 update.hiconversion.com
 127.0.0.1 update.moatads.com
-127.0.0.1 update.odeen.eu
 127.0.0.1 update.onescan.co.kr
 127.0.0.1 update.privdog.com
 127.0.0.1 update.rifugiopontese.it
@@ -67766,6 +67763,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 virus-notice.com
 127.0.0.1 vis.sexlist.com
 127.0.0.1 vis5.sexlist.com
+127.0.0.1 visiblemeasures.com
 127.0.0.1 visistat.com
 127.0.0.1 visit.dealspwn.com
 127.0.0.1 visit.digidip.net
@@ -70187,7 +70185,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.bigpenisguide.com
 127.0.0.1 www.bigsister-puff.cxa.de
 127.0.0.1 www.bigsister.cxa.de
-127.0.0.1 www.bilbobaggins.comxa.com
 127.0.0.1 www.bill-info.com
 127.0.0.1 www.bimm.in
 127.0.0.1 www.binarysystem4u.com
