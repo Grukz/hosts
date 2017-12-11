@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75924 ad serving and malware domains.
+# Currently blocking 75925 ad serving and malware domains.
 #
-# Date Generated: Dec 10 2017
+# Date Generated: Dec 11 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -43366,6 +43366,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 grabify.link
 127.0.0.1 grabtrk.com
 127.0.0.1 grace-hansley.us
+127.0.0.1 graceisall.com
 127.0.0.1 grade.market.yandex.ru
 127.0.0.1 graffix.adition.com
 127.0.0.1 grafix.xxxcounter.com
