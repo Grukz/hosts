@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75925 ad serving and malware domains.
+# Currently blocking 75935 ad serving and malware domains.
 #
-# Date Generated: Dec 11 2017
+# Date Generated: Dec 12 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -27458,6 +27458,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 avgtechnologies.112.2o7.net
 127.0.0.1 avidnewssource.com
 127.0.0.1 avidtrak.com
+127.0.0.1 avocet.io
 127.0.0.1 avoir.science
 127.0.0.1 avokka.com
 127.0.0.1 avon.112.2o7.net
@@ -30837,6 +30838,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bottleguy.com
 127.0.0.1 bottomdollar.com
 127.0.0.1 botw.topbucks.com
+127.0.0.1 boudja.com
 127.0.0.1 bounceexchange.com
 127.0.0.1 bounty.bighits.net
 127.0.0.1 boutique.telecharger.com
@@ -37212,6 +37214,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cpx.acloudweb.com
 127.0.0.1 cpx.go2cloud.org
 127.0.0.1 cpx.golem.de
+127.0.0.1 cpx.to
 127.0.0.1 cpxcenter.com
 127.0.0.1 cpxdeliv.com
 127.0.0.1 cpxinteractive.com
@@ -37358,6 +37361,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 crm.3dots.co.il
 127.0.0.1 crmbuyer.us.intellitxt.com
 127.0.0.1 crochet.ovh
+127.0.0.1 croissed.info
 127.0.0.1 croix.science
 127.0.0.1 crops.dunight.eu
 127.0.0.1 crossout.net
@@ -41136,6 +41140,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 findcommerce.com
 127.0.0.1 findconvenient.com
 127.0.0.1 findcredible.com
+127.0.0.1 findepended.com
 127.0.0.1 finder.cox.net
 127.0.0.1 findfavour.com
 127.0.0.1 findler.info
@@ -47937,6 +47942,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 luchtenbergdecor.com.br
 127.0.0.1 lucibad.home.ro
 127.0.0.1 lucidmedia.com
+127.0.0.1 lucklayed.info
 127.0.0.1 lucky-day-uk.com
 127.0.0.1 lucky.netmng.com
 127.0.0.1 luckyblank.info
@@ -50382,6 +50388,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mtrc1.digital-metric.com
 127.0.0.1 mtrcs.popcap.com
 127.0.0.1 mtrcs.redhat.com
+127.0.0.1 mtrcs.samba.tv
 127.0.0.1 mtree.com
 127.0.0.1 mtreexxx.net
 127.0.0.1 mtrics.cdc.gov
@@ -60225,6 +60232,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 switch6.hitbox.com
 127.0.0.1 switch8.hitbox.com
 127.0.0.1 switch9.hitbox.com
+127.0.0.1 switchadhub.com
 127.0.0.1 swordfishdc.com
 127.0.0.1 swr.ivwbox.de
 127.0.0.1 swrap.tradedoubler.com
@@ -61517,6 +61525,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 top50.co.uk
 127.0.0.1 top6.list.ru
 127.0.0.1 top90.ro
+127.0.0.1 topacity.info
 127.0.0.1 topads.ero-advertising.com
 127.0.0.1 topads.rrstar.com
 127.0.0.1 topadvancedsearch.com
@@ -75894,6 +75903,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 zous.szm.sk
 127.0.0.1 zp.zeroredirect1.com
 127.0.0.1 zq.zeroredirect1.com
+127.0.0.1 zqtk.net
 127.0.0.1 zr.zeroredirect1.com
 127.0.0.1 zr0.net
 127.0.0.1 zs.dhl.de
