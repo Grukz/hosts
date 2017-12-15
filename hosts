@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76022 ad serving and malware domains.
+# Currently blocking 76023 ad serving and malware domains.
 #
-# Date Generated: Dec 14 2017
+# Date Generated: Dec 15 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -19836,7 +19836,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.bcsyndication.com
 127.0.0.1 ads.be2hand.com
 127.0.0.1 ads.beeb.com
-127.0.0.1 ads.beenetworks.net
 127.0.0.1 ads.befan.it
 127.0.0.1 ads.beliefnet.com
 127.0.0.1 ads.belointeractive.com
@@ -43390,7 +43389,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 grabify.link
 127.0.0.1 grabtrk.com
 127.0.0.1 grace-hansley.us
-127.0.0.1 graceisall.com
 127.0.0.1 grade.market.yandex.ru
 127.0.0.1 graffix.adition.com
 127.0.0.1 grafix.xxxcounter.com
@@ -53528,6 +53526,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 performercenter.livejasmin.com
 127.0.0.1 perfspot.crwdcntrl.net
 127.0.0.1 permissionmedia.com
+127.0.0.1 permutive.com
 127.0.0.1 perpro18-ue1b.ml314.com
 127.0.0.1 persevered.com
 127.0.0.1 persgroepadvertising.nl
@@ -62583,6 +62582,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trackinguk2.com
 127.0.0.1 trackit.skyhighctr.com
 127.0.0.1 trackit.vicotech.com
+127.0.0.1 trackjs.com
 127.0.0.1 tracklead.net
 127.0.0.1 trackmail3345.com
 127.0.0.1 trackmysales.com
@@ -64240,6 +64240,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 video.unrulymedia.com
 127.0.0.1 video1.adprimemedia.com
 127.0.0.1 video1.fastclick.net
+127.0.0.1 videoadex.com
 127.0.0.1 videoads.theonion.com
 127.0.0.1 videobox.com
 127.0.0.1 videoclick.ru
