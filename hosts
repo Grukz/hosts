@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76023 ad serving and malware domains.
+# Currently blocking 76025 ad serving and malware domains.
 #
-# Date Generated: Dec 15 2017
+# Date Generated: Dec 16 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -15871,6 +15871,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad.mbn.bb.ru
 127.0.0.1 ad.media-servers.net
 127.0.0.1 ad.media6degrees.com
+127.0.0.1 ad.mediaadserver.com
 127.0.0.1 ad.mediaplex.com
 127.0.0.1 ad.mediaprecision.net
 127.0.0.1 ad.mediaprostor.cz
@@ -25995,7 +25996,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 an.z5x.net
 127.0.0.1 anad.tacoda.net
 127.0.0.1 anaerobicdigestion.com
-127.0.0.1 anahtars.com
 127.0.0.1 anali.org
 127.0.0.1 analiticwebexperience.com
 127.0.0.1 analpornshows.com
@@ -34370,6 +34370,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cinemacafe.tv
 127.0.0.1 cinestar.ivwbox.de
 127.0.0.1 cinplex.oewabox.at
+127.0.0.1 cinstein.com
 127.0.0.1 cinthya-hanks.us
 127.0.0.1 cinthya-sipe.us
 127.0.0.1 cioco-froll.com
@@ -39350,6 +39351,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dynamic.cannedbanners.com
 127.0.0.1 dynamic.exaccess.ru
 127.0.0.1 dynamic.fmpub.net
+127.0.0.1 dynamic.mediaadserver.com
 127.0.0.1 dynamic.woolik.com
 127.0.0.1 dynamic1.anandtech.com
 127.0.0.1 dynamic1.dailytech.com
@@ -44299,7 +44301,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 htmlcenter.us.intellitxt.com
 127.0.0.1 htmlcounter.com
 127.0.0.1 htmldialer.parisvoyeur.com
-127.0.0.1 htmlhubing.xyz
 127.0.0.1 htmlwww.youfck.com
 127.0.0.1 htmonster.com
 127.0.0.1 hts2.adpremium.org
@@ -59039,6 +59040,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ssp.adriver.ru
 127.0.0.1 ssp.anyclip-media.com
 127.0.0.1 ssp.lkqd.net
+127.0.0.1 ssp.sellads.me
 127.0.0.1 ssp.streamrail.net
 127.0.0.1 ssp.videostat.com
 127.0.0.1 ssp.virool.com
