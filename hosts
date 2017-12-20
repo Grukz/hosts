@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76026 ad serving and malware domains.
+# Currently blocking 76030 ad serving and malware domains.
 #
-# Date Generated: Dec 19 2017
+# Date Generated: Dec 20 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25360,6 +25360,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 afftrackr.com
 127.0.0.1 affyield.com
 127.0.0.1 afghanthrow.com
+127.0.0.1 afgr2.com
 127.0.0.1 afi.adocean.pl
 127.0.0.1 afiliati.ro
 127.0.0.1 afilo.pl
@@ -34005,6 +34006,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdnmedia.xyz
 127.0.0.1 cdns.amgdgt.com
 127.0.0.1 cdns.brsrvr.com
+127.0.0.1 cdns.gigya.com
 127.0.0.1 cdns.mydirtyhobby.com
 127.0.0.1 cdns.privatamateure.com
 127.0.0.1 cdnssl.clicktale.net
@@ -60422,6 +60424,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 t.flux.com
 127.0.0.1 t.formalyzer.com
 127.0.0.1 t.frtyg.com
+127.0.0.1 t.frtyi.com
 127.0.0.1 t.goadservices.com
 127.0.0.1 t.hypers.com.cn
 127.0.0.1 t.insigit.com
@@ -69928,6 +69931,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.afftrackinglinks.com
 127.0.0.1 www.afftrackr.com
 127.0.0.1 www.affyield.com
+127.0.0.1 www.afgr2.com
 127.0.0.1 www.afiliati.ro
 127.0.0.1 www.afsanalytics.com
 127.0.0.1 www.afterdownload.com
