@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76113 ad serving and malware domains.
+# Currently blocking 76119 ad serving and malware domains.
 #
-# Date Generated: Dec 27 2017
+# Date Generated: Dec 28 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -33898,6 +33898,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn1.flash.shareadult.com
 127.0.0.1 cdn1.inner-active.mobi
 127.0.0.1 cdn1.kovla.com
+127.0.0.1 cdn1.minestat.biz
 127.0.0.1 cdn1.psdvault.com
 127.0.0.1 cdn1.reporo.net
 127.0.0.1 cdn1.rhtag.com
@@ -33959,6 +33960,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn2.emediate.eu
 127.0.0.1 cdn2.lockerdome.com
 127.0.0.1 cdn2.maxiget.com
+127.0.0.1 cdn2.minestat.biz
 127.0.0.1 cdn2.mobile.contentdef.com
 127.0.0.1 cdn2.optimizely.com
 127.0.0.1 cdn2.reporo.net
@@ -47571,6 +47573,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 local
 127.0.0.1 local.ads.nwsource.com
 127.0.0.1 local.promoisland.net
+127.0.0.1 localads-statistics.maps.me
+127.0.0.1 localads.maps.me
 127.0.0.1 localhost.localdomain
 127.0.0.1 localmantra.com
 127.0.0.1 localmediabuying.com
@@ -49892,6 +49896,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 minero-proxy-03.now.sh
 127.0.0.1 minero.pw
 127.0.0.1 minerva.healthcentral.com
+127.0.0.1 minestat.biz
 127.0.0.1 mini.activeshopper.com
 127.0.0.1 mini.videostrip.com
 127.0.0.1 minisearch.startnow.com
@@ -62254,6 +62259,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trackcmp.net
 127.0.0.1 trackdiscovery.net
 127.0.0.1 trackedclicks.com
+127.0.0.1 tracker-api.my.com
 127.0.0.1 tracker.adwingate.com
 127.0.0.1 tracker.adxpansion.com
 127.0.0.1 tracker.affility.com
