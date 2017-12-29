@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76119 ad serving and malware domains.
+# Currently blocking 76120 ad serving and malware domains.
 #
-# Date Generated: Dec 28 2017
+# Date Generated: Dec 29 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -500,6 +500,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 140cc.v.fwmrm.net
 127.0.0.1 140proof.com
 127.0.0.1 141.6.87.194.dynamic.dol.ru
+127.0.0.1 14119276be0852.com
 127.0.0.1 1412173.fls.doubleclick.net
 127.0.0.1 141aa.voluumtrk.com
 127.0.0.1 142.6.87.194.dynamic.dol.ru
@@ -3046,7 +3047,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 acs.agent.v-56.com
 127.0.0.1 acs.xpanama.net
 127.0.0.1 acspaces.ero-advertising.com
-127.0.0.1 acsseo.com
 127.0.0.1 act.webmasterplan.com
 127.0.0.1 actforvictory.112.2o7.net
 127.0.0.1 action.ientry.net
@@ -62917,6 +62917,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trk.acotrk.com
 127.0.0.1 trk.adbutter.net
 127.0.0.1 trk.adtrkaa.com
+127.0.0.1 trk.airproof.party
 127.0.0.1 trk.alskeip.com
 127.0.0.1 trk.anchtrk.com
 127.0.0.1 trk.apperol.com
