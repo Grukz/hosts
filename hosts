@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76120 ad serving and malware domains.
+# Currently blocking 76136 ad serving and malware domains.
 #
-# Date Generated: Dec 29 2017
+# Date Generated: Dec 30 2017
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25173,7 +25173,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 affiliate.mediatemple.net
 127.0.0.1 affiliate.mercola.com
 127.0.0.1 affiliate.mlntracker.com
-127.0.0.1 affiliate.mogs.com
 127.0.0.1 affiliate.mymall.bg
 127.0.0.1 affiliate.nmbtrack.com
 127.0.0.1 affiliate.no.espotting.com
@@ -32292,6 +32291,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bs.serving-sys.com.78503.9655.302br.net
 127.0.0.1 bs.serving-sys.com.78505.9655.302br.net
 127.0.0.1 bs.yandex.ru
+127.0.0.1 bs50tds.com
 127.0.0.1 bsads.looksmart.com
 127.0.0.1 bsaig.voluumtrk.com
 127.0.0.1 bsch.serving-sys.com
@@ -38267,6 +38267,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dcstat.com
 127.0.0.1 dcstest.wtlive.com
 127.0.0.1 dctracking.com
+127.0.0.1 dcw.1592878.com
 127.0.0.1 dd.connextra.com
 127.0.0.1 dd.myapp.com
 127.0.0.1 ddd.gouwuke.cn
@@ -38488,6 +38489,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 demimoorenude.1stOK.com
 127.0.0.1 demo.adsender.us
 127.0.0.1 demo.advertising.com
+127.0.0.1 demo.cj.com
 127.0.0.1 demo.exapps.com
 127.0.0.1 demo.idg.com.au
 127.0.0.1 demo.kissmetrics.com
@@ -45816,6 +45818,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 itrack.it
 127.0.0.1 itrack19.com
 127.0.0.1 itrackerpro.com
+127.0.0.1 itrafficcontrol.com
 127.0.0.1 itrckr.com
 127.0.0.1 itreviews.uk.intellitxt.com
 127.0.0.1 itroq.voluumtrk.com
@@ -48614,6 +48617,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 makemeheal.us.intellitxt.com
 127.0.0.1 makemoneyonline.2yu.in
 127.0.0.1 makemoneyrobot.com
+127.0.0.1 makersfile.com
 127.0.0.1 makeushot.us.intellitxt.com
 127.0.0.1 mako.checkm8.com
 127.0.0.1 malachite.bnex.com
@@ -49334,6 +49338,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 meltwaternews.com
 127.0.0.1 member.clicksor.com
 127.0.0.1 members.applifier.com
+127.0.0.1 members.cj.com
 127.0.0.1 members.commissionmonster.com
 127.0.0.1 members.homecareersearch.com
 127.0.0.1 members.livejasmin.com
@@ -59078,6 +59083,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ssl.linksynergy.com
 127.0.0.1 ssl.luckyorange.com
 127.0.0.1 ssl.mousestats.com
+127.0.0.1 ssl.safepoollink.com
 127.0.0.1 ssl.sinergycosmetics.com
 127.0.0.1 ssl.siteimprove.com
 127.0.0.1 ssl.webserviceaward.com
@@ -60506,6 +60512,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 t.mdn2015x3.com
 127.0.0.1 t.medialytics.com
 127.0.0.1 t.menepe.com
+127.0.0.1 t.ml00.net
 127.0.0.1 t.mobilediva.com
 127.0.0.1 t.mobitrk.com
 127.0.0.1 t.mookie1.com
@@ -62855,6 +62862,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trck.illimeet.com
 127.0.0.1 trck.meexy.com
 127.0.0.1 trck.sixt.com
+127.0.0.1 trcktm.net
 127.0.0.1 treasure1.justclick.ru
 127.0.0.1 treasuredome.com
 127.0.0.1 treasuretrooper.com
@@ -62946,6 +62954,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trk.vaultrk.com
 127.0.0.1 trk.vidible.tv
 127.0.0.1 trk.vindicosuite.com
+127.0.0.1 trk.wdacashtrk.com
 127.0.0.1 trk.yadomedia.com
 127.0.0.1 trk02.gtrk.info
 127.0.0.1 trk1.opanw.com
@@ -68077,6 +68086,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vte.nexteramedia.com
 127.0.0.1 vtot.proxy.aol.com
 127.0.0.1 vtrack.larvtrk.com
+127.0.0.1 vtrack.wdavtrk.com
 127.0.0.1 vtracking.in.com
 127.0.0.1 vtrtl.de
 127.0.0.1 vu.adschoom.com
@@ -68463,6 +68473,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 watson.telemetry.microsoft.com.nsatc.net
 127.0.0.1 watube.com
 127.0.0.1 wau.tynt.com
+127.0.0.1 waudeesestew.com
 127.0.0.1 wb.interpolls.com
 127.0.0.1 wba.wirtschaftsblatt.at
 127.0.0.1 wbads.vo.llnwd.net
@@ -69301,6 +69312,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wvin.su
 127.0.0.1 wvwr1.hitbox.com
 127.0.0.1 ww-eu.steelhousemedia.com
+127.0.0.1 ww.cj.com
 127.0.0.1 ww.thefile.me
 127.0.0.1 ww.tr553.com
 127.0.0.1 ww1.app4install.com
@@ -71010,6 +71022,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.dbobs.com
 127.0.0.1 www.dburl.us
 127.0.0.1 www.dctracking.com
+127.0.0.1 www.dcw.1592878.com
 127.0.0.1 www.dealcent.com
 127.0.0.1 www.dealofadayonline.com
 127.0.0.1 www.dealsfor.me
@@ -72568,6 +72581,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.mainstreamadvertising.com
 127.0.0.1 www.mainstreamdollars.com
 127.0.0.1 www.makeavatars.com
+127.0.0.1 www.makersfile.com
 127.0.0.1 www.makohela.tk
 127.0.0.1 www.mandi-kearney.us
 127.0.0.1 www.mandy-lauzon.us
@@ -74388,6 +74402,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.traveller-offer.com
 127.0.0.1 www.traveller-offer.net
 127.0.0.1 www.travelncs.com
+127.0.0.1 www.trcktm.net
 127.0.0.1 www.treeloot.com
 127.0.0.1 www.trendcounter.com
 127.0.0.1 www.trendnews.com
@@ -75292,6 +75307,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wwwview.atdmt.com.1520.302br.net
 127.0.0.1 wwwview.atdmt.com.801.8000.302br.net
 127.0.0.1 wwww.8cr.purredheanb.online
+127.0.0.1 wwww.cj.com
 127.0.0.1 wwww.woolik.com
 127.0.0.1 wxdownloadmanager.com
 127.0.0.1 wy.5.p2l.info
