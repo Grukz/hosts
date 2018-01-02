@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76136 ad serving and malware domains.
+# Currently blocking 76135 ad serving and malware domains.
 #
-# Date Generated: Jan 01 2018
+# Date Generated: Jan 02 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -61070,7 +61070,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 telekom01.webtrekk.net
 127.0.0.1 telekom02.webtrekk.net
 127.0.0.1 telemetry.appex.bing.net
-127.0.0.1 telemetry.appex.bing.net:443
 127.0.0.1 telemetry.microsoft.com
 127.0.0.1 telemetry.soundcloud.com
 127.0.0.1 telemetry.urs.microsoft.com
