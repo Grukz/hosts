@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76135 ad serving and malware domains.
+# Currently blocking 76150 ad serving and malware domains.
 #
-# Date Generated: Jan 02 2018
+# Date Generated: Jan 03 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2864,6 +2864,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 abccampaignaudit.co.uk
 127.0.0.1 abcdespanol.com
 127.0.0.1 abcjmp.com
+127.0.0.1 abclnks.com
 127.0.0.1 abcmature.com
 127.0.0.1 abcnewa.com
 127.0.0.1 abcnews.footprint.net
@@ -25350,6 +25351,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 afform.co.uk
 127.0.0.1 afforyou.com
 127.0.0.1 affpartners.com
+127.0.0.1 affpool.com
 127.0.0.1 affrh2019.com
 127.0.0.1 affrh2023.com
 127.0.0.1 affscout.go2cloud.org
@@ -29526,6 +29528,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 binarybliss.com
 127.0.0.1 binaryoffers.go2cloud.org
 127.0.0.1 binaryperform.go2cloud.org
+127.0.0.1 bindedge.com
+127.0.0.1 bindfast.com
 127.0.0.1 bing.zugo.com
 127.0.0.1 bingads.com
 127.0.0.1 binglee-com-au.b.appier.net
@@ -32388,7 +32392,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 burns.adtech.de
 127.0.0.1 burns.adtech.fr
 127.0.0.1 burns.adtech.us
-127.0.0.1 burrinsurance.com
 127.0.0.1 bus-offer.com
 127.0.0.1 buscamundo.com
 127.0.0.1 buschen.oewabox.at
@@ -34517,6 +34520,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 clck.yandex.kz
 127.0.0.1 clck.yandex.ru
 127.0.0.1 clck.yandex.ua
+127.0.0.1 clckcloud.com
 127.0.0.1 clckme.com
 127.0.0.1 cld.edg.startappservice.com
 127.0.0.1 cldcon.ewizard.cc
@@ -35015,6 +35019,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 clkmr.com
 127.0.0.1 clkoffers.com
 127.0.0.1 clkrev.com
+127.0.0.1 clkrtrkr.com
 127.0.0.1 clksite.com
 127.0.0.1 clkstat.qihoo.com
 127.0.0.1 clktag.com
@@ -37576,6 +37581,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 customize.netster.com
 127.0.0.1 custommediainc.go2cloud.org
 127.0.0.1 customsboysint.com
+127.0.0.1 customtrck.com
 127.0.0.1 cutecushion.com
 127.0.0.1 cutestuf.com
 127.0.0.1 cutterbuck.com
@@ -38794,6 +38800,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 discoverecommerce.tt.omtrdc.net
 127.0.0.1 discoverexactly.com
 127.0.0.1 diseaseless.com
+127.0.0.1 diskager.com
 127.0.0.1 disney.2cnt.net
 127.0.0.1 dispatch.admixer.co.kr
 127.0.0.1 dispatcher.oewabox.at
@@ -40763,6 +40770,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ezthemes.ezthemes.com
 127.0.0.1 eztracks.aavalue.com
 127.0.0.1 eztracks.us.intellitxt.com
+127.0.0.1 eztrck.com
 127.0.0.1 ezula.com
 127.0.0.1 ezw0z.voluumtrk.com
 127.0.0.1 f-js1.spotsniper.ru
@@ -46423,7 +46431,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 jump.jspg.cc
 127.0.0.1 jump.omnitarget.com
 127.0.0.1 jump.youmobistein.com
-127.0.0.1 jump1ng.net
 127.0.0.1 jumptap.com
 127.0.0.1 junbi-tracker.com
 127.0.0.1 junecleeland.com
@@ -46448,6 +46455,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 justredirect24.com
 127.0.0.1 justrelevant.com
 127.0.0.1 justsaywow.com
+127.0.0.1 justtrck.com
 127.0.0.1 justwebads.com
 127.0.0.1 justwtchaffiliatecom.ipage.com
 127.0.0.1 jutcom.com
@@ -48715,6 +48723,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 market.oicdn.com
 127.0.0.1 market.trafficpimps.com
 127.0.0.1 market2.the-adult-company.com
+127.0.0.1 marketaff.com
 127.0.0.1 marketbrowser.com
 127.0.0.1 marketconnect.go2cloud.org
 127.0.0.1 marketgid.com
@@ -49954,6 +49963,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mktgcdn.de.coremetrics.com
 127.0.0.1 mkto-c0059.com
 127.0.0.1 mkto-k0029.com
+127.0.0.1 mktrkr.com
 127.0.0.1 ml314.com
 127.0.0.1 ml8m.com
 127.0.0.1 mlarmani.122.2o7.net
@@ -51209,6 +51219,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nextmag.apx.appier.net
 127.0.0.1 nextoptim.com
 127.0.0.1 nextround.us.intellitxt.com
+127.0.0.1 nexttrk.com
 127.0.0.1 nexus.adspirit.de
 127.0.0.1 nexus.ensighten.com
 127.0.0.1 nexusads.adspirit.de
@@ -51242,7 +51253,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 nicappazaza.com
 127.0.0.1 nickde.oewabox.at
 127.0.0.1 nickleplatedads.com
-127.0.0.1 nicktung.com
 127.0.0.1 nickyhilton.sexybabesx.com
 127.0.0.1 nicolekidman.sexybabesx.com
 127.0.0.1 nicolerichie.sexybabesx.com
@@ -53572,6 +53582,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 performancerevenue.com
 127.0.0.1 performancerevenues.com
 127.0.0.1 performances.bestofmedia.com
+127.0.0.1 performancetrck.com
 127.0.0.1 performancing.com
 127.0.0.1 performercenter.livejasmin.com
 127.0.0.1 perfspot.crwdcntrl.net
@@ -53607,7 +53618,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pfead2.netway.at
 127.0.0.1 pfead3.netway.at
 127.0.0.1 pfead4.netway.at
-127.0.0.1 pfengineering.com
 127.0.0.1 pfizer.122.2o7.net
 127.0.0.1 pflexads.com
 127.0.0.1 pfpc.citygridmedia.com
@@ -55293,6 +55303,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 quicksandear.com
 127.0.0.1 quickstartstore.go2cloud.org
 127.0.0.1 quickstatistic.com
+127.0.0.1 quicktrck.com
 127.0.0.1 quickupdateserv.com
 127.0.0.1 quigo.com
 127.0.0.1 quik-serv.com
@@ -57176,6 +57187,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 science.mlive.com
 127.0.0.1 scienceworldreport.us.intellitxt.com
 127.0.0.1 sclick.baidu.com
+127.0.0.1 sclk.org
 127.0.0.1 scnt.rambler.ru
 127.0.0.1 scomcluster.cxense.com
 127.0.0.1 scootloor.com
@@ -58242,6 +58254,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 simpleads.net
 127.0.0.1 simplehitcounter.com
 127.0.0.1 simpleonlinemedia.go2cloud.org
+127.0.0.1 simpletrck.com
 127.0.0.1 simpli.fi
 127.0.0.1 simplisticnose.com
 127.0.0.1 simplyfwd.com
@@ -62861,6 +62874,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 trck.illimeet.com
 127.0.0.1 trck.meexy.com
 127.0.0.1 trck.sixt.com
+127.0.0.1 trckaction.com
+127.0.0.1 trcko.com
 127.0.0.1 trcktm.net
 127.0.0.1 treasure1.justclick.ru
 127.0.0.1 treasuredome.com
@@ -62968,6 +62983,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trker.com
 127.0.0.1 trklnks.com
 127.0.0.1 trkmydomain.com
+127.0.0.1 trkrpoint.com
 127.0.0.1 trks.us
 127.0.0.1 trksst.com
 127.0.0.1 trkuoy.com
@@ -70098,7 +70114,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.annuaire-autosurf.com
 127.0.0.1 www.annuncio.com.do
 127.0.0.1 www.anonymousads.com
-127.0.0.1 www.anothersideofpeace.org
 127.0.0.1 www.anrdoezrs.net
 127.0.0.1 www.answermedia.com
 127.0.0.1 www.antaraimedia.com
@@ -75311,7 +75326,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 wxdownloadmanager.com
 127.0.0.1 wy.5.p2l.info
 127.0.0.1 wykop.hit.gemius.pl
-127.0.0.1 wypratama.co.id
 127.0.0.1 wz.tynt.com
 127.0.0.1 wzeu.ask.com
 127.0.0.1 wznews.ivwbox.de
@@ -76113,6 +76127,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 zs11.cnzz.com
 127.0.0.1 zs16.cnzz.com
 127.0.0.1 zsc.scmspain.com
+127.0.0.1 zsisk.com
 127.0.0.1 zt.1rx.io
 127.0.0.1 zt.tim-taxi.com
 127.0.0.1 zt.zeroredirect1.com
