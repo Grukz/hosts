@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 76150 ad serving and malware domains.
 #
-# Date Generated: Jan 03 2018
+# Date Generated: Jan 04 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -27353,6 +27353,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 audience.sysomos.com
 127.0.0.1 audience2media.com
 127.0.0.1 audience360.dpmsrv.com
+127.0.0.1 audienceinsights.com
 127.0.0.1 audio.de.intellitxt.com
 127.0.0.1 audio.digidip.net
 127.0.0.1 audio.iad.cimedia.net
@@ -29246,6 +29247,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 begun.ru
 127.0.0.1 behacdn.ksmobile.net
 127.0.0.1 behance.vo.llnwd.net
+127.0.0.1 behavioralengine.com
 127.0.0.1 bei.nuggad.net
 127.0.0.1 beiersdorf.122.2o7.net
 127.0.0.1 bekkoame.ne.jp
@@ -33801,7 +33803,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.superloofy.com
 127.0.0.1 cdn.suthome.com
 127.0.0.1 cdn.syn.verticalacuity.com
-127.0.0.1 cdn.tabnak.ir
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.taboolasyndication.com
 127.0.0.1 cdn.tagcommander.com
@@ -62675,7 +62676,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 trackinguk2.com
 127.0.0.1 trackit.skyhighctr.com
 127.0.0.1 trackit.vicotech.com
-127.0.0.1 trackjs.com
 127.0.0.1 tracklead.net
 127.0.0.1 trackmail3345.com
 127.0.0.1 trackmysales.com
