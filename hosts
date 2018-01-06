@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 76151 ad serving and malware domains.
 #
-# Date Generated: Jan 05 2018
+# Date Generated: Jan 06 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -34891,7 +34891,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 clickxchange.com
 127.0.0.1 clickz.com
 127.0.0.1 clickz.lonelycheatingwives.com
-127.0.0.1 clickzxc.com
 127.0.0.1 clicmanager.fr
 127.0.0.1 clicshop.com
 127.0.0.1 clictrafic.com
@@ -62987,6 +62986,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trkrpoint.com
 127.0.0.1 trks.us
 127.0.0.1 trksst.com
+127.0.0.1 trktrk020.com
 127.0.0.1 trkuoy.com
 127.0.0.1 trkur.com
 127.0.0.1 trkur1.com
