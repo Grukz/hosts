@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76152 ad serving and malware domains.
+# Currently blocking 76156 ad serving and malware domains.
 #
-# Date Generated: Jan 11 2018
+# Date Generated: Jan 12 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -19162,6 +19162,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 admanager3.collegepublisher.com
 127.0.0.1 admanmail.com
 127.0.0.1 admantic.ru
+127.0.0.1 admantx.com
 127.0.0.1 admarket.cz
 127.0.0.1 admarket.entireweb.com
 127.0.0.1 admarketplace.com
@@ -37606,6 +37607,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cxad.cxense.com
 127.0.0.1 cxdgl.com
 127.0.0.1 cxdigitalmedia.com
+127.0.0.1 cxense.com
 127.0.0.1 cxoadfarm.dyndns.info
 127.0.0.1 cxociocom.112.2o7.net
 127.0.0.1 cxocomdev.112.2o7.net
@@ -58057,6 +58059,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sh4sure-images.adbureau.net
 127.0.0.1 shadowraze.pw
 127.0.0.1 shadu.duba.net
+127.0.0.1 shafou.com
 127.0.0.1 shakesea.com
 127.0.0.1 shakira.sexybabesx.com
 127.0.0.1 shaktitextileengr.com
@@ -73826,6 +73829,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.sfondatanale.com
 127.0.0.1 www.sgiz.mobi
 127.0.0.1 www.sgizmo.com
+127.0.0.1 www.shafou.com
 127.0.0.1 www.shannon-eaglin.us
 127.0.0.1 www.shantel-newberry.us
 127.0.0.1 www.shantel-poulin.us
