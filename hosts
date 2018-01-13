@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76156 ad serving and malware domains.
+# Currently blocking 76155 ad serving and malware domains.
 #
-# Date Generated: Jan 12 2018
+# Date Generated: Jan 13 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25175,6 +25175,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 affiliate.mediatemple.net
 127.0.0.1 affiliate.mercola.com
 127.0.0.1 affiliate.mlntracker.com
+127.0.0.1 affiliate.mogs.com
 127.0.0.1 affiliate.mymall.bg
 127.0.0.1 affiliate.nmbtrack.com
 127.0.0.1 affiliate.no.espotting.com
@@ -44727,7 +44728,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 idm.us.intellitxt.com
 127.0.0.1 idontlikeyouinthatway.us.intellitxt.com
 127.0.0.1 idpix.media6degrees.com
-127.0.0.1 idregie.com
 127.0.0.1 idritracker.com
 127.0.0.1 idspaces.ero-advertising.com
 127.0.0.1 idsync.rlcdn.com
@@ -54556,7 +54556,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pro-networks.us.intellitxt.com
 127.0.0.1 pro.hit.gemius.pl
 127.0.0.1 pro.hit.stat24.com
-127.0.0.1 pro.i-doctor.co.kr
 127.0.0.1 pro.ip-api.com
 127.0.0.1 pro.letv.com
 127.0.0.1 pro.marinsm.com
