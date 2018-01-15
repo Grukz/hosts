@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76155 ad serving and malware domains.
+# Currently blocking 76161 ad serving and malware domains.
 #
-# Date Generated: Jan 14 2018
+# Date Generated: Jan 15 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -34211,6 +34211,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 charlizetheron.1stOK.com
 127.0.0.1 charlizetheron.sexybabesx.com
 127.0.0.1 charmedno1.com
+127.0.0.1 charmflirt.com
 127.0.0.1 charmstroy.info
 127.0.0.1 chart.advinion.com
 127.0.0.1 chart.dk
@@ -51187,6 +51188,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 newsoxy.us.intellitxt.com
 127.0.0.1 newspaperarchive.go2cloud.org
 127.0.0.1 newsquestdigitalmedia.122.2o7.net
+127.0.0.1 newsreport.com-alerts.info
 127.0.0.1 newssourceoftoday.com
 127.0.0.1 newstarads.com
 127.0.0.1 newsterminalvelocity.com
@@ -52149,6 +52151,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 oceanup.us.intellitxt.com
 127.0.0.1 ocick.frost-electric-supply.com
 127.0.0.1 ocio.leadzu.com
+127.0.0.1 oclasrv.com
 127.0.0.1 ocoym.voluumtrk.com
 127.0.0.1 ocp.bnet.com
 127.0.0.1 ocp.cbsnews.com
@@ -61481,6 +61484,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ting.7eer.net
 127.0.0.1 tinglog.baidu.com
 127.0.0.1 tinybar.com
+127.0.0.1 tinypass.com
 127.0.0.1 tinytracker.onion.com
 127.0.0.1 tips.oewabox.at
 127.0.0.1 tipsforall.xyz
@@ -64374,6 +64378,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 videotroncom.112.2o7.net
 127.0.0.1 vidilife.crwdcntrl.net
 127.0.0.1 vidnet.us.intellitxt.com
+127.0.0.1 vidora.com
 127.0.0.1 vidzur.com
 127.0.0.1 view-ads.de
 127.0.0.1 view.admission.net
@@ -71584,6 +71589,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.freeshoppingprovider.com
 127.0.0.1 www.freeshoppingsource.com
 127.0.0.1 www.freeslide.com
+127.0.0.1 www.freespinwinner.win
 127.0.0.1 www.freestat.pl
 127.0.0.1 www.freestat.ws
 127.0.0.1 www.freestats.com
