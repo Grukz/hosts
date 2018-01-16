@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76161 ad serving and malware domains.
+# Currently blocking 76163 ad serving and malware domains.
 #
-# Date Generated: Jan 15 2018
+# Date Generated: Jan 16 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -23945,6 +23945,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adsstat.com
 127.0.0.1 adstaces.ero-advertising.com
 127.0.0.1 adstage-analytics.herokuapp.com
+127.0.0.1 adstage.io
 127.0.0.1 adstat.4u.pl
 127.0.0.1 adstats.adviva.net
 127.0.0.1 adstest.reklamstore.com
@@ -27319,6 +27320,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 attirer.science
 127.0.0.1 attrack.ientrynetwork.net
 127.0.0.1 attribution.webmarketing123.com
+127.0.0.1 attributiontracker.com
 127.0.0.1 attributiontrackingga.googlecode.com
 127.0.0.1 attservicesinc.tt.omtrdc.net
 127.0.0.1 atvplus.oewabox.at
