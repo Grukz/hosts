@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 76192 ad serving and malware domains.
 #
-# Date Generated: Jan 17 2018
+# Date Generated: Jan 18 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -38003,6 +38003,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 daggr.adsxgm.com
 127.0.0.1 daghashmal.com
 127.0.0.1 daia.ero-advertising.com
+127.0.0.1 daicoaero.ru
 127.0.0.1 daidalos.twyn.com
 127.0.0.1 daikoku.ebis.ne.jp
 127.0.0.1 daily-saver.com
@@ -40601,7 +40602,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 everythingbts.com
 127.0.0.1 eviboli576.o-f.com
 127.0.0.1 evidencecleanergold.com
-127.0.0.1 evidon.com
 127.0.0.1 evilbeetgossip.us.intellitxt.com
 127.0.0.1 evisit.exeter.ac.uk
 127.0.0.1 evisitcs2.com
@@ -53076,7 +53076,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 oxybe.com
 127.0.0.1 oya.ru
 127.0.0.1 oylkc.voluumtrk.com
-127.0.0.1 oyster.ws
 127.0.0.1 oyvir.voluumtrk.com
 127.0.0.1 oz.valueclick.com
 127.0.0.1 oz.valueclick.ne.jp
@@ -62620,6 +62619,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracking.plattformad.com
 127.0.0.1 tracking.practicefusion.com
 127.0.0.1 tracking.prm20cloud.com
+127.0.0.1 tracking.prmtracking.com
 127.0.0.1 tracking.profitsource.net
 127.0.0.1 tracking.promiflash.de
 127.0.0.1 tracking.propellerads.com
