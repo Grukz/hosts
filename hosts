@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76192 ad serving and malware domains.
+# Currently blocking 76196 ad serving and malware domains.
 #
-# Date Generated: Jan 18 2018
+# Date Generated: Jan 19 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -43743,6 +43743,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hc1.humanclick.com
 127.0.0.1 hc2.humanclick.com
 127.0.0.1 hccd.info
+127.0.0.1 hcg82f2b.com
 127.0.0.1 hcharbach.de
 127.0.0.1 hchrmain.112.2o7.net
 127.0.0.1 hclrm.voluumtrk.com
@@ -68825,6 +68826,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 webtracker.educationconnection.com
 127.0.0.1 webtrackerplus.com
 127.0.0.1 webtracking.touchclarity.com
+127.0.0.1 webtracky.com
 127.0.0.1 webtraffic.se
 127.0.0.1 webtraffic.ttinet.com
 127.0.0.1 webtrafficllc.co
@@ -68970,6 +68972,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wibiya-actions.conduit-data.com
 127.0.0.1 wibiya-june-new-log.conduit-data.com
 127.0.0.1 wicked-media.net
+127.0.0.1 widdit.com
 127.0.0.1 widesearchengine.com
 127.0.0.1 widespace.com
 127.0.0.1 widget-analytics.virool.com
@@ -73710,6 +73713,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.scantanzania.com
 127.0.0.1 www.scarlett-lorenzo.us
 127.0.0.1 www.scenicreflections.com
+127.0.0.1 www.schedmemory.com
 127.0.0.1 www.schuh-zentgraf.de
 127.0.0.1 www.schwarz-weisses.de
 127.0.0.1 www.schwule-boys-nackt.cxa.de
