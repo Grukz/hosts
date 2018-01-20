@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 76196 ad serving and malware domains.
 #
-# Date Generated: Jan 19 2018
+# Date Generated: Jan 20 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -21039,7 +21039,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.phonearena.com
 127.0.0.1 ads.photosight.ru
 127.0.0.1 ads.phpclasses.org
-127.0.0.1 ads.pickmeup-ltd.com
 127.0.0.1 ads.pictela.net
 127.0.0.1 ads.pik.bg
 127.0.0.1 ads.pilotonline.com
@@ -26010,6 +26009,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 an.z5x.net
 127.0.0.1 anad.tacoda.net
 127.0.0.1 anaerobicdigestion.com
+127.0.0.1 anahtars.com
 127.0.0.1 anali.org
 127.0.0.1 analiticwebexperience.com
 127.0.0.1 analpornshows.com
@@ -44356,6 +44356,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 htmlcenter.us.intellitxt.com
 127.0.0.1 htmlcounter.com
 127.0.0.1 htmldialer.parisvoyeur.com
+127.0.0.1 htmlhubing.xyz
 127.0.0.1 htmlwww.youfck.com
 127.0.0.1 htmonster.com
 127.0.0.1 hts2.adpremium.org
@@ -50689,7 +50690,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mylondon.hc0.me
 127.0.0.1 mylottoadserv.com
 127.0.0.1 mymediadownloadsthirtytwo.com
-127.0.0.1 mymoneymakingapp.com
 127.0.0.1 myns-v1.websys.aol.com
 127.0.0.1 myoffertracking.com
 127.0.0.1 mypagerank.net
