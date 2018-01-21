@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76196 ad serving and malware domains.
+# Currently blocking 76195 ad serving and malware domains.
 #
-# Date Generated: Jan 20 2018
+# Date Generated: Jan 21 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -68040,7 +68040,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 vml1.s3.amazonaws.com
 127.0.0.1 vmn.net
 127.0.0.1 vmp.boldchat.com
-127.0.0.1 vms.boldchat.com
 127.0.0.1 vmss.boldchat.com
 127.0.0.1 vn.grab-credit4u.com
 127.0.0.1 vnu.eu-adcenter.net
