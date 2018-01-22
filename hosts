@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76195 ad serving and malware domains.
+# Currently blocking 76198 ad serving and malware domains.
 #
-# Date Generated: Jan 21 2018
+# Date Generated: Jan 22 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1436,6 +1436,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 3gupload.112.2o7.net
 127.0.0.1 3guys1hammer.ws
 127.0.0.1 3hfag.voluumtrk.com
+127.0.0.1 3lift.com
 127.0.0.1 3m56h.voluumtrk.com
 127.0.0.1 3ps.go.com
 127.0.0.1 3rdeye.go2cloud.org
@@ -61444,6 +61445,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ti.tradetracker.net
 127.0.0.1 ti.tradetracker.nl
 127.0.0.1 tia-bushnell.us
+127.0.0.1 tia.timeinc.net
 127.0.0.1 tiads.essence.com
 127.0.0.1 tiads.ew.com
 127.0.0.1 tiads.health.com
@@ -68516,6 +68518,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 watchever.bild.de
 127.0.0.1 watchfree.flv.in
 127.0.0.1 watchfreeflix.aavalue.com
+127.0.0.1 watchingthat.com
 127.0.0.1 watchlivestream.me.uk
 127.0.0.1 water-bed.8p.org.uk
 127.0.0.1 waterfrontmedia.112.2o7.net
