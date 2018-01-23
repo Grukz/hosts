@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76198 ad serving and malware domains.
+# Currently blocking 76199 ad serving and malware domains.
 #
-# Date Generated: Jan 22 2018
+# Date Generated: Jan 23 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -63024,6 +63024,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trks.us
 127.0.0.1 trksst.com
 127.0.0.1 trktrk020.com
+127.0.0.1 trktrk026.com
 127.0.0.1 trkuoy.com
 127.0.0.1 trkur.com
 127.0.0.1 trkur1.com
