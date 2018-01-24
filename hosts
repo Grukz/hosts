@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76199 ad serving and malware domains.
+# Currently blocking 76206 ad serving and malware domains.
 #
-# Date Generated: Jan 23 2018
+# Date Generated: Jan 24 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2622,6 +2622,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.venonita.com
 127.0.0.1 a.visadd.com
 127.0.0.1 a.visualrevenue.com
+127.0.0.1 a.volvelle.tech
 127.0.0.1 a.vonage.com
 127.0.0.1 a.vserv.mobi
 127.0.0.1 a.wakapita.com
@@ -38004,7 +38005,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 daggr.adsxgm.com
 127.0.0.1 daghashmal.com
 127.0.0.1 daia.ero-advertising.com
-127.0.0.1 daicoaero.ru
 127.0.0.1 daidalos.twyn.com
 127.0.0.1 daikoku.ebis.ne.jp
 127.0.0.1 daily-saver.com
@@ -40511,6 +40511,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 eu-px.steelhousemedia.com
 127.0.0.1 eu-sonar.sociomantic.com
 127.0.0.1 eu-u.openx.net
+127.0.0.1 eu.a.volvelle.tech
 127.0.0.1 eu.link.decideinteractive.com
 127.0.0.1 eu.npario-inc.net
 127.0.0.1 eu.nuggad.net
@@ -46610,6 +46611,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kc.mv.bidsystem.com
 127.0.0.1 kc.search.need2find.com
 127.0.0.1 kcaf9.voluumtrk.com
+127.0.0.1 kcaima.ru
 127.0.0.1 kczambians.com
 127.0.0.1 kd1fv.voluumtrk.com
 127.0.0.1 kddi.122.2o7.net
@@ -62349,6 +62351,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracker.databrain.com
 127.0.0.1 tracker.departapp.com
 127.0.0.1 tracker.dev.hearst.nl
+127.0.0.1 tracker.divvit.com
 127.0.0.1 tracker.drippler.com
 127.0.0.1 tracker.egora.fr
 127.0.0.1 tracker.emailaptitude.com
@@ -63978,6 +63981,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 usdm.122.2o7.net
 127.0.0.1 usdtop.58.com
 127.0.0.1 use-tor.adsrvr.org
+127.0.0.1 use.a.volvelle.tech
 127.0.0.1 use.convertglobal.com
 127.0.0.1 usearchmedia.com
 127.0.0.1 usedstone.com
@@ -64006,6 +64010,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 usseek.com
 127.0.0.1 usswrite.com
 127.0.0.1 usun.112.2o7.net
+127.0.0.1 usw.a.volvelle.tech
 127.0.0.1 ut.5.p2l.info
 127.0.0.1 ut.addthis.com
 127.0.0.1 utairway.com
@@ -68073,6 +68078,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 voluumtrk.com
 127.0.0.1 voluumtrk2.com
 127.0.0.1 voluumtrk3.com
+127.0.0.1 volvelle-ads-cdn.azureedge.net
 127.0.0.1 vom.sitescout.com
 127.0.0.1 vomba.com
 127.0.0.1 vombashots.com
@@ -69593,6 +69599,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.99stats.com
 127.0.0.1 www.a-ads.com
 127.0.0.1 www.a.ero-advertising.com
+127.0.0.1 www.a.volvelle.tech
 127.0.0.1 www.a.websponsors.com
 127.0.0.1 www.a1fax.com
 127.0.0.1 www.a4dtracker.com
