@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76206 ad serving and malware domains.
+# Currently blocking 76191 ad serving and malware domains.
 #
-# Date Generated: Jan 24 2018
+# Date Generated: Jan 25 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -428,8 +428,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 123.duba.net
 127.0.0.1 123.fluxads.com
 127.0.0.1 123.ichkoche.at
-127.0.0.1 123456.center
-127.0.0.1 123456.click
 127.0.0.1 1239.9014.302br.net
 127.0.0.1 123ads.nl
 127.0.0.1 123adult.com
@@ -33000,7 +32998,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ca.cqcounter.com
 127.0.0.1 ca.fp.sandpiper.nl
 127.0.0.1 ca.livestat.com
-127.0.0.1 ca.origin.startappservice.com
 127.0.0.1 ca1.bluestreak.com
 127.0.0.1 ca3.revieworbit.com
 127.0.0.1 ca305656.luckyorange.com
@@ -38732,6 +38729,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 digitalmediawire.us.intellitxt.com
 127.0.0.1 digitalmerkat.com
 127.0.0.1 digitalnames.net
+127.0.0.1 digitalngo.com
 127.0.0.1 digitalone.go2cloud.org
 127.0.0.1 digitalsalesmedia.go2cloud.org
 127.0.0.1 digitaltrends-d.openx.net
@@ -40279,6 +40277,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 enquisite.com
 127.0.0.1 enrichment.moportals.com
 127.0.0.1 enscl.com
+127.0.0.1 ensighten.com
 127.0.0.1 ensyp.voluumtrk.com
 127.0.0.1 enter.sexlist.com
 127.0.0.1 enter.sextracker.com
@@ -50812,27 +50811,14 @@ ff02::2 ip6-allrouters
 127.0.0.1 n52.adshostnet.com
 127.0.0.1 n6.adshostnet.com
 127.0.0.1 n60adserv.com
-127.0.0.1 n61adserv.com
-127.0.0.1 n62adserv.com
 127.0.0.1 n63adserv.com
 127.0.0.1 n64adserv.com
 127.0.0.1 n65adserv.com
-127.0.0.1 n66adserv.com
-127.0.0.1 n67adserv.com
-127.0.0.1 n68adserv.com
 127.0.0.1 n69.com
 127.0.0.1 n69adserv.com
 127.0.0.1 n7.adshostnet.com
-127.0.0.1 n70adserv.com
-127.0.0.1 n71adserv.com
 127.0.0.1 n72.adshostnet.com
 127.0.0.1 n72adserv.com
-127.0.0.1 n73adserv.com
-127.0.0.1 n74adserv.com
-127.0.0.1 n75adserv.com
-127.0.0.1 n76adserv.com
-127.0.0.1 n77adserv.com
-127.0.0.1 n78adserv.com
 127.0.0.1 n79adserv.com
 127.0.0.1 n7yk4.voluumtrk.com
 127.0.0.1 n8.adshostnet.com
@@ -58068,7 +58054,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sg.eu-west-1.p.xpanama.net
 127.0.0.1 sg.eu.p.xpanama.net
 127.0.0.1 sg.geo.p.xpanama.net
-127.0.0.1 sg.origin.startappservice.com
 127.0.0.1 sg.p.xpanama.net
 127.0.0.1 sg.us-east-1.p.xpanama.net
 127.0.0.1 sg.us.p.xpanama.net
@@ -61934,7 +61919,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 track.atom-data.io
 127.0.0.1 track.ballerft.site
 127.0.0.1 track.bannerbridge.net
-127.0.0.1 track.bestoffertime.com
 127.0.0.1 track.bidtrk.com
 127.0.0.1 track.bigbrandpromotions.com
 127.0.0.1 track.blamads.com
@@ -71137,6 +71121,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.digiaquascr.com
 127.0.0.1 www.digimedia.com
 127.0.0.1 www.digink.com
+127.0.0.1 www.digitalngo.com
 127.0.0.1 www.digits.com
 127.0.0.1 www.dihitt.com
 127.0.0.1 www.dimkus.com
