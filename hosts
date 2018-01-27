@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76191 ad serving and malware domains.
+# Currently blocking 76178 ad serving and malware domains.
 #
-# Date Generated: Jan 26 2018
+# Date Generated: Jan 27 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2595,7 +2595,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.tikrailijorj.com
 127.0.0.1 a.tiscali.co.uk
 127.0.0.1 a.total-media.net
-127.0.0.1 a.trgt.eu
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 a.triggit.com
 127.0.0.1 a.trkme.net
@@ -19966,7 +19965,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.cdfreaks.com
 127.0.0.1 ads.cdn.rovio.com
 127.0.0.1 ads.cdnow.com
-127.0.0.1 ads.cdnrl.com
 127.0.0.1 ads.cdnslate.com
 127.0.0.1 ads.cdrinfo.com
 127.0.0.1 ads.ce.cn
@@ -20498,7 +20496,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.hooqy.com
 127.0.0.1 ads.hornymatches.com
 127.0.0.1 ads.hornypharaoh.com
-127.0.0.1 ads.horsehero.com
 127.0.0.1 ads.horyzon-media.com
 127.0.0.1 ads.host.camz.com
 127.0.0.1 ads.hosting.vcmedia.vn
@@ -20802,7 +20799,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.mobclix.com
 127.0.0.1 ads.mobgold.com
 127.0.0.1 ads.mobidea.com
-127.0.0.1 ads.mobilecore.com
 127.0.0.1 ads.mobiledia.com
 127.0.0.1 ads.mobilefuse.net
 127.0.0.1 ads.mobilemarketer.com
@@ -21636,7 +21632,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.torrpedo.net
 127.0.0.1 ads.totallyfreestuff.com
 127.0.0.1 ads.townhall.com
-127.0.0.1 ads.tpvl.co
 127.0.0.1 ads.tracfonewireless.com
 127.0.0.1 ads.track.net
 127.0.0.1 ads.trackentertainment.com
@@ -24284,7 +24279,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adv.researchnow.co.uk
 127.0.0.1 adv.riza.it
 127.0.0.1 adv.rockstar.bg
-127.0.0.1 adv.securestudies.com
 127.0.0.1 adv.sexcounter.com
 127.0.0.1 adv.speednet.bg
 127.0.0.1 adv.starozagorci.com
@@ -29715,6 +29709,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bluray-hq-tube.cn
 127.0.0.1 blushing.justclick.ru
 127.0.0.1 blutrumpet.com
+127.0.0.1 blw4-1.com
 127.0.0.1 blyapizdets.info
 127.0.0.1 bm.alimama.cn
 127.0.0.1 bm.annonce.cz
@@ -34542,6 +34537,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cleanchain.net
 127.0.0.1 cleangamemedia.go2cloud.org
 127.0.0.1 cleaningformac.com
+127.0.0.1 cleanmobilephone.com
 127.0.0.1 clear-reports.com
 127.0.0.1 clear-search.com
 127.0.0.1 clearbluemedia.org
@@ -35052,7 +35048,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cloud.insightera.com
 127.0.0.1 cloud.video.unrulymedia.com
 127.0.0.1 cloudcoins.biz
-127.0.0.1 cloudcoins.co
 127.0.0.1 cloudcrown.com
 127.0.0.1 cloudfront-dsa-eu.cedexis.com
 127.0.0.1 cloudfront-labs.amazonaws.com
@@ -46460,9 +46455,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jupiter.appads.com
 127.0.0.1 jupiter.bravenet.com
 127.0.0.1 jupiter.us.intellitxt.com
-127.0.0.1 jupiter1.appads.com
 127.0.0.1 jupiter2.appads.com
-127.0.0.1 jupiter3.appads.com
 127.0.0.1 jur.unn.ac.ru
 127.0.0.1 justad.mobi
 127.0.0.1 justcounter.com
@@ -47995,6 +47988,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lp1.linkpulse.com
 127.0.0.1 lp3tdqle.com
 127.0.0.1 lp4.linkpulse.com
+127.0.0.1 lp7.mobilescaner.today
 127.0.0.1 lpcloudsvr302.com
 127.0.0.1 lpcloudsvr405.com
 127.0.0.1 lpm-20minutes.nuggad.net
@@ -50162,6 +50156,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mobooka.hasoffers.com
 127.0.0.1 mobpartner.com
 127.0.0.1 mobpartner.mobi
+127.0.0.1 mobpushup.com
 127.0.0.1 mobred.net
 127.0.0.1 mobrevflwms.com
 127.0.0.1 mobscan.info
@@ -50334,6 +50329,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mp.twitch.tv
 127.0.0.1 mp3.zonebg.com
 127.0.0.1 mp3playersource.com
+127.0.0.1 mp3red.cc
 127.0.0.1 mpartner.googleadservices.com
 127.0.0.1 mpire.112.2o7.net
 127.0.0.1 mpkhi-bk.multi.net.pk
@@ -51010,10 +51006,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 neoseeker.us.intellitxt.com
 127.0.0.1 neowin.us.intellitxt.com
 127.0.0.1 nephritish.com
-127.0.0.1 neptune.appads.com
 127.0.0.1 neptune1.appads.com
 127.0.0.1 neptune2.appads.com
-127.0.0.1 neptune3.appads.com
 127.0.0.1 neref.112.2o7.net
 127.0.0.1 nerez-schodiste-zabradli.com
 127.0.0.1 nesql.voluumtrk.com
@@ -55988,15 +55982,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 republer.com
 127.0.0.1 republika.onet.pl
 127.0.0.1 req.adsmogo.com
-127.0.0.1 req.appads.com
 127.0.0.1 req.connect.wunderloop.net
 127.0.0.1 req.mojiva.com
 127.0.0.1 req.startappexchange.com
 127.0.0.1 req.startappservice.com
 127.0.0.1 req.tidaltv.com
 127.0.0.1 req1.appads.com
-127.0.0.1 req2.appads.com
-127.0.0.1 req3.appads.com
 127.0.0.1 reqpostanza.com
 127.0.0.1 request.issuu.com
 127.0.0.1 res-x.com
@@ -57615,6 +57606,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 securitas493maximus.xyz
 127.0.0.1 securitas611maximus.xyz
 127.0.0.1 securite.01net.com
+127.0.0.1 security-alert.wz6l9nmd.top
 127.0.0.1 security-alert.zs2vm.top
 127.0.0.1 security.ivwbox.de
 127.0.0.1 security60-e.com
@@ -62011,7 +62003,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 track.juno.com
 127.0.0.1 track.justcloud.com
 127.0.0.1 track.justdoing.biz
-127.0.0.1 track.justhookup.com
 127.0.0.1 track.keywordstrategy.org
 127.0.0.1 track.kscentraltrack.us
 127.0.0.1 track.lativio.com
@@ -62391,7 +62382,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracker.squidanalytics.com
 127.0.0.1 tracker.stats.in.th
 127.0.0.1 tracker.svcoffer.com
-127.0.0.1 tracker.swfstats.com
 127.0.0.1 tracker.timesgroup.com
 127.0.0.1 tracker.trackerbox.com
 127.0.0.1 tracker.tradedoubler.com
@@ -63815,7 +63805,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 updateacces.org
 127.0.0.1 updateauto.preparevideosafesystem4unow.site
 127.0.0.1 updateauto.preparevideosafesystem4unow.space
-127.0.0.1 updated.com
 127.0.0.1 updatehere.ultimatesetnewfreeallsoftupgradesystems.pw
 127.0.0.1 updates.advert-network.com
 127.0.0.1 updates.desktop.ak-networks.com
@@ -64006,7 +63995,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 utils.media-general.com
 127.0.0.1 utils.mediageneral.com
 127.0.0.1 utils.mediageneral.net
-127.0.0.1 utils.swfstats.com
 127.0.0.1 utk.baidu.com
 127.0.0.1 utm.cursormania.com
 127.0.0.1 utm.excite.co.uk
@@ -74982,7 +74970,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.zevents.com
 127.0.0.1 www.zhanzhang.net
 127.0.0.1 www.zhopa.net
-127.0.0.1 www.zinzimo.info
 127.0.0.1 www.zipitfast.com
 127.0.0.1 www.zlothonline.info
 127.0.0.1 www.zoe-labat.us
@@ -75842,6 +75829,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 yotefiles.com
 127.0.0.1 yottos.com
 127.0.0.1 yotube.com
+127.0.0.1 you-have-0ne-messsagehe0.top
 127.0.0.1 you2mail.com
 127.0.0.1 youaresogay.com
 127.0.0.1 youcanoptin.com
@@ -76095,7 +76083,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 zinovila.com
 127.0.0.1 zintext.com
 127.0.0.1 zinturax.com
-127.0.0.1 zinzimo.info
 127.0.0.1 zionia.com
 127.0.0.1 zip.er.cz
 127.0.0.1 zipcity.com
