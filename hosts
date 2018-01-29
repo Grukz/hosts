@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76204 ad serving and malware domains.
+# Currently blocking 76226 ad serving and malware domains.
 #
-# Date Generated: Jan 28 2018
+# Date Generated: Jan 29 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18641,6 +18641,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 addbtest.timesink.com
 127.0.0.1 addebris.link
 127.0.0.1 addelivery.thestreet.com
+127.0.0.1 addenly.info
 127.0.0.1 addeppo.com
 127.0.0.1 adderall.ourtablets.com
 127.0.0.1 adderallxr.freespaces.com
@@ -29558,6 +29559,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 biopharmastore.com
 127.0.0.1 biosmagazine.uk.intellitxt.com
 127.0.0.1 bir.snjack.info
+127.0.0.1 biromacos.com
 127.0.0.1 birta.stats.is
 127.0.0.1 birth-control.1.p2l.info
 127.0.0.1 bist.ailsg.com
@@ -42166,6 +42168,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 freipres.ivwbox.de
 127.0.0.1 fresh.doublepimp.com
 127.0.0.1 fresh.techdirt.com
+127.0.0.1 freshmac.space
 127.0.0.1 frestacero.com
 127.0.0.1 fretiolo.com
 127.0.0.1 freundin.ivwbox.de
@@ -42404,6 +42407,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gamd.hit.gemius.pl
 127.0.0.1 game-advertising-online.com
 127.0.0.1 game-online-video.petrovka.info
+127.0.0.1 game0516.cdn8-traffic68-server10.top
 127.0.0.1 game4mobile.hayday.mobi
 127.0.0.1 gameads-admin.applifier.com
 127.0.0.1 gameads.digyourowngrave.com
@@ -42911,6 +42915,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 getspecialgifts.com
 127.0.0.1 getstatistics.se
 127.0.0.1 gettyimages.122.2o7.net
+127.0.0.1 getupdate.thebiggestandmoststabletocontentsafe.bid
 127.0.0.1 getweathercast.com
 127.0.0.1 getyour5kcredits0.blogspot.com
 127.0.0.1 getyourfreecomputer.com
@@ -46646,6 +46651,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kelsie-streeter.us
 127.0.0.1 kendra-mcgarry.us
 127.0.0.1 kentsucks.youcanoptout.com
+127.0.0.1 kergaukr.com
 127.0.0.1 keri-maye.us
 127.0.0.1 keri-riel.us
 127.0.0.1 kermit.macnn.com
@@ -48692,6 +48698,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mangler7.generals.ea.com
 127.0.0.1 mangler8.generals.ea.com
 127.0.0.1 mangler9.generals.ea.com
+127.0.0.1 mannela.info
 127.0.0.1 manntv.oewabox.at
 127.0.0.1 manoske.com
 127.0.0.1 mantodea.mantisadnetwork.com
@@ -48840,6 +48847,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 matchnet.st.sageanalyst.net
 127.0.0.1 material.mediav.com
 127.0.0.1 mathenea.com
+127.0.0.1 matheranalytics.com
 127.0.0.1 mathtag.com
 127.0.0.1 matomy.adk2.co
 127.0.0.1 matomy.com
@@ -50039,6 +50047,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mmismm.com
 127.0.0.1 mmm.vindy.com
 127.0.0.1 mmnetwork.mobi
+127.0.0.1 mmoframes.com
 127.0.0.1 mmofreegames.online
 127.0.0.1 mmotraffic.com
 127.0.0.1 mmpstats.mirror-image.com
@@ -51219,6 +51228,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 newt1.adultworld.com
 127.0.0.1 newt2.adultadworld.com
 127.0.0.1 newt3.adultadworld.com
+127.0.0.1 newtest4pc.thebiggestandmoststableforcontenteclear.review
 127.0.0.1 newtger.info
 127.0.0.1 newtips.co
 127.0.0.1 newtopsites.com
@@ -54591,6 +54601,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 probe.cedexis.org
 127.0.0.1 probe.yieldlab.net
 127.0.0.1 probes.cedexis.com
+127.0.0.1 problem-check-700.com
 127.0.0.1 probux.com
 127.0.0.1 prochina.work
 127.0.0.1 procinema.2cnt.net
@@ -58754,6 +58765,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 somethingnice.hc0.me
 127.0.0.1 somni.holidaycheck.com
 127.0.0.1 somni.holidaycheck.de
+127.0.0.1 somniture.stuff.co.nz
 127.0.0.1 somniture.theglobeandmail.com
 127.0.0.1 somnoy.com
 127.0.0.1 somt.honda.com
@@ -59054,6 +59066,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 srv3.wa.marketingsolutions.yahoo.com
 127.0.0.1 srv6.admedit.me
 127.0.0.1 srv6.mobpedia.com
+127.0.0.1 srv7.admedit.net
 127.0.0.1 srvabc.com
 127.0.0.1 srver110.xyz
 127.0.0.1 srvjs.media.net
@@ -60152,6 +60165,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 streamate.com
 127.0.0.1 streamate.doublepimp.com
 127.0.0.1 streamcastnetworks.com
+127.0.0.1 streamillimité.com
 127.0.0.1 streaming-illimite5.com
 127.0.0.1 streaming.tv69.com
 127.0.0.1 strikeadcdn.s3.amazonaws.com
@@ -60281,6 +60295,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 supertop100.com
 127.0.0.1 supplements.1.p2l.info
 127.0.0.1 supply.upjers.com
+127.0.0.1 support-win1230.com
 127.0.0.1 support.carmunity.de
 127.0.0.1 support.carpediem.fr
 127.0.0.1 support.com-support-help.online
@@ -61819,6 +61834,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com.proxy.c9w.net
 127.0.0.1 tpcnc.googlesyndication.com
+127.0.0.1 tpienquete.com
 127.0.0.1 tpl1.realtracker.com
 127.0.0.1 tpl2.realtracker.com
 127.0.0.1 tpnads.com
@@ -63208,6 +63224,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tumi.112.2o7.net
 127.0.0.1 tunmedia.tns-cs.net
 127.0.0.1 tuno.nuggad.net
+127.0.0.1 tupperware.ipapercms.dk
 127.0.0.1 turdgasm.com
 127.0.0.1 turkeyhotelnoslafas.su
 127.0.0.1 turn.com
@@ -63750,6 +63767,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ums.adtechus.com
 127.0.0.1 unadvertising.info
 127.0.0.1 unalbilgisayar.com
+127.0.0.1 unarmedindustry.com
 127.0.0.1 unathleticmag.us.intellitxt.com
 127.0.0.1 uncoached.us.intellitxt.com
 127.0.0.1 uncut.oewabox.at
@@ -71117,6 +71135,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.deskwizz.com
 127.0.0.1 www.destinationurl.com
 127.0.0.1 www.detroithardcore.com
+127.0.0.1 www.devis-abri-de-piscine.fr
 127.0.0.1 www.dezuiderwaard.nl
 127.0.0.1 www.dgmaustralia.com
 127.0.0.1 www.dh956.com
@@ -72510,6 +72529,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.linkscout.com
 127.0.0.1 www.linkshare.com
 127.0.0.1 www.linksmile.com
+127.0.0.1 www.linksourcetrack.com
 127.0.0.1 www.linksredirect.com
 127.0.0.1 www.linkstation.de
 127.0.0.1 www.linksummary.com
@@ -75650,6 +75670,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 xml.ioam.de
 127.0.0.1 xml.ivillage.overture.com
 127.0.0.1 xml.maxifiles.com
+127.0.0.1 xml.mediashakers.com
 127.0.0.1 xml.mxsads.com
 127.0.0.1 xml.nbcsearch.com
 127.0.0.1 xml.online-adnetwork.com
@@ -75664,6 +75685,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 xml.vokut.com
 127.0.0.1 xml.weather.overture.com
 127.0.0.1 xml.xmlwizard.com
+127.0.0.1 xml.yepmedia.com
 127.0.0.1 xml2.nbcsearch.com
 127.0.0.1 xml2.trafficsyndicate.com
 127.0.0.1 xmlheads.com
