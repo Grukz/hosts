@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75981 ad serving and malware domains.
+# Currently blocking 75980 ad serving and malware domains.
 #
-# Date Generated: Jan 31 2018
+# Date Generated: Feb 01 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -44189,7 +44189,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 hr.static.etargetnet.com
 127.0.0.1 hrdcvn.com.vn
 127.0.0.1 hrdya.voluumtrk.com
-127.0.0.1 href.li
 127.0.0.1 hrgde.adocean.pl
 127.0.0.1 hruner.com
 127.0.0.1 hs-analytics.net
@@ -52270,7 +52269,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 one.cam4ads.com
 127.0.0.1 one.ru
 127.0.0.1 oneandonlynetwork.com
-127.0.0.1 oneclickcash.com
 127.0.0.1 onedrive-collection.device.mobileengagement.windows.net
 127.0.0.1 onedrive-onerm-events-primary-cus.servicebus.windows.net
 127.0.0.1 onefeed.co.uk
@@ -62692,6 +62690,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trax.prostrax.com
 127.0.0.1 tray-e-ex.tekblue.net
 127.0.0.1 tray-w-ex.tekblue.net
+127.0.0.1 trbas.com
 127.0.0.1 trc.smtrcplatform.it
 127.0.0.1 trc.taboola.com
 127.0.0.1 trc.taboolasyndication.com
