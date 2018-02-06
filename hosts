@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75989 ad serving and malware domains.
+# Currently blocking 76007 ad serving and malware domains.
 #
-# Date Generated: Feb 05 2018
+# Date Generated: Feb 06 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -15707,6 +15707,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad.freshersexposed.com
 127.0.0.1 ad.funpic.de
 127.0.0.1 ad.fyadr.info
+127.0.0.1 ad.g-content.bid
 127.0.0.1 ad.games.ch
 127.0.0.1 ad.gamingdaily.info
 127.0.0.1 ad.garantiarkadas.com
@@ -33628,6 +33629,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.investingchannel.com
 127.0.0.1 cdn.ip.inpwrd.com
 127.0.0.1 cdn.iqcontentplatform.de
+127.0.0.1 cdn.jquery-uim.download
 127.0.0.1 cdn.justonecookbook.com
 127.0.0.1 cdn.kikuzip.com
 127.0.0.1 cdn.kixer.com
@@ -33737,6 +33739,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.springboard.gorillanation.com
 127.0.0.1 cdn.startpagea.com
 127.0.0.1 cdn.stat.easydate.biz
+127.0.0.1 cdn.static-cnt.bid
 127.0.0.1 cdn.static.zdbb.net
 127.0.0.1 cdn.stdmbl.com
 127.0.0.1 cdn.stickyadstv.com
@@ -35179,6 +35182,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cnt.rambler.ru
 127.0.0.1 cnt.rate.ru
 127.0.0.1 cnt.spbland.ru
+127.0.0.1 cnt.statistic.date
 127.0.0.1 cnt.sup.com
 127.0.0.1 cnt.threewave.jp
 127.0.0.1 cnt.tmefekt.pl
@@ -35273,6 +35277,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 coin-media.com
 127.0.0.1 coinerra.com
 127.0.0.1 coinhive.com
+127.0.0.1 coinimp.com
 127.0.0.1 cointraffic.io
 127.0.0.1 coinurl.com
 127.0.0.1 coinvisitor.com
@@ -37367,6 +37372,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 crxbh.voluumtrk.com
 127.0.0.1 cryptmyexe.pw
 127.0.0.1 crypto-loot.com
+127.0.0.1 cryptoloot.pro
 127.0.0.1 crystal-eisenberg.us
 127.0.0.1 cs.adcastplus.net
 127.0.0.1 cs.adingo.jp
@@ -41988,6 +41994,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 freecharge.demdex.net
 127.0.0.1 freechat.llil.de
 127.0.0.1 freecodecs.us.intellitxt.com
+127.0.0.1 freecontent.bid
 127.0.0.1 freecoolgift.com
 127.0.0.1 freecountersnow.com
 127.0.0.1 freedailydownload.com
@@ -43550,6 +43557,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 halc.iadvize.com
 127.0.0.1 haley-seeber.us
 127.0.0.1 halfords.ukrpts.net
+127.0.0.1 hallaert.online
 127.0.0.1 halleberry.sexybabesx.com
 127.0.0.1 halleberrynude.ca.tt
 127.0.0.1 hallmarkibmcom.112.2o7.net
@@ -43603,6 +43611,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 harvester.piano-media.com
 127.0.0.1 has.go2cloud.org
 127.0.0.1 has.it
+127.0.0.1 hashing.win
 127.0.0.1 haso.pubmatic.com
 127.0.0.1 hasoffers.com
 127.0.0.1 hasoffers.ymtrack.com
@@ -49811,6 +49820,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mini.videostrip.com
 127.0.0.1 minisearch.startnow.com
 127.0.0.1 ministerio-publi.info
+127.0.0.1 minr.pw
 127.0.0.1 mint.boingboing.net
 127.0.0.1 mintake.com
 127.0.0.1 miov5.voluumtrk.com
@@ -59958,7 +59968,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 streamate.com
 127.0.0.1 streamate.doublepimp.com
 127.0.0.1 streamcastnetworks.com
-127.0.0.1 streamillimité.com
 127.0.0.1 streaming-illimite5.com
 127.0.0.1 streaming.tv69.com
 127.0.0.1 strikeadcdn.s3.amazonaws.com
@@ -68453,6 +68462,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 webanalyticsnossl.websense.com
 127.0.0.1 webangel.ru
 127.0.0.1 webartsbrack.tt.omtrdc.net
+127.0.0.1 webassembly.stream
 127.0.0.1 webaudit.hu
 127.0.0.1 webbizwild.com
 127.0.0.1 webbug.seatreport.com
@@ -70607,6 +70617,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.codeads.com
 127.0.0.1 www.codez-knacken.de
 127.0.0.1 www.cogtree.com
+127.0.0.1 www.coinimp.com
 127.0.0.1 www.coinurl.com
 127.0.0.1 www.coinvisitor.com
 127.0.0.1 www.colette-connell.us
@@ -70806,6 +70817,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.crunkedtracking.com
 127.0.0.1 www.crushads.com
 127.0.0.1 www.crwdcntrl.net
+127.0.0.1 www.cryptoloot.pro
 127.0.0.1 www.cshacks.partycat.us
 127.0.0.1 www.cstrk.net
 127.0.0.1 www.ctbdev.net
@@ -71360,6 +71372,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.freecamerauk.co.uk
 127.0.0.1 www.freecamsecrets.com
 127.0.0.1 www.freecamsexposed.com
+127.0.0.1 www.freecontent.bid
 127.0.0.1 www.freecoolgift.com
 127.0.0.1 www.freecounter.it
 127.0.0.1 www.freecountersnow.com
@@ -71667,6 +71680,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.hairg.biz
 127.0.0.1 www.hakerzy.net
 127.0.0.1 www.haley-seeber.us
+127.0.0.1 www.hallaert.online
 127.0.0.1 www.handyarchive.com
 127.0.0.1 www.handyseek.com
 127.0.0.1 www.hanklist.com
@@ -71677,6 +71691,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.hardcoretraffic.com
 127.0.0.1 www.hardware4freaks.de
 127.0.0.1 www.harmonyhollow.net
+127.0.0.1 www.hashing.win
 127.0.0.1 www.hasoffers.com
 127.0.0.1 www.hastrk1.com
 127.0.0.1 www.hastrk2.com
@@ -72596,6 +72611,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.milkfountain.com
 127.0.0.1 www.mim.io
 127.0.0.1 www.mindy-sawyer.us
+127.0.0.1 www.minr.pw
 127.0.0.1 www.mirostart.com
 127.0.0.1 www.mirrorad.com
 127.0.0.1 www.misti-bourbeau.us
@@ -73186,6 +73202,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.poxudeli.ru
 127.0.0.1 www.ppcindo.com
 127.0.0.1 www.ppctracking.net
+127.0.0.1 www.ppoi.org
 127.0.0.1 www.pptrk.com
 127.0.0.1 www.pr-free.de
 127.0.0.1 www.pragueline.com
@@ -74497,6 +74514,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.webabrufe.de
 127.0.0.1 www.webalize.net
 127.0.0.1 www.webanalyser.net
+127.0.0.1 www.webassembly.stream
 127.0.0.1 www.webattack.com
 127.0.0.1 www.webcashvideos.com
 127.0.0.1 www.webclients.net
