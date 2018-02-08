@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76007 ad serving and malware domains.
+# Currently blocking 76003 ad serving and malware domains.
 #
-# Date Generated: Feb 07 2018
+# Date Generated: Feb 08 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -21734,7 +21734,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.videofen.com
 127.0.0.1 ads.videohub.tv
 127.0.0.1 ads.videoslots.com
-127.0.0.1 ads.videostrip.com-prizes-giveaway.online
 127.0.0.1 ads.videosz.com
 127.0.0.1 ads.vidsense.com
 127.0.0.1 ads.viewlondon.co.uk
@@ -23711,7 +23710,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adservinginternational.com
 127.0.0.1 adservingnetwork.com
 127.0.0.1 adservone.com
-127.0.0.1 adservpi.com
 127.0.0.1 adservr.net
 127.0.0.1 adserwer.afilo.pl
 127.0.0.1 adserwer.o2.pl
@@ -41998,7 +41996,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 freecoolgift.com
 127.0.0.1 freecountersnow.com
 127.0.0.1 freedailydownload.com
-127.0.0.1 freedatarecharge.com
 127.0.0.1 freedesignerhandbagreviews.com
 127.0.0.1 freedinnersource.com
 127.0.0.1 freedownloadcenter.uk.intellitxt.com
@@ -43081,7 +43078,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 go.theadsnet.com
 127.0.0.1 go.toutapp.com
 127.0.0.1 go.trackgold.net
-127.0.0.1 go.tracking222.site
 127.0.0.1 go.tracksz.co
 127.0.0.1 go.trafficshop.com
 127.0.0.1 go.trkreward.com
@@ -44747,6 +44743,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 illinoisnets.net
 127.0.0.1 illustriousoatmeal.com
 127.0.0.1 iloopmobile.com
+127.0.0.1 ilovecookies.co
 127.0.0.1 ilovemobi.com
 127.0.0.1 iltempo.com.au
 127.0.0.1 ilu.troughtheend.com
@@ -47254,7 +47251,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 link.super-courriel.com
 127.0.0.1 link.sysmail.fr
 127.0.0.1 link.tonoffre.fr
-127.0.0.1 link.trackscity.com
 127.0.0.1 link.transibase.fr
 127.0.0.1 link.transiblue.fr
 127.0.0.1 link.transibox.fr
@@ -51294,6 +51290,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nordette.4.p2l.info
 127.0.0.1 nordiccountry.cz
 127.0.0.1 norma-simental.us
+127.0.0.1 normalexchange.com
 127.0.0.1 nortelcom.112.2o7.net
 127.0.0.1 northjersey.112.2o7.net
 127.0.0.1 northnetworks.go2cloud.org
@@ -53980,6 +53977,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 plb27.voluumtrk.com
 127.0.0.1 pldev.112.2o7.net
 127.0.0.1 pleasedontslaymy.download
+127.0.0.1 pleasewaitlonger.com
 127.0.0.1 plemedia.com
 127.0.0.1 plemx.com
 127.0.0.1 plenews.net
@@ -55603,7 +55601,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 redirect.fairfax.com.au
 127.0.0.1 redirect.hotkeys.com
 127.0.0.1 redirect.la.idealab.com
-127.0.0.1 redirect.leadstracker.net
 127.0.0.1 redirect.linksummary.com
 127.0.0.1 redirect.mindians.com
 127.0.0.1 redirect.mobpartner.mobi
@@ -58921,7 +58918,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ssend.microad.jp
 127.0.0.1 ssh.kissmetrics.com
 127.0.0.1 sshowads.pubmatic.com
-127.0.0.1 sshtunnel.at
 127.0.0.1 ssi.go2cloud.org
 127.0.0.1 ssl-6582datamanager.de
 127.0.0.1 ssl-compass.oewabox.at
@@ -62026,7 +62022,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 track.send.microad.jp
 127.0.0.1 track.seorate.ru
 127.0.0.1 track.sexchangegirl.com
-127.0.0.1 track.sharktrkr.xyz
 127.0.0.1 track.shop2market.com
 127.0.0.1 track.sitetag.us
 127.0.0.1 track.slideshare.net
@@ -63503,7 +63498,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 uk.nedstat.net
 127.0.0.1 uk.nedstatpro.net
 127.0.0.1 uk.sitestat.com
-127.0.0.1 uk.static.planet49.com
 127.0.0.1 uk.websearchnow.net
 127.0.0.1 uk1.siteimprove.com
 127.0.0.1 uk4.hit.stat24.com
@@ -71888,6 +71882,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ilgm-deals.com
 127.0.0.1 www.iliky.com
 127.0.0.1 www.ilovecheating.com
+127.0.0.1 www.ilovecookies.co
 127.0.0.1 www.ilovemobi.com
 127.0.0.1 www.imads.ero-advertising.com
 127.0.0.1 www.image-map.com
@@ -73140,6 +73135,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.platinumbucks.com
 127.0.0.1 www.playertraffic.com
 127.0.0.1 www.pleasedontslaymy.download
+127.0.0.1 www.pleasewaitlonger.com
 127.0.0.1 www.plocia.com
 127.0.0.1 www.plug-media.com
 127.0.0.1 www.plus500.com
