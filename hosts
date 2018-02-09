@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76003 ad serving and malware domains.
+# Currently blocking 76010 ad serving and malware domains.
 #
-# Date Generated: Feb 08 2018
+# Date Generated: Feb 09 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -42923,6 +42923,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 global.msmtrakk03a.com
 127.0.0.1 global.reporo.net
 127.0.0.1 global.ymtrack.com
+127.0.0.1 global.ymtracking.com
 127.0.0.1 globalismedia.com
 127.0.0.1 globalnetworkanalys.com
 127.0.0.1 globaltakeoff.net
@@ -43058,6 +43059,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 go.pardot.com
 127.0.0.1 go.pl.bbelements.com
 127.0.0.1 go.play3w.com
+127.0.0.1 go.playmmogames.com
 127.0.0.1 go.pol.bbelements.com
 127.0.0.1 go.promojet.ru
 127.0.0.1 go.pub2srv.com
@@ -43096,6 +43098,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 go2.trekaklik.com
 127.0.0.1 go27.net
 127.0.0.1 go2cloud.org
+127.0.0.1 go2funz.com
+127.0.0.1 go2linkfast.com
 127.0.0.1 go2web20.net
 127.0.0.1 go3.trekaklik.com
 127.0.0.1 go34down.com
@@ -43208,6 +43212,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gothamistllc.com
 127.0.0.1 gotlaughs.com
 127.0.0.1 goto.maxifiles.com
+127.0.0.1 goto.myfunbreak.com
 127.0.0.1 goto.mystreamdelivery.xyz
 127.0.0.1 goto.trafficmultiplier.com
 127.0.0.1 gotoast.com
@@ -55216,6 +55221,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 r.ibg.bg
 127.0.0.1 r.leadzu.com
 127.0.0.1 r.leadzuaf.com
+127.0.0.1 r.leadzupc.com
 127.0.0.1 r.letsw.com
 127.0.0.1 r.ligatus.com
 127.0.0.1 r.looksmart.com
@@ -57883,6 +57889,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sftp.barb.2cnt.net
 127.0.0.1 sftp.clickability.com
 127.0.0.1 sftrack.searchforce.net
+127.0.0.1 sftwrads.com
 127.0.0.1 sfw.adsafeprotected.com
 127.0.0.1 sg-cdn.effectivemeasure.net
 127.0.0.1 sg-ssl.effectivemeasure.net
@@ -62097,6 +62104,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 track001.com
 127.0.0.1 track1.breakmedia.com
 127.0.0.1 track1.offers2004.com
+127.0.0.1 track112.com
 127.0.0.1 track12.offersbymail.com
 127.0.0.1 track2.dulingo.com
 127.0.0.1 track2.homestead.com
@@ -70507,7 +70515,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.classifieds1000.com
 127.0.0.1 www.claus.drehteile-rieche.de
 127.0.0.1 www.clck.ru
-127.0.0.1 www.clcktrough.com
 127.0.0.1 www.clddt.com
 127.0.0.1 www.cleanbrowser.com
 127.0.0.1 www.clear-reports.com
@@ -70569,6 +70576,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.clicktracksolutions.com
 127.0.0.1 www.clicktraffix.com
 127.0.0.1 www.clicktripz.com
+127.0.0.1 www.clicktrough.com
 127.0.0.1 www.clickv.com
 127.0.0.1 www.clickvalidator.net
 127.0.0.1 www.clickwinks.com
@@ -72346,7 +72354,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ljteas.com
 127.0.0.1 www.lkqd.net
 127.0.0.1 www.lldiettracker.com
-127.0.0.1 www.llnwd.net
 127.0.0.1 www.lloogg.com
 127.0.0.1 www.lm-pk.com
 127.0.0.1 www.lmlttrack.com
@@ -73872,7 +73879,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.srver110.xyz
 127.0.0.1 www.srvpub.com
 127.0.0.1 www.ssangyong.co.il
-127.0.0.1 www.ssl-cd.com
 127.0.0.1 www.stacia-jose.us
 127.0.0.1 www.stacia-ware.us
 127.0.0.1 www.stamplive.com
@@ -74190,6 +74196,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.traci-sirianni.us
 127.0.0.1 www.track-visits.com
 127.0.0.1 www.track.net
+127.0.0.1 www.track112.com
 127.0.0.1 www.track2cash.com
 127.0.0.1 www.track4.com
 127.0.0.1 www.trackadvertising.net
