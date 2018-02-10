@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76010 ad serving and malware domains.
+# Currently blocking 76016 ad serving and malware domains.
 #
-# Date Generated: Feb 09 2018
+# Date Generated: Feb 10 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -516,6 +516,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 148.xg4ken.com
 127.0.0.1 149.6.87.194.dynamic.dol.ru
 127.0.0.1 15.6.87.194.dynamic.dol.ru
+127.0.0.1 15.basebanner.com
 127.0.0.1 15.ptp22.com
 127.0.0.1 150.6.87.194.dynamic.dol.ru
 127.0.0.1 151.6.87.194.dynamic.dol.ru
@@ -45226,6 +45227,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 import.globalsources.com
 127.0.0.1 imppl.tradedoubler.com
 127.0.0.1 impr.superpages.com
+127.0.0.1 imprammp.taboola.com
 127.0.0.1 imprese.cz
 127.0.0.1 impression.clickinc.com
 127.0.0.1 impressionaffiliate.com
@@ -58401,6 +58403,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 smartlook.com
 127.0.0.1 smartmediamarketing.go2cloud.org
 127.0.0.1 smartmoney.112.2o7.net
+127.0.0.1 smartoffer.site
 127.0.0.1 smartshare.lgtvsdp.com
 127.0.0.1 smartshopper.com
 127.0.0.1 smartstats.com
@@ -64220,6 +64223,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 vidilife.crwdcntrl.net
 127.0.0.1 vidnet.us.intellitxt.com
 127.0.0.1 vidora.com
+127.0.0.1 vidstat.taboola.com
+127.0.0.1 vidstatb.taboola.com
 127.0.0.1 vidzur.com
 127.0.0.1 view-ads.de
 127.0.0.1 view.admission.net
@@ -68724,6 +68729,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wetter.wemfbox.ch
 127.0.0.1 wetyt.tourstogo.us
 127.0.0.1 wewillrocknow.com
+127.0.0.1 wf.basebanner.com
 127.0.0.1 wfnetwork.go2cloud.org
 127.0.0.1 wfoto.front.ru
 127.0.0.1 wfpscripts.webspectator.com
