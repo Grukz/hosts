@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76018 ad serving and malware domains.
+# Currently blocking 75997 ad serving and malware domains.
 #
-# Date Generated: Feb 12 2018
+# Date Generated: Feb 13 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -30855,7 +30855,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 box30120.2cnt.net
 127.0.0.1 box32002.2cnt.net
 127.0.0.1 box32003.2cnt.net
-127.0.0.1 boxesists.com
 127.0.0.1 boxingscene.us.intellitxt.com
 127.0.0.1 boxofficeprophets.us.intellitxt.com
 127.0.0.1 bp.ads.link4ads.com
@@ -34565,7 +34564,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 click.moxs.net
 127.0.0.1 click.mp3.com
 127.0.0.1 click.mrrage.com
-127.0.0.1 click.mvc19.com
 127.0.0.1 click.mygeek.com
 127.0.0.1 click.mz.simba.taobao.com
 127.0.0.1 click.netpondcash.com
@@ -43155,7 +43153,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 goo.freelogs.com
 127.0.0.1 gooal.herokuapp.com
 127.0.0.1 goobbe.com
-127.0.0.1 good.9downloadall.com
 127.0.0.1 goodbizez.com
 127.0.0.1 goodbookbook.com
 127.0.0.1 gooddata.com
@@ -44180,7 +44177,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 howaboutwe.go2cloud.org
 127.0.0.1 howardchui.us.intellitxt.com
 127.0.0.1 howler.shareaholic.com
-127.0.0.1 howrowthettof.com
 127.0.0.1 howtobuildsoftware.com
 127.0.0.1 howtotroll.org
 127.0.0.1 hoz01.voluumtrk.com
@@ -44499,7 +44495,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 i4.createsend4.com
 127.0.0.1 i4.putags.com
 127.0.0.1 i46rz.voluumtrk.com
-127.0.0.1 i47-safebrowse.com
 127.0.0.1 i4927.voluumtrk.com
 127.0.0.1 i4c.go2cloud.org
 127.0.0.1 i4eg76.vindicated-shelter.space
@@ -46221,6 +46216,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 js.hotkeys.com
 127.0.0.1 js.hotlog.ru
 127.0.0.1 js.hs-analytics.net
+127.0.0.1 js.hs-scripts.com
+127.0.0.1 js.hscollectedforms.net
+127.0.0.1 js.hsleadflows.net
 127.0.0.1 js.hubspot.com
 127.0.0.1 js.indexww.com
 127.0.0.1 js.juicyads.com
@@ -46417,7 +46415,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 k66fd.voluumtrk.com
 127.0.0.1 k6afu.voluumtrk.com
 127.0.0.1 k6pwy.voluumtrk.com
-127.0.0.1 k73me-mobile.com
 127.0.0.1 k7j6a.voluumtrk.com
 127.0.0.1 k9a8e.voluumtrk.com
 127.0.0.1 ka.bar.need2find.com
@@ -46482,7 +46479,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 kathryn-berens.us
 127.0.0.1 kathryn-scheele.us
 127.0.0.1 kati-birdsall.us
-127.0.0.1 katie.tnctrx.com
 127.0.0.1 katieholmes.sexybabesx.com
 127.0.0.1 katlyn-oday.us
 127.0.0.1 katrina-rumbaugh.us
@@ -47433,7 +47429,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 liza-kyler.us
 127.0.0.1 lizardslaugh.com
 127.0.0.1 lizette-stickler.us
-127.0.0.1 lizk.co
 127.0.0.1 ljostrade.go2cloud.org
 127.0.0.1 ljteas.com
 127.0.0.1 ljujm.voluumtrk.com
@@ -50049,7 +50044,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mobpartner.com
 127.0.0.1 mobpartner.mobi
 127.0.0.1 mobpushup.com
-127.0.0.1 mobred.net
 127.0.0.1 mobrevflwms.com
 127.0.0.1 mobscan.info
 127.0.0.1 mobstac.com
@@ -54704,7 +54698,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ps3.ign.us.intellitxt.com
 127.0.0.1 ps3.ultraflawlesspop.com
 127.0.0.1 ps3news.us.intellitxt.com
-127.0.0.1 ps4.ultraflawlesspop.com
 127.0.0.1 ps5.ultraflawlesspop.com
 127.0.0.1 ps6.ultraflawlesspop.com
 127.0.0.1 ps7.ultraflawlesspop.com
@@ -55397,7 +55390,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 rating.openstat.ru
 127.0.0.1 ratings.lycos.com
 127.0.0.1 ratkalol.com
-127.0.0.1 ratsparropret.ru
 127.0.0.1 ratx9.voluumtrk.com
 127.0.0.1 ravel-rewardpath.com
 127.0.0.1 ravenstonedigital.go2cloud.org
@@ -56403,7 +56395,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ryerose.net
 127.0.0.1 rygpq.voluumtrk.com
 127.0.0.1 ryield.jmp9.com
-127.0.0.1 ryropthetsed.ru
 127.0.0.1 rytj3.voluumtrk.com
 127.0.0.1 ryuitaqw.pw
 127.0.0.1 rzr.tractionize.com
@@ -59362,7 +59353,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.httpool.com.mk
 127.0.0.1 static.hubspot.com
 127.0.0.1 static.hupso.com
-127.0.0.1 static.i47-safebrowse.com
 127.0.0.1 static.ifa.camads.net
 127.0.0.1 static.ifa.empflixlive.com
 127.0.0.1 static.ifa.slutloadlive.com
@@ -59370,7 +59360,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.inviziads.com
 127.0.0.1 static.it.groupon-content.net
 127.0.0.1 static.itrack.it
-127.0.0.1 static.k73me-mobile.com
 127.0.0.1 static.kameleoon.com
 127.0.0.1 static.kibboko.com
 127.0.0.1 static.kinghost.com
@@ -59399,7 +59388,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.ngbn.net
 127.0.0.1 static.nirror.com
 127.0.0.1 static.nrelate.com
-127.0.0.1 static.o67-theguard.com
 127.0.0.1 static.onlinevenditatio.space
 127.0.0.1 static.openads.motorrad-net.at
 127.0.0.1 static.oroll.com
@@ -61242,7 +61230,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 thoughtfully-free.com
 127.0.0.1 thoughtsmedia.us.intellitxt.com
 127.0.0.1 threadwatch.us.intellitxt.com
-127.0.0.1 threivetrack.com
 127.0.0.1 thrgo.pro
 127.0.0.1 thrnt.com
 127.0.0.1 throattrees.com
@@ -61769,7 +61756,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 track.clickbooth.com
 127.0.0.1 track.clickcabintracker.com
 127.0.0.1 track.clickon.co.il
-127.0.0.1 track.clicksbandit.com
 127.0.0.1 track.clicksor.com
 127.0.0.1 track.clicksure.com
 127.0.0.1 track.cliqrr.com
@@ -62057,7 +62043,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 track.trademail.fr
 127.0.0.1 track.traffcdn.com
 127.0.0.1 track.trafficholder.com
-127.0.0.1 track.turboyourpc.com
 127.0.0.1 track.ultragaming.biz
 127.0.0.1 track.umeng.com
 127.0.0.1 track.untd.com
@@ -62524,7 +62509,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 trackingoffer.net
 127.0.0.1 trackingsoft.com
 127.0.0.1 trackingstatalytics.com
-127.0.0.1 trackinguk2.com
 127.0.0.1 trackit.skyhighctr.com
 127.0.0.1 trackit.vicotech.com
 127.0.0.1 tracklead.net
@@ -71856,7 +71840,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.hypertracker.com
 127.0.0.1 www.i-xzone.com
 127.0.0.1 www.i.matheranalytics.com
-127.0.0.1 www.i47-safebrowse.com
 127.0.0.1 www.iads.com.np
 127.0.0.1 www.iaspromotes.com
 127.0.0.1 www.ib.adnxs.com
@@ -72123,7 +72106,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.jwljj.adsb4track.com
 127.0.0.1 www.jxliu.com
 127.0.0.1 www.jzigsobgsmxdmr.bid
-127.0.0.1 www.k73me-mobile.com
 127.0.0.1 www.kaaza-legal.de
 127.0.0.1 www.kabanga.com
 127.0.0.1 www.kacey-sheilds.us
@@ -73906,10 +73888,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.statcount.com
 127.0.0.1 www.statcounter.com
 127.0.0.1 www.stateresolver.link
-127.0.0.1 www.static.i47-safebrowse.com
-127.0.0.1 www.static.k73me-mobile.com
 127.0.0.1 www.static.mb89-live.com
-127.0.0.1 www.static.o67-theguard.com
 127.0.0.1 www.statistik.biz
 127.0.0.1 www.stats.in.th
 127.0.0.1 www.stats.net
