@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75999 ad serving and malware domains.
+# Currently blocking 76010 ad serving and malware domains.
 #
-# Date Generated: Feb 14 2018
+# Date Generated: Feb 15 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18876,6 +18876,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adgatemedia.go2cloud.org
 127.0.0.1 adgear.com
 127.0.0.1 adgebra.co.in
+127.0.0.1 adgebra.in
 127.0.0.1 adgenie.co.uk
 127.0.0.1 adgent007.com
 127.0.0.1 adgeo.163.com
@@ -27098,6 +27099,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aschreib.oewabox.at
 127.0.0.1 ascout24.oewabox.at
 127.0.0.1 asd.tynt.com
+127.0.0.1 ase.clmbtech.com
 127.0.0.1 aserve.directorym.com
 127.0.0.1 asg01.casalemedia.com
 127.0.0.1 asg02.casalemedia.com
@@ -32994,6 +32996,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cacl.fr
 127.0.0.1 cad.chosun.com
 127.0.0.1 cadaver.org
+127.0.0.1 cade.clmbtech.com
 127.0.0.1 cadillacforums.us.intellitxt.com
 127.0.0.1 cadreon.s3.amazonaws.com
 127.0.0.1 cads.ch
@@ -33169,6 +33172,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 casalmedia.com
 127.0.0.1 casandra-zane.us
 127.0.0.1 cascade.madmimi.com
+127.0.0.1 case.clmbtech.com
 127.0.0.1 casey-fifer.us
 127.0.0.1 cash-advance.now-cash.com
 127.0.0.1 cash-ddt.net
@@ -45691,6 +45695,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 is.vinsight.de
 127.0.0.1 is2.websearch.com
 127.0.0.1 is9ip.voluumtrk.com
+127.0.0.1 ise.clmbtech.com
 127.0.0.1 isearch.shopathome.com
 127.0.0.1 isearchtech.com
 127.0.0.1 isg01.casalemedia.com
@@ -48646,7 +48651,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 marketing.osijek031.com
 127.0.0.1 marketing.vistaprint.com
 127.0.0.1 marketingenhanced.com
-127.0.0.1 marketingprofs.com
 127.0.0.1 marketingsecrets.com
 127.0.0.1 marketingsolutions.yahoo.com
 127.0.0.1 marketingtips.com
@@ -52618,6 +52622,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 origin.privoy.doublepimp.com
 127.0.0.1 origin.zedo.com
 127.0.0.1 origin2.adsdk.com
+127.0.0.1 originade.clmbtech.com
+127.0.0.1 originadessl.clmbtech.com
 127.0.0.1 orion.bnex.com
 127.0.0.1 orion.platino.gov.ve
 127.0.0.1 orkut.krovatka.su
@@ -55536,6 +55542,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rebtelnetworks.112.2o7.net
 127.0.0.1 rec.quartic.pl
 127.0.0.1 rec3.prosieben.de
+127.0.0.1 recade.clmbtech.com
 127.0.0.1 receive.inplay.scanscout.com
 127.0.0.1 receptiveink.com
 127.0.0.1 recipegoldmine.us.intellitxt.com
@@ -59293,6 +59300,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.clicktorrent.info
 127.0.0.1 static.clicktripz.com
 127.0.0.1 static.clixsense.com
+127.0.0.1 static.clmbtech.com
 127.0.0.1 static.contactme.com
 127.0.0.1 static.contentabc.com
 127.0.0.1 static.contents.sex-explorer.com
@@ -61366,6 +61374,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tmcnet.us.intellitxt.com
 127.0.0.1 tmgdigital.go2cloud.org
 127.0.0.1 tmgr.ccmbg.com
+127.0.0.1 tml.clmbtech.com
 127.0.0.1 tmobile-us.inq.com
 127.0.0.1 tmp.dt00.net
 127.0.0.1 tmp3.nexac.com
@@ -62783,6 +62792,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trk.blamads.com
 127.0.0.1 trk.bluetrackmedia.com
 127.0.0.1 trk.cetrk.com
+127.0.0.1 trk.clmbtech.com
 127.0.0.1 trk.cpainfinity.com
 127.0.0.1 trk.cpcitrk.mobi
 127.0.0.1 trk.dsv2trk.com
@@ -69545,6 +69555,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.adgalax.com
 127.0.0.1 www.adgatemedia.com
 127.0.0.1 www.adgear.com
+127.0.0.1 www.adgebra.co.in
+127.0.0.1 www.adgebra.in
 127.0.0.1 www.adgitize.com
 127.0.0.1 www.adgroups.com
 127.0.0.1 www.adgroups.net
@@ -72473,7 +72485,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.marketing-internet.com
 127.0.0.1 www.marketing-rewardpath.com
 127.0.0.1 www.marketing.com.ar
-127.0.0.1 www.marketingprofs.com
 127.0.0.1 www.marketingsecrets.com
 127.0.0.1 www.marketingtips.com
 127.0.0.1 www.marketingwithpostcards.com
