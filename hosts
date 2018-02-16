@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76010 ad serving and malware domains.
+# Currently blocking 76011 ad serving and malware domains.
 #
-# Date Generated: Feb 15 2018
+# Date Generated: Feb 16 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -34080,6 +34080,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cerebral.typn.com
 127.0.0.1 certified-email.com
 127.0.0.1 certifiedwinners.info
+127.0.0.1 certifiedwinners.today
 127.0.0.1 certify.alexametrics.com
 127.0.0.1 ceskarepublika.net
 127.0.0.1 ceskydomov.alias.ngs.modry.cz
