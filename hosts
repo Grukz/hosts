@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76011 ad serving and malware domains.
+# Currently blocking 76008 ad serving and malware domains.
 #
-# Date Generated: Feb 16 2018
+# Date Generated: Feb 17 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -32487,7 +32487,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 buzzonclick.com
 127.0.0.1 buzzreferrals.go2cloud.org
 127.0.0.1 bvalit.justclick.ru
-127.0.0.1 bvalphaserver.com
 127.0.0.1 bvoau.voluumtrk.com
 127.0.0.1 bvsrv.adk2x.com
 127.0.0.1 bw.ads.t-online.de
@@ -55364,7 +55363,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ranking-id.de
 127.0.0.1 ranking-links.de
 127.0.0.1 ranking-liste.de
-127.0.0.1 ranking-street.de
 127.0.0.1 rankingchart.de
 127.0.0.1 rankingscout.com
 127.0.0.1 rankingscout.org
@@ -59705,7 +59703,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 stats.mirror.co.uk
 127.0.0.1 stats.mirrorfootball.co.uk
 127.0.0.1 stats.mondespersistants.com
-127.0.0.1 stats.multiup.org
 127.0.0.1 stats.mvilivestats.com
 127.0.0.1 stats.nascar.com
 127.0.0.1 stats.net
