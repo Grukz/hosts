@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 77620 ad serving and malware domains.
+# Currently blocking 77630 ad serving and malware domains.
 #
-# Date Generated: Feb 23 2018
+# Date Generated: Feb 24 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -20140,7 +20140,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.dfiles.ru
 127.0.0.1 ads.dgonn.com
 127.0.0.1 ads.dhakatribune.com
-127.0.0.1 ads.diamonds
 127.0.0.1 ads.dichtbij.adhese.com
 127.0.0.1 ads.digital-digest.com
 127.0.0.1 ads.digitalacre.com
@@ -24864,6 +24863,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 advmania.com
 127.0.0.1 advmedia.go2cloud.org
 127.0.0.1 advmedialtd.com
+127.0.0.1 advnet.xyz
 127.0.0.1 advnstrdm541231c0esprod.122.2o7.net
 127.0.0.1 advnt.com
 127.0.0.1 advnt01.com
@@ -24967,7 +24967,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adx.telegram.com
 127.0.0.1 adx.theledger.com
 127.0.0.1 adx.timesdaily.com
-127.0.0.1 adx1.com
 127.0.0.1 adx2.chip.de
 127.0.0.1 adxite-ads.com
 127.0.0.1 adxite.com
@@ -29165,6 +29164,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bcfads.com
 127.0.0.1 bcm.itv.com
 127.0.0.1 bcmediagroup.com
+127.0.0.1 bcnmonetize.go2affise.com
 127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 bcsrciccspermatic.review
 127.0.0.1 bd.moatads.com
@@ -33338,7 +33338,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 casper.sp1.convertro.com
 127.0.0.1 cassandra-klima.us
 127.0.0.1 cast.ra.icast.cn
-127.0.0.1 casterist.info
 127.0.0.1 casting.openv.com
 127.0.0.1 castingshow-news.de.intellitxt.com
 127.0.0.1 cat.clx.ru
@@ -41211,6 +41210,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fedex.tt.omtrdc.net
 127.0.0.1 fedsit.com
 127.0.0.1 fee-hydrocodone.bebto.com
+127.0.0.1 feed.2makeyourday.press
 127.0.0.1 feed.afy11.net
 127.0.0.1 feed.bizzclick.com
 127.0.0.1 feed.hype-ads.com
@@ -41656,6 +41656,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fourthgate.org
 127.0.0.1 fourthgearmedia.go2cloud.org
 127.0.0.1 foxamw.112.2o7.net
+127.0.0.1 foxarmedia.com
 127.0.0.1 foxcom.112.2o7.net
 127.0.0.1 foxcounter.com
 127.0.0.1 foxgloveslyukq.download
@@ -47311,6 +47312,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 latest-369538.ahtamsu.ru
 127.0.0.1 latest-460050.ebeda.info
 127.0.0.1 latest-461069.dochyedu.info
+127.0.0.1 latest-470741.takyake.ru
 127.0.0.1 latestsearch.website
 127.0.0.1 latin3.directtrack.com
 127.0.0.1 latinoreview.us.intellitxt.com
@@ -51017,6 +51019,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mylondon.hc0.me
 127.0.0.1 mylottoadserv.com
 127.0.0.1 mymediadownloadsthirtytwo.com
+127.0.0.1 mymoneymakingapp.com
 127.0.0.1 myns-v1.websys.aol.com
 127.0.0.1 myoffertracking.com
 127.0.0.1 myosotisvkrzovi.download
@@ -55924,6 +55927,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rareru.ru
 127.0.0.1 ras.doubleclick.net
 127.0.0.1 rasedbdhczr.download
+127.0.0.1 rasius.pro
 127.0.0.1 raskrutka.ucoz.com
 127.0.0.1 rasml.voluumtrk.com
 127.0.0.1 rasmussenreports.us.intellitxt.com
@@ -58550,6 +58554,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 shari-spinner.us
 127.0.0.1 sharonstone.sexybabesx.com
 127.0.0.1 shauna-lefevre.us
+127.0.0.1 shawinternets.com
 127.0.0.1 shawnewspapers.112.2o7.net
 127.0.0.1 shayla-haygood.us
 127.0.0.1 shc-rebates.com
@@ -59939,7 +59944,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.csbew.com
 127.0.0.1 static.dcoengine.com
 127.0.0.1 static.digidip.net
-127.0.0.1 static.directrev.com
 127.0.0.1 static.doubleclick.com
 127.0.0.1 static.doubleclick.net
 127.0.0.1 static.doubleclick.net.12022.9038.302br.net
@@ -61258,6 +61262,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 takeprofitsystem.com
 127.0.0.1 taking-technology.com
 127.0.0.1 takru.com
+127.0.0.1 takyake.ru
 127.0.0.1 talesoftheslayer.bravejournal.com
 127.0.0.1 taletela.us.intellitxt.com
 127.0.0.1 talkaxis.com
@@ -70585,6 +70590,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.adviews-sponsor.de
 127.0.0.1 www.adviews.de
 127.0.0.1 www.advm10.com
+127.0.0.1 www.advnet.xyz
 127.0.0.1 www.advolution.de
 127.0.0.1 www.advombat.ru
 127.0.0.1 www.advpoints.com
@@ -72363,6 +72369,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.fossilisedboxbkshj.download
 127.0.0.1 www.fossilisesgcjrfazlr.download
 127.0.0.1 www.fotoidea.com
+127.0.0.1 www.foxarmedia.com
 127.0.0.1 www.foxcounter.com
 127.0.0.1 www.foxgloveslyukq.download
 127.0.0.1 www.foxseek.com
@@ -74702,6 +74709,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.rapidcounter.com
 127.0.0.1 www.rapleaf.com
 127.0.0.1 www.rasedbdhczr.download
+127.0.0.1 www.rasius.pro
 127.0.0.1 www.ravel-rewardpath.com
 127.0.0.1 www.raygun.io
 127.0.0.1 www.rbmut.science
@@ -75446,6 +75454,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.taggstar.com
 127.0.0.1 www.tagjunction.com
 127.0.0.1 www.tagzone.site
+127.0.0.1 www.takyake.ru
 127.0.0.1 www.talentbroker.net
 127.0.0.1 www.talia-mettler.us
 127.0.0.1 www.talkingdata.com
@@ -77046,6 +77055,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 xml.click9.com
 127.0.0.1 xml.clickredirection.com
 127.0.0.1 xml.explorads.com
+127.0.0.1 xml.ezmob.com
 127.0.0.1 xml.fusionxml.com
 127.0.0.1 xml.ioam.de
 127.0.0.1 xml.ivillage.overture.com
