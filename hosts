@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 77631 ad serving and malware domains.
+# Currently blocking 77633 ad serving and malware domains.
 #
-# Date Generated: Feb 25 2018
+# Date Generated: Feb 26 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -45576,6 +45576,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 impit.tradedouble.com
 127.0.0.1 impit.tradedoubler.com
 127.0.0.1 impixel.premiumonlinemedia.com
+127.0.0.1 impl.onscroll.com
 127.0.0.1 implt.tradedoubler.com
 127.0.0.1 impluviawtqydlbbi.download
 127.0.0.1 impnl.tradedoubler.com
@@ -76009,6 +76010,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.vistaglance.com
 127.0.0.1 www.visuallyxvnxqhr.download
 127.0.0.1 www.visualrevenue.com
+127.0.0.1 www.visualwebsiteoptimizer.com
 127.0.0.1 www.vivaimontina.com
 127.0.0.1 www.vivo7.com
 127.0.0.1 www.vizury.com
