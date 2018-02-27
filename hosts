@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 77633 ad serving and malware domains.
+# Currently blocking 77645 ad serving and malware domains.
 #
-# Date Generated: Feb 26 2018
+# Date Generated: Feb 27 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1879,6 +1879,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 7days.ws
 127.0.0.1 7dz98ad91l.s.ad6media.fr
 127.0.0.1 7ec4-d4b0-f6eb-5588.reporo.net
+127.0.0.1 7f1au20glg.com
 127.0.0.1 7faa-e93a-19c5-c96d.reporo.net
 127.0.0.1 7fdf-f670-24dd-3bd8.reporo.net
 127.0.0.1 7fed-2832-993b-cb28.reporo.net
@@ -1895,6 +1896,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 7lfu6.voluumtrk.com
 127.0.0.1 7meta.com
 127.0.0.1 7metasearch.com
+127.0.0.1 7mu36somt5.com
 127.0.0.1 7n0zz.300prize.7113879.com
 127.0.0.1 7ntrp.voluumtrk.com
 127.0.0.1 7oo.meibu.com
@@ -37253,6 +37255,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 covusaffiliates.go2cloud.org
 127.0.0.1 cowboy.contextuads.com
 127.0.0.1 cowcotland.fr.intellitxt.com
+127.0.0.1 cowledges.com
 127.0.0.1 coxds.com
 127.0.0.1 coxhsi.112.2o7.net
 127.0.0.1 coxnet.112.2o7.net
@@ -42525,6 +42528,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 g2.us.intellitxt.com
 127.0.0.1 g3.us.intellitxt.com
 127.0.0.1 g39yz.voluumtrk.com
+127.0.0.1 g3j2wzmon8b.com
 127.0.0.1 g3t4d5.madison.com
 127.0.0.1 g4.us.intellitxt.com
 127.0.0.1 g4p.grt02.com
@@ -54942,6 +54946,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 prm.europacash.com
 127.0.0.1 prmfactory.go2cloud.org
 127.0.0.1 prmobiles.com
+127.0.0.1 prmtracking.com
 127.0.0.1 prnewswire.122.2o7.net
 127.0.0.1 pro-advertising.com
 127.0.0.1 pro-networks.us.intellitxt.com
@@ -55188,6 +55193,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 protvadmd.hit.gemius.pl
 127.0.0.1 protvmd.adocean.pl
 127.0.0.1 proudclick.com
+127.0.0.1 provalist.info
 127.0.0.1 provenfeedback.com
 127.0.0.1 provexia.com
 127.0.0.1 providence.voxmedia.com
@@ -60600,6 +60606,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stream.tribeca.vidavee.com
 127.0.0.1 stream1.livefyre.com
 127.0.0.1 stream1.marketwatch.fyre.co
+127.0.0.1 stream4fun.com
 127.0.0.1 stream4u.me
 127.0.0.1 streamagent.sensic.net
 127.0.0.1 streamate.com
@@ -63346,6 +63353,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trajan.httpool.com
 127.0.0.1 trakksocial.googlecode.com
 127.0.0.1 traktr.news.com.au
+127.0.0.1 traktrafficflow.com
 127.0.0.1 traktum.com
 127.0.0.1 tramadol.1.p2l.info
 127.0.0.1 tramadol.3.p2l.info
@@ -64536,6 +64544,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 utils.mediageneral.com
 127.0.0.1 utils.mediageneral.net
 127.0.0.1 utk.baidu.com
+127.0.0.1 utlpwxdt.com
 127.0.0.1 utm.cursormania.com
 127.0.0.1 utm.excite.co.uk
 127.0.0.1 utm.excite.it
@@ -64696,6 +64705,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vap2dfw1.lijit.com
 127.0.0.1 vap2iad3.lijit.com
 127.0.0.1 vaporprofits.go2cloud.org
+127.0.0.1 variablefitness.com
 127.0.0.1 variedlyewebwd.download
 127.0.0.1 varsityads.directtrack.com
 127.0.0.1 vashadvokat.in.ua
@@ -69627,6 +69637,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 winfaq.de.intellitxt.com
 127.0.0.1 winfuture.de.intellitxt.com
 127.0.0.1 wingatemedia.go2cloud.org
+127.0.0.1 wingoads.com
 127.0.0.1 wingowin.com
 127.0.0.1 winhelptech.xyz
 127.0.0.1 winlock.usa.cc
@@ -76191,6 +76202,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.windaily.com
 127.0.0.1 www.windgallsxsnxcqt.download
 127.0.0.1 www.windows-cannot-find.com
+127.0.0.1 www.wingoads.com
 127.0.0.1 www.winhundred.com
 127.0.0.1 www.winneronline.ru
 127.0.0.1 www.winnerschoiceservices.com
