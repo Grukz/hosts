@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 77786 ad serving and malware domains.
 #
-# Date Generated: Feb 28 2018
+# Date Generated: Mar 01 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -35017,7 +35017,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 client.roiadtracker.com
 127.0.0.1 client.sidesearch.lycos.com
 127.0.0.1 client.tahono.com
-127.0.0.1 clientconfig.passport.net
 127.0.0.1 clientmetrics-pa.googleapis.com
 127.0.0.1 clients.adventmedia.net
 127.0.0.1 clients.advertising.com
@@ -51330,6 +51329,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nativead.tech
 127.0.0.1 nativeads.com
 127.0.0.1 nativeadx.net
+127.0.0.1 nativeroll.tv
 127.0.0.1 nativitystones.go2cloud.org
 127.0.0.1 natlalirans.hotmail.ru
 127.0.0.1 nats.hushmoney.com
