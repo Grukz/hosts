@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 77786 ad serving and malware domains.
+# Currently blocking 77787 ad serving and malware domains.
 #
-# Date Generated: Mar 01 2018
+# Date Generated: Mar 02 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -19114,7 +19114,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adland.co.il
 127.0.0.1 adland.ru
 127.0.0.1 adlandpro.com
-127.0.0.1 adlantic.nl
 127.0.0.1 adlatvia.com
 127.0.0.1 adlayer.net
 127.0.0.1 adlead.com
@@ -35525,6 +35524,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 com2err.xyz
 127.0.0.1 comadverts.bcmpweb.co.nz
 127.0.0.1 comagic.ru
+127.0.0.1 combinationsmart.bid
 127.0.0.1 comcast.112.2o7.net
 127.0.0.1 comcast.demdex.net
 127.0.0.1 comcast.tt.omtrdc.net
@@ -50507,6 +50507,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mobile-abc.com
 127.0.0.1 mobile-ads.wifog.com
 127.0.0.1 mobile-antivirus.club
+127.0.0.1 mobile-browser.me
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile-ent.biz
 127.0.0.1 mobile.activeshopper.com
