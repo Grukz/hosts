@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 77787 ad serving and malware domains.
+# Currently blocking 77776 ad serving and malware domains.
 #
-# Date Generated: Mar 02 2018
+# Date Generated: Mar 03 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -29281,7 +29281,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 beam.hlserve.com
 127.0.0.1 beam.to
 127.0.0.1 beamincrease.com
-127.0.0.1 beamkite.com
 127.0.0.1 beanstock.com
 127.0.0.1 beanstockmedia.com
 127.0.0.1 beap.adx.yahoo.com
@@ -33371,6 +33370,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 casper.sp1.convertro.com
 127.0.0.1 cassandra-klima.us
 127.0.0.1 cast.ra.icast.cn
+127.0.0.1 casterist.info
 127.0.0.1 casting.openv.com
 127.0.0.1 castingshow-news.de.intellitxt.com
 127.0.0.1 cat.clx.ru
@@ -34397,7 +34397,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 chillout.real.com
 127.0.0.1 china.inmobi.com
 127.0.0.1 chinacache.cedexis.com
-127.0.0.1 chinchickens.com
 127.0.0.1 chip.de.intellitxt.com
 127.0.0.1 chip.digidip.net
 127.0.0.1 chip.ivwbox.de
@@ -35542,7 +35541,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 comingsoon.us.intellitxt.com
 127.0.0.1 comm.ovh.fr
 127.0.0.1 command.adservs.com
-127.0.0.1 commandwalk.com
 127.0.0.1 comme.science
 127.0.0.1 commerce-offer.com
 127.0.0.1 commerce-rewardpath.com
@@ -37559,7 +37557,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 crowdgravity.com
 127.0.0.1 crowdignite.com
 127.0.0.1 crowdscience.com
-127.0.0.1 crownclam.com
 127.0.0.1 crsky2004.yeah.net
 127.0.0.1 crt.hexatrack.com
 127.0.0.1 crtl.aimatch.com
@@ -38575,7 +38572,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 delia-comes.us
 127.0.0.1 delia-galvin.us
 127.0.0.1 deliciousbrains.go2cloud.org
-127.0.0.1 delightdriving.com
 127.0.0.1 delightful.112.2o7.net
 127.0.0.1 delilah-gearhart.us
 127.0.0.1 delishows.com
@@ -38869,7 +38865,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 diff3.smartadserver.com
 127.0.0.1 diff4.smartadserver.com
 127.0.0.1 diff5.smartadserver.com
-127.0.0.1 differentdesk.com
 127.0.0.1 difusoragoiania.com.br
 127.0.0.1 digdug.divxnetworks.com
 127.0.0.1 digg.analytics.live.com
@@ -46438,7 +46433,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 jetenglish.justclick.ru
 127.0.0.1 jetmultimedia1.audientia.net
 127.0.0.1 jetzt.digidip.net
-127.0.0.1 jewelcheese.com
 127.0.0.1 jewelryincandlescomplg-wxhost.netdna-ssl.com
 127.0.0.1 jf.revolvermaps.com
 127.0.0.1 jfhjh.voluumtrk.com
@@ -53290,7 +53284,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 outweb.nudt.edu.cn
 127.0.0.1 ov.yahoo.co.jp
 127.0.0.1 ov2ochu.bid
-127.0.0.1 ovalpigs.com
 127.0.0.1 overawingksapsofy.download
 127.0.0.1 overblog.ezakus.net
 127.0.0.1 overclockersonline.us.intellitxt.com
@@ -58850,7 +58843,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sin1.g.adnxs.com
 127.0.0.1 sinatra.addemam.eu
 127.0.0.1 sincentre.info
-127.0.0.1 sinceresofa.com
 127.0.0.1 sinera.org
 127.0.0.1 sinettrk.com
 127.0.0.1 singaporeair-com.b.appier.net
@@ -60738,7 +60730,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 strtrk.go2cloud.org
 127.0.0.1 struct.nt-com.co
 127.0.0.1 structured.blackswanstore.com
-127.0.0.1 structuresofa.com
 127.0.0.1 sttc.affiliate.hu
 127.0.0.1 stts.rbc.ru
 127.0.0.1 stua.hit.gemius.pl
@@ -62063,7 +62054,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tidbitlhztnnx.download
 127.0.0.1 tidbitscom.skimlinks.com
 127.0.0.1 tidd.ly
-127.0.0.1 tidytrail.com
 127.0.0.1 tie.iprom.net
 127.0.0.1 tiffani-fraise.us
 127.0.0.1 tiffanie-doane.us
@@ -64665,7 +64655,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 utils.mediageneral.com
 127.0.0.1 utils.mediageneral.net
 127.0.0.1 utk.baidu.com
-127.0.0.1 utlpwxdt.com
 127.0.0.1 utm.cursormania.com
 127.0.0.1 utm.excite.co.uk
 127.0.0.1 utm.excite.it
