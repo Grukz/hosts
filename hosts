@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 77776 ad serving and malware domains.
+# Currently blocking 77777 ad serving and malware domains.
 #
-# Date Generated: Mar 03 2018
+# Date Generated: Mar 04 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2155,7 +2155,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 a-counter.kiev.ua
 127.0.0.1 a-fast.com
 127.0.0.1 a-maze.com
-127.0.0.1 a-msedge.net
 127.0.0.1 a-nj.1rx.io
 127.0.0.1 a-scrip.org
 127.0.0.1 a-search.biz
@@ -38537,6 +38536,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 definitelyfind.com
 127.0.0.1 definitial.info
 127.0.0.1 defloration.zvca.com
+127.0.0.1 defpush.com
 127.0.0.1 defshop01.webtrekk.net
 127.0.0.1 degivuladles.review
 127.0.0.1 dehaj.voluumtrk.com
@@ -50804,7 +50804,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 msdbb1.surf-town.net
 127.0.0.1 msdbb2.surf-town.net
 127.0.0.1 msdbi1.surf-town.net
-127.0.0.1 msedge.net
 127.0.0.1 mseuppremain.112.2o7.net
 127.0.0.1 mseupwinxpfam.112.2o7.net
 127.0.0.1 msfn.us.intellitxt.com
@@ -56680,6 +56679,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 riptownmedia.122.2o7.net
 127.0.0.1 rise-media.ru
 127.0.0.1 ritogaga.com
+127.0.0.1 rivalo.network
 127.0.0.1 rivasearch.com
 127.0.0.1 rivasearchpage.com
 127.0.0.1 riverdeep.112.2o7.net
@@ -69774,6 +69774,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wirelessidea.go2cloud.org
 127.0.0.1 wirtvlg.oewabox.at
 127.0.0.1 wisemen.go2cloud.org
+127.0.0.1 wisepops.com
 127.0.0.1 wisewire.com
 127.0.0.1 wissende.122.2o7.net
 127.0.0.1 wisti.adulte3g.com
