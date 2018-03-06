@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 76882 ad serving and malware domains.
+# Currently blocking 76883 ad serving and malware domains.
 #
-# Date Generated: Mar 05 2018
+# Date Generated: Mar 06 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -46247,6 +46247,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kos.interseek.si
 127.0.0.1 kosoft-ads.com
 127.0.0.1 kostenloseanzeigen.momentblick.de
+127.0.0.1 koszykrd.wp.pl
 127.0.0.1 kotikokki.spring-tns.net
 127.0.0.1 kourtney-fewell.us
 127.0.0.1 kpcrw.voluumtrk.com
