@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75910 ad serving and malware domains.
+# Currently blocking 75914 ad serving and malware domains.
 #
-# Date Generated: Mar 07 2018
+# Date Generated: Mar 08 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -27159,6 +27159,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 b1.boards2go.com
 127.0.0.1 b1.perfb.com
 127.0.0.1 b100.takru.com
+127.0.0.1 b1060no8673u5l58vi150ofyri.hop.clickbank.net
 127.0.0.1 b12.myspace.com
 127.0.0.1 b12.sitemeter.com
 127.0.0.1 b120.takru.com
@@ -30199,7 +30200,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bomek.com
 127.0.0.1 bon7g.voluumtrk.com
 127.0.0.1 bondinra.com
-127.0.0.1 bongacams.com
 127.0.0.1 bongacash.com
 127.0.0.1 bonintnewsktarcom.112.2o7.net
 127.0.0.1 bonjikoa.com
@@ -30359,7 +30359,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bratwurstsktrllgfj.download
 127.0.0.1 brausincsystem.pro
 127.0.0.1 bravenet.com
-127.0.0.1 bravetools.net
 127.0.0.1 bravo.israelinfo.ru
 127.0.0.1 bravo.israelweather.co.il
 127.0.0.1 bravospots.com
@@ -33385,7 +33384,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ceskarepublika.net
 127.0.0.1 ceskydomov.alias.ngs.modry.cz
 127.0.0.1 cetrk.com
-127.0.0.1 cex.io
 127.0.0.1 cf-db01.clickfacts.com
 127.0.0.1 cf.addthis.com
 127.0.0.1 cf.ads.kontextua.com
@@ -42192,6 +42190,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 goatsegirl.org
 127.0.0.1 goautofinance.com
 127.0.0.1 gobbetsdjgjnyc.download
+127.0.0.1 goblemam.com
 127.0.0.1 gocarisoprodol.polybuild.ru
 127.0.0.1 goclick.com
 127.0.0.1 gocm.c.appier.net
@@ -47882,6 +47881,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mediapst-images.adbureau.net
 127.0.0.1 mediapst.adbureau.net
 127.0.0.1 mediaregad.hit.gemius.pl
+127.0.0.1 mediaroi.go2cloud.org
 127.0.0.1 medias.clicks4ads.com
 127.0.0.1 medias.europacash.com
 127.0.0.1 mediascale.de
@@ -59068,7 +59068,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sweetim.sweetpacks.com
 127.0.0.1 sweetpacks.go2cloud.org
 127.0.0.1 sweetsforfree.com
-127.0.0.1 sweettalk.co
 127.0.0.1 swellisholupo.download
 127.0.0.1 swfhostltd.com
 127.0.0.1 swift.com
@@ -59295,6 +59294,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 t.thetrafficstat.net
 127.0.0.1 t.trackalyzer.com
 127.0.0.1 t.trackedlink.net
+127.0.0.1 t.trafficninjas.co
 127.0.0.1 t.trafmag.com
 127.0.0.1 t.trrker.com
 127.0.0.1 t.unbounce.com
@@ -59983,6 +59983,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 the-smart-stop.com
 127.0.0.1 the.mtree.com
 127.0.0.1 the.sextracker.com
+127.0.0.1 the.tracking.city
 127.0.0.1 theadhost.com
 127.0.0.1 theads.me
 127.0.0.1 theadvertiser.us.intellitxt.com
@@ -69156,6 +69157,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.azjmp.com
 127.0.0.1 www.azkempire.com
 127.0.0.1 www.azmsoft.com
+127.0.0.1 www.b1060no8673u5l58vi150ofyri.hop.clickbank.net
 127.0.0.1 www.b1d.org
 127.0.0.1 www.b23.ru
 127.0.0.1 www.b3d.com
@@ -70208,7 +70210,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.doubleclick.net
 127.0.0.1 www.doubleclick.net.my
 127.0.0.1 www.doubleclickbygoogle.com
-127.0.0.1 www.dowdenphotography.com
 127.0.0.1 www.down1oads.com
 127.0.0.1 www.downbursteefxriuvb.download
 127.0.0.1 www.downloadboost.com
@@ -70935,6 +70936,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.goatse.ru
 127.0.0.1 www.goatsegirl.org
 127.0.0.1 www.gobbetsdjgjnyc.download
+127.0.0.1 www.goblemam.com
 127.0.0.1 www.gofreegifts.com
 127.0.0.1 www.goggle.com
 127.0.0.1 www.gogousenet.com
@@ -72059,6 +72061,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.mediamind.com
 127.0.0.1 www.mediaplex.com
 127.0.0.1 www.mediareps.com
+127.0.0.1 www.mediaroi.go2cloud.org
 127.0.0.1 www.mediasheva.com
 127.0.0.1 www.mediaswitch.nl
 127.0.0.1 www.mediatisedevkrumfkc.download
@@ -74054,6 +74057,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.trkcpamedia.com
 127.0.0.1 www.trkfl.com
 127.0.0.1 www.trkr1.com
+127.0.0.1 www.trkroi.com
 127.0.0.1 www.trksst.com
 127.0.0.1 www.trkuoy.com
 127.0.0.1 www.trkur.com
