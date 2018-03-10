@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75155 ad serving and malware domains.
+# Currently blocking 75156 ad serving and malware domains.
 #
-# Date Generated: Mar 09 2018
+# Date Generated: Mar 10 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -20233,7 +20233,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.greenvilleonline.com
 127.0.0.1 ads.grindinggears.com
 127.0.0.1 ads.grokads.com
-127.0.0.1 ads.groundspeak.com
 127.0.0.1 ads.groupcommerce.com
 127.0.0.1 ads.grupozeta.es
 127.0.0.1 ads.gsm-exchange.com
@@ -34799,6 +34798,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 content.ireit.com
 127.0.0.1 content.isearch.com
 127.0.0.1 content.jdial.biz
+127.0.0.1 content.jwplatform.com
 127.0.0.1 content.linkoffers.net
 127.0.0.1 content.livesportmedia.eu
 127.0.0.1 content.liveuniverse.com
@@ -57448,6 +57448,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ssl.linksynergy.com
 127.0.0.1 ssl.luckyorange.com
 127.0.0.1 ssl.mousestats.com
+127.0.0.1 ssl.p.jwpcdn.com
 127.0.0.1 ssl.safepoollink.com
 127.0.0.1 ssl.sinergycosmetics.com
 127.0.0.1 ssl.siteimprove.com
@@ -61931,6 +61932,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 updatewinrar.ru
 127.0.0.1 updating-flash.cloudapp.net
 127.0.0.1 updo.nl
+127.0.0.1 upgradeget.thegreatforupdatesafemove.download
 127.0.0.1 upgradenote.enterbestforupdating.bid
 127.0.0.1 upgrowsxdeyxj.download
 127.0.0.1 upi.112.2o7.net
@@ -75144,7 +75146,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 zumeno.com
 127.0.0.1 zuzzer5.com
 127.0.0.1 zv.zeroredirect1.com
-127.0.0.1 zv1.november-lax.com
 127.0.0.1 zviframe.biz
 127.0.0.1 zw.zeroredirect1.com
 127.0.0.1 zww.ero-advertising.com
