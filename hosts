@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75156 ad serving and malware domains.
+# Currently blocking 75159 ad serving and malware domains.
 #
-# Date Generated: Mar 11 2018
+# Date Generated: Mar 12 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -41945,6 +41945,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 giftscom.122.2o7.net
 127.0.0.1 gifttracker.com
 127.0.0.1 gifttree.track4.com
+127.0.0.1 gigaonclick.com
 127.0.0.1 gigletcirjy.download
 127.0.0.1 gigwise.us.intellitxt.com
 127.0.0.1 gili-lankanfushi-com.b.appier.net
@@ -46215,6 +46216,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 livecams.nl
 127.0.0.1 livechat.s3.amazonaws.com
 127.0.0.1 livecheck.theperfectsystoupdating.date
+127.0.0.1 livecheck2update.thepointofforcontentingclear.bid
 127.0.0.1 livecounter.dk
 127.0.0.1 livedealcom.112.2o7.net
 127.0.0.1 liveintent.com
@@ -53729,7 +53731,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 qualityclickcontrol.com
 127.0.0.1 qualitylegion.com
 127.0.0.1 qualityporn.biz
-127.0.0.1 qualtrics.com
 127.0.0.1 quantcast.com
 127.0.0.1 quantcount.com
 127.0.0.1 quantserve.com
@@ -56376,6 +56377,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 setupdate24.updateworkfreshandnew.space
 127.0.0.1 setupdate24.updateworkfreshandnew.website
 127.0.0.1 setupspcp1.888.com
+127.0.0.1 setupupgrade12.thepointofforcontentingperfect.win
 127.0.0.1 seu.cleverreach.com
 127.0.0.1 sevenc.vze.com
 127.0.0.1 sevenoneintermedia.112.2o7.net
@@ -59680,7 +59682,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tinbuadserv.com
 127.0.0.1 ting.7eer.net
 127.0.0.1 tinybar.com
-127.0.0.1 tinypass.com
 127.0.0.1 tinytracker.onion.com
 127.0.0.1 tioweuuukcedarwood.review
 127.0.0.1 tips.oewabox.at
@@ -68669,6 +68670,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.browntrkn.com
 127.0.0.1 www.browser-statistik.de
 127.0.0.1 www.browseraccelerator.com
+127.0.0.1 www.browsersolution.win
 127.0.0.1 www.bsitm3.com
 127.0.0.1 www.bt.emsecure.net
 127.0.0.1 www.btbilgisayarkursu.com
@@ -68748,6 +68750,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.camsoda1.com
 127.0.0.1 www.canadasmedicine.com
 127.0.0.1 www.canadianhw.ca
+127.0.0.1 www.canadianshawid.com
 127.0.0.1 www.canalstat.com
 127.0.0.1 www.candi-nolen.us
 127.0.0.1 www.candi-parman.us
