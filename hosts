@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 75159 ad serving and malware domains.
+# Currently blocking 75157 ad serving and malware domains.
 #
-# Date Generated: Mar 12 2018
+# Date Generated: Mar 13 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -34798,7 +34798,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 content.ireit.com
 127.0.0.1 content.isearch.com
 127.0.0.1 content.jdial.biz
-127.0.0.1 content.jwplatform.com
 127.0.0.1 content.linkoffers.net
 127.0.0.1 content.livesportmedia.eu
 127.0.0.1 content.liveuniverse.com
@@ -47447,7 +47446,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mathenea.com
 127.0.0.1 matheranalytics.com
 127.0.0.1 mathtag.com
-127.0.0.1 matomo.org
 127.0.0.1 matomy.adk2.co
 127.0.0.1 matomy.com
 127.0.0.1 matomygroup.com
