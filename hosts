@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74303 ad serving and malware domains.
+# Currently blocking 74305 ad serving and malware domains.
 #
-# Date Generated: Mar 21 2018
+# Date Generated: Mar 22 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -20594,6 +20594,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.nationchannel.com
 127.0.0.1 ads.nativeinstruments.de
 127.0.0.1 ads.ncm.com
+127.0.0.1 ads.ndtv1.com
 127.0.0.1 ads.neg.bg
 127.0.0.1 ads.neoseeker.com
 127.0.0.1 ads.neowin.net
@@ -34177,6 +34178,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cmhtml.overture.com
 127.0.0.1 cmi.netseer.com
 127.0.0.1 cmicapui.ce.gov.br
+127.0.0.1 cml.sad.ukrd.com
 127.0.0.1 cmllk1.info
 127.0.0.1 cmn1lsm2.beliefnet.com
 127.0.0.1 cmn1lsm3.beliefnet.com
@@ -50461,7 +50463,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 observer.advertserve.com
 127.0.0.1 observer.ip-label.net
 127.0.0.1 obuchenie.justclick.ru
-127.0.0.1 obyno.xyz
 127.0.0.1 oc-track.autonomycloud.com
 127.0.0.1 oc.umeng.com
 127.0.0.1 oc9e5.voluumtrk.com
@@ -51581,6 +51582,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 park2.ireit.com
 127.0.0.1 park3.ireit.com
 127.0.0.1 parkcloud.dynadot.com
+127.0.0.1 parketsy.pro
 127.0.0.1 parking.dmtracker.com
 127.0.0.1 parking.parklogic.com
 127.0.0.1 parking.reg.ru
