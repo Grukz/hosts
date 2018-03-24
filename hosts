@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74173 ad serving and malware domains.
+# Currently blocking 74172 ad serving and malware domains.
 #
-# Date Generated: Mar 23 2018
+# Date Generated: Mar 24 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -34053,7 +34053,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 clk.flmsecure.com
 127.0.0.1 clk.im
 127.0.0.1 clk.jmp9.com
-127.0.0.1 clk.konflab.com
 127.0.0.1 clk.madisonlogic.com
 127.0.0.1 clk.members.fling.com
 127.0.0.1 clk.ml-links.com
@@ -34732,6 +34731,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 convoad.technoratimedia.com.24234.9068.302br.net
 127.0.0.1 convoad.technoratimedia.com.24235.9068.302br.net
 127.0.0.1 convoad.technoratimedia.com.24236.9068.302br.net
+127.0.0.1 convrse.media
 127.0.0.1 convusmp.admailtiser.com
 127.0.0.1 cookie.disneylandparis.com
 127.0.0.1 cookie.fdih.dk
@@ -42255,6 +42255,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 graffix.adition.com
 127.0.0.1 grafix.xxxcounter.com
 127.0.0.1 grafstat.ro
+127.0.0.1 grahamdigital.com
 127.0.0.1 gramashgbbjqbzy.download
 127.0.0.1 grammarly.go2cloud.org
 127.0.0.1 granite.bnex.com
@@ -48444,7 +48445,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 moatads.com
 127.0.0.1 mob.adnxs.com
 127.0.0.1 mob.adwhirl.com
-127.0.0.1 mob.system-onlline.com
 127.0.0.1 moba8.net
 127.0.0.1 mobadoo.go2affise.com
 127.0.0.1 mobads.baidu.com
@@ -66828,7 +66828,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 widget.getsatisfaction.com
 127.0.0.1 widget.hypercomments.com
 127.0.0.1 widget.imshopping.com
-127.0.0.1 widget.intercom.io
 127.0.0.1 widget.marktjagd.de
 127.0.0.1 widget.nativly.com
 127.0.0.1 widget.perfectmarket.com
