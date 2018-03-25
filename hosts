@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74172 ad serving and malware domains.
+# Currently blocking 74195 ad serving and malware domains.
 #
-# Date Generated: Mar 24 2018
+# Date Generated: Mar 25 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1327,6 +1327,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 333mmm.com
 127.0.0.1 33526.9243.302br.net
 127.0.0.1 33across-d.openx.net
+127.0.0.1 33across.com
 127.0.0.1 33b.b33r.net
 127.0.0.1 33qx.secoptim.com
 127.0.0.1 33universal.adprimemedia.com
@@ -17878,7 +17879,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad4game.com
 127.0.0.1 ad4games.com
 127.0.0.1 ad4m.adk2.co
+127.0.0.1 ad4mat.com
 127.0.0.1 ad4mat.de
+127.0.0.1 ad4mat.net
 127.0.0.1 ad4me.net
 127.0.0.1 ad4partners.com
 127.0.0.1 ad5.adfarm1.adition.com
@@ -20983,6 +20986,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.profitsdeluxe.com
 127.0.0.1 ads.profootballtalk.com
 127.0.0.1 ads.program3.com
+127.0.0.1 ads.programattik.com
 127.0.0.1 ads.propertycasualty360.com
 127.0.0.1 ads.prospect.org
 127.0.0.1 ads.provincianews.ro
@@ -24651,6 +24655,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 affbuzzads.com
 127.0.0.1 affcloud.go2cloud.org
 127.0.0.1 affddl.automotive.com
+127.0.0.1 affec.tv
 127.0.0.1 affelix.com
 127.0.0.1 affguru.go2cloud.org
 127.0.0.1 affilcrtopcolle.112.2o7.net
@@ -38192,6 +38197,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dsp.adfarm1.adition.com
 127.0.0.1 dsp.adkernel.com
 127.0.0.1 dsp.bnmla.com
+127.0.0.1 dsp.io
 127.0.0.1 dsp.xapads.com
 127.0.0.1 dsparking.com
 127.0.0.1 dspcluster.adfarm1.adition.com
@@ -38604,6 +38610,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ed.at.is13.de
 127.0.0.1 ed.at.thamaster.de
 127.0.0.1 ed.koeln.de
+127.0.0.1 edaa.eu
 127.0.0.1 eddamedia.linkpulse.com
 127.0.0.1 eddamedia.tns-cs.net
 127.0.0.1 edf.fr.kfskz.com
@@ -39000,6 +39007,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 emediate.dk
 127.0.0.1 emediate.eu
 127.0.0.1 emediate.se
+127.0.0.1 emerse.com
 127.0.0.1 emeza-ch01.webtrekk.net
 127.0.0.1 emeza-com01.webtrekk.net
 127.0.0.1 emeza-de01.webtrekk.net
@@ -44368,6 +44376,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 intelliseek.com
 127.0.0.1 intellitxt.com
 127.0.0.1 intensedigital.adk2x.com
+127.0.0.1 intentmedia.com
+127.0.0.1 intentmedia.net
 127.0.0.1 interac.refund-canada.com
 127.0.0.1 interactive-assets.s3.amazonaws.com
 127.0.0.1 interactive.forthnet.gr
@@ -45767,6 +45777,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 leadmobi.en.alibaba.com
 127.0.0.1 leadparadise.go2cloud.org
 127.0.0.1 leadperformanceltd.go2cloud.org
+127.0.0.1 leadplace.fr
 127.0.0.1 leadpub.com
 127.0.0.1 leads.383media.com
 127.0.0.1 leads.ohecampus.com
@@ -48631,6 +48642,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 moo.sitescout.com
 127.0.0.1 moodoo.com.cn
 127.0.0.1 moodoocrv.com.cn
+127.0.0.1 mookie1.com
 127.0.0.1 mopub.com
 127.0.0.1 moradu.com
 127.0.0.1 more-games.creative-mobile.com
@@ -53272,6 +53284,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 publicidad.elmundo.es
 127.0.0.1 publicidad.entelchile.net
 127.0.0.1 publicidades.redtotalonline.com
+127.0.0.1 publicidees.com
 127.0.0.1 publicis.adcentriconline.com
 127.0.0.1 publicizedrtgtvj.download
 127.0.0.1 publir-d.openx.net
@@ -54427,6 +54440,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 roars.com
 127.0.0.1 robotreplay.com
 127.0.0.1 robtopol.in
+127.0.0.1 rockabox.co
 127.0.0.1 rockdirt.us.intellitxt.com
 127.0.0.1 rocketfuel.com
 127.0.0.1 rockoneinnovations.go2cloud.org
@@ -59093,6 +59107,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 teliad.de
 127.0.0.1 telkku.spring-tns.net
 127.0.0.1 telstra.imrworldwide.com
+127.0.0.1 temelio.com
 127.0.0.1 temp.adzerver.com
 127.0.0.1 temperersgelvhakyk.download
 127.0.0.1 tempest.services.disqus.com
@@ -59231,6 +59246,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 the.mtree.com
 127.0.0.1 the.sextracker.com
 127.0.0.1 the.tracking.city
+127.0.0.1 theadex.com
 127.0.0.1 theadhost.com
 127.0.0.1 theads.me
 127.0.0.1 theadvertiser.us.intellitxt.com
@@ -59395,6 +59411,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ticket20.tripod.com
 127.0.0.1 ticks2.bugsense.com
 127.0.0.1 tidalkqbvnxk.download
+127.0.0.1 tidaltv.com
 127.0.0.1 tidbit.co.in
 127.0.0.1 tidbitlhztnnx.download
 127.0.0.1 tidbitscom.skimlinks.com
@@ -61038,6 +61055,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tunersyxofqeak.download
 127.0.0.1 tunmedia.tns-cs.net
 127.0.0.1 tuno.nuggad.net
+127.0.0.1 turboadv.com
 127.0.0.1 turdgasm.com
 127.0.0.1 turkeyhotelnoslafas.su
 127.0.0.1 turn.com
@@ -61105,6 +61123,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 twsg21x6-22dcca05c0915aa0dad0a07273e7a3c5015ddc6d-am1.d.aa.online-metrix.net
 127.0.0.1 twx.2mdn.net
 127.0.0.1 twx.doubleclick.net
+127.0.0.1 twyn.com
 127.0.0.1 tx.5.p2l.info
 127.0.0.1 tx.adprofile.net
 127.0.0.1 tx.micro.net.pk
@@ -61594,6 +61613,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 undefined.it
 127.0.0.1 undefined.vindicosuite.com
 127.0.0.1 underclick.ru
+127.0.0.1 undertone.com
 127.0.0.1 undertonenetworks.com
 127.0.0.1 unfairnesstxucdbqiz.download
 127.0.0.1 unfamedooxpcktdb.download
@@ -65894,6 +65914,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vmix.adbureau.net
 127.0.0.1 vml-127.com
 127.0.0.1 vml1.s3.amazonaws.com
+127.0.0.1 vmmpxl.com
 127.0.0.1 vmn.net
 127.0.0.1 vmp.boldchat.com
 127.0.0.1 vmss.boldchat.com
@@ -67163,6 +67184,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wsw6.surf-town.net
 127.0.0.1 wswb1.surf-town.net
 127.0.0.1 wswb3.surf-town.net
+127.0.0.1 wt-eu02.net
 127.0.0.1 wt.o.nytimes.com
 127.0.0.1 wt.sexsearch.com
 127.0.0.1 wt.sexsearchcom.com
@@ -74185,4 +74207,5 @@ ff02::2 ip6-allrouters
 127.0.0.1 zz.zeroredirect1.com
 127.0.0.1 zzptzdhugavot.review
 127.0.0.1 zzz.clickbank.net
+127.0.0.1 zzzrtrcm2.com
 127.0.0.1 ɢoogle.com
