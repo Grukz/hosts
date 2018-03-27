@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74197 ad serving and malware domains.
+# Currently blocking 74199 ad serving and malware domains.
 #
-# Date Generated: Mar 26 2018
+# Date Generated: Mar 27 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -49801,6 +49801,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 novostimira.biz
 127.0.0.1 now.eloqua.com
 127.0.0.1 nowcheck.seethisamazinguogradeswinmacawesome.win
+127.0.0.1 nowgetsoft.pushingnewforcontentsafeload.download
 127.0.0.1 nowina.info
 127.0.0.1 nowinstallupgrade.clickforultimateandbest2updatingpc.top
 127.0.0.1 nowinstallupgrade.goodcentralupdatesall.bid
@@ -59005,6 +59006,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tealeaf.com
 127.0.0.1 tealium.hs.llnwd.net
 127.0.0.1 team4heat.net
+127.0.0.1 teamdzsn.beget.tech
 127.0.0.1 teameda.comcastbiz.net
 127.0.0.1 teameda.net
 127.0.0.1 teamtalk.uk.intellitxt.com
