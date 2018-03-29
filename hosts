@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74227 ad serving and malware domains.
+# Currently blocking 74210 ad serving and malware domains.
 #
-# Date Generated: Mar 28 2018
+# Date Generated: Mar 29 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -333,7 +333,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 101lottery.com
 127.0.0.1 101malls.com
 127.0.0.1 101order.com
-127.0.0.1 101xp.com
 127.0.0.1 102.112.207.net
 127.0.0.1 102.112.2o7.net
 127.0.0.1 102.122.2o7.net
@@ -33623,7 +33622,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cleanmobilephone.com
 127.0.0.1 clear-reports.com
 127.0.0.1 clear-search.com
-127.0.0.1 clearbit.com
 127.0.0.1 clearbluemedia.org
 127.0.0.1 clearlinkmedia.go2cloud.org
 127.0.0.1 clearonclick.com
@@ -37110,7 +37108,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 datashreddergold.com
 127.0.0.1 datattro.xyz
 127.0.0.1 dataxu.com
-127.0.0.1 datds.net
 127.0.0.1 date.ero-advertising.com
 127.0.0.1 date.ventivmedia.com
 127.0.0.1 dating-banners.com
@@ -38971,7 +38968,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 eltiempocitytv.112.2o7.net
 127.0.0.1 eltiempocom.112.2o7.net
 127.0.0.1 eltrafiko.com
-127.0.0.1 eluxer.net
 127.0.0.1 elv3-tslogging.touchcommerce.com
 127.0.0.1 em.gad-network.com
 127.0.0.1 em.offerx.co.uk
@@ -39311,7 +39307,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 espriteussl.webtrekk.net
 127.0.0.1 espritfissl.webtrekk.net
 127.0.0.1 espritfrssl.webtrekk.net
-127.0.0.1 espritgames.ru
 127.0.0.1 espritnlssl.webtrekk.net
 127.0.0.1 espritshopchssl.webtrekk.net
 127.0.0.1 esquare.go2cloud.org
@@ -39673,7 +39668,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 f2.p0y.com
 127.0.0.1 f2communitynews.112.2o7.net
 127.0.0.1 f2f2-e0e3-6b11-5f39.reporo.net
-127.0.0.1 f2go.conversionmasters.com
 127.0.0.1 f2nbt.112.2o7.net
 127.0.0.1 f2ncracker.112.2o7.net
 127.0.0.1 f2network.112.2o7.net
@@ -41404,7 +41398,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gcumuobqjbullfight.review
 127.0.0.1 gd.ads.vip.gq1.yahoo.com
 127.0.0.1 gd.geobytes.com
-127.0.0.1 gd.mlb.com
 127.0.0.1 gd1.doubleclick.net
 127.0.0.1 gd10.doubleclick.net
 127.0.0.1 gd11.doubleclick.net
@@ -41847,7 +41840,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 global.ymtrack.com
 127.0.0.1 global.ymtracking.com
 127.0.0.1 globalismedia.com
-127.0.0.1 globallysearch.com
 127.0.0.1 globalnetworkanalys.com
 127.0.0.1 globaltakeoff.net
 127.0.0.1 globaltargets.go2cloud.org
@@ -41935,6 +41927,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 go.by
 127.0.0.1 go.clickhoptk.com
 127.0.0.1 go.clicktrackopt.com
+127.0.0.1 go.conversionmasters.com
 127.0.0.1 go.coxds.com
 127.0.0.1 go.cz.bbelements.com
 127.0.0.1 go.data1rtb.com
@@ -42101,7 +42094,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 goplayz.com
 127.0.0.1 gopopup.com
 127.0.0.1 gopuralverslakf.download
-127.0.0.1 goqrench.net
 127.0.0.1 goreal.at
 127.0.0.1 goredi.com
 127.0.0.1 gorensin.info
@@ -45559,7 +45551,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 kvsge.voluumtrk.com
 127.0.0.1 kvvadrat.net
 127.0.0.1 kw34h-lithi-owo.tk
-127.0.0.1 kwanzy.com
 127.0.0.1 kwserver.adhispanic.com
 127.0.0.1 kxrzz.superpromo.7112531.com
 127.0.0.1 ky.5.p2l.info
@@ -52363,7 +52354,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 planituk.go2cloud.org
 127.0.0.1 plank.duplicolor.cl
 127.0.0.1 plantaardigebrandstof.nl
-127.0.0.1 plarium.com
 127.0.0.1 plasmatv4free.com
 127.0.0.1 plasmatvreward.com
 127.0.0.1 platado.com
@@ -52899,7 +52889,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 prom.ecato.net
 127.0.0.1 promable.com
 127.0.0.1 promo-m.bongacash.com
-127.0.0.1 promo.101xp.com
 127.0.0.1 promo.acquinityinteractive.com
 127.0.0.1 promo.awempire.com
 127.0.0.1 promo.badoink.com
@@ -53920,7 +53909,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 realtimeads.com
 127.0.0.1 realtouchbannerwidget.aebn.net
 127.0.0.1 realtracker.com
-127.0.0.1 realty.yandex.ru
 127.0.0.1 reamerskltzgimoz.download
 127.0.0.1 reboot.sitescout.com
 127.0.0.1 rebrandsoftware.com
@@ -55601,7 +55589,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 search.keywordblocks.com
 127.0.0.1 search.media.net
 127.0.0.1 search.mediatarget.com
-127.0.0.1 search.mytab.club
 127.0.0.1 search.mywebsearch.com
 127.0.0.1 search.netseer.com
 127.0.0.1 search.opentext.com
@@ -55652,7 +55639,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 searchswitch.com
 127.0.0.1 searchtoexplore.com
 127.0.0.1 searchtracking.leads.com
-127.0.0.1 searchuttorm.com
 127.0.0.1 searchwe.com
 127.0.0.1 searchwebresults.com
 127.0.0.1 sears.112.2o7.net
@@ -57067,7 +57053,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sportingbeteur.adsrv.eacdn.com
 127.0.0.1 sportingnews.122.2o7.net
 127.0.0.1 sportingnews.us.intellitxt.com
-127.0.0.1 sportiv.ru
 127.0.0.1 sports-bonuspath.com
 127.0.0.1 sports-fitness-rewardpath.com
 127.0.0.1 sports-offer.com
@@ -62164,6 +62149,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vernalizesdoanrm.download
 127.0.0.1 vernoblisk.com
 127.0.0.1 versionsupport.set2updatenowsafesystemset4now.info
+127.0.0.1 versionsupport.thebig-centeralplacecontentgreat.date
 127.0.0.1 vertadnet.com
 127.0.0.1 vertical-leap.co.uk
 127.0.0.1 vertical-stats.huffpost.com
@@ -73775,7 +73761,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ya-aaaa123123.myjino.ru
 127.0.0.1 yab-adimages.s3.amazonaws.com
 127.0.0.1 yaboshadi.com
-127.0.0.1 yabs.yandex.ru
 127.0.0.1 yabuka.com
 127.0.0.1 yad1.yad2.co.il
 127.0.0.1 yada.com
@@ -73790,8 +73775,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 yallboen.com
 127.0.0.1 yamaha.122.2o7.net
 127.0.0.1 yamleg.fu8.com
-127.0.0.1 yandex.ru
-127.0.0.1 yandex.ua
 127.0.0.1 yandexadexchange.net
 127.0.0.1 yang.hitbox.com
 127.0.0.1 yardbarker.tags.crwdcntrl.net
