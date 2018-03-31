@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74205 ad serving and malware domains.
+# Currently blocking 74221 ad serving and malware domains.
 #
-# Date Generated: Mar 30 2018
+# Date Generated: Mar 31 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -3031,6 +3031,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 acxiom.com
 127.0.0.1 acxtrk.com
 127.0.0.1 acyclovir.1.p2l.info
+127.0.0.1 ad
 127.0.0.1 ad-411.com
 127.0.0.1 ad-ace.doubleclick.net
 127.0.0.1 ad-agent.com
@@ -19354,6 +19355,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads-03.tor.focusin.ads.targetnet.com
 127.0.0.1 ads-a-darwin.hulu.com
 127.0.0.1 ads-a.juicyads.com
+127.0.0.1 ads-adseast.yldbt.com
 127.0.0.1 ads-affiliate.com
 127.0.0.1 ads-au.onelouder.com
 127.0.0.1 ads-b.focalink.com
@@ -23080,6 +23082,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserver.ilounge.com
 127.0.0.1 adserver.infinit.net
 127.0.0.1 adserver.infotiger.com
+127.0.0.1 adserver.intentiq.com
 127.0.0.1 adserver.interfree.it
 127.0.0.1 adserver.inwind.it
 127.0.0.1 adserver.ip-phone-forum.de
@@ -23315,6 +23318,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 adservice.aliexpress.com
 127.0.0.1 adservice.everyone.com
 127.0.0.1 adservice.everyone.net
+127.0.0.1 adservice.google.ca
+127.0.0.1 adservice.google.com
 127.0.0.1 adservicedomain.info
 127.0.0.1 adservices.google.com
 127.0.0.1 adservices.picadmedia.com
@@ -26040,6 +26045,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.infinario.com
 127.0.0.1 api.innomdc.com
 127.0.0.1 api.intensifier.de
+127.0.0.1 api.intentiq.com
 127.0.0.1 api.inwemo.com
 127.0.0.1 api.iperceptions.com
 127.0.0.1 api.ipinfodb.com
@@ -32839,6 +32845,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.g.promosrv.com
 127.0.0.1 cdn.gameadvert.com
 127.0.0.1 cdn.geni.us
+127.0.0.1 cdn.getsmartcontent.com
 127.0.0.1 cdn.gigya.com
 127.0.0.1 cdn.gms1.net
 127.0.0.1 cdn.go.arbo.bbelements.com
@@ -38093,6 +38100,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dp-medien.eu
 127.0.0.1 dp.g.doubleclick.net
 127.0.0.1 dp.specificclick.net
+127.0.0.1 dp1.33across.com
 127.0.0.1 dp2.specificclick.net
 127.0.0.1 dp51h10v6ggpa.cloudfront.net
 127.0.0.1 dpbolvw.net
@@ -39424,6 +39432,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 events.foreseeresults.com
 127.0.0.1 events.jotform.com
 127.0.0.1 events.kalooga.com
+127.0.0.1 events.kiosked.com
 127.0.0.1 events.olark.com
 127.0.0.1 events.realgravity.com
 127.0.0.1 events.redditmedia.com
@@ -41187,6 +41196,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gadgetsytecnologia.com
 127.0.0.1 gadk.hit.gemius.pl
 127.0.0.1 gadnet.hit.gemius.pl
+127.0.0.1 gads.pubmatic.com
 127.0.0.1 gads.ru
 127.0.0.1 gae.caspion.com
 127.0.0.1 gaee.hit.gemius.pl
@@ -43861,6 +43871,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 imarker.com
 127.0.0.1 imarker.ru
 127.0.0.1 imarketservices.com
+127.0.0.1 imasdk.googleapis.com
 127.0.0.1 imatmobile.com
 127.0.0.1 imbof.com
 127.0.0.1 imc.l.qq.com
@@ -47682,6 +47693,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mediadomain.com
 127.0.0.1 mediadome.ru
 127.0.0.1 mediadvertising.ro
+127.0.0.1 mediafaze.com
 127.0.0.1 mediaforce.com
 127.0.0.1 mediafr.247realmedia.com
 127.0.0.1 mediageneral.com
@@ -53530,6 +53542,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 qualitylegion.com
 127.0.0.1 qualityporn.biz
 127.0.0.1 quantcast.com
+127.0.0.1 quantcast584928381.s.moatpixel.com
 127.0.0.1 quantcount.com
 127.0.0.1 quantserve.com
 127.0.0.1 quantummetric.com
@@ -53577,6 +53590,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 qwiklnk.com
 127.0.0.1 qwwqb.voluumtrk.com
 127.0.0.1 qxj3b.voluumtrk.com
+127.0.0.1 qxxru.linknotification.com
 127.0.0.1 qy.corrmedic.ru
 127.0.0.1 qyrix.go2cloud.org
 127.0.0.1 qz.informs.com
@@ -58459,6 +58473,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sync.go.sonobi.com
 127.0.0.1 sync.mathtag.com
 127.0.0.1 sync.monarchads.com
+127.0.0.1 sync.pulseradius.com
 127.0.0.1 sync.rhythmxchange.com
 127.0.0.1 sync.richmetrics.com
 127.0.0.1 sync.search.spotxchange.com
@@ -59508,6 +59523,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tlkrvyuincommodes.review
 127.0.0.1 tlvmedia.adk2.co
 127.0.0.1 tlvmedia.com
+127.0.0.1 tlx.3lift.com
 127.0.0.1 tm.tradetracker.net
 127.0.0.1 tmarket.tripod.com
 127.0.0.1 tmcnet.us.intellitxt.com
@@ -59545,7 +59561,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 todayads.com
 127.0.0.1 todayresearch.com
 127.0.0.1 todayshow.us.intellitxt.com
-127.0.0.1 toddscarwash.com
 127.0.0.1 toggo.ivwbox.de
 127.0.0.1 toi3.ivwbox.de
 127.0.0.1 toics.2cnt.net
@@ -66803,6 +66818,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 whaleads.com
 127.0.0.1 whatifholdings.go2cloud.org
 127.0.0.1 whatinteryield.jmp9.com
+127.0.0.1 whatishotnow.net
 127.0.0.1 whatismyip.akamai.com
 127.0.0.1 whatrunswhere.go2cloud.org
 127.0.0.1 whatseek.com
