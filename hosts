@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74221 ad serving and malware domains.
+# Currently blocking 74220 ad serving and malware domains.
 #
-# Date Generated: Mar 31 2018
+# Date Generated: Apr 01 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -33157,7 +33157,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdnmedia.xyz
 127.0.0.1 cdns.amgdgt.com
 127.0.0.1 cdns.brsrvr.com
-127.0.0.1 cdns.gigya.com
 127.0.0.1 cdns.mydirtyhobby.com
 127.0.0.1 cdns.privatamateure.com
 127.0.0.1 cdnssl.clicktale.net
