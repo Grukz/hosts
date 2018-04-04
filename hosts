@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74222 ad serving and malware domains.
+# Currently blocking 74238 ad serving and malware domains.
 #
-# Date Generated: Apr 03 2018
+# Date Generated: Apr 04 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2712,6 +2712,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aa-gb.mgid.com
 127.0.0.1 aa-nb.marketgid.com
 127.0.0.1 aa.adfarm1.adition.com
+127.0.0.1 aa.agkn.com
 127.0.0.1 aa.connextra.com
 127.0.0.1 aa.newsblock.dt00.net
 127.0.0.1 aa.newsblock.marketgid.com
@@ -19521,6 +19522,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.affbuzzads.com
 127.0.0.1 ads.affelix.com
 127.0.0.1 ads.affiliateclub.com
+127.0.0.1 ads.affiliates-spinit.com
 127.0.0.1 ads.affiliates.match.com
 127.0.0.1 ads.afixi.com
 127.0.0.1 ads.afraccess.com
@@ -20044,6 +20046,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.fairfax.com.au
 127.0.0.1 ads.fark.com
 127.0.0.1 ads.fashionsupreme.co.uk
+127.0.0.1 ads.fasttrack-ignite.com
 127.0.0.1 ads.fatvine.com
 127.0.0.1 ads.faxo.com
 127.0.0.1 ads.fayettevillenc.com
@@ -20147,6 +20150,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.genericlink.com
 127.0.0.1 ads.geoads.net
 127.0.0.1 ads.germanfriendfinder.com
+127.0.0.1 ads.getlucky.com
 127.0.0.1 ads.gettools.com
 127.0.0.1 ads.gfy.com
 127.0.0.1 ads.ghettotube.com
@@ -20366,6 +20370,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.jiwire.com
 127.0.0.1 ads.jlisting.jp
 127.0.0.1 ads.jo-games.com
+127.0.0.1 ads.joaffs.com
 127.0.0.1 ads.jobclicks.net
 127.0.0.1 ads.jobsite.co.uk
 127.0.0.1 ads.joemonster.org
@@ -20383,6 +20388,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.justrelevant.com
 127.0.0.1 ads.jwtt3.com
 127.0.0.1 ads.ka6tata.com
+127.0.0.1 ads.kabooaffiliates.com
 127.0.0.1 ads.kaktuz.net
 127.0.0.1 ads.kaldata.com
 127.0.0.1 ads.kanal3.bg
@@ -20415,6 +20421,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.lacoctelera.com
 127.0.0.1 ads.lanistaads.com
 127.0.0.1 ads.laptop.bg
+127.0.0.1 ads.larryaffiliates.com
 127.0.0.1 ads.lawnsite.com
 127.0.0.1 ads.layer-ad.org
 127.0.0.1 ads.lehighvalleylive.com
@@ -20527,6 +20534,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.mnemosoft.com
 127.0.0.1 ads.mnium.org
 127.0.0.1 ads.mobclix.com
+127.0.0.1 ads.mobilautomaten.com
 127.0.0.1 ads.mobiledia.com
 127.0.0.1 ads.mobilefuse.net
 127.0.0.1 ads.mobilemarketer.com
@@ -21235,6 +21243,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.sumotorrent.sx
 127.0.0.1 ads.sun.com
 127.0.0.1 ads.sunjournal.com
+127.0.0.1 ads.suomiautomaatti.com
 127.0.0.1 ads.sup.com
 127.0.0.1 ads.superonline.com
 127.0.0.1 ads.supplyframe.com
@@ -25976,7 +25985,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 apester.com
 127.0.0.1 apex-ad.com
 127.0.0.1 apex.go.sonobi.com
-127.0.0.1 apexgames.org
 127.0.0.1 aphrodite.porntrack.com
 127.0.0.1 api-cache.adsnative.com
 127.0.0.1 api-public.addthis.com
@@ -31772,6 +31780,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 buy-zyban.all.at
 127.0.0.1 buy.com
 127.0.0.1 buy.thetrackr.com
+127.0.0.1 buy.tinypass.com
 127.0.0.1 buy2.go2cloud.org
 127.0.0.1 buycialisonline.7h.com
 127.0.0.1 buycialisonline.bigsitecity.com
@@ -39564,6 +39573,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 expedia6vt.112.2o7.net
 127.0.0.1 expedia8.112.2o7.net
 127.0.0.1 experianservicescorp.122.2o7.net
+127.0.0.1 experience.tinypass.com
 127.0.0.1 expert-offers.com
 127.0.0.1 experteerads.com
 127.0.0.1 expertland.net
@@ -51500,6 +51510,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pa.yahoo.com
 127.0.0.1 pacan.gofreedom.info
 127.0.0.1 pacific-poker.e-online-poker-4u.net
+127.0.0.1 pacificnet.xyz
 127.0.0.1 paclitor.com
 127.0.0.1 pacman.gkgar.com
 127.0.0.1 pads.adition.com
@@ -53941,8 +53952,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 recommendedpreview.com
 127.0.0.1 recommender.scarabresearch.com
 127.0.0.1 record.affiliatelounge.com
+127.0.0.1 record.affiliates.karjalakasino.com
+127.0.0.1 record.bonniergaming.com
 127.0.0.1 record.commissionking.com
 127.0.0.1 record.commissionlounge.com
+127.0.0.1 record.mrwin.com
 127.0.0.1 recordeaglecom.112.2o7.net
 127.0.0.1 recorded-email.com
 127.0.0.1 recordnetcom.112.2o7.net
@@ -60236,6 +60250,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trackdiscovery.net
 127.0.0.1 trackedclicks.com
 127.0.0.1 tracker-api.my.com
+127.0.0.1 tracker-pm2.spilleren.com
 127.0.0.1 tracker.adwingate.com
 127.0.0.1 tracker.adxpansion.com
 127.0.0.1 tracker.affility.com
@@ -66827,6 +66842,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 whave.iptvdeals.com
 127.0.0.1 whentheyopened.com
 127.0.0.1 whenu.com
+127.0.0.1 whenupgrade.yourmainsourceforcontentprepared.win
 127.0.0.1 whenusearch.com
 127.0.0.1 whenvideoup.thebigandfreesystemupdate.website
 127.0.0.1 whenvideoup.thebigandfreesystemupdating.date
