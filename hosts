@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74238 ad serving and malware domains.
+# Currently blocking 74237 ad serving and malware domains.
 #
-# Date Generated: Apr 06 2018
+# Date Generated: Apr 07 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -28559,6 +28559,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 beam.hlserve.com
 127.0.0.1 beam.to
 127.0.0.1 beamincrease.com
+127.0.0.1 beamkite.com
 127.0.0.1 beanstock.com
 127.0.0.1 beanstockmedia.com
 127.0.0.1 beap.adx.yahoo.com
@@ -33412,7 +33413,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 chi-only.outbrain.com
 127.0.0.1 chi2only.outbrain.com
 127.0.0.1 chicagosuntimes.122.2o7.net
-127.0.0.1 chiefcurrent.com
 127.0.0.1 childhe.com
 127.0.0.1 chillinessfjnvbh.download
 127.0.0.1 chillout.real.com
@@ -34485,6 +34485,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 comingsoon.us.intellitxt.com
 127.0.0.1 comm.ovh.fr
 127.0.0.1 command.adservs.com
+127.0.0.1 commandwalk.com
 127.0.0.1 commerce-offer.com
 127.0.0.1 commerce-rewardpath.com
 127.0.0.1 commerce.cimedia.net
@@ -36430,6 +36431,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 crowdgravity.com
 127.0.0.1 crowdignite.com
 127.0.0.1 crowdscience.com
+127.0.0.1 crownclam.com
 127.0.0.1 crsky2004.yeah.net
 127.0.0.1 crt.hexatrack.com
 127.0.0.1 crtl.aimatch.com
@@ -37365,6 +37367,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 delfinproject.go2cloud.org
 127.0.0.1 deliciousbrains.go2cloud.org
 127.0.0.1 delightcash.com
+127.0.0.1 delightdriving.com
 127.0.0.1 delightful.112.2o7.net
 127.0.0.1 delishows.com
 127.0.0.1 deliv.lexpress.fr
@@ -37632,6 +37635,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 diff3.smartadserver.com
 127.0.0.1 diff4.smartadserver.com
 127.0.0.1 diff5.smartadserver.com
+127.0.0.1 differentdesk.com
 127.0.0.1 difusoragoiania.com.br
 127.0.0.1 digdug.divxnetworks.com
 127.0.0.1 digg.analytics.live.com
@@ -41189,7 +41193,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ga.canoe.ca
 127.0.0.1 ga.clearbit.com
 127.0.0.1 ga.webdigi.co.uk
-127.0.0.1 ga87z2o.com
 127.0.0.1 gaae.hit.gemius.pl
 127.0.0.1 gaat.hit.gemius.pl
 127.0.0.1 gaba.hit.gemius.pl
@@ -51845,7 +51848,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pdsqopgtdiphyodont.review
 127.0.0.1 pdt.tradedoubler.com
 127.0.0.1 pe.5.p2l.info
-127.0.0.1 peacepowder.com
 127.0.0.1 peakclick.com
 127.0.0.1 peakcounter.dk
 127.0.0.1 peaky.tags.yield-atx.com
@@ -53379,7 +53381,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 push.cdnads.com
 127.0.0.1 push.poptm.com
 127.0.0.1 push.senddroid.com
-127.0.0.1 pushcrew.com
 127.0.0.1 pushdoglucoside.review
 127.0.0.1 pushengage.com
 127.0.0.1 pussl22.com
@@ -57264,7 +57265,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ssl.linksynergy.com
 127.0.0.1 ssl.luckyorange.com
 127.0.0.1 ssl.mousestats.com
-127.0.0.1 ssl.p.jwpcdn.com
 127.0.0.1 ssl.safepoollink.com
 127.0.0.1 ssl.sinergycosmetics.com
 127.0.0.1 ssl.siteimprove.com
@@ -59638,7 +59638,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 toolsins.com
 127.0.0.1 toon-families.com
 127.0.0.1 toonfamilies.net
-127.0.0.1 top-casting-termine.de
 127.0.0.1 top-fwz1.mail.ru
 127.0.0.1 top-ro.ro
 127.0.0.1 top-site-list.com
