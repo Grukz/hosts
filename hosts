@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74237 ad serving and malware domains.
+# Currently blocking 74238 ad serving and malware domains.
 #
-# Date Generated: Apr 07 2018
+# Date Generated: Apr 08 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -56868,6 +56868,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 softpedia.uk.intellitxt.com
 127.0.0.1 softpedia.us.intellitxt.com
 127.0.0.1 softreadynow.thebigforeverupgrade.review
+127.0.0.1 softreadynow.thereadysetandgoforcontentprepared.trade
 127.0.0.1 softreadynow.thespaceupdatespcandmac.info
 127.0.0.1 softwaare.net
 127.0.0.1 software-updates.co
