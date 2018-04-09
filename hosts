@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74238 ad serving and malware domains.
+# Currently blocking 74241 ad serving and malware domains.
 #
-# Date Generated: Apr 08 2018
+# Date Generated: Apr 09 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -3032,7 +3032,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 acxiom.com
 127.0.0.1 acxtrk.com
 127.0.0.1 acyclovir.1.p2l.info
-127.0.0.1 ad
 127.0.0.1 ad-411.com
 127.0.0.1 ad-ace.doubleclick.net
 127.0.0.1 ad-agent.com
@@ -18758,6 +18757,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adhese.standaard.be
 127.0.0.1 adhitprofits.com
 127.0.0.1 adhitzads.com
+127.0.0.1 adhoc4.net
 127.0.0.1 adhome.biz
 127.0.0.1 adhone.com
 127.0.0.1 adhood.com
@@ -49320,6 +49320,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nbcuniversal.122.2o7.net
 127.0.0.1 nbcuniversaltv.us.intellitxt.com
 127.0.0.1 nbcustr.netmng.com
+127.0.0.1 nbhxgjz.com
 127.0.0.1 nbimg.dt00.net
 127.0.0.1 nbjmp.com
 127.0.0.1 nbnkg.voluumtrk.com
@@ -66067,6 +66068,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vungle.com
 127.0.0.1 vuokraovi.spring-tns.net
 127.0.0.1 vural-electronic.com
+127.0.0.1 vutzmxahqio.co
 127.0.0.1 vviii.ru
 127.0.0.1 vvps.ws
 127.0.0.1 vw.btrll.com
@@ -70094,6 +70096,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.incestgold.com
 127.0.0.1 www.inckamedia.com
 127.0.0.1 www.indesignstudioinfo.com
+127.0.0.1 www.indexerflash.com
 127.0.0.1 www.indiads.com
 127.0.0.1 www.indicative.com
 127.0.0.1 www.indoorspkacwv.download
