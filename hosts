@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74241 ad serving and malware domains.
+# Currently blocking 74242 ad serving and malware domains.
 #
-# Date Generated: Apr 11 2018
+# Date Generated: Apr 12 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26263,6 +26263,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 appclick.net
 127.0.0.1 appdev.addthis.com
 127.0.0.1 appdog.com
+127.0.0.1 appetencyelain.com
 127.0.0.1 appfixing.space
 127.0.0.1 appflood.com
 127.0.0.1 appflood.go2cloud.org
@@ -46028,7 +46029,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 linuxpark.adtech.fr
 127.0.0.1 linuxpark.adtech.us
 127.0.0.1 lion.web2.0campus.net
-127.0.0.1 liones.nl
 127.0.0.1 lionstracking.com
 127.0.0.1 liportal.oewabox.at
 127.0.0.1 liquidad.narrowcastmedia.com
@@ -47056,6 +47056,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 maedge.com
 127.0.0.1 magazines.sp1.convertro.com
 127.0.0.1 magentanews.com
+127.0.0.1 magicads.nl
 127.0.0.1 magicfuture.go2cloud.org
 127.0.0.1 magicmail.co.nz
 127.0.0.1 magicmail.createsend.com
@@ -51468,6 +51469,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 p2-n3zurhre4jjvk-can5rb2f2a4urcxh-if-v6exp3-v4.metric.gstatic.com
 127.0.0.1 p2.adhitzads.com
 127.0.0.1 p2.l.qq.com
+127.0.0.1 p2.wncit.com
 127.0.0.1 p232207.mybestmv.com
 127.0.0.1 p2408.adskape.ru
 127.0.0.1 p2in2.voluumtrk.com
@@ -57619,7 +57621,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.exaccess.ru
 127.0.0.1 static.exoclick.com
 127.0.0.1 static.exosrv.com
-127.0.0.1 static.fastpic.ru
 127.0.0.1 static.firehunt.com
 127.0.0.1 static.firstmobilecash.com
 127.0.0.1 static.fleshlight.com
@@ -61745,6 +61746,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 updatewinrar.ru
 127.0.0.1 updating-flash.cloudapp.net
 127.0.0.1 updo.nl
+127.0.0.1 upgrade.themainplacesetnowforcontentingnew.bid
 127.0.0.1 upgradeget.thegreatforupdatesafemove.download
 127.0.0.1 upgradenote.enterbestforupdating.bid
 127.0.0.1 upgrowsxdeyxj.download
@@ -66806,7 +66808,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 werbung.mediaplex.com
 127.0.0.1 werbung.meteoxpress.com
 127.0.0.1 werbung.xfind.de
-127.0.0.1 werkenbijliones.nl
 127.0.0.1 wes.df.telemetry.microsoft.com
 127.0.0.1 wesell.co.il
 127.0.0.1 west.05tz2e9.com
@@ -68024,6 +68025,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.apparel-offer.com
 127.0.0.1 www.apparelncs.com
 127.0.0.1 www.apparitorvlipqjiz.download
+127.0.0.1 www.appetencyelain.com
 127.0.0.1 www.appfindr.org
 127.0.0.1 www.appflood.com
 127.0.0.1 www.appfoxes.com
@@ -70506,7 +70508,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.linkxchanger.info
 127.0.0.1 www.linkybank.com
 127.0.0.1 www.linkz.com
-127.0.0.1 www.liones.nl
 127.0.0.1 www.liqwid.net
 127.0.0.1 www.listbot.com
 127.0.0.1 www.listenloop.com
@@ -70611,6 +70612,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.madnet.ru
 127.0.0.1 www.madtubeporn.com
 127.0.0.1 www.magentanews.com
+127.0.0.1 www.magicads.nl
 127.0.0.1 www.magicmail.co.nz
 127.0.0.1 www.mahuaswcspi.download
 127.0.0.1 www.mail-to-a-friend.com
@@ -72813,7 +72815,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.welkingmkscrmgc.download
 127.0.0.1 www.wellsfarg0-onllne.net
 127.0.0.1 www.weownthetraffic.com
-127.0.0.1 www.werkenbijliones.nl
 127.0.0.1 www.wesell.co.il
 127.0.0.1 www.westernereoednyj.download
 127.0.0.1 www.westreclameadvies.nl
