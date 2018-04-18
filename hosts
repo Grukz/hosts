@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74215 ad serving and malware domains.
+# Currently blocking 74217 ad serving and malware domains.
 #
-# Date Generated: Apr 17 2018
+# Date Generated: Apr 18 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -2370,6 +2370,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.dpmsrv.com
 127.0.0.1 a.drogomet.com
 127.0.0.1 a.dulderbulder.com
+127.0.0.1 a.dynad.net
 127.0.0.1 a.egolina.com
 127.0.0.1 a.ekolamis.com
 127.0.0.1 a.environmentaldefense.org
@@ -31777,7 +31778,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 buy-zyban.all.at
 127.0.0.1 buy.com
 127.0.0.1 buy.thetrackr.com
-127.0.0.1 buy.tinypass.com
 127.0.0.1 buy2.go2cloud.org
 127.0.0.1 buycialisonline.7h.com
 127.0.0.1 buycialisonline.bigsitecity.com
@@ -31913,6 +31913,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.de.msn.com
 127.0.0.1 c.dk.msn.com
 127.0.0.1 c.domob.cn
+127.0.0.1 c.dynad.net
 127.0.0.1 c.eblastengine.com
 127.0.0.1 c.ecliks.com
 127.0.0.1 c.effectivemeasure.net
@@ -39570,7 +39571,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 expedia6vt.112.2o7.net
 127.0.0.1 expedia8.112.2o7.net
 127.0.0.1 experianservicescorp.122.2o7.net
-127.0.0.1 experience.tinypass.com
 127.0.0.1 expert-offers.com
 127.0.0.1 experteerads.com
 127.0.0.1 expertland.net
@@ -44766,7 +44766,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 janetjackson.sexybabesx.com
 127.0.0.1 janezk.50webs.co
 127.0.0.1 jangasm.org
-127.0.0.1 janrain.com
 127.0.0.1 japan.inmobi.com
 127.0.0.1 japanese-girl-xxx.com
 127.0.0.1 japanesevehicles.us
@@ -54556,7 +54555,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 rpt.anchorfree.net
 127.0.0.1 rpt.cedexis.com
 127.0.0.1 rpt.footlocker.com
-127.0.0.1 rpxnow.com
 127.0.0.1 rpylvksecants.review
 127.0.0.1 rq.adfox.ru
 127.0.0.1 rq.adtrackdirect.com
@@ -54833,6 +54831,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 s.doktordice.com
 127.0.0.1 s.domob.cn
 127.0.0.1 s.dpmsrv.com
+127.0.0.1 s.dynad.net
 127.0.0.1 s.effectivemeasure.net
 127.0.0.1 s.ero-advertising.com
 127.0.0.1 s.estat.com
@@ -58559,6 +58558,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 t.devnet.com
 127.0.0.1 t.dgm-au.com
 127.0.0.1 t.dtscout.com
+127.0.0.1 t.dynad.net
 127.0.0.1 t.eharmony.com
 127.0.0.1 t.extreme-dm.com
 127.0.0.1 t.flux.com
@@ -71905,6 +71905,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.simplecounter.net
 127.0.0.1 www.simpli.fi
 127.0.0.1 www.simplistssxshrgh.download
+127.0.0.1 www.simplyhelper.com
 127.0.0.1 www.sinera.org
 127.0.0.1 www.singlesadnetwork.com
 127.0.0.1 www.siom.ac.cn
@@ -73957,6 +73958,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 z.amiblood.com
 127.0.0.1 z.blogads.com
 127.0.0.1 z.ceotrk.com
+127.0.0.1 z.dynad.net
 127.0.0.1 z.eosads.com
 127.0.0.1 z.extreme-dm.com
 127.0.0.1 z.junksport.com
