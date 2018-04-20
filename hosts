@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74217 ad serving and malware domains.
+# Currently blocking 74229 ad serving and malware domains.
 #
-# Date Generated: Apr 19 2018
+# Date Generated: Apr 20 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -23329,6 +23329,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adservice.everyone.net
 127.0.0.1 adservice.google.ca
 127.0.0.1 adservice.google.com
+127.0.0.1 adservice.google.com.au
 127.0.0.1 adservicedomain.info
 127.0.0.1 adservices.google.com
 127.0.0.1 adservices.picadmedia.com
@@ -25622,6 +25623,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 analytics.poferries.com
 127.0.0.1 analytics.popsci.com
 127.0.0.1 analytics.prx.org
+127.0.0.1 analytics.publitas.com
 127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 analytics.r.msn.com
 127.0.0.1 analytics.radiatemedia.com
@@ -31600,6 +31602,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bserver.blick.com
 127.0.0.1 bshha.voluumtrk.com
 127.0.0.1 bsitm3.com
+127.0.0.1 bsnj.eyeblaster.akadns.net
 127.0.0.1 bspixel.bidsystem.com
 127.0.0.1 bsrv.adohana.com
 127.0.0.1 bstats.adbrite.com
@@ -33627,6 +33630,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cld.edg.startappservice.com
 127.0.0.1 cldcon.ewizard.cc
 127.0.0.1 clddt.com
+127.0.0.1 cldsecure.info
 127.0.0.1 clean-mobilephone.com
 127.0.0.1 cleanchain.net
 127.0.0.1 cleangamemedia.go2cloud.org
@@ -38237,6 +38241,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dtkm4pd19nw6z.cloudfront.net
 127.0.0.1 dtlilztwypawv.cloudfront.net
 127.0.0.1 dtm.advertising.com
+127.0.0.1 dtrck.xyz
 127.0.0.1 dts.akamai.startappexchange.com
 127.0.0.1 dts.innovid.com
 127.0.0.1 dtta.ero-advertising.com
@@ -40298,6 +40303,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 forms.ontraport.com
 127.0.0.1 foroushi.net
 127.0.0.1 forskning.tns-cs.net
+127.0.0.1 forter.com
 127.0.0.1 fortunecity.us.intellitxt.com
 127.0.0.1 forum-fok.digidip.net
 127.0.0.1 forum.adspaces.ero-advertising.com
@@ -46623,6 +46629,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lyikl.voluumtrk.com
 127.0.0.1 lyrics.us.intellitxt.com
 127.0.0.1 lysoft.go2cloud.org
+127.0.0.1 lytics.io
 127.0.0.1 lyyy6.voluumtrk.com
 127.0.0.1 lz.mainentrypoint.com
 127.0.0.1 lzediamike.trade
@@ -49950,6 +49957,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nttcommunications.122.2o7.net
 127.0.0.1 ntv.io
 127.0.0.1 ntv.ivwbox.de
+127.0.0.1 ntvk1.ru
 127.0.0.1 ntweb.org
 127.0.0.1 nuadn.voluumtrk.com
 127.0.0.1 nub9r.maisonx.com
@@ -52980,6 +52988,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 propellerpops.com
 127.0.0.1 propermedia-d.openx.net
 127.0.0.1 prophet.heise.de
+127.0.0.1 props.id
 127.0.0.1 proranktracker.com
 127.0.0.1 proratepgehzyd.download
 127.0.0.1 prorodeosportmed.com
@@ -53880,6 +53889,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 readheadstick.biz
 127.0.0.1 readserver.cachefly.net
 127.0.0.1 readserver.net
+127.0.0.1 readyupdate.thelatestmostreadytocontentgetnowfast.top
 127.0.0.1 reagroup.122.2o7.net
 127.0.0.1 realads.realmedia.com
 127.0.0.1 realaudio.cimedia.net
@@ -68575,6 +68585,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.classroomchvpagg.download
 127.0.0.1 www.claus.drehteile-rieche.de
 127.0.0.1 www.clck.ru
+127.0.0.1 www.cldsecure.info
 127.0.0.1 www.cleanbrowser.com
 127.0.0.1 www.clear-reports.com
 127.0.0.1 www.clear-request.com
@@ -69085,6 +69096,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.dsosvbpuhw.download
 127.0.0.1 www.dsply.com
 127.0.0.1 www.dt1blog.com
+127.0.0.1 www.dtrck.xyz
 127.0.0.1 www.duba.net
 127.0.0.1 www.dumbfoundrurjldk.download
 127.0.0.1 www.dumedia.ru
