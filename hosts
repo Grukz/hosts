@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74228 ad serving and malware domains.
+# Currently blocking 74229 ad serving and malware domains.
 #
-# Date Generated: Apr 24 2018
+# Date Generated: Apr 25 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25610,6 +25610,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 analytics.msn.com
 127.0.0.1 analytics.msnbc.com
 127.0.0.1 analytics.msnbc.msn.com
+127.0.0.1 analytics.myfinances.com
 127.0.0.1 analytics.nascar.com
 127.0.0.1 analytics.newsinc.com
 127.0.0.1 analytics.newsvine.com
