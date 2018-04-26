@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74229 ad serving and malware domains.
+# Currently blocking 74231 ad serving and malware domains.
 #
-# Date Generated: Apr 25 2018
+# Date Generated: Apr 26 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -56882,6 +56882,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 solidbau.oewabox.at
 127.0.0.1 solidclix.go2cloud.org
 127.0.0.1 solitairetime.com
+127.0.0.1 solitudehotel.com
 127.0.0.1 solubaba.tk
 127.0.0.1 solution.weborama.fr
 127.0.0.1 solutions.tradedoubler.com
@@ -62000,6 +62001,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 v1.extreme-dm.com
 127.0.0.1 v1.nedstatbasic.net
 127.0.0.1 v1.stat.ku6.com
+127.0.0.1 v10.vortex-win.data.microsoft.com
 127.0.0.1 v10.xmlsearch.miva.com
 127.0.0.1 v16.56.com
 127.0.0.1 v2.adgoto.com
