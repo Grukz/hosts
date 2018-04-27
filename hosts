@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74231 ad serving and malware domains.
+# Currently blocking 74230 ad serving and malware domains.
 #
-# Date Generated: Apr 26 2018
+# Date Generated: Apr 27 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -37486,6 +37486,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 deposito.trafficredlight.net
 127.0.0.1 depositphotos.go2cloud.org
 127.0.0.1 der-wallstreet-trick.eu
+127.0.0.1 deradprash.com
 127.0.0.1 derekhail.us.intellitxt.com
 127.0.0.1 dereksing.top
 127.0.0.1 derigina.justclick.ru
@@ -37633,7 +37634,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 diff4.smartadserver.com
 127.0.0.1 diff5.smartadserver.com
 127.0.0.1 differentdesk.com
-127.0.0.1 difusoragoiania.com.br
 127.0.0.1 digdug.divxnetworks.com
 127.0.0.1 digg.analytics.live.com
 127.0.0.1 digiaffiliate.go2cloud.org
@@ -41008,6 +41008,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fresh.doublepimp.com
 127.0.0.1 fresh.techdirt.com
 127.0.0.1 freshmac.space
+127.0.0.1 freshwork.email-accountsettings.online
 127.0.0.1 frestacero.com
 127.0.0.1 fretiolo.com
 127.0.0.1 freundin.ivwbox.de
@@ -41035,6 +41036,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 frontpage-stats.rbl.ms
 127.0.0.1 frontpagecash.com
 127.0.0.1 frontwardsxizrhchs.download
+127.0.0.1 froshserv.com
 127.0.0.1 frtya.com
 127.0.0.1 frtyb.com
 127.0.0.1 frtye.com
@@ -43663,7 +43665,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 iloopmobile.com
 127.0.0.1 ilovecookies.co
 127.0.0.1 ilovemobi.com
-127.0.0.1 iltempo.com.au
 127.0.0.1 ilumigrafias.adriancugar.com
 127.0.0.1 iluv.clickbooth.com
 127.0.0.1 ilzzf.voluumtrk.com
@@ -56882,7 +56883,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 solidbau.oewabox.at
 127.0.0.1 solidclix.go2cloud.org
 127.0.0.1 solitairetime.com
-127.0.0.1 solitudehotel.com
 127.0.0.1 solubaba.tk
 127.0.0.1 solution.weborama.fr
 127.0.0.1 solutions.tradedoubler.com
@@ -71243,7 +71243,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.performanceadexchange.com
 127.0.0.1 www.performancerevenues.com
 127.0.0.1 www.performics.com
-127.0.0.1 www.perilshed.info
 127.0.0.1 www.permissionresearch.com
 127.0.0.1 www.persevered.com
 127.0.0.1 www.persgroepadvertising.nl
