@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74230 ad serving and malware domains.
+# Currently blocking 74227 ad serving and malware domains.
 #
-# Date Generated: Apr 27 2018
+# Date Generated: Apr 28 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -20545,7 +20545,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.mobvertising.net
 127.0.0.1 ads.mobygames.com
 127.0.0.1 ads.mocean.mobi
-127.0.0.1 ads.moceanads.com
 127.0.0.1 ads.modbee.com
 127.0.0.1 ads.mofos.com
 127.0.0.1 ads.mojiva.com
@@ -42269,7 +42268,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gpapercareer.112.2o7.net
 127.0.0.1 gpapermom104.112.2o7.net
 127.0.0.1 gpkjxgsginfallible.review
-127.0.0.1 gpr.hu
 127.0.0.1 gqe0d.voluumtrk.com
 127.0.0.1 gqfysspiracles.review
 127.0.0.1 gqgng.voluumtrk.com
@@ -48579,7 +48577,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mobwall.mobpartner.com
 127.0.0.1 mobyt.com
 127.0.0.1 moc.silk.com
-127.0.0.1 mocean.mobi
 127.0.0.1 moceanmobile.com
 127.0.0.1 mochibot.com
 127.0.0.1 mocka.frost-electric-supply.com
