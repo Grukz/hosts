@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74226 ad serving and malware domains.
+# Currently blocking 74227 ad serving and malware domains.
 #
-# Date Generated: Apr 30 2018
+# Date Generated: May 01 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25002,6 +25002,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ahomedia.zxfactory.nl
 127.0.0.1 ahotmail.com
 127.0.0.1 ahqcr.voluumtrk.com
+127.0.0.1 ahror.safin.space
 127.0.0.1 ahtrk.com
 127.0.0.1 ahzahg6ohb.com
 127.0.0.1 ai-gb.marketgid.com
