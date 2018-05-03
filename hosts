@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 74228 ad serving and malware domains.
 #
-# Date Generated: May 02 2018
+# Date Generated: May 03 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -25984,7 +25984,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 apdigitalorg.112.2o7.net
 127.0.0.1 apdigitalorgovn.112.2o7.net
 127.0.0.1 aperture.displaymarketplace.com
-127.0.0.1 apester.com
 127.0.0.1 apex-ad.com
 127.0.0.1 apex.go.sonobi.com
 127.0.0.1 aphrodite.porntrack.com
@@ -41083,6 +41082,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fukkad.com
 127.0.0.1 fulhudhoo.com
 127.0.0.1 fullstory.com
+127.0.0.1 fumey.snelop.pw
 127.0.0.1 fun-e-cards.com
 127.0.0.1 fun-town.com
 127.0.0.1 fun.lbn.ru
