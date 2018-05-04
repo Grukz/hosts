@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74228 ad serving and malware domains.
+# Currently blocking 74227 ad serving and malware domains.
 #
-# Date Generated: May 03 2018
+# Date Generated: May 04 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -47266,7 +47266,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 masterh4.adriver.ru
 127.0.0.1 masterh5.adriver.ru
 127.0.0.1 masterh6.adriver.ru
-127.0.0.1 mastermind.com
 127.0.0.1 masterstats.com
 127.0.0.1 mastertag.effiliation.com
 127.0.0.1 mastertarget.ru
