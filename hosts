@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74265 ad serving and malware domains.
+# Currently blocking 74254 ad serving and malware domains.
 #
-# Date Generated: May 08 2018
+# Date Generated: May 09 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18502,7 +18502,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 addfreestats.com
 127.0.0.1 addictivetechnologies.com
 127.0.0.1 addictivetechnologies.net
-127.0.0.1 addiliate.com
 127.0.0.1 addirector.vindicosuite.com
 127.0.0.1 addjump.com
 127.0.0.1 addltest.timesink.com
@@ -34842,7 +34841,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 corm.hit.gemius.pl
 127.0.0.1 cornflakes.pathfinder.com
 127.0.0.1 cornhuskerypyvjzplr.download
-127.0.0.1 corolate.win
 127.0.0.1 corpext.msitadfs.glbdns2.microsoft.com
 127.0.0.1 corporate.crakmedia.com
 127.0.0.1 correctiongnarfj.download
@@ -44452,7 +44450,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 internetfuel.com
 127.0.0.1 internetretailer.d2.sc.omtrdc.net
 127.0.0.1 internetsecurity.com
-127.0.0.1 internetsshopweb.info
 127.0.0.1 internettrafficreport.com
 127.0.0.1 internetwasher.com
 127.0.0.1 interreklame.de
@@ -44760,7 +44757,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 j5g2b.voluumtrk.com
 127.0.0.1 j5sjr.voluumtrk.com
 127.0.0.1 j8r2b.voluumtrk.com
-127.0.0.1 j94kp2o.com
 127.0.0.1 ja.revolvermaps.com
 127.0.0.1 jaaphram.com
 127.0.0.1 jaapt.voluumtrk.com
@@ -49032,7 +49028,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 myanyone.net
 127.0.0.1 myao.adocean.pl
 127.0.0.1 myap.liveperson.com
-127.0.0.1 myapplicatioandwebssubonline.info
 127.0.0.1 myasiantv.gsspcln.jp
 127.0.0.1 mybb.ero-advertising.com
 127.0.0.1 mybinaryoptionsrobot.com
@@ -49096,7 +49091,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 myimagetracking.com
 127.0.0.1 mylabsrl.com
 127.0.0.1 mylike.co.uk
-127.0.0.1 mylikemine.info
 127.0.0.1 mylinkbox.com
 127.0.0.1 mylistenetwork.go2cloud.org
 127.0.0.1 mylondon.hc0.me
@@ -53636,7 +53630,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 r.af-share.jp
 127.0.0.1 r.aol.com
 127.0.0.1 r.apina.biz
-127.0.0.1 r.bbci.co.uk
 127.0.0.1 r.best-rated-apps.com
 127.0.0.1 r.bid4keywords.com
 127.0.0.1 r.casalemedia.com
@@ -58511,6 +58504,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sync.go.sonobi.com
 127.0.0.1 sync.mathtag.com
 127.0.0.1 sync.monarchads.com
+127.0.0.1 sync.mookie1.cn
 127.0.0.1 sync.pulseradius.com
 127.0.0.1 sync.rhythmxchange.com
 127.0.0.1 sync.richmetrics.com
@@ -67611,7 +67605,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.addbags.com
 127.0.0.1 www.addfreecounter.com
 127.0.0.1 www.addfreestats.com
-127.0.0.1 www.addiliate.com
 127.0.0.1 www.addinto.com
 127.0.0.1 www.addme.com
 127.0.0.1 www.addressingbxmqasxix.download
@@ -68811,7 +68804,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.coremetrics.com
 127.0.0.1 www.cornhuskerypyvjzplr.download
 127.0.0.1 www.cornomase.win
-127.0.0.1 www.corolate.win
 127.0.0.1 www.correctiongnarfj.download
 127.0.0.1 www.cortesidesign.com
 127.0.0.1 www.cortoonnetwork.com
@@ -70254,7 +70246,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.iyfnzgb.com
 127.0.0.1 www.izalingi.com
 127.0.0.1 www.izrtyzjvarememberer.review
-127.0.0.1 www.j94kp2o.com
 127.0.0.1 www.jadina-counter.de
 127.0.0.1 www.jafvcwmrfespousing.review
 127.0.0.1 www.jaggiestlydumv.download
@@ -72955,7 +72946,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.xeanon.com
 127.0.0.1 www.xed.pl
 127.0.0.1 www.xg4ken.com
-127.0.0.1 www.xhbzz.8vfufnqsd0z1ak1.forax.xyz
 127.0.0.1 www.xiruz.kit.net
 127.0.0.1 www.xiti.com
 127.0.0.1 www.xivphnipressings.review
@@ -73577,7 +73567,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 xfreelesbianmovies.com.powered-by.securewebsiteaccess.com
 127.0.0.1 xg4ken.com
 127.0.0.1 xgames-04.com
-127.0.0.1 xhbzz.8vfufnqsd0z1ak1.forax.xyz
 127.0.0.1 xhealth.112.2o7.net
 127.0.0.1 xhealthmobiletools.112.2o7.net
 127.0.0.1 xhealthmobiltools.112.2o7.net
