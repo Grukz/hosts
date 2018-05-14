@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74254 ad serving and malware domains.
+# Currently blocking 74249 ad serving and malware domains.
 #
-# Date Generated: May 13 2018
+# Date Generated: May 14 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -42750,7 +42750,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 higher.dwebsi.tk
 127.0.0.1 higheurest.com
 127.0.0.1 highflyer.go2affise.com
-127.0.0.1 highflyingfood.com
 127.0.0.1 highpro1.com
 127.0.0.1 highscanprotect.com
 127.0.0.1 hightrafficads.com
@@ -56731,7 +56730,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 smartdirect.com
 127.0.0.1 smartfoodsglutenfree.kz
 127.0.0.1 smarticon.geotrust.com
-127.0.0.1 smartify.org
 127.0.0.1 smartinit.webads.nl
 127.0.0.1 smartlook.com
 127.0.0.1 smartmediamarketing.go2cloud.org
@@ -68128,7 +68126,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.aureolasfdoqu.download
 127.0.0.1 www.aussiemoneymethod.com
 127.0.0.1 www.auto-ping.com
-127.0.0.1 www.autoappassionati.it
 127.0.0.1 www.autohipnose.com
 127.0.0.1 www.automaticsystem.com
 127.0.0.1 www.automotive-offer.com
@@ -70084,7 +70081,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.image-map.com
 127.0.0.1 www.imageers.com
 127.0.0.1 www.imagenes.de
-127.0.0.1 www.imagerieduroc.com
 127.0.0.1 www.imagine-inc.com
 127.0.0.1 www.imbof.com
 127.0.0.1 www.imcounting.com
@@ -71597,7 +71593,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.registrygenius.com
 127.0.0.1 www.registrysweeper.com
 127.0.0.1 www.rehungekmar.download
-127.0.0.1 www.reifen-simon.com
 127.0.0.1 www.rejectclick.com
 127.0.0.1 www.reklam3.net
 127.0.0.1 www.reklamzadserver.com
