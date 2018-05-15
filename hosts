@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74249 ad serving and malware domains.
+# Currently blocking 74250 ad serving and malware domains.
 #
-# Date Generated: May 14 2018
+# Date Generated: May 15 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -23335,6 +23335,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adservice.google.ca
 127.0.0.1 adservice.google.com
 127.0.0.1 adservice.google.com.au
+127.0.0.1 adservice.google.nl
 127.0.0.1 adservicedomain.info
 127.0.0.1 adservices.google.com
 127.0.0.1 adservices.picadmedia.com
