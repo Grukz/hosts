@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74250 ad serving and malware domains.
+# Currently blocking 74249 ad serving and malware domains.
 #
-# Date Generated: May 16 2018
+# Date Generated: May 17 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -14,7 +14,6 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 #  
-127.0.0.1
 127.0.0.1 0.r.msn.com
 127.0.0.1 0.start.bz
 127.0.0.1 000dom.revenuedirect.com
