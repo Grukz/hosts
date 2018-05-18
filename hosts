@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74249 ad serving and malware domains.
+# Currently blocking 74250 ad serving and malware domains.
 #
-# Date Generated: May 17 2018
+# Date Generated: May 18 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1054,7 +1054,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 20909.hittail.com
 127.0.0.1 20996-1061.link.iwanttodeliver.com
 127.0.0.1 20996-1061.popunder.loading-delivery1.com
-127.0.0.1 20a840a14a0ef7d6.com
 127.0.0.1 20d625b48e.se
 127.0.0.1 20forfree.com
 127.0.0.1 20minde.wemfbox.ch
@@ -46108,6 +46107,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 livetracker.martinoticias.org
 127.0.0.1 livetracker.radiosawa.us
 127.0.0.1 livetracker.voanews.eu
+127.0.0.1 liveupdate.feednowforbrandnewcontestdistributor.win
 127.0.0.1 liveviewer.ez.no
 127.0.0.1 livinglounges.su
 127.0.0.1 livingnet.adtech.de
@@ -71600,6 +71600,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.relevantknowledge.com
 127.0.0.1 www.relmaxtop.com
 127.0.0.1 www.remercyingynfycoay.download
+127.0.0.1 www.remotepartition.com
 127.0.0.1 www.remotrk.com
 127.0.0.1 www.rempko.sk
 127.0.0.1 www.renouncecvtqbkx.download
