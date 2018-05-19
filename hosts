@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 74250 ad serving and malware domains.
 #
-# Date Generated: May 18 2018
+# Date Generated: May 19 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -58440,7 +58440,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 swift.com
 127.0.0.1 swimsuitnetwork.com
 127.0.0.1 swinon.site
-127.0.0.1 swissadsolutions.com
 127.0.0.1 swisscom.demdex.net
 127.0.0.1 swissinf.wemfbox.ch
 127.0.0.1 switch.atdmt.com
@@ -59734,6 +59733,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 topsir.com
 127.0.0.1 topsite.lv
 127.0.0.1 topsites.blogflux.com
+127.0.0.1 topsites.com.br
 127.0.0.1 topsky.go2cloud.org
 127.0.0.1 topsocialite.us.intellitxt.com
 127.0.0.1 topspeed.us.intellitxt.com
