@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74251 ad serving and malware domains.
+# Currently blocking 74264 ad serving and malware domains.
 #
-# Date Generated: May 20 2018
+# Date Generated: May 21 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -36593,6 +36593,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 curate.nestedmedia.com
 127.0.0.1 curbstonexxteskqxv.download
 127.0.0.1 cursor.kvada.globescale.com
+127.0.0.1 cursosobej.sslblindado.com
 127.0.0.1 curtaincows.com
 127.0.0.1 custom-wrs.api.responsys.net
 127.0.0.1 custom.allistracking.com
@@ -38101,6 +38102,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 download.ttrili.com
 127.0.0.1 download.ucmore.com
 127.0.0.1 download.virusremover2008.com
+127.0.0.1 download.wholestuff.win
 127.0.0.1 download.yesmessenger.com
 127.0.0.1 download.ytdownloader.com
 127.0.0.1 download2.freeze.com
@@ -38677,6 +38679,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 edmundscom.112.2o7.net
 127.0.0.1 edmundsinsideline.112.2o7.net
 127.0.0.1 edomz.com
+127.0.0.1 eds.ca.matchbox.maruhub.com
 127.0.0.1 edsa.112.2o7.net
 127.0.0.1 edsa.122.2o7.net
 127.0.0.1 edskes.com.site-id.nl
@@ -41189,6 +41192,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 g.zeroredirect1.com
 127.0.0.1 g.zeroredirect2.com
 127.0.0.1 g0ffs.voluumtrk.com
+127.0.0.1 g1-globo.com-b4.info
+127.0.0.1 g1-globosaude.com
 127.0.0.1 g1.idg.pl
 127.0.0.1 g1.v.fwmrm.net
 127.0.0.1 g11em.voluumtrk.com
@@ -46996,6 +47001,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mac.system-alert1.com
 127.0.0.1 macaddictads.snv.futurenet.com
 127.0.0.1 macads.net
+127.0.0.1 macaxpower.com.br
 127.0.0.1 maccity.it.intellitxt.com
 127.0.0.1 maccleanersecurity.com
 127.0.0.1 macdailynews.us.intellitxt.com
@@ -49122,6 +49128,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mystat.pl
 127.0.0.1 mystats.com
 127.0.0.1 mytds.pr.vc
+127.0.0.1 mytimerpro.com
 127.0.0.1 mytiwi.com
 127.0.0.1 mytogolinks.com
 127.0.0.1 mytop-in.net
@@ -49819,6 +49826,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 noticias.life
 127.0.0.1 noticiasftpsrv.com
 127.0.0.1 notify.nuviad.com
+127.0.0.1 notifyday.com
 127.0.0.1 notori.oewabox.at
 127.0.0.1 nova.collect.igodigital.com
 127.0.0.1 nova.dice.net
@@ -52674,6 +52682,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 postmasterbannernet.com
 127.0.0.1 postmasterdirect.com
 127.0.0.1 postmedia.demdex.net
+127.0.0.1 postmedia.us.janrainsso.com
 127.0.0.1 postpixel.vindicosuite.com
 127.0.0.1 postrelease.com
 127.0.0.1 potd.onlytease.com
@@ -53386,6 +53395,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 purredheanb.online
 127.0.0.1 purryowl.com
 127.0.0.1 push-ad.com
+127.0.0.1 push-notification.tools
 127.0.0.1 push.appsgeyser.com
 127.0.0.1 push.cdnads.com
 127.0.0.1 push.poptm.com
@@ -53943,6 +53953,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 realtouchbannerwidget.aebn.net
 127.0.0.1 realtracker.com
 127.0.0.1 reamerskltzgimoz.download
+127.0.0.1 rebevengwas.com
 127.0.0.1 reboot.sitescout.com
 127.0.0.1 rebrandsoftware.com
 127.0.0.1 rebtelnetworks.112.2o7.net
@@ -65901,6 +65912,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 virads.com
 127.0.0.1 viralture.com
 127.0.0.1 viralvideo.112.2o7.net
+127.0.0.1 viralvideos.tips
 127.0.0.1 virginmedia.112.2o7.net
 127.0.0.1 virginmobile.122.2o7.net
 127.0.0.1 virtual-person.com
@@ -72790,6 +72802,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.weblogtracker.net
 127.0.0.1 www.webmoblink.com
 127.0.0.1 www.webpagescripts.net
+127.0.0.1 www.webpartition.com
 127.0.0.1 www.webpaypal.com
 127.0.0.1 www.webprowire.com
 127.0.0.1 www.webproworld.com
