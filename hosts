@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74264 ad serving and malware domains.
+# Currently blocking 74263 ad serving and malware domains.
 #
-# Date Generated: May 21 2018
+# Date Generated: May 22 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -45868,7 +45868,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 level3com.d2.sc.omtrdc.net
 127.0.0.1 levelrate.de
 127.0.0.1 levenshteinanswer.com
-127.0.0.1 lever.co
 127.0.0.1 leveragemarketing.112.2o7.net
 127.0.0.1 levexis.com
 127.0.0.1 levitra.1.p2l.info
