@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74263 ad serving and malware domains.
+# Currently blocking 74268 ad serving and malware domains.
 #
-# Date Generated: May 22 2018
+# Date Generated: May 23 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26357,6 +26357,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 apps2.outfit7.com
 127.0.0.1 apps4push.com
 127.0.0.1 apps5.oingo.com
+127.0.0.1 apps9039.super-your-prize33.loan
 127.0.0.1 appscion.go2cloud.org
 127.0.0.1 appscout.us.intellitxt.com
 127.0.0.1 appserver-ap.com
@@ -37918,6 +37919,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dodderssbsczsaao.download
 127.0.0.1 dodkinlsautvfo.download
 127.0.0.1 dodsdexonline.dexknows.com
+127.0.0.1 doesok.top
 127.0.0.1 dofeb.frenchgerlemanelectric.com
 127.0.0.1 dofollinz.net
 127.0.0.1 dogcustom-works.com
@@ -54157,6 +54159,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 reklamtrk.com
 127.0.0.1 reklamy.sfd.pl
 127.0.0.1 relap.io
+127.0.0.1 relatable.top
 127.0.0.1 relatedweboffers.com
 127.0.0.1 relay-ba.ads.httpool.com
 127.0.0.1 relay-ba.toboads.com
@@ -59663,6 +59666,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 toolsins.com
 127.0.0.1 toon-families.com
 127.0.0.1 toonfamilies.net
+127.0.0.1 top-application-web-online.site
 127.0.0.1 top-casting-termine.de
 127.0.0.1 top-fwz1.mail.ru
 127.0.0.1 top-ro.ro
@@ -65945,6 +65949,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vistabet-affiliate.host.bannerflow.com
 127.0.0.1 vistas.popunder.ru
 127.0.0.1 vistatech.us
+127.0.0.1 vistawebs-top-shop-soft.site
 127.0.0.1 visual-pagerank.fr
 127.0.0.1 visualdna-widgets.mirror.co.uk
 127.0.0.1 visuallyxvnxqhr.download
