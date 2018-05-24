@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74268 ad serving and malware domains.
+# Currently blocking 74271 ad serving and malware domains.
 #
-# Date Generated: May 23 2018
+# Date Generated: May 24 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -39743,6 +39743,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fad-408.mtl4.targetnet.com
 127.0.0.1 fad-411.mtl4.targetnet.com
 127.0.0.1 fad-413.mtl4.targetnet.com
+127.0.0.1 fadadosexo.com.br
 127.0.0.1 faeecb0ock.info
 127.0.0.1 faeuz.voluumtrk.com
 127.0.0.1 faggotry.com
@@ -41048,6 +41049,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fromru.su
 127.0.0.1 fromslowmactofastmac.com
 127.0.0.1 front.facetz.net
+127.0.0.1 front.postmaster.services
 127.0.0.1 frontend-loadbalancer.meteorsolutions.com
 127.0.0.1 frontingfjwpsvis.download
 127.0.0.1 frontletsvuesv.download
@@ -42312,7 +42314,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 graffix.adition.com
 127.0.0.1 grafix.xxxcounter.com
 127.0.0.1 grafstat.ro
-127.0.0.1 grahamdigital.com
 127.0.0.1 gramashgbbjqbzy.download
 127.0.0.1 grammarly.go2cloud.org
 127.0.0.1 granite.bnex.com
@@ -52164,6 +52165,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ping.onscroll.com
 127.0.0.1 ping.qbaka.net
 127.0.0.1 ping.taplytics.com
+127.0.0.1 ping.ublock.org
 127.0.0.1 ping1.unicast.com
 127.0.0.1 pingback.sogou.com
 127.0.0.1 pinger.macromedia.com
@@ -59300,6 +59302,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 thba.go2cloud.org
 127.0.0.1 thcextractor.com
 127.0.0.1 thcvaporizer.com
+127.0.0.1 the-adblocker.website
 127.0.0.1 the-best-track.com
 127.0.0.1 the-binary-trader.biz
 127.0.0.1 the-counter.net
