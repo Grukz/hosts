@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74271 ad serving and malware domains.
+# Currently blocking 74269 ad serving and malware domains.
 #
-# Date Generated: May 25 2018
+# Date Generated: May 26 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18856,7 +18856,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adisn.com
 127.0.0.1 adistas.go2cloud.org
 127.0.0.1 adition.com
-127.0.0.1 adition.de
 127.0.0.1 adition.net
 127.0.0.1 aditmedia.go2affise.com
 127.0.0.1 aditor.go2cloud.org
@@ -21258,7 +21257,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.sxx.com
 127.0.0.1 ads.syracuse.com
 127.0.0.1 ads.sysmesh.com
-127.0.0.1 ads.t-online.de
 127.0.0.1 ads.tackyworld.com
 127.0.0.1 ads.taggify.net
 127.0.0.1 ads.tagword.com
@@ -22800,7 +22798,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserv.bulletinmarketing.com
 127.0.0.1 adserv.de
 127.0.0.1 adserv.entriq.net
-127.0.0.1 adserv.evo-x.de
 127.0.0.1 adserv.exxxit.com
 127.0.0.1 adserv.floppybank.com
 127.0.0.1 adserv.free6.com
@@ -41297,7 +41294,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gamesiteads.com
 127.0.0.1 gamesites100.net
 127.0.0.1 gamesites200.com
-127.0.0.1 gamesitestop100.com
 127.0.0.1 gamesradar.us.intellitxt.com
 127.0.0.1 gamesw.oewabox.at
 127.0.0.1 gamevance.com
@@ -42127,6 +42123,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 google-analytics.com
 127.0.0.1 google.poultrymiddleeast.com
 127.0.0.1 google.tucows.com
+127.0.0.1 googleadapis.l.google.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleads2.g.doubleclick.net
 127.0.0.1 googleads4.g.doubleclick.net
@@ -42400,6 +42397,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gsmtop.net
 127.0.0.1 gspro.adocean.pl
 127.0.0.1 gspro.hit.gemius.pl
+127.0.0.1 gstaticadssl.l.google.com
 127.0.0.1 gsujb.voluumtrk.com
 127.0.0.1 gsway.info
 127.0.0.1 gtag.yieldoptimizer.com
