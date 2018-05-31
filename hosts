@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74268 ad serving and malware domains.
+# Currently blocking 74269 ad serving and malware domains.
 #
-# Date Generated: May 30 2018
+# Date Generated: May 31 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -57008,6 +57008,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 spdeliverp.i-mobile.co.jp
 127.0.0.1 spe.atdmt.com
 127.0.0.1 special-movies.com
+127.0.0.1 special-news.online
 127.0.0.1 specialgiftrewards.com
 127.0.0.1 specially4u.net
 127.0.0.1 specialoffers.aol.com
