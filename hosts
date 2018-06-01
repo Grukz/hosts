@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74269 ad serving and malware domains.
+# Currently blocking 74270 ad serving and malware domains.
 #
-# Date Generated: May 31 2018
+# Date Generated: Jun 01 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -18856,6 +18856,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adisn.com
 127.0.0.1 adistas.go2cloud.org
 127.0.0.1 adition.com
+127.0.0.1 adition.de
 127.0.0.1 adition.net
 127.0.0.1 aditmedia.go2affise.com
 127.0.0.1 aditor.go2cloud.org
