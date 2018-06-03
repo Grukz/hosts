@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74267 ad serving and malware domains.
+# Currently blocking 74274 ad serving and malware domains.
 #
-# Date Generated: Jun 02 2018
+# Date Generated: Jun 03 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -20663,6 +20663,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.northjersey.com
 127.0.0.1 ads.novem.pl
 127.0.0.1 ads.novinar.bg
+127.0.0.1 ads.novinhagostosa10.com
 127.0.0.1 ads.novsport.com
 127.0.0.1 ads.nowrunning.com
 127.0.0.1 ads.npr.valueclick.net
@@ -28747,6 +28748,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bgl1pp1-a-fixed.sancharnet.in
 127.0.0.1 bgn0f.voluumtrk.com
 127.0.0.1 bgngq.voluumtrk.com
+127.0.0.1 bgrel.bonedmilfs.com
 127.0.0.1 bgsurveys.go2cloud.org
 127.0.0.1 bgtop100.com
 127.0.0.1 bgw.qsrch.com
@@ -52406,6 +52408,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 plavix.shengen.ru
 127.0.0.1 play-poker-free.forsearch.net
 127.0.0.1 play.affmob.org
+127.0.0.1 play.istlandoll.com
 127.0.0.1 play.leadzu.com
 127.0.0.1 play.traffpartners.com
 127.0.0.1 play2mobi.com
@@ -54906,6 +54909,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 s.sharethis.com
 127.0.0.1 s.shopify.com
 127.0.0.1 s.skimresources.com
+127.0.0.1 s.spoutable.com
 127.0.0.1 s.ssacdn.com
 127.0.0.1 s.statistici.ro
 127.0.0.1 s.stats.wordpress.com
@@ -55712,6 +55716,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 secimage.adtech.us
 127.0.0.1 secoptim.com
 127.0.0.1 secret.ɢoogle.com
+127.0.0.1 secretlanguage.co
 127.0.0.1 secrets40.com
 127.0.0.1 secretservice.com
 127.0.0.1 secserv.adtech.de
@@ -67973,6 +67978,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.agnstaging.com
 127.0.0.1 www.aideslihks.download
 127.0.0.1 www.aim4media.com
+127.0.0.1 www.airadmins.com
 127.0.0.1 www.airbornehydrography.com
 127.0.0.1 www.airfrance.life
 127.0.0.1 www.airpush.com
@@ -73982,6 +73988,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ysiu.freenation.com
 127.0.0.1 ysm.hauchi.com.tw
 127.0.0.1 ystat.biz
+127.0.0.1 yt-adblocker.com
 127.0.0.1 yt.5.p2l.info
 127.0.0.1 ytaahg.vo.llnwd.net
 127.0.0.1 ytubevideoqualitymanager.com
