@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74285 ad serving and malware domains.
+# Currently blocking 74283 ad serving and malware domains.
 #
-# Date Generated: Jun 08 2018
+# Date Generated: Jun 09 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -45493,7 +45493,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 knc.lv
 127.0.0.1 knigge.webtrekk.net
 127.0.0.1 knight.economist.com
-127.0.0.1 kniverto.com
 127.0.0.1 knnomeuaustringer.review
 127.0.0.1 knorex.com
 127.0.0.1 known.counsellor.gov.cn
@@ -73139,7 +73138,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www1.firesavez5.com
 127.0.0.1 www1.firesavez6.com
 127.0.0.1 www1.freestats.com
-127.0.0.1 www1.gto-media.com
 127.0.0.1 www1.ivwbox.de
 127.0.0.1 www1.iwon.com
 127.0.0.1 www1.kliks.nl
