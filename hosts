@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74283 ad serving and malware domains.
+# Currently blocking 74285 ad serving and malware domains.
 #
-# Date Generated: Jun 11 2018
+# Date Generated: Jun 12 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -15847,6 +15847,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad.pensamedia.org
 127.0.0.1 ad.perfectworld.com
 127.0.0.1 ad.perfectworld.eu
+127.0.0.1 ad.period-calendar.com
 127.0.0.1 ad.petel.bg
 127.0.0.1 ad.pgwticketshop.nl
 127.0.0.1 ad.ph-prt.tbn.ru
@@ -42864,6 +42865,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hitcounter.ru
 127.0.0.1 hitcounter.servmetric.com
 127.0.0.1 hitcounter01.xspp.com
+127.0.0.1 hitcounters.miarroba.com
 127.0.0.1 hitcpm.com
 127.0.0.1 hitfarm.com
 127.0.0.1 hitfox.go2cloud.org
@@ -48281,7 +48283,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mi.adinterax.com
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 miami.ero-advertising.com
-127.0.0.1 miarroba.com
 127.0.0.1 micardiss.ql.st
 127.0.0.1 micheal766.info
 127.0.0.1 michellerodriguez.sexybabesx.com
@@ -50839,6 +50840,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 online.casinodelrio.com
 127.0.0.1 online.cnzz.com
 127.0.0.1 online.com
+127.0.0.1 online.miarroba.com
 127.0.0.1 online.qdigital.co.il
 127.0.0.1 online.winner.com
 127.0.0.1 online.winnerclub.com
