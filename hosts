@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74285 ad serving and malware domains.
+# Currently blocking 74291 ad serving and malware domains.
 #
-# Date Generated: Jun 13 2018
+# Date Generated: Jun 14 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -1082,6 +1082,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 2196503.fls.doubleclick.net
 127.0.0.1 21century-mp3.nu
 127.0.0.1 21jewelry.com
+127.0.0.1 21updatechefw150218.ru
 127.0.0.1 21v6m.realsecuredredirect.com
 127.0.0.1 22.sharedsource.org
 127.0.0.1 220.6.87.194.dynamic.dol.ru
@@ -1574,6 +1575,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 5.6.87.194.dynamic.dol.ru
 127.0.0.1 5.googlenews.xorg.pl
 127.0.0.1 5.ptp22.com
+127.0.0.1 5.xlmywdemotic.review
 127.0.0.1 50.6.87.194.dynamic.dol.ru
 127.0.0.1 505.mylongtail.com
 127.0.0.1 506.xg4ken.com
@@ -2049,6 +2051,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 9cc85d.se
 127.0.0.1 9cd76b4462bb.com
 127.0.0.1 9cfa-356e-ec76-7adf.reporo.net
+127.0.0.1 9chrm100218dd.ru
 127.0.0.1 9ctyz.voluumtrk.com
 127.0.0.1 9d060c.r.axf8.net
 127.0.0.1 9d1a9742.qqc.co
@@ -47405,6 +47408,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mcafee12.tt.omtrdc.net
 127.0.0.1 mcagbtdcwklf.com
 127.0.0.1 mcc.godaddy.com
+127.0.0.1 mccafee-orientador.com-br.site
 127.0.0.1 mcclatchy.112.2o7.net
 127.0.0.1 mcd-su-2.mos.ru
 127.0.0.1 mcfg.sandai.net
@@ -59759,6 +59763,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 topsafelist.net
 127.0.0.1 topscore.in
 127.0.0.1 topsearcher.com
+127.0.0.1 topshape.me
 127.0.0.1 topsir.com
 127.0.0.1 topsite.lv
 127.0.0.1 topsites.blogflux.com
@@ -66666,6 +66671,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 webiq-cdn.appspot.com
 127.0.0.1 webiq-warp.appspot.com
 127.0.0.1 webiq005.webiqonline.com
+127.0.0.1 webkurchatov.ru
 127.0.0.1 weblemon.pl
 127.0.0.1 weblink.settrade.com
 127.0.0.1 webload101.hitbox.com
