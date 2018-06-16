@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
 # Currently blocking 74291 ad serving and malware domains.
 #
-# Date Generated: Jun 15 2018
+# Date Generated: Jun 16 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -32520,6 +32520,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 casino-online.100gal.net
 127.0.0.1 casino770.com
 127.0.0.1 casinogames.com
+127.0.0.1 casinopays.com
 127.0.0.1 casinorewards.com
 127.0.0.1 casinotraffic.com
 127.0.0.1 casinotreasure.com
@@ -67173,7 +67174,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 wrxviatrhzoists.review
 127.0.0.1 ws-ea.amazon-adsystem.com
 127.0.0.1 ws-eu.amazon-adsystem.com
-127.0.0.1 ws-gateway.com
 127.0.0.1 ws-na.amazon-adsystem.com
 127.0.0.1 ws.00zasdf.pw
 127.0.0.1 ws.abbp1.pw
