@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74292 ad serving and malware domains.
+# Currently blocking 74287 ad serving and malware domains.
 #
-# Date Generated: Jun 21 2018
+# Date Generated: Jun 22 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -32471,6 +32471,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 casalamedia.com
 127.0.0.1 casalemedia.com
 127.0.0.1 casalmedia.com
+127.0.0.1 casaroyai.com
 127.0.0.1 cascade.madmimi.com
 127.0.0.1 case.clmbtech.com
 127.0.0.1 cash-advance.now-cash.com
@@ -36296,7 +36297,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cpmtips.com
 127.0.0.1 cpmtown.com
 127.0.0.1 cpmtrafficker.com
-127.0.0.1 cpmtrip.com
 127.0.0.1 cpolixyndenisles.review
 127.0.0.1 cpro.baidu.com
 127.0.0.1 cpro.baidustatic.com
@@ -36988,7 +36988,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 da.newstogram.com
 127.0.0.1 da.virginmedia.com
 127.0.0.1 da5c8.voluumtrk.com
-127.0.0.1 da60995df247712.com
 127.0.0.1 daaa.ero-advertising.com
 127.0.0.1 dabcc.us.intellitxt.com
 127.0.0.1 dacgb.voluumtrk.com
@@ -37781,7 +37780,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 display.gestionpub.com
 127.0.0.1 display.online-adnetwork.com
 127.0.0.1 display.provenpixel.com
-127.0.0.1 display.ugc.bazaarvoice.com
 127.0.0.1 displayad.layer-ad.org
 127.0.0.1 displayadserv.adsimilate.com
 127.0.0.1 displayadsmedia.com
@@ -42708,7 +42706,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 herpes.3.p2l.info
 127.0.0.1 herpes.4.p2l.info
 127.0.0.1 hertz.122.2o7.net
-127.0.0.1 hetsedryropt.com
 127.0.0.1 heute.ivwbox.de
 127.0.0.1 heute.oewabox.at
 127.0.0.1 hewitt.sexybabesx.com
@@ -46560,7 +46557,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 lpm-francetv.nuggad.net
 127.0.0.1 lpm-lagardere.nuggad.net
 127.0.0.1 lpm-tf1.nuggad.net
-127.0.0.1 lprptestrouter2.website
 127.0.0.1 lptag.liveperson.net
 127.0.0.1 lpvzq.voluumtrk.com
 127.0.0.1 lqckn.voluumtrk.com
@@ -66441,6 +66437,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wallstreetprep.go2cloud.org
 127.0.0.1 walmart.112.2o7.net
 127.0.0.1 walmartcom.112.2o7.net
+127.0.0.1 walmartsavingscatcher.com
 127.0.0.1 walp.atm.youku.com
 127.0.0.1 walternse.com
 127.0.0.1 wam-ads.sitescout.com
@@ -70225,7 +70222,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.invitefashion.com
 127.0.0.1 www.inviterdczpqji.download
 127.0.0.1 www.ioam.de
-127.0.0.1 www.ionizerojaqavkz.top
 127.0.0.1 www.iovation.co.uk
 127.0.0.1 www.iovation.com
 127.0.0.1 www.ipafind.com
@@ -70318,7 +70314,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.jmqqopacmilligram.review
 127.0.0.1 www.jmyyyjhnzpeaching.review
 127.0.0.1 www.jobdeliver.tk
-127.0.0.1 www.jocksfxudg.top
 127.0.0.1 www.joelnhfuabrim.review
 127.0.0.1 www.joinfree.ro
 127.0.0.1 www.joinourwebsite.com
@@ -70638,7 +70633,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.lpmxp2025.com
 127.0.0.1 www.lpmxp2026.com
 127.0.0.1 www.lpmxp2027.com
-127.0.0.1 www.lprptestrouter2.website
 127.0.0.1 www.lrrtslskippers.review
 127.0.0.1 www.lslfrhpqarechating.review
 127.0.0.1 www.luce.polimi.it
@@ -72788,6 +72782,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.walkthedinosaur.com
 127.0.0.1 www.wallpapers.com
 127.0.0.1 www.wallpapervault.com
+127.0.0.1 www.walmartsavingscatcher.com
 127.0.0.1 www.wamfebdvsabotier.review
 127.0.0.1 www.wantsfly.com
 127.0.0.1 www.wantstraffic.com
