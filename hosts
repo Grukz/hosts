@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74285 ad serving and malware domains.
+# Currently blocking 74283 ad serving and malware domains.
 #
-# Date Generated: Jun 23 2018
+# Date Generated: Jun 24 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -54543,7 +54543,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 rootbuzz.com
 127.0.0.1 rootzwiki.us.intellitxt.com
 127.0.0.1 ropnqabtmaths.review
-127.0.0.1 ropretratspar.com
 127.0.0.1 roritabo.com
 127.0.0.1 rose.ixbt.com
 127.0.0.1 roselynsanchez.sexybabesx.com
@@ -56225,7 +56224,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 seth.avazutracking.net
 127.0.0.1 setihome.com
 127.0.0.1 seto.createsend.com
-127.0.0.1 setswinners.trade
 127.0.0.1 settings-sandbox.data.microsoft.com
 127.0.0.1 settings-win.data.microsoft.com
 127.0.0.1 settings.crashlytics.com
