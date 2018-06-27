@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74284 ad serving and malware domains.
+# Currently blocking 74287 ad serving and malware domains.
 #
-# Date Generated: Jun 26 2018
+# Date Generated: Jun 27 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -26100,6 +26100,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.petametrics.com
 127.0.0.1 api.posst.co
 127.0.0.1 api.proofpositivemedia.com
+127.0.0.1 api.redshell.io
 127.0.0.1 api.revcontent.com
 127.0.0.1 api.revmob.com
 127.0.0.1 api.sagent.io
@@ -44222,6 +44223,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 in.mydirtyhobby.com
 127.0.0.1 in.paycounter.com
 127.0.0.1 in.riskymail4free.com
+127.0.0.1 in.treasuredata.com
 127.0.0.1 in.webcounter.cc
 127.0.0.1 in.yimg.com
 127.0.0.1 in.zog.link
@@ -54069,6 +54071,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 redonetype.com
 127.0.0.1 redrct.site
 127.0.0.1 redroomnetwork.com
+127.0.0.1 redshell.io
 127.0.0.1 redsheriff.com
 127.0.0.1 redshiftleads.steele.net
 127.0.0.1 redtube.yoshatia.com
@@ -59539,7 +59542,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tips.oewabox.at
 127.0.0.1 tipsforall.xyz
 127.0.0.1 tipsurf.com
-127.0.0.1 tiqcdn.com
 127.0.0.1 tirebuyer.go2cloud.org
 127.0.0.1 tirerackcom.112.2o7.net
 127.0.0.1 tirolcom.oewabox.at
@@ -60858,6 +60860,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trcko.com
 127.0.0.1 trcktm.net
 127.0.0.1 treasure1.justclick.ru
+127.0.0.1 treasuredata.com
 127.0.0.1 treasuredome.com
 127.0.0.1 treasuretrooper.com
 127.0.0.1 treatstartaugusth.info
