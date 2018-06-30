@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74287 ad serving and malware domains.
+# Currently blocking 74284 ad serving and malware domains.
 #
-# Date Generated: Jun 29 2018
+# Date Generated: Jun 30 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -27087,7 +27087,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 b.zeroredirect.com
 127.0.0.1 b.zeroredirect1.com
 127.0.0.1 b.zog.link
-127.0.0.1 b0b1o.bid
 127.0.0.1 b0bsi.voluumtrk.com
 127.0.0.1 b1.2cnt.net
 127.0.0.1 b1.adbrite.com
@@ -42321,7 +42320,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 grade.market.yandex.ru
 127.0.0.1 graffix.adition.com
 127.0.0.1 grafix.xxxcounter.com
-127.0.0.1 grafstat.ro
 127.0.0.1 gramashgbbjqbzy.download
 127.0.0.1 grammarly.go2cloud.org
 127.0.0.1 granite.bnex.com
@@ -49115,6 +49113,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 myoffertracking.com
 127.0.0.1 myosotisvkrzovi.download
 127.0.0.1 mypagerank.net
+127.0.0.1 mypagerank.ru
 127.0.0.1 myperiod.club
 127.0.0.1 mypersonalhttp.com
 127.0.0.1 myphentermine.polybuild.ru
@@ -49341,7 +49340,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 nbcuniversal.122.2o7.net
 127.0.0.1 nbcuniversaltv.us.intellitxt.com
 127.0.0.1 nbcustr.netmng.com
-127.0.0.1 nbhxgjz.com
 127.0.0.1 nbimg.dt00.net
 127.0.0.1 nbjmp.com
 127.0.0.1 nbnkg.voluumtrk.com
@@ -56598,7 +56596,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 slf5cyd.info
 127.0.0.1 slfnmzblblowsy.review
 127.0.0.1 slfpu.com
-127.0.0.1 slickaffiliate.com
 127.0.0.1 slider.plugrush.com
 127.0.0.1 slidesearch.net
 127.0.0.1 slightlyoffcenter.net
