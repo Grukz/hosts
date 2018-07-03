@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74284 ad serving and malware domains.
+# Currently blocking 74283 ad serving and malware domains.
 #
-# Date Generated: Jul 02 2018
+# Date Generated: Jul 03 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -41327,6 +41327,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gar-tech.com
 127.0.0.1 garbo.2cnt.net
 127.0.0.1 gardenweb.us.intellitxt.com
+127.0.0.1 garlanca.com
 127.0.0.1 garnishersqcltox.download
 127.0.0.1 garo.hit.gemius.pl
 127.0.0.1 garrigueatcuw.download
@@ -61193,7 +61194,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 twitter.secure.bzpharma.net
 127.0.0.1 twittercounter.com
 127.0.0.1 twnads.weather.ca
-127.0.0.1 twoclickdeal.com
 127.0.0.1 twoj-bon.pl
 127.0.0.1 twoj-macbook.pl
 127.0.0.1 twoj-typ.pl
@@ -73958,7 +73958,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 your.dailytopdealz.com
 127.0.0.1 your.wishbone.com
 127.0.0.1 youradexchange.com
-127.0.0.1 yourappmarket.com
 127.0.0.1 yourcartoons.com
 127.0.0.1 yourdailytrailer.yournewtab.com
 127.0.0.1 yourdvdplayer.com
