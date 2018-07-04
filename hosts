@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74283 ad serving and malware domains.
+# Currently blocking 74288 ad serving and malware domains.
 #
-# Date Generated: Jul 03 2018
+# Date Generated: Jul 04 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -15656,6 +15656,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad.harrenmedianetwork.com
 127.0.0.1 ad.hbv.de
 127.0.0.1 ad.hi5.com
+127.0.0.1 ad.highsearch.co.kr
 127.0.0.1 ad.himediadx.com
 127.0.0.1 ad.hirekmedia.hu
 127.0.0.1 ad.hit.gemius.pl
@@ -15860,6 +15861,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad.piximedia.com
 127.0.0.1 ad.pixnet.net
 127.0.0.1 ad.pl.doubleclick.net
+127.0.0.1 ad.planclick.co.kr
 127.0.0.1 ad.policeone.com
 127.0.0.1 ad.pop1.adbn.ru
 127.0.0.1 ad.popupad.net
@@ -18311,6 +18313,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adaos-ads.net
 127.0.0.1 adap.tv
 127.0.0.1 adapd.com
+127.0.0.1 adapi.inlcorp.com
 127.0.0.1 adapi.ragapa.com
 127.0.0.1 adapt.tv
 127.0.0.1 adaptv.pixel.invitemedia.com
@@ -43288,6 +43291,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hxtrack.holidayextras.co.uk
 127.0.0.1 hy-brasil.mhwang.com
 127.0.0.1 hybl9bazbc35.pflexads.com
+127.0.0.1 hybridview.co.kr
 127.0.0.1 hybtq.voluumtrk.com
 127.0.0.1 hydramedia.com
 127.0.0.1 hydraulicpowerpack.com
@@ -70051,6 +70055,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.hw-ad.de
 127.0.0.1 www.hxtrack.com
 127.0.0.1 www.hyalinizeslskzyp.download
+127.0.0.1 www.hybridview.co.kr
 127.0.0.1 www.hyperbanner.net
 127.0.0.1 www.hypercounter.com
 127.0.0.1 www.hyperlinksecure.com
