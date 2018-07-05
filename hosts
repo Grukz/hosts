@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74288 ad serving and malware domains.
+# Currently blocking 74289 ad serving and malware domains.
 #
-# Date Generated: Jul 04 2018
+# Date Generated: Jul 05 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -68418,6 +68418,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.bottleguy.com
 127.0.0.1 www.bounceexchange.com
 127.0.0.1 www.bourgeonujprvxf.download
+127.0.0.1 www.bovadapromotions.lv
 127.0.0.1 www.bowlgirl.com
 127.0.0.1 www.box.bg
 127.0.0.1 www.bpath.com
