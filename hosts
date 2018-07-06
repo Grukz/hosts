@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74289 ad serving and malware domains.
+# Currently blocking 74296 ad serving and malware domains.
 #
-# Date Generated: Jul 05 2018
+# Date Generated: Jul 06 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -3032,7 +3032,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 acuityads.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 acustat.com
-127.0.0.1 acuty1adsrv.com
 127.0.0.1 acvs.mediaonenetwork.net
 127.0.0.1 acvsrv.mediaonenetwork.net
 127.0.0.1 acxiom.com
@@ -28402,6 +28401,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bargainingayzgdp.download
 127.0.0.1 bargainpda.us.intellitxt.com
 127.0.0.1 bargainracks.co.uk
+127.0.0.1 bariebenefit.com
 127.0.0.1 barilliance.net
 127.0.0.1 barium.cheezdev.com
 127.0.0.1 barnesandnoble.bfast.com
@@ -28964,6 +28964,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 blekko.com
 127.0.0.1 blenz-me.net
 127.0.0.1 blethenmaine.112.2o7.net
+127.0.0.1 bleua.ecefibwja.xyz
 127.0.0.1 blickonl.wemfbox.ch
 127.0.0.1 bliga.oewabox.at
 127.0.0.1 blindferretmedia.go2cloud.org
@@ -32422,6 +32423,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 capcityadvcom.122.2o7.net
 127.0.0.1 capecodonlinecom.112.2o7.net
 127.0.0.1 cappa.pl
+127.0.0.1 capquestglobal.com
 127.0.0.1 caprewards.go2cloud.org
 127.0.0.1 capsizalsoxdxke.download
 127.0.0.1 captivau.go2affise.com
@@ -36252,6 +36254,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cpajizz.go2cloud.org
 127.0.0.1 cpalead.com
 127.0.0.1 cpanel.nativeads.com
+127.0.0.1 cpapointer.com
 127.0.0.1 cpaprohits.com
 127.0.0.1 cparevenue.go2cloud.org
 127.0.0.1 cparussia.go2cloud.org
@@ -38200,6 +38203,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 drogomet.com
 127.0.0.1 droguevnmkkti.download
 127.0.0.1 dropkick.oewabox.at
+127.0.0.1 drosstik.com
 127.0.0.1 drowle.com
 127.0.0.1 drp60gfj3y9kn.cloudfront.net
 127.0.0.1 drrey.voluumtrk.com
@@ -45315,6 +45319,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kansas.valueclick.com
 127.0.0.1 kantarmedia.guardian.co.uk
 127.0.0.1 kapcotool.com
+127.0.0.1 kaponetwo.com
 127.0.0.1 kargo.com
 127.0.0.1 karma-bodrum.com
 127.0.0.1 karonty.com
@@ -55268,6 +55273,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 safe-es.imrworldwide.com
 127.0.0.1 safe.bestapps.com-protection.info
 127.0.0.1 safe.hyperpaysys.com
+127.0.0.1 safe.net-az83.stream
 127.0.0.1 safebrowse.com
 127.0.0.1 safedownloadcenter.com
 127.0.0.1 safedownloadsrus157.com
@@ -68900,6 +68906,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.cpagrip.com
 127.0.0.1 www.cpalead.com
 127.0.0.1 www.cpalist.com
+127.0.0.1 www.cpapointer.com
 127.0.0.1 www.cpatrac.com
 127.0.0.1 www.cpatrackr.com
 127.0.0.1 www.cpayard.com
