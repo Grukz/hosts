@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74296 ad serving and malware domains.
+# Currently blocking 74305 ad serving and malware domains.
 #
-# Date Generated: Jul 06 2018
+# Date Generated: Jul 07 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -19329,6 +19329,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adremote.pathfinder.com
 127.0.0.1 adremote.timeinc.aol.com
 127.0.0.1 adremote.timeinc.net
+127.0.0.1 adremover.org
 127.0.0.1 adrenaline.deluxepass.com
 127.0.0.1 adrent.net
 127.0.0.1 adrepo.singlehop.com
@@ -23694,7 +23695,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adtrade.net
 127.0.0.1 adtrade.ro
 127.0.0.1 adtrader.com
-127.0.0.1 adtrading.de
 127.0.0.1 adtradr.com
 127.0.0.1 adtradradservices.com
 127.0.0.1 adtraff.com
@@ -26120,6 +26120,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.thetrafficstat.net
 127.0.0.1 api.tns-cs.net
 127.0.0.1 api.trackuity.com
+127.0.0.1 api.traversedlp.com
 127.0.0.1 api.tumra.com
 127.0.0.1 api.tweetmeme.com
 127.0.0.1 api.umbel.com
@@ -26896,7 +26897,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 avsads.com
 127.0.0.1 avscanonline.com
 127.0.0.1 avt.hit.gemius.pl
-127.0.0.1 avzadsrv.com
 127.0.0.1 aw.masterstats.com
 127.0.0.1 awaps.yandex.ru
 127.0.0.1 award.sitekeuring.net
@@ -27032,7 +27032,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 b.dpmsrv.com
 127.0.0.1 b.ds1.nl
 127.0.0.1 b.economedia.bg
-127.0.0.1 b.engadget.com
 127.0.0.1 b.ensighten.com
 127.0.0.1 b.esecure-transaction.com
 127.0.0.1 b.getprizenow.top
@@ -33363,6 +33362,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 charlizetheron.sexybabesx.com
 127.0.0.1 charmedno1.com
 127.0.0.1 charmflirt.com
+127.0.0.1 charmour.club
 127.0.0.1 charmstroy.info
 127.0.0.1 chart.advinion.com
 127.0.0.1 chart.dk
@@ -38575,6 +38575,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 eat-travel.apx.appier.net
 127.0.0.1 eatingwell.us.intellitxt.com
 127.0.0.1 eatps.web.aol.com
+127.0.0.1 eatthis.com
 127.0.0.1 eavgwy5suy.tk
 127.0.0.1 eb.adbureau.net
 127.0.0.1 eb.dd.bluelinecomputers.be
@@ -41996,6 +41997,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 go.cz.bbelements.com
 127.0.0.1 go.data1rtb.com
 127.0.0.1 go.deliverymodo.com
+127.0.0.1 go.doupat.xyz
 127.0.0.1 go.eu.bbelements.com
 127.0.0.1 go.everli-killz.xyz
 127.0.0.1 go.evolutionmedia.bbelements.com
@@ -42135,6 +42137,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 goodbookbook.com
 127.0.0.1 gooddata.com
 127.0.0.1 goodiemob.com
+127.0.0.1 goodsavingtips.com
 127.0.0.1 goodsblock.marketgid.com
 127.0.0.1 goodtraffic.net
 127.0.0.1 goody-garage.com
@@ -51446,6 +51449,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 p.bm23.com
 127.0.0.1 p.chango.com
 127.0.0.1 p.chartboost.com
+127.0.0.1 p.cpaoa.org
 127.0.0.1 p.cpx.to
 127.0.0.1 p.cpxinteractive.com
 127.0.0.1 p.ctasnet.com
@@ -53819,6 +53823,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rankyou.com
 127.0.0.1 rantsports.us.intellitxt.com
 127.0.0.1 rapdirt.us.intellitxt.com
+127.0.0.1 rapid-cdn.com
 127.0.0.1 rapidcounter.com
 127.0.0.1 rapidlyserv.com
 127.0.0.1 rapidresponse.directtrack.com
@@ -56268,7 +56273,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sexybabesx.com
 127.0.0.1 sexymarissa.net
 127.0.0.1 sexyoilwrestling.com
-127.0.0.1 sexystat.com
 127.0.0.1 sexyster.tk
 127.0.0.1 sexzavod.com
 127.0.0.1 sexzoznamka.eu
@@ -67746,6 +67750,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.adreadytractions.com
 127.0.0.1 www.adreap.com
 127.0.0.1 www.adregistry.com
+127.0.0.1 www.adremover.org
 127.0.0.1 www.adreporting.com
 127.0.0.1 www.adrevmedia.com
 127.0.0.1 www.adrevservice.com
@@ -69199,6 +69204,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.easyhits4u.com
 127.0.0.1 www.easysitehits.com
 127.0.0.1 www.easyspywarescanner.com
+127.0.0.1 www.eatthis.com
 127.0.0.1 www.ebannertraffic.com
 127.0.0.1 www.ebayadvertising.com
 127.0.0.1 www.ebaybanner.com
@@ -69452,6 +69458,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.finance-offer.com
 127.0.0.1 www.financial-advice-books.com
 127.0.0.1 www.finanzmarkt2004.de
+127.0.0.1 www.findalgorithm.com
 127.0.0.1 www.findalternate.com
 127.0.0.1 www.finder.cox.net
 127.0.0.1 www.findit-quick.com
@@ -69818,6 +69825,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.gonorar.com
 127.0.0.1 www.gontijoamaral.hpg.com.br
 127.0.0.1 www.gooddata.com
+127.0.0.1 www.goodsavingtips.com
 127.0.0.1 www.goodtraffic.net
 127.0.0.1 www.goody-garage.com
 127.0.0.1 www.googkle.com
@@ -73946,6 +73954,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 yodleeinc.tt.omtrdc.net
 127.0.0.1 yoggrt.com
 127.0.0.1 yojxoefvnyrc.com
+127.0.0.1 yostatic.net
 127.0.0.1 yotefiles.com
 127.0.0.1 yottos.com
 127.0.0.1 yotube.com
