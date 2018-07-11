@@ -1,7 +1,7 @@
 # This hosts file is provided by https://joeylane.github.io
-# Currently blocking 74310 ad serving and malware domains.
+# Currently blocking 74311 ad serving and malware domains.
 #
-# Date Generated: Jul 10 2018
+# Date Generated: Jul 11 2018
 # Download URL: https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 # License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 # Credits: Joey Lane
@@ -33458,6 +33458,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 choice.demdex.net
 127.0.0.1 choice.microsoft.com
 127.0.0.1 choicedealz.com
+127.0.0.1 choices.trustarc.com
 127.0.0.1 choices.truste.com
 127.0.0.1 choicesurveypanel.com
 127.0.0.1 choicetitle.net
